@@ -1,0 +1,10 @@
+#ignore the .env file, with api keys
+.env
+
+#ignore folder exp_finetune
+exp_finetune/
+
+#ignore __pycache__ folder
+__pycache__/
+
+nohup.out
