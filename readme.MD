@@ -2,111 +2,101 @@
 
 ## Overview
 
-This project is aimed at generating a fine-tuned BAAI embeddings model (`BAAI/bge-large-en` from Hugging Face) specifically tailored for the credit ratings methodologies of Moody's, S&P, and Fitch. This specialized model can be used to perform various tasks related to credit rating analysis.
+This project focuses on developing a fine-tuned BAAI embeddings model (`BAAI/bge-large-en` from Hugging Face), specifically designed to analyze the credit ratings methodologies of prominent agencies such as Moody's, S&P, and Fitch. This specialized model facilitates various tasks associated with credit rating analysis, offering a nuanced approach to understanding and predicting credit ratings.
 
 ## Workflow
 
 ### Data Collection
 
-The data used in this project is divided into two primary datasets:
+The project utilizes two primary datasets:
 
 1. **Fine-Tuning Dataset**:
-   This dataset was constructed based on credit ratings methodologies extracted from leading agencies such as Moody's, S&P, and Fitch. The extraction process was idiosyncratic to each agency, and hence, the corresponding code is not provided. Disclaimers and other irrelevant information were meticulously removed to retain substantial data that aids in model fine-tuning. The cleaned data is housed in PDF format within the `./data/pdfs` folder.
+   This dataset, derived from the methodologies of leading agencies like Moody's, S&P, and Fitch, forms the basis for fine-tuning the model. The extraction process was unique to each agency, hence the absence of corresponding code. We have meticulously removed disclaimers and other irrelevant information to retain substantial data that aids in model fine-tuning. You can find the cleaned data in PDF format in the `./data/pdfs` folder.
 
 2. **Rating Actions Classification Dataset**:
-   The second dataset is central to the ratings actions classification task. This task involves over 300 ratings actions reports, which have been classified as either negative or positive concerning the credit ratings. These reports are instrumental in analyzing and predicting credit ratings actions based on historical data and trends. The dataset is bifurcated into two categories representing negative and positive rating actions, respectively. The datasets can be found at the following paths:
+   This dataset is pivotal for the ratings actions classification task, encompassing over 300 reports classified as either negative or positive concerning credit ratings. These reports are vital in analyzing and predicting credit ratings actions based on historical data and trends. The dataset is divided into two categories:
    - Negative Ratings Actions: `./data/ratings_actions/negatives`
    - Positive Ratings Actions: `./data/ratings_actions/positives`
-   
-These datasets serve as the backbone of our analysis, facilitating the fine-tuning and evaluation of our machine learning models to achieve reliable and insightful credit ratings analysis.
+
+These datasets are the cornerstone of our analysis, enabling the fine-tuning and evaluation of our machine learning models for insightful credit ratings analysis.
 
 ## Fine-tuning Task
 
 ### Data Preparation (`data_prep.py`)
 
-1. Used `llama_index` to perform ETL and chunking on the collected PDFs.
-2. Generated queries and relevant documents for around 30,000 question-answer pairs using OpenAI's GPT-3.5 API.
-3. Costs for API calls were estimated at approximately $15. A separate code snippet is included for this estimate, which came out to be $12.50.
-4. The data is split into training and validation sets.
+1. Utilized `llama_index` for ETL and chunking of the collected PDFs.
+2. Generated approximately 30,000 question-answer pairs using OpenAI's GPT-3.5 API.
+3. The API call costs were estimated to be around $15, with the actual cost being $12.50, as detailed in a separate code snippet.
+4. The data was partitioned into training and validation sets.
 
 ### Model Fine-Tuning (`fine-tuning.py`)
 
-The BAAI embeddings model was initially fine-tuned on the collected dataset using several epochs to understand the performance variation over time. To pinpoint the optimal epoch for the final model, an extensive evaluation was conducted, the methodology of which is explained below:
+Initially, the BAAI embeddings model was fine-tuned using several epochs to gauge performance variations over time. An extensive evaluation was conducted to identify the optimal epoch for the final model, as detailed below:
 
 #### Finding the Optimal Epochs (`find_optimal_epochs.ipynb`)
 
 1. **Data Preparation and Visualization**: 
-    - Read the evaluation results from the CSV file into a DataFrame.
-    - Grouped metrics based on their root name for better visualization.
-    - Generated charts to visualize metric values over different epochs and steps.
+    - Imported the evaluation results from a CSV file into a DataFrame.
+    - Metrics were grouped based on their root name for enhanced visualization.
+    - Created charts to visualize metric values across different epochs and steps.
 
 2. **Optimal Epochs Determination**:
-    - Calculated the optimal epoch and step for each metric with the TOPSIS methodology using both manual and Scikit-criteria methods.
-    - In the manual method, normalized the data and calculated the closeness coefficient to find the optimal epochs.
-    - In the Scikit-criteria method, a decision matrix was created and a pipeline with TOPSIS method was used to evaluate the decision alternatives and find the best alternative indicating the optimal epoch and step.
+    - Employed the TOPSIS methodology to calculate the optimal epoch and step for each metric, using both manual and Scikit-criteria methods.
+    - The manual method involved data normalization and closeness coefficient calculation to identify the optimal epochs.
+    - The Scikit-criteria method utilized a decision matrix and a pipeline with the TOPSIS method to evaluate decision alternatives and pinpoint the optimal epoch and step.
 
-The optimal epochs were determined based on the evaluation metrics, and the model was retrained using these epochs to attain the most robust and accurate model. This process aided in achieving a model that performs optimally for the specific task of analyzing credit ratings.
-
-#### Retraining the Model
-
-After identifying the optimal epochs, the model was retrained for the optimal of 2 epochs to further enhance its performance.
+After determining the optimal epochs based on evaluation metrics, the model was retrained to enhance its performance further.
 
 ### Model Performance Evaluation
 
-In our recent development cycle, we enhanced the model's performance through fine-tuning. The improvements were assessed rigorously on a validation dataset to ensure the model's reliability and efficiency.
+During the recent development cycle, we improved the model's performance through fine-tuning, assessed rigorously on a validation dataset to ensure reliability and efficiency. The evaluation was facilitated using the script detailed in `evaluate.ipynb`, which employs various metrics and approaches, including a custom hit rate metric and an Information Retrieval Evaluator from the sentence transformers library.
 
-We utilized the script detailed in `evaluate.ipynb` to facilitate this evaluation. This script employs a couple of defined functions that use different metrics and approaches to evaluate the model's performance, including a custom hit rate metric and an Information Retrieval Evaluator from the sentence transformers library. These functions were instrumental in determining the effectiveness of the fine-tuned model over the existing benchmarks.
+The fine-tuned model exhibited a significant improvement, outperforming previous benchmarks by:
+- 10.12% over the 'ada' model.
+- 13.43% over the 'BAAI/bge-large-en' model.
 
-The fine-tuned model displayed a notable improvement in its performance compared to previous benchmarks. Specifically, we observed:
-- A 10.12% improvement over the 'ada' model.
-- A 13.43% improvement over the 'BAAI/bge-large-en' model.
-
-These results are encouraging, showcasing the successful enhancement of the model's capabilities through fine-tuning.
+These promising results underscore the successful enhancement of the model's capabilities through fine-tuning.
 
 ### Retraining on the Entire Dataset
 
-Following the promising results obtained from the initial evaluations, we proceeded to retrain the model utilizing the entire dataset to further hone its capabilities for the classification task at hand. This comprehensive retraining approach aims to capitalize on the entirety of the data available, fostering a more robust and refined model ready for credit ratings analysis.
+Encouraged by the initial evaluations, we embarked on retraining the model using the entire dataset to further refine its capabilities for the classification task at hand. This approach aims to leverage the full spectrum of available data, fostering a more robust and refined model ready for credit ratings analysis.
 
 ## Classification Task
 
-In the classification task, we aim to categorize credit rating actions into two categories - positive and negative - based on the textual information found in ratings actions reports. This process is automated using a series of machine learning models that have been fine-tuned to understand the nuances of credit ratings terminology and language patterns.
+This task seeks to categorize credit rating actions into positive and negative categories, based on the textual information found in ratings actions reports. This automated process leverages a series of machine learning models fine-tuned to comprehend the nuances of credit ratings terminology and language patterns.
 
-The `classify.ipynb` notebook is at the heart of this classification task. Below is a brief overview of the steps and components involved in the classification task:
+The `classify.ipynb` notebook serves as the nucleus of this classification task, outlining the steps and components involved, which are detailed below:
 
 ### Step 1: Loading and Preprocessing the Data
-- Two data directories are processed, containing positive and negative ratings actions reports, respectively.
-- The data from these directories is read, and split into training and test datasets with a 50-50 split.
+- Processing two data directories containing positive and negative ratings actions reports, respectively.
+- Reading the data from these directories and partitioning it into training and test datasets with a 50-50 split.
 
 ### Step 2: Model Initialization
-- Various models are initialized, including `BAAIModel`, `GloveModel`, `TFIDFModel`, `BAAIModel_FineTuned`, and `OpenAI_AdaModel`.
-- These models are defined in the `models.py` script, where each class defines methods for loading embeddings and classifying test data based on cosine similarity between embeddings.
+- Initializing various models including `BAAIModel`, `GloveModel`, `TFIDFModel`, `BAAIModel_FineTuned`, and `OpenAI_AdaModel`.
+- These models are delineated in the `models.py` script, which defines methods for loading embeddings and classifying test data based on cosine similarity between embeddings.
 
 ### Step 3: Classification and Performance Evaluation
-- The models are then utilized to classify the test data, and their performance is evaluated based on several metrics including accuracy, precision, recall, and F1 score.
-- These metrics are calculated and plotted for each model, providing a comprehensive view of each model's performance. This includes confusion matrices and bar plots illustrating the performance metrics.
-- A comparison of all model performances is plotted to aid in selecting the most optimal model.
+- Utilizing the models to classify test data, followed by performance evaluation based on metrics such as accuracy, precision, recall, and F1 score.
+- Calculating and visualizing these metrics for each model, offering a comprehensive view of each model's performance, including confusion matrices and bar plots illustrating performance metrics.
+- Comparing all model performances to aid in selecting the most optimal model.
 
 ### Step 4: Visualization and Comparison
-- Various charts are generated to visualize the performance metrics and confusion matrices for each model, helping in drawing insights and conclusions about the models' performances.
+- Generating charts to visualize performance metrics and confusion matrices for each model, facilitating insights and conclusions regarding the models' performances.
 
 ### Scripts and Functions:
-- `models.py`: Contains the definition of all the machine learning models along with methods for loading embeddings and classifying test data.
-- `utils.py`: Includes utility functions for reading content from directories and extracting categories from directory paths.
-- `charts.py`: Houses functions for computing metrics and plotting performance charts, confusion matrices, and model comparison charts.
+- `models.py`: Defines all the machine learning models and methods for loading embeddings and classifying test data.
+- `utils.py`: Contains utility functions for reading content from directories and extracting categories from directory paths.
+- `charts.py`: Hosts functions for computing metrics and plotting performance charts, confusion matrices, and model comparison charts.
 
 ### Results:
 
-The classification task yielded significant insights into the performance of various models. Here is a summary of the results:
+The classification task provided substantial insights into the performance of various models, summarized as follows:
 
-- **BAAIModel_FineTuned**: Showcased a high performance with an accuracy of approximately 88.96%, closely followed by the precision, recall, and F1 score metrics which were also commendable. This model was retrained on the entire dataset, fine-tuning it for the specific nuances of the credit rating actions classification task.
+- **BAAIModel_FineTuned**: Exhibited high performance with an accuracy of approximately 88.96%, complemented by commendable precision, recall, and F1 score metrics. This model, retrained on the entire dataset, is fine-tuned for the specific nuances of the credit rating actions classification task.
+- **OpenAI_AdaModel**: Showcased near-par performance with the fine-tuned BAAI model, indicating an accuracy rate of around 89.57%. The high precision, recall, and F1 score metrics make it a robust choice for the classification task.
+- **Other Models (BAAIModel, GloveModel, TFIDFModel)**: These models trailed in performance compared to the fine-tuned BAAI and Ada models, indicating lesser effectiveness in the classification task.
 
-- **OpenAI_AdaModel**: Demonstrated a near-par performance with the fine-tuned BAAI model, indicating an accuracy rate of around 89.57%. The precision, recall, and F1 score metrics were similarly high, making it a robust choice for the classification task.
-
-- **Other Models (BAAIModel, GloveModel, TFIDFModel)**: These models lagged behind in performance compared to the fine-tuned BAAI and Ada models. Their accuracy, precision, recall, and F1 scores were significantly lower, indicating less effectiveness in the classification task.
-
-It is evident from the results that our fine-tuned model (BAAIModel_FineTuned) has nearly identical performance with the OpenAI Ada model, significantly outperforming the Glove, TFIDF, and the original BAAI model. This emphasizes the effectiveness of fine-tuning in enhancing the model's ability to accurately classify the credit ratings actions.
-
-For a detailed breakdown of each model's performance metrics, please refer to the charts and metrics provided in the `classify.ipynb` notebook.
+Our fine-tuned model (BAAIModel_FineTuned) demonstrated nearly identical performance to the OpenAI Ada model, significantly surpassing the Glove, TFIDF, and the original BAAI model. This highlights the efficacy of fine-tuning in enhancing the model's ability to accurately classify credit ratings
 
 ## Requirements
 
@@ -123,7 +113,8 @@ To get started, you can run the Python scripts in the order they are listed. We 
 
 1. `nohup python data_prep.py &`
 2. `nohup python fine-tuning.py &`
+3. `nohup python fine-tuning_entire_dataset.py`
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT Licensefine-tuning_entire_dataset.py.
