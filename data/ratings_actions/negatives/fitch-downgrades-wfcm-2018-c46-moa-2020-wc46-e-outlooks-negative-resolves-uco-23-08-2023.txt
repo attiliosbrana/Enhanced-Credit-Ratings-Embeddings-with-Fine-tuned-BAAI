@@ -1,0 +1,35 @@
+Fitch Downgrades WFCM 2018-C46 and MOA 2020-WC46 E; Outlooks Negative; Resolves UCO
+
+Fitch Ratings - New York - 23 Aug 2023: Fitch Ratings has downgraded four and affirmed 10 classes of Wells Fargo Commercial Mortgage (WFCM) Trust 2018-C46 commercial mortgage pass-through certificates. Fitch has also downgraded the MOA 2020-WC46 E horizontal risk retention pass through certificate (2018 C46 III Trust). The Rating Outlooks on classes D, X-D, E-RR, F-RR and the MOA 2020-WC46 E Argentic horizontal risk retention pass through certificate are Negative following the downgrades. The criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+WFCM 2018-C46
+   A-2 95001QAR2
+LTAAAsf Affirmed
+AAAsf 
+A-3 95001QAT8
+LTAAAsf Affirmed
+AAAsf 
+A-4 95001QAU5
+LTAAAsf Affirmed
+AAAsf 
+A-S 95001QAX9
+LTAAAsf Affirmed
+AAAsf 
+A-SB 95001QAS0
+LTAAAsf Affirmed
+AAAsf 
+B 95001QAY7
+LTAA-sf Affirmed
+AA-sf 
+C 95001QAZ4
+LTA-sf Affirmed
+A-sf 
+D 95001QAC5
+LTBB+sf Downgrade
+BBBsf 
+E-RR 95001QAE1
+LTBB-sf Downgrade
+BBB-sf 

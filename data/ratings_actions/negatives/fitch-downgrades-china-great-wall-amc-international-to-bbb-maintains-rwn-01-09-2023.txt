@@ -1,0 +1,60 @@
+Fitch Downgrades China Great Wall AMC (International) to 'BBB+'; Maintains RWN
+
+Fitch Ratings - Hong Kong/Shanghai - 01 Sep 2023: Fitch Ratings has downgraded China Great Wall AMC (International) Holdings Company Limited's (GWAMCI) Long-Term Foreign- and Local-Currency Issuer Default Ratings (IDRs) to 'BBB+' from 'A-', and maintained the ratings on Rating Watch Negative (RWN).
+Fitch has also downgraded the rating on GWAMCI's senior unsecured bonds to 'BBB+', from 'A-', and the rating on the senior unsecured perpetual notes to 'BBB', from 'BBB+'. The issue ratings have been maintained on RWN. The instruments were issued by GWAMCI's SPVs and are irrevocably and unconditionally guaranteed by GWAMCI. The perpetual notes are rated one notch below GWAMCI's IDR to reflect the optional coupon deferral on a cumulative basis.
+GWAMCI's ratings were downgraded to mirror the rating action taken on the parent, China Great Wall Asset Management Co., Ltd. (BBB+/RWN), based on the unchanged parent-subsidiary linkage between the two entities. As a core subsidiary, GWAMCI's ratings are equalised with those of China Great Wall.
+Parent-Subsidiary Relationship
+Fitch believes a parent-subsidiary relationship exists between GWAMCI and China Great Wall. Full ownership means China Great Wall appoints GWAMCI's board of directors and senior management, while major decisions are centralised at China Great Wall and are passed down to GWAMCI. The subsidiary is required to report its operating performance to China Great Wall periodically and its financials are consolidated into the parent.
+Linkage Strength
+We follow the strong parent path under our criteria to assess linkages, given China Great Wall's strong credit profile and the government support we expect to flow to GWAMCI.
+'Medium' Legal Incentive to Support: We assess the legal incentive for China Great Wall to provide support as 'Medium'. The parent provides a keepwell and equity-interest purchase undertaking agreement on the notes issued under the medium-term note (MTN) programme. The agreement commits China Great Wall to ensure that GWAMCI has sufficient liquidity and remains solvent.
+The credit enhancement suggests China Great Wall has a legal incentive to extend support to GWAMCI when needed, despite the weaker legal enforceability than a guarantee. The notes outstanding under the MTN programme amounted to about 30% of GWAMCI's total debt at end-2022, but this amount may fall over the medium term.
+'High' Strategic Incentive to Support: We assess the strategic incentive for China Great Wall to provide support as 'High', as GWAMCI is the parent's sole direct offshore subsidiary. China Great Wall relies on GWAMCI's access to international capital markets to facilitate its distressed-asset management business and broaden its funding channels. In particular, GWAMCI's cross-border transactions are closely aligned with the parent's core business, underpinning its strategic importance.
+The competitive advantage offered by GWAMCI has a high influence on our strategic incentive assessment and offsets the company's low asset contribution, at about 5% of the group's consolidated assets, and moderate growth potential.
+'High' Operational Incentive to Support: We assess the operational incentive for China Great Wall to provide support as 'High'. GWAMCI's operations are highly integrated with those of its parent, as the parent controls its board and senior management. The two entities also share common branding and customers. It would be difficult to substitute GWAMCI, as regulatory approval would be required to set up another overseas subsidiary, leading to high avoidance cost to the parent.
+Derivation Summary
+GWAMCI's ratings are assessed under Fitch's Parent and Subsidiary Linkage Rating Criteria on a top-down basis and equalised with the rating on its parent, under a strong parent, weak subsidiary approach.
+Issuer Profile
+GWAMCI is a wholly owned subsidiary and the major offshore operating and financing arm of China Great Wall, one of China's state-owned non-performing-asset management companies. China Great Wall plays an important role in safeguarding the stability of China's financial system.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+- Negative rating action on China Great Wall could lead to a downgrade of GWAMCI, as the ratings are credit-linked.
+- Significant weakening of China Great Wall's legal, strategic or operational incentives to support GWAMCI could lead to a wider rating gap between GWAMCI and its parent.
+- Dilution of the parent's shareholding could lead to a reassessment of the parent-subsidiary relationship.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+- GWAMCI may be removed from RWN if the negative watch on the parent is removed.
+- Positive rating action on China Great Wall could lead to changes in the ratings of GWAMCI, as the subsidiary's ratings are equalised with that of the parent.
+ESG Considerations
+Fitch is no longer providing ESG relevance scores for GWAMCI as the ratings and ESG profile are derived from the ultimate parent, the Chinese sovereign. ESG relevance scores and commentary for the Chinese sovereign can be found at www.fitchratings.com/entity/china-80442243
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+GWAMCI's ratings are credit linked to those of China Great Wall.
+Best/Worst Case Rating Scenario
+International scale credit ratings of Sovereigns, Public Finance and Infrastructure issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of three notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+References for Substantially Material Source Cited as Key Driver Rating
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+China Great Wall AMC (International) Holdings Company Limited
+LT IDRBBB+ Downgrade
+A- 
+LC LT IDRBBB+ Downgrade
+A- 
+China Great Wall International Holdings IV Limited
+   senior unsecured
+LTBBB+ Downgrade
+A- 
+senior unsecured
+LTBBB Downgrade
+BBB+ 
+China Great Wall International Holdings V Limited
+   senior unsecured
+LTBBB+ Downgrade
+A- 
+China Great Wall International Holdings III Limited
+   senior unsecured
+LTBBB+ Downgrade
+A- 
+China Great Wall International Holdings VI Limited
+  

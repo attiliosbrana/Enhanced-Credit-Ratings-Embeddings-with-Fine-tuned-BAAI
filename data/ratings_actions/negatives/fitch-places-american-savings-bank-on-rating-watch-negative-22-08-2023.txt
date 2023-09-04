@@ -1,0 +1,61 @@
+Fitch Places American Savings Bank on Rating Watch Negative
+
+Fitch Ratings - Chicago - 22 Aug 2023: Fitch Ratings has placed the Long- and Short-Term Issuer Default Ratings (IDR) and the Viability Rating (VR) of American Savings Bank, FSB (ASB) on Rating Watch Negative (RWN). These actions follow Fitch's downgrade of ASB's parent company, Hawaiian Electric Industries (HEI), to 'B' and placement on Rating Watch Negative.
+ASB's IDRs are not support-driven. The bank's standalone VR is above the parent's rating, and its creditworthiness does not rely on ordinary or extraordinary support from its parent. Fitch believes ASB operates with a high degree of financial and operational independence and is not directly exposed to legal claims against HEI and Hawaiian Electric Company, which is the largest supplier of electricity in the state of Hawaii. Today's rating action is primarily driven by ASB's exposure to reputational risk related to its association with HEI and Hawaiian Electric Company, notwithstanding its distinct branding.
+KEY RATING DRIVERS
+ASB is a wholly owned subsidiary of HEI. On Aug. 21, 2023, Fitch downgraded HEI's Long-Term IDR to 'B' from 'BBB+' and placed it on RWN, driven by its exposure to material third-party litigation following recent wildfires.
+In Fitch's view, ASB has no legal exposure to claims against HEI and ASB does not rely on HEI for ordinary support or access to third-party funding. In addition, ASB's regulators have the ability to curtail the upstreaming of dividends to the parent. Therefore, Fitch does not anticipate a direct impact to the bank's financial condition as a result of legal claims against its parent. Today's rating action primarily reflects the potential for linkage to its parent to negatively influence the behavior of ASB's customer base. Fitch has downgraded the Shareholder Support Rating (SSR) to 'ccc+' from 'bb+' on RWN, reflecting our view that the parent's ability to provide support cannot be relied on.
+Fitch affirmed ASB's Government Support Rating (GSR) at 'ns'.
+Fitch views ASB's standalone credit profile as characterized by a moderate risk appetite, strong credit quality and adequate capitalization, with pressured earnings from rising funding costs. Fitch views ASB's risk appetite as appropriate, having largely eschewed mainland exposure and a willingness to curtail higher risk products, such as consumer unsecured lending. Following the cessation of unsecured consumer lending in 2020, net chargeoffs have decreased significantly. This is expected to retrace towards historical levels as credit conditions normalize and ASB re-enters the unsecured consumer lending.
+ASB has consistently maintained adequate levels of capital and taken a prudent approach to capital management. The bank has historically demonstrated a willingness to suspend its dividend at times of stress, such as in early 2020. Fitch expects ASB's tangible common equity ratio (4.33% at 2Q23) to continue to recover in step with maturing holdings in its available for sale securities portfolio.
+ASB's earnings have been pressured by rising deposit costs but remain in line with its current rating. Net interest margin (NIM) compression, along with normalization in provisioning, have led to a decline in operating profits through 1H23. ASB is a spread-reliant bank with limited revenue diversity, leaving the bank subject to rate-driven earnings volatility. This is expected to remain a ratings constraint over the rating horizon.
+ASB's cost of funding has increased over the past year as interest rates have risen but remains below that of mainland peers. ASB benefits from the insular nature of the banking industry in Hawaii. However, in Fitch's view, ASB operates with limited on-hand liquidity, which could pose an operational risk in the event of rapid deposit outflows.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+Negative changes to ASB's customer behavior, especially in the form of increased deposit outflows, liquidity stress or increased funding costs, could lead to negative pressure on ASB's ratings.
+Outside of any reputational exposure to its parent, ASB's ratings would also be sensitive to a significant deterioration in asset quality. Negative pressure could emerge if impaired loans to gross loans were to exceed 3% and be expected to remain above that threshold for an extended period. In addition, chargeoff rates in the consumer book that compare unfavorably to peers could create downward rating pressure.
+The bank's ratings would be negatively influenced if its CET1 were to fall below 10% and remain there for multiple quarters, absent a credible plan to build levels back above this threshold. Fitch would also be sensitive to any changes in capital management, such as aggressive dividends to the parent, that would also result in a rapid decline in the bank's capital levels.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+If ASB is able to navigate through the current situation without deterioration to its reputation and franchise or experiencing significant contagion from HEI, the RWN could be removed. Fitch does not anticipate any positive rating momentum over the rating horizon.
+OTHER DEBT AND ISSUER RATINGS: KEY RATING DRIVERS
+Long- and Short-Term Deposit Ratings: Fitch has placed ASB's long- and short-term deposit ratings on RWN. The bank's long-term uninsured deposits are rated one notch higher than its IDR as U.S. uninsured deposits benefit from depositor preference. U.S. depositor preference gives deposit liabilities superior recovery prospects in the event of default. Fitch rates ASB's short-term uninsured deposits in accordance with our Bank Rating Criteria based on the long-term deposit rating and Fitch's assessment of its funding and liquidity profile.
+OTHER DEBT AND ISSUER RATINGS: RATING SENSITIVITIES
+Negative Sensitivity
+Long- and Short-Term Deposit Ratings: ASB's long-term deposit rating is sensitive to any negative change to the bank's Long-Term IDR. ASB's short-term deposit rating is sensitive to negative changes to the company's long-term deposit rating and Fitch's assessment of the bank's funding and liquidity profile.
+Positive Sensitivity
+Long- and Short-Term Deposit Ratings: ASB's long-term deposit rating is sensitive to any positive change to the bank's Long-Term IDR. ASB's short-term deposit rating is sensitive to positive change to the company's long-term deposit rating and Fitch's assessment of the bank's funding and liquidity profile.
+Ownership Change
+ASB's ratings do not incorporate any shareholder support from HEI but could be negatively or positively impacted by a change in ownership.
+VR ADJUSTMENTS
+The VR has been assigned in line with the implied VR.
+The Asset Quality score of 'bbb-' has been assigned below the implied score of 'a' due to a negative adjustment for the geographic concentration of the loan portfolio.
+The Earnings and Profitability score of 'bbb' has been assigned below the implied score of 'a' due to a negative adjustment for revenue diversity.
+The Capitalization and Leverage score of 'bbb' has been assigned below the implied score of 'a' due to a negative adjustment for capital flexibility.
+The Funding and Liquidity score of 'bbb+' has been assigned below the implied score of 'aa' due to a negative adjustment for contingent access.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+American Savings Bank, FSB
+LT IDRBBB Rating Watch On
+BBB 
+ST IDRF2 Rating Watch On
+F2 
+Viabilitybbb Rating Watch On
+bbb 
+Government Supportns Affirmed
+ns 
+Shareholder Supportccc+ Downgrade
+bb+ 
+long-term deposits
+LTBBB+ Rating Watch On
+BBB+ 
+short-term deposits
+STF2 Rating Watch On
+F2 

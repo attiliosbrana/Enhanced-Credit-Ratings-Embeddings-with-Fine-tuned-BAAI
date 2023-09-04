@@ -1,0 +1,36 @@
+Fitch Affirms Erste Jelzalogbank's Mortgage Covered Bonds at 'A'; Outlook Negative
+
+Related Content:
+Erste Jelzalogbank Zrt. - Mortgage Covered Bonds
+Fitch Ratings - Frankfurt am Main - 09 Aug 2023: Fitch Ratings has affirmed Erste Jelzalogbank Zrt.'s (or Erste Mortgage Bank (EMB)) mortgage covered bonds (jelzaloglevel) at 'A' with a Negative Outlook.
+KEY RATING DRIVERS
+The 'A' rating of EMB's mortgage covered bonds is based on Erste Bank Hungary Zrt.'s (EBH) Long-Term Issuer Default Rating (IDR) of 'BBB+', which acts as reference IDR for the programme; a resolution uplift of one notch; and a recovery uplift of one notch. The legal minimum overcollateralisation (OC) of 2% on a nominal basis is also the break-even OC for the 'A' rating. The Negative Outlook mirrors that on EBH's IDR.
+Fitch rates the covered bonds based on its limited rating uplift approach as data provided by EMB does not enable the agency to perform a full analysis. For this reason, Fitch does not test for timely payment and limits the recovery uplift to one notch. Fitch analysed the Hungarian covered bonds framework and concluded that the cover assets are sufficiently ring-fenced from the rest of EMB's balance sheet.
+The one-notch resolution uplift reflects exemption from bail-in for Hungarian covered bonds in a resolution, Fitch's assessment that a resolution of EMB should not result in the direct enforcement of recourse against the cover pool and a low risk of under-collateralisation at the point of resolution. It also reflects that the reference bank's IDR is support-driven.
+EMB's mortgage covered bonds' 'A' rating exceeds Hungary's 'BBB' Long-Term IDR. Consequently, Fitch qualitatively assessed the impact of a potential sovereign default on covered bondholders' recovery expectations. Given the standard nature of the mortgage cover assets, we expect good recoveries on defaulted covered bonds, allowing for a recovery uplift of one notch. According to Fitch's Structured Finance and Covered Bonds Country Risk Rating Criteria, the maximum rating for structured finance and covered bonds denominated in domestic currency in Hungary is 'A+', four notches above the sovereign's Local Currency IDR of 'BBB'.
+As of 31 March 2023, EMB's HUF179.1billion outstanding mortgage covered bonds were secured by HUF209.9 billion ordinary cover assets consisting of residential mortgage loans within Hungary and HUF14.5billion substitute assets, resulting in a nominal OC of 17.2%. All assets and covered bonds are Hungarian forint-denominated.
+As EBH's IDRs are 'BBB+'/'F1' and the programme is not in wind-down, Fitch relies on the lowest reported OC over the last 12 months of 17.2%.
+The programme has an ESG Relevance Score of '5' for Data Transparency & Privacy as data provided by EMB does not enable Fitch to perform a full analysis. For this reason, Fitch rates the programme based on its limited rating uplift approach.
+RATING SENSITIVITIES
+Factors That Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade:
+EMB's covered bonds' rating could be upgraded by one notch to 'A+' (country cap for the programme) if the bank delivers data allowing for a full analysis and if the relied-upon OC provides sufficient protection that is in line with an 'A+' break-even OC. The rating could also be upgraded if EBH's 'BBB+' IDR is upgraded to 'A-'.
+Factors That Could, Individually or Collectively, Lead to a Downgrade:
+Due to the direct link between the rating of the covered bonds and EBH's Long-Term IDR, the ratings could be downgraded if the bank's 'BBB+' IDR is downgraded by one notch or more to 'BBB' or below.
+The 'A' covered bonds' rating would not be vulnerable to a downgrade if the relied-upon OC decreases to the legal minimum OC of 2%.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+The covered bond rating is linked to EBH's IDR.
+ESG CONSIDERATIONS
+EMB has an ESG Relevance Score of '5' for Data Transparency & Privacy as data provided by the bank does not enable Fitch to perform a full analysis. For this reason, Fitch rates the programme based on the limited rating uplift approach.
+Unless otherwise disclosed in this section, the highest level of ESG credit relevance is a score of '3'. This means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation of the materiality and relevance of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/esg
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Erste Jelzalogbank Zrt.
+   senior secured, Mortgage Covered Bonds, Mortgage Covered Bonds
+LTA Affirmed
+A 

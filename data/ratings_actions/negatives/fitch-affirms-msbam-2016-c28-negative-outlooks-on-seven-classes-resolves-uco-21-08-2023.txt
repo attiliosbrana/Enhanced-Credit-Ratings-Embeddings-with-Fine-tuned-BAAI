@@ -1,0 +1,35 @@
+Fitch Affirms MSBAM 2016-C28; Negative Outlooks on Seven Classes; Resolves UCO
+
+Fitch Ratings - New York - 21 Aug 2023: Fitch Ratings has affirmed 15 classes of Morgan Stanley Bank of America Merrill Lynch Trust (MSBAM) Mortgage Trust 2016-C28 commercial mortgage pass-through certificates. The Rating Outlooks of classes X-B, A-S, B and C were revised to Negative from Stable. In addition, the Outlook for classes D, X-D and E-1 remains Negative. The under criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+MSBAM 2016-C28
+   A-3 61766LBR9
+LTAAAsf Affirmed
+AAAsf 
+A-4 61766LBS7
+LTAAAsf Affirmed
+AAAsf 
+A-S 61766LBV0
+LTAAAsf Affirmed
+AAAsf 
+A-SB 61766LBQ1
+LTAAAsf Affirmed
+AAAsf 
+B 61766LBW8
+LTAA-sf Affirmed
+AA-sf 
+C 61766LBX6
+LTA-sf Affirmed
+A-sf 
+D 61766LAC3
+LTBBsf Affirmed
+BBsf 
+E 61766LAJ8
+LTCCCsf Affirmed
+CCCsf 
+E-1 61766LAE9
+LTB-sf Affirmed
+B-sf 

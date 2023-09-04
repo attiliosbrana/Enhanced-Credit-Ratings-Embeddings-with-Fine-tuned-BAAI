@@ -1,0 +1,35 @@
+Fitch Downgrades Four Classes of MSC 2016-BNK2; Resolves UCO
+
+Fitch Ratings - New York - 10 Aug 2023: Fitch Ratings has downgraded four classes of Morgan Stanley Capital I Trust, commercial mortgage pass-through certificates, series 2016-BNK2 (MSC 2016-BNK2) and affirmed 11 classes. Fitch has also revised the Rating Outlooks on three classes to Negative from Stable and assigned a Negative Outlook on four classes following their downgrade. The criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+MSC 2016-BNK2
+   A-3 61690YBT8
+LTAAAsf Affirmed
+AAAsf 
+A-4 61690YBU5
+LTAAAsf Affirmed
+AAAsf 
+A-S 61690YBX9
+LTAAAsf Affirmed
+AAAsf 
+A-SB 61690YBS0
+LTAAAsf Affirmed
+AAAsf 
+B 61690YBY7
+LTAA-sf Affirmed
+AA-sf 
+C 61690YBZ4
+LTBBBsf Downgrade
+A-sf 
+D 61690YAC6
+LTBBsf Downgrade
+BBB-sf 
+E 61690YAL6
+LTB-sf Affirmed
+B-sf 
+E-1 61690YAE2
+LTB+sf Downgrade
+BB+sf 

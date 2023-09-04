@@ -1,0 +1,70 @@
+Fitch Places Intralot on Rating Watch Positive
+
+Fitch Ratings - Stockholm - 11 Aug 2023: Fitch Ratings has placed Intralot S.A.'s 'CCC+' Long-Term Issuer Default Rating (IDR) and 'CCC' senior secured rating on the 2024 notes issued by Intralot Capital Luxembourg S.A. on Rating Watch Positive (RWP).
+The RWP reflects upon Intralot's improving operating performance, resulting in organic deleveraging in 2022 that Fitch expects to continue in 2023. In our view, stronger leverage metrics improve Intralot's ability to refinance its upcoming 2024 debt maturities. Subject to the completion of the 2024 notes refinancing, we believe Intralot's credit profile will be commensurate with a 'B-' rating, based on our current rating case to 2026, resolving the RWP.
+KEY RATING DRIVERS
+US Operations Driving Performance: As of 2022, over 60% of Intralot's EBITDAR was generated in the US and Canada markets through Intralot Inc., its wholly-owned US subsidiary. Fitch forecasts that the new contracts signed in 2023 in Ohio, British Columbia and Wyoming, will additionally support low-to-mid single digit revenue growth in the region over the medium term. We expect Intralot's US operations to continue exhibiting strong profitability, with EBITDAR margins maintained above 40%.
+Refinancing Risk Looming: Uncertainty around the refinancing risk present in our rating case to 2026 currently constrains the rating, with the majority of Intralot's debt maturing in 2024 and 2025. However, the RWP reflects our belief that based on its improving operating performance, the company is facing its debt maturities with strengthening credit metrics. We expect the company to proactively address the refinancing well ahead of next year's September maturities. A potential equity placement envisaged in 2023, which remains subject to approval of Intralot's shareholders would further reduce the refinancing risk.
+The successful refinancing of the 2024 debt, completed six months before its due date, would lead Fitch to review the RWP, with a possible one-notch upgrade based on our current rating case, assuming continuation of the positive operational momentum and prudent capital allocation.
+Change in Financial Strategy: Fitch acknowledges the shift in Intralot's financial strategy towards greater conservatism and disciplined capital allocation. In 2022, Intralot used equity placement to streamline its capital structure and refinanced its US subsidiary debt with less restrictive terms and gradual principal repayment. However, this US subsidiary debt remains structurally senior to Intralot's 2024 notes.
+Intralot also indicated a potential share capital increase in its recent public communications, and we estimate the amount could at least cover the most recently reported negative equity at the consolidated level, and provide further capital structure improvement opportunities.
+Low Leverage for the Rating: Organic deleveraging and net debt reduction in 2022 allowed Intralot to improve its EBITDAR leverage to 4.9x in 2022 from 5.7x in 2021. Fitch assumes that if the company pursues its recently communicated equity raise for the amount of recently reported negative equity (around EUR90 million), EBITDAR leverage would reduce further by end-2023 to around 4.0x, which would be commensurate with a higher rating.
+Contract Portfolio Expiration Risks: Fitch views Intralot's contracted revenues as more visible and predictable, but also subject to license/contract renewal risks, and the company is not always able to compete for renewals with local or international peers. The current portfolio has a moderate license/contract expiration profile, with no large renewals in the medium term, except for the expiration of a license in Morocco in 2023 that Fitch assumes will not be renewed in its rating case.
+However, in 2027, contracts in Argentina and Australia, collectively generating 27% of EBITDAR as of 2022, will expire. Intralot's ability to maintain a portfolio with balanced license expiration profile remains important for the rating trajectory.
+Exposure to Emerging Market Currencies: Our ratings reflect that most of Intralot's revenues are not generated in its reporting currency, increasing its exposure to FX market volatility. In 2022, Turkey and Argentina accounted for around 25% of Intralot's revenues (up from around 20% in 2021) and continued depreciation of the Turkish lira and Argentine peso in 2023 will affect consolidated revenues and operating results.
+Intralot does not employ financial derivatives to hedge its exposure to currency risk. Exposure to currency volatility, especially in emerging markets, could materially affect its performance.
+DERIVATION SUMMARY
+Intralot's current financial profile is not comparable with that of other more business-to-consumer EMEA gaming companies, such as Flutter Entertainment plc (BBB-/Stable), Entain plc (BB/Stable), Allwyn International a.s. (Sazka, BB-/Stable), or its B2B peers International Game Technology plc (BB+/Stable) and Light & Wonder, Inc. (BB/Stable).
+After the completion of its 2021 restructuring, Intralot has similar scale and financial profile to Inspired Entertainment, Inc. (B/Stable). Inspired exhibits slightly lower leverage with longer maturities and a more intact, albeit higher geographically concentrated, business model, resulting in a two-notch difference between the ratings.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer:
+- FY23 and FY24 revenues declining by low to mid-single digit driven primarily by the FX volatility in Argentina (as assumed by Fitch) as well as the expiration of the Moroccan license in FY24
+- Average FY24-FY26 annual revenue growth of low single digit (under 3%), mainly driven by Intralot's operations in the US (EUR160 million-EUR170 million contribution per year)
+- Improved profitability for operations in the US and Croatia, resulting in the EBITDA margin stabilising at around 33%
+- Average annual capex of 12% of revenues required primarily for the suite of contract renewals and new projects in the US segment as well as ongoing maintenance for the lottery segment and growth initiatives within the US operations
+- Net working capital around 10-13% of revenues
+The recovery analysis assumes that Intralot would be considered a going concern in bankruptcy and that it would be reorganised rather than liquidated. We have assumed a 10% administrative claim.
+We applied a distressed enterprise value (EV)/ EBITDA multiple of 5.0x to Intralot's wholly-owned operations.
+The going concern EBITDA of Intralot S.A. of EUR65 million reflects our view of a sustainable, post-reorganisation EBITDA level, upon which we base the valuation of the group excluding JVs. JVs in Turkey and Argentina are assumed to provide an additional around EUR20 million to the going concern EV.
+After deducting 10% for administrative claims, our principal waterfall analysis would generate a ranked recovery in the 'RR5' band, indicating a lower rating for the unsecured debt at parent company than its IDR. In the debt waterfall we treat the Intralot Inc.'s term loan and revolving credit facility (RCF) - assumed fully-drawn in distress, ranking senior to the 2024 notes. This results in a waterfall generated recovery calculation of 14% for the 2024 notes issued by Intralot Intralot Capital Luxembourg S.A. based on current assumptions.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+- Completion of refinancing of the 2024 maturities, leading to an upgrade in combination with:
+- Healthy liquidity, evidenced by positive free cash flow (FCF) and lack of permanent RCF drawdowns;
+- Funds from operations (FFO) margin above 10% on a sustained basis;
+- FFO-based gross adjusted leverage below 6.0x and total adjusted debt/EBITDAR below 5.5x;
+- FFO fixed charge cover above 1.8x on a sustained basis.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+- Failure to refinance the 2024 maturities six months before maturity, leading to a removal of the RWP with further negative pressure on the rating should operating performance deteriorate as evidenced by:
+- FFO adjusted gross leverage above 7.5x and total adjusted debt/EBITDAR above 7x;
+- FFO fixed charge cover below 1.5x;
+- Sustained negative or volatile FCF and lack of sufficient operational liquidity cushion to support operations within the next 12-18 months.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Pressure on Liquidity From Maturities: Virtually all of Intralot's debt matures in 2024 and 2025. We do not forecast Intralot to be able to fund the 2024 maturities with equity and FCF and therefore expect the company to proactively address 2024 refinancing.
+Refinancing risk aside, we expect Intralot to have sufficient liquidity to funds its operations, with positive forecast FCF and a USD50 million revolving credit facility providing additional flexibility for growing US operations.
+ISSUER PROFILE
+Intralot is a supplier of integrated gaming systems and services. The group develops, operates and supports customised software and hardware for the gaming industry and provides innovative technology and services to state and state-licenced lottery and gaming organisations worldwide.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Intralot S.A.
+LT IDRCCC+ Rating Watch On
+
+
+CCC+ 
+Intralot Capital Luxembourg SA
+ 
+
+  senior unsecured
+LTCCC Rating Watch On
+RR5
+
+CCC 

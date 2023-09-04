@@ -1,0 +1,133 @@
+Fitch Takes Actions on Five Ecuadorian Banks Following Sovereign Downgrade
+
+Fitch Ratings - Monterrey - 24 Aug 2023: Fitch Ratings has conducted a portfolio review of five Ecuadorian Banks following the downgrade of the country's sovereign Rating to 'CCC+' from 'B-'. A full list of rating actions is below. For additional details see " Fitch Downgrades Ecuador's Long-Term IDR to 'CCC+'," dated Aug 16, 2023 at www.fitchratings.com.
+Fitch maintained the Ecuadorian banking system's operating environment (OE) assessment at 'ccc+'/stable outlook. The stable outlook on the OE reflects Fitch's view that GDP per capita and the operating risk index (ORI) metrics have room for deterioration and will still be commensurate with the 'ccc+' OE assessment, which is below the implied 'bb' score.
+Fitch has downgraded Banco Pichincha C.A. y Subsidiarias (Pichincha) and Banco Guayaquil S.A.'s (Guayaquil) Long-Term Issuer Default Ratings (IDRs) to 'CCC+' from 'B-'. Fitch typically does not assign Outlooks to ratings in the 'CCC+' categories or below. In Fitch's view, Ecuadorian bank ratings driven by their intrinsic profiles are constrained by the sovereign's 'CCC+' rating. Fitch has also affirmed Banco del Austro, S.A.'s (Austro) IDR at 'CCC+.'
+Fitch has revised the Rating Outlooks of Banco ProCredit S.A. (Banco Procredit) and Banco de la Produccion S.A. y Subsidiarias (Produbanco) to Stable from Negative, and has affirmed their Long-Term IDRs at 'B' and 'B-', respectively. Both banks' Long-Term IDRs are support driven and reflect the support they would receive from their parents. Banco Procredit's Long-Term IDR mirrors Ecuador's 'B' Country Ceiling (CC). Produbanco's Long-Term IDR mirrors its 'B-' Shareholder Support Rating (SSR), and Fitch's revised assessment that Produbanco's IDR are now support driven.
+Fitch downgraded Pichincha and Guayaquil's Short-Term IDRs to 'C' from 'B', and affirmed Austro's Short-Term at 'C'. Produbanco and Banco Procredit's Short-Term IDRs were affirmed at 'B'.
+Fitch also reviewed Promerica Financial Corporation's (PFC) ratings, given the importance of its Ecuadorian subsidiary, Produbanco (35.0% of total assets), and has affirmed all ratings. Fitch's assessment of the OE is a key factor of PFC's creditworthiness, and is assessed computing a weighted average on the total assets in each jurisdiction in which the issuer operates. With the action taken on the Ecuadorian banking system's OE, PFC's blended OE is unaffected.
+KEY RATING DRIVERS
+IDRs, Viability Ratings (VRs) and Government Support Rating (GSR)
+Locally Owned Private Banks
+The banks' VRs underpin their IDRs. However, the ratings of Pichincha and Guayaquil are capped by the sovereign, as Fitch rarely assigns VRs above the sovereign for banks with IDRs driven by their VRs.
+Pichincha's and Guayaquil's VRs, or standalone creditworthiness, were downgraded to 'ccc+' from 'b-'. Ecuador's sovereign rating and broader OE considerations highly influence these banks' VRs, given the impact of the prolonged political uncertainty on these banks' financial performance. The heightened sovereign political, fiscal, and financing risks, as well as the potential for renewed social unrest could negatively result in rising non-performing loans, and limit the banks' profitability and internal capital-generation capacity.
+Pichincha's VR reflects adequate asset quality and profitability. Despite the deterioration in asset quality, due to an unwinding of regulatory forbearance measures and capitalization compared to the average of the last four years, sound reserves coverage for impaired loans provide a sound cushion to absorb potential losses.
+Guayaquil's VR reflects stable profitability, capitalization, funding and liquidity metrics. Asset quality ratios deteriorated due to the unwinding of the regulatory flexibility but remain within the current rating category.
+Austro's VR was affirmed at 'ccc+' and is highly influenced by its risk profile. Asset quality ratios deteriorated due to the unwinding of regulatory flexibility but remain within the current rating category, which already incorporates possible further deterioration in asset quality that could arise from a more challenging operating environment.
+Pichincha and Guayaquil's GSR of 'ns' reflects that despite these banks' sizable market position in the local market, Fitch believes that there is no reasonable assumption of support forthcoming from the sovereign due to Ecuador's limited financial flexibility and the lack of a lender of last resort.
+In addition, Austro's 'ns' GSR also reflects that there is no reasonable assumption that such support will be available since it is not considered a domestic systemically important bank (D-SIB).
+Foreign-Owned Private Banks and PFC
+Banco Procredit's Shareholder Support Rating (SSR) drives its IDRs. The SSR was affirmed at 'b'. Banco Procredit's SSR reflects Fitch's view that there is a limited probability of parent support (ProCredit Holding AG&Co.KGaA's (PCH) rated BBB/Stable) forthcoming. Despite the shareholder's strong propensity, this rating is constrained by Ecuador's transfer and convertibility risks captured by the 'B' CC.
+Fitch's assessment of support considers the strategic role Banco Procredit plays for ProCredit Group through its operation, providing core products and services for the group. The ProCredit group is an international group of development-oriented commercial banks with a focus on Eastern Europe. Ecuador is the group's only remaining operation in Latin America.
+Banco Procredit's Long-Term IDR (xgs) has been affirmed at 'B(xgs)' mirroring the support driven IDRs. The bank is not rated as public-sector policy bank; however, its IDRs incorporate assumptions of government support.
+Banco Procredit's VR was affirmed at 'ccc+' and reflects the bank's asset quality and profitability deterioration. This is mainly due to the ending of regulatory forbearance and increased loan impairment charges and funding costs, respectively. The rating also incorporates the ordinary support from its ultimate parent in terms of capitalization and stable funding and liquidity structure.
+Produbanco's IDRs are now Shareholder Support driven. Produbanco's SSR was affirmed at 'b-' , reflecting Fitch's view of potential external support from its majority shareholder PFC (B+/Stable; 62.2% ownership). The support assessment considers Fitch's view of the parent's ability and propensity to provide support if required, as well as Produbanco's consistent key role to PFC's operations through the years.
+Produbanco's VR was downgraded to 'ccc+' from 'b-' reflecting Ecuador's sovereign rating and broader OE considerations high influence on the VR. Produbanco's VR also reflects greater vulnerability in terms of profitability, funding and capitalization as a result of systemic political situation. Fitch expects Produbanco's asset quality to remain sound and highlights the resilience capacity it has shown through different economic cycles.
+PFC's 'B+' IDR is driven by its 'b+' VR, which is based on the issuer consolidated risk profile with operations in nine countries. PFC has a noteworthy business profile sustained by its business model and market position. The company's consolidated figures show a good asset quality, with a Stage 3 loans ratio of 2.0%, while the profitability has improved since 2020 and is expected to stabilized around the current ratio of 1.7% of operating profit to risk weighted assets (RWAs). Fitch believes PFC's capitalization is reasonable, with a CET1 to RWAs ratio that should remain close to 10%.
+PFC's GSR of 'ns' reflect that, however possible, external support cannot be relied upon, given the banking system's large size relative to the economy and weak support stance due to Panama's lack of a lender of last resort.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+IDRs and VR
+--Pichincha, Guayaquil, and Austro's VRs and IDRs are sensitive to changes in the sovereign rating, or further deterioration within the local operating environment.
+--Produbanco's IDRs could be downgraded if PFC's propensity or ability to support materially weaken or in the event of regulatory controls that could undermine potential support.
+--Banco Procredit's IDRs could be downgraded if the country ceiling is downgraded or if PCH's propensity or ability to support is materially weakened.
+--Pichincha, Guayaquil, Austro, Produbanco, and Banco Procredit's VRs could be downgraded if there is significant deterioration in the banks' intrinsic credit profile, although downside potential due to intrinsic financial deterioration is somewhat limited, given the low VR level imposed by the sovereign constraint.
+--PFC's VR and IDR could be negatively affected by a sustained decline in the CET1 ratio below 8%, and/or a reduction in subsidiary dividends to upstream to PFC that pressures its debt service capacity. The ratings could also be pressured by a materially weaker assessment of PFC's multijurisdictional OE, especially within its largest markets.
+GSR
+--Pichincha, Guayaquil and Austro's GSR has no downgrade potential as it is at the lowest possible level.
+--Because PFC's GSR is at the lowest level in its scale, there is no downside potential for the GSR.
+SSR
+--Banco Procredit's SSR could be downgraded if PCH's propensity or ability to support materially weakens.
+--Produbanco' SSR could be downgraded if PFC's propensity or ability to support materially weakens or any likelihood of regulatory controls that could undermine possible support.
+XGS
+--Banco Procredit's Long-Term IDR (xgs) could be downgraded if PCH's ability or propensity to provide support weakens, as assessed by Fitch. The former could stem from an increase in country risks as assessed by Fitch.
+--Short-Term ex-government support ratings are primarily sensitive to changes in Long-Term ex-government support ratings and could be downgraded if the latter is downgraded and the new Long-Term ratings map to lower Short-Term ratings in accordance with Fitch's criteria.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+IDRs and VR
+--Pichincha, Guayaquil, and Austro's upside potential is limited given the challenging operating environment.
+--A ratings upgrade of Pichincha's and Guayaquil's Long-Term IDRs would require a sovereign upgrade.
+--In addition to a sovereign upgrade, Austro's ratings could be upgraded if an improvement in the operating environment results in a meaningful and sustained improvement in the banks' core profitability, along with improvement in the bank's asset quality and capitalization.
+--Banco Procredit's IDR could be upgraded in the event of an upgrade of Ecuador's country ceiling. The VR has limited upside potential considering the still challenging operating environment. An upgrade of Banco Procredit's VR would also require sustainable improvements of its profitability ratios.
+--Produbanco's IDR could be upgraded in the event of an upgrade of PFC's Long-Term IDR. The VR has limited upside potential considering the still challenging operating environment.
+--PFC's ratings could be upgraded by an improvement in PFC's multijurisdictional operating environment.
+GSR
+--Ecuador's propensity or ability to provide timely support to Pichincha, Guayaquil and Austro is not likely to change given the sovereign's low sub-investment-grade IDR. As such, the GSR has no upgrade potential.
+--As Panama is a dollarized country with no lender of last resort, a PFC's GSR upgrade is considered unlikely.
+SSR
+--Banco Procredit's SSR could be upgraded in the event of an upgrade of Ecuador's country ceiling.
+--Produbanco's SSR has limited upgrade potential over the rating horizon, given its size and relevance relative to PFC.
+XGS
+--An upgrade of Banco Procredit's Long-Term IDR (xgs), which is constrained by Ecuador's transfer and convertibility risks, would require an upgrade of Ecuador's Country Ceiling, provided Fitch's view on the parent bank's ability and propensity to provide support remains otherwise unchanged.
+--The short-term ex-government support ratings is primarily sensitive to a change in the LT ex-government support rating and could be upgraded if the latter is upgraded and the new LT rating map to higher short-term ratings in accordance with Fitch's criteria.
+OTHER DEBT AND ISSUER RATINGS: KEY RATING DRIVERS
+The ratings assigned to PFC's senior notes of USD200 million and USD225 million are in line with its Long-Term IDR, as the likelihood of default on the notes is the same as that of PFC. Despite the notes being senior secured and comprising unsubordinated obligations, Fitch believes the collateral mechanism would not have a significant impact on recovery rates. In accordance with Fitch's rating criteria, recovery prospects for the notes are average and reflected in their Recovery Rating of 'RR4'.
+OTHER DEBT AND ISSUER RATINGS: RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--PFC's senior debt ratings would be downgraded if PFC's Long-Term IDR is downgraded.
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--PFC's senior debt ratings would be upgraded if PFC's Long-Term IDR is upgraded.
+VR ADJUSTMENTS
+Pichincha and Guayaquil's 'ccc+' VR has been assigned below the 'b' implied VR due to the following adjustment reason: Operating Environment (Negative).
+Produbanco's 'ccc+' VR has been assigned below the 'b-' implied VR due to the following adjustment reason: Operating Environment (Negative).
+Banco del Austro's 'ccc+' VR has been assigned below the 'b-' implied VR due to the following adjustment reason: Risk Profile (negative).
+Pichincha, Guayaquil, Produbanco, Banco Procredit, and Austro: Fitch has assigned an Operating Environment score of 'ccc+' that is below the 'bb' category implied score due to the following adjustment reasons: Sovereign Rating (Negative).
+PFC's OE score has been assigned below the implied score due to the following adjustment reasons: International operations (negative).
+PFC's Business Profile score has been assigned above the implied score due to the following adjustments: Business Model (positive) and Market Position (positive).
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+Produbanco's SSR is linked to Promerica Financial Corporation's Long-Term IDR.
+Banco Procredit's SSR is linked to ProCredit Holding AG & Co. KGaA's Long-Term IDR.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Promerica Financial Corporation
+LT IDRB+ Affirmed
+
+
+B+ 
+ST IDRB Affirmed
+
+
+B 
+Viabilityb+ Affirmed
+
+
+b+ 
+Government Supportns Affirmed
+
+
+ns 
+senior secured
+LTB+ Affirmed
+RR4
+
+B+ 
+Banco Pichincha C.A. y Subsidiarias
+LT IDRCCC+ Downgrade
+
+
+B- 
+ST IDRC Downgrade
+
+
+B 
+Viabilityccc+ Downgrade
+
+
+b- 
+Government Supportns Affirmed
+
+
+ns 
+Banco del Austro S.A.
+LT IDRCCC+ Affirmed
+
+
+CCC+ 

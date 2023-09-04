@@ -1,0 +1,76 @@
+Fitch Downgrades Vornado Realty Trust to 'BB+'; Outlook Stable
+
+Fitch Ratings - New York - 18 Aug 2023: Fitch Ratings has downgraded the Issuer Default Ratings (IDRs) of Vornado Realty Trust (VNO) and Vornado Realty, LP to 'BB+' from 'BBB-'. The Rating Outlook is Stable.
+Fitch believes that VNO's leverage has been and is expected to remain at relatively high levels in relation to Fitch's expectations for other REITs at 'BBB' rating levels, even after consideration of the company's strong competitive position in high-quality Manhattan assets, significant access to institutional mortgage debt, and private equity capital. VNO's portfolio has faced challenges since the onset of the pandemic leading to weakening demand for office space and occupancy decreasing. Work-from-home trends have negatively affected New York property market fundamentals. To some extent, VNO's relatively high pre-pandemic occupancy rates and long-term leases with solid credit tenants have helped to balance this effect.
+The Stable Outlook reflects Fitch's expectation that VNO will operate with leverage within our sensitivities for the forecast horizon, given the possibility of lessening demand for office space going forward.
+KEY RATING DRIVERS
+Ongoing High Leverage: After operating above sensitivities in 2020 and 2021, VNO brought leverage down in 2022 with REIT leverage (net debt to recurring operating EBITDA) at 7.5x. Fitch expects that (re)development costs in the next two years on the Penn District projects, combined with a projected subdued recovery on underlying property operating fundamentals, will keep VNO's leverage at around the mid-high 7x level for the next couple of years. As Fitch anticipates more stabilization from the portfolio with further delivery of incremental NOI and completed (re)development spend, we expect to see a partial deleveraging effect, although still expect leverage to be relatively high, getting to around low-7x level within the outer year of Fitch's ratings forecast horizon.
+Solid Contingent Liquidity: New York City's superior commercial real estate (CRE) market characteristics have helped to mitigate VNO's market concentration risk historically. New York City is the largest and arguably most diverse office market in the U.S., if not the world. New York City CRE has historically demonstrated contingent liquidity characteristics due to institutional lender and investor demand that maintained an interest in high quality product. VNO's New York-centric portfolio has some diversification by CRE property type as retail is approximately 19% of NYC NOI (17% overall). In addition, the company's interests in the MART in Chicago and 555 California Street in San Francisco provide some geographic diversification and represented approximately 15% of NOI at 2Q23.
+Fitch estimates VNO's gross UA/UD at approximately 1.7x, based on a direct capitalization approach of its annualized 2Q23 unencumbered NOI, using a 7.75% stressed, through-the-cycle cap rate. Fitch usually views 2.0x UA/UD coverage as the standard threshold for investment-grade REITs. On an unsecured debt net of cash basis, UA/UD is 2.6x for 2Q23. VNO's UA/UD coverage is supported by high asset quality, less use of unsecured debt and strategy of placing higher loan-to-value ratios on encumbered properties.
+Above-Average Portfolio Quality: VNO wholly owns and has interests in high-quality, primarily New York City office properties with above peer-average occupancy rates and rents with long-term leases to solid credit tenants. The company also owns and operates a large street retail portfolio in key, supply-constrained Manhattan shopping corridors, such as upper Fifth Avenue and Times Square. VNO generates 85% of its NOI from its New York portfolio and 15% from select class A office properties in Chicago and San Francisco at 2Q23.
+VNO has a long (8.9 years for NYC office leases signed in 2022) weighted average lease duration, which minimizes rollover risk. The company's tenant credit profile is strong with moderate concentration. VNO's top-10 tenants generally have healthy credit profiles and comprise approximately 30% of annualized revenues.
+Minimal Near-Term Maturities: VNO has well-laddered maturities with modest nearer-term debt coming due. Three mortgages for a total of $291 million come due through the end of 2024 with a more sizable component of three mortgages ($855 million) and one unsecured note ($450 million) maturing in 2025.
+Office Leasing Pressure Could Remain: Fitch believes in-office work will remain a core tenet of corporate America. However, with employers adapting to more flexible working environments and hybrid arrangements, it is likely to result in tenants leasing less space than in prior periods, potentially leading to a slower recovery in leasing and rent growth than typically seen after a downturn. As a result, the recovery in underlying utilization of NYC office space has been somewhat muted to this point. Nonetheless, a distinguishing feature that has emerged since the pandemic is the relative strength of higher quality space with modern amenities, sustainability features, and locations near major transportation hubs, which should benefit VNO and REITs relative to other landlords.
+Complex Structure Reduces Visibility: VNO's business complexity remains above average, despite its efforts to streamline operations and increased financial reporting. VNO's active (re)development platform and considerable use of joint ventures (JVs) challenge investor ability to forecast cash flows and liquidity requirements.
+VNO has disposed of considerable non-core assets in recent years. This included the sale of ownership stakes in shares of other publicly traded REITs, Lexington Realty Trust, Urban Edge Properties, Pennsylvania REIT and the spin-out of JGB Smith.
+Moderate Development Risk: VNO has an active development pipeline; however, it has completed a majority of capital spend on its current projects thereby lowering execution risk. The company's unfunded commitments totaled 1.7% of gross assets at June 30, 2023. The company has taken steps to manage its development risk, including using JV equity, and committed non-recourse construction loans, and lease-up of assets prior to construction completion.
+The company maintains adequate liquidity, underpinned by $1.134 billion of cash and $1.925 billion available under its committed $2.5 billion unsecured revolving credit facilities as of June 30, 2023. However, some of the cash is earmarked for redevelopment projects.
+DERIVATION SUMMARY
+VNO owns and controls a concentrated portfolio comprised primarily of high-quality office and street retail assets in Manhattan with strong access to institutional mortgage debt and private equity capital. The company is a large and established REIT that is well known to equity investors but less active in the public unsecured bond market due to its greater acceptance and strategic use of secured mortgage debt. VNO's solid ratio of unencumbered assets to net unsecured debt and leverage levels provide additional credit protection.
+The company's New York-focused portfolio has better contingent liquidity from institutional lenders and investors than REIT peer, Corporate Office Properties Trust, albeit with higher leverage. The geographic concentration risk that VNO possesses through its large regional presence in New York is partially mitigated by the historical strength and economic diversity of Manhattan, the relatively higher rents than most other markets, and greater institutional preference for its portfolio. SL Green Realty Corp. is the most similar peer to VNO as it also has a predominant NYC office focus, although SLG historically has had more of a secondary suburban concentration, while also maintaining a debt and preferred equity investment portfolio.
+Fitch rates the IDRs of the parent REIT and subsidiary operating partnership on a consolidated basis, using the weak parent/strong subsidiary approach and open access and control factors, based on the entities operating as a single enterprise with strong legal and operational ties. Fitch applies 50% equity credit to the company's perpetual preferred securities given the cumulative nature of coupon deferral with settlement through a manner other than equity (cash). Certain metrics calculate leverage including preferred stock.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer
+-Low single-digit SSNOI overall property decline in 2023, which is driven by an assumed 25bps occupancy decline and higher operating expenses, followed by flat to low single-digit SSNOI growth in 2024-2025, based on low single digit rent spreads and recovering occupancy of approximately 25-50bps per annum;
+-VNO funds remaining Penn Plaza redevelopment project costs;
+-Fitch assumes ongoing incremental PENN 1 delivery contributions and PENN 2 delivery in 2025;
+-No incremental debt and equity raises other than refinancing secured mortgages and unsecured notes;
+-Fitch assumes $100 million of stock buybacks of VNO's $200 million share repurchase program is completed in 2023.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Fitch's expectation of REIT leverage (net debt to recurring operating EBITDA) sustaining below 7.0x;
+--Fitch's expectation of more consistent leverage and financial flexibility.
+--Fitch's expectation of UA/UD sustaining at or above 2.0x;
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Fitch's expectation of REIT leverage (net debt to recurring operating EBITDA) sustaining above 8.0x;
+--Fitch's expectation of UA/UD sustaining below 1.5x;
+--Fitch will evaluate the aforementioned sensitivities and consider revising them if should Fitch expects material and lasting changes to the cash flow profile and financeability of the assets;
+--Fitch's expectation of a sustained liquidity coverage ratio below 1.0x.
+The Stable Outlook is predicated upon VNO maintaining REIT leverage below 8x by 2024.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Adequate Liquidity Coverage: VNO's sources of liquidity (cash, availability under its revolving credit facility, retained cash flow after dividends/distributions) cover its uses (pro rata debt maturities, recurring capex, non-discretionary development expenditures) by 2.9x for the period July 1, 2023 through Dec. 31, 2024.
+Fitch's liquidity analysis includes VNO refinancing upcoming maturities within the mentioned periods above, which includes 435 Seventh Avenue and 606 Broadway for 2024 as there are no consolidated mortgages maturing in 2023. This reflects VNO's good access to a variety of capital sources over time, which meaningfully mitigates refinancing risk in Fitch's view. VNO's liquidity coverage improves to 3.6x under a scenario where the company refinances 80% of maturing pro rata secured debt. In addition, this liquidity incorporates the assumption of Vornado's funding of redevelopment costs by the end of 2024 as well as anticipated remaining share repurchases in 2023.
+As of June 30, 2023, VNO had adequate availability under two separate revolvers totaling $2.5 billion. A higher utilization than usual ($1.075 billion) was drawn down at March 31, 2020, although this was done as a cautionary measure to raise cash during the onset of the pandemic and was restored to a $575 million draw in 3Q20, where it has remained for the last 12 quarters. Historically, VNO has more frequently accessed the mortgage market than the unsecured bond market as a source of funds; however, in 2021, VNO executed two tranches of unsecured public green bond issuances. As of June 30, 2023, 69% of the company's consolidated debt was secured.
+ISSUER PROFILE
+VNO is a New York-based equity REIT that owns, acquires, develops, and manages a portfolio of primarily Manhattan office and, to a lesser extent street retail properties. The company also owns select Class A office assets in San Francisco and Chicago.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Vornado Realty Trust
+LT IDRBB+ Downgrade
+
+
+BBB- 
+preferred
+LTBB- Downgrade
+
+
+BB 
+Vornado Realty, LP
+LT IDRBB+ Downgrade
+
+
+BBB- 
+senior unsecured
+LTBB+ Downgrade
+RR4
+
+BBB- 

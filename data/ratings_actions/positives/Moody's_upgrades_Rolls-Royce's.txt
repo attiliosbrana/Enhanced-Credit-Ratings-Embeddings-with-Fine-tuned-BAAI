@@ -1,0 +1,48 @@
+Moody's upgrades Rolls-Royce's ratings to Ba2; maintains positive outlook
+London, August 08, 2023 -- Moody's Investors Service (Moody's) has today upgraded all the ratings of Rolls-Royce plc (the company) by one notch, including its corporate family rating (CFR) to Ba2 from Ba3 and its probability of default rating to Ba2-PD from Ba3-PD. The outlook remains positive.
+Today's rating action reflects:
+• The company's improved profit and free cash flow forecast for 2023, ahead of Moody's previous forecasts
+• The broad array of factors supporting the improved financial performance, thereby limiting the risk of material reversal
+• Solid recovery in commercial flying hours, with room to run, and strong aftermarket activity in commercial and business aviation
+Moody's has also upgraded the company's long-term backed senior unsecured rating to Ba2 from Ba3 and its backed senior unsecured Euro Medium Term Notes (EMTN) programme rating to (P)Ba2 from (P)Ba3.
+A full list of affected ratings can be found at the end of this press release.
+RATINGS RATIONALE
+Following a material upgrade to Rolls-Royce's financial guidance for 2023, Moody's expects that the company will generate stronger profit and cash flow growth, which will lead to a marked improvement in Rolls-Royce's credit ratios. Based on company-adjusted operating profit of around GBP1.2 billion, the rating agency now forecasts that Moody's-adjusted gross debt/EBITDA will decline towards 3.0x in 2023 from 5.3x at the end of 2022 and 7.4x a year earlier. Moody's also forecasts that its adjusted free cash flow (FCF) will grow to GBP0.8 billion in 2023 from GBP0.5 billion last year.
+While Moody's believes that Civil Aerospace and Defence performance in the first half of 2023 both benefited from a weak comparable period, drivers of improvement in the company's operating profit are manifold and will support a strong 2023 as a whole. Support factors include (i) better aftermarket profits coming from both higher volumes and increased pricing, (ii) cost control allowing for some operating leverage, (iii) positive mix effects such as higher spare engine and parts sales – which have a better margin – in both Civil and Defence.
+Rolls-Royce's large engine flying hours reached 83% of 2019 levels in the first half of 2023. Moody's expects that they will reach 85% for the full year 2023 and climb further to 95% in 2024. The increased flying activity is leading to a substantial increase in cash receipts from airlines, outpacing the growth in Rolls-Royce's cash costs from engine shop visits because of the relatively young engine installed base and the lag between increased flying hours and growth in maintenance. Continued strong aftermarket activity in 2024 will provide an opportunity for further profit growth but margins could come under pressure when more major shop visits take place, especially on the most recent engine platforms whose service contracts are less profitable initially. In addition, broad risks of cost increases remain as activity continues to recover and the benefits of materials and energy hedges taken in 2022 gradually roll away.
+The company's Ba2 CFR reflects: 1) high barriers to entry given the critical technological content of the company's engines; 2) strong growth expectations in commercial aerospace as the market continues to recover from the pandemic, alongside solid prospects in Defence and Power Systems; 3) the good performance of the company's Trent XWB and Trent 7000 engine programmes which represent the majority of future orders and installed engine base; 4) the strategic importance of Rolls-Royce to UK defence capabilities and to the aerospace supply chain; and 5) the company's commitment to a conservative financial policy.
+However, Rolls-Royce's CFR is constrained by: 1) margin levels still well below industry peers in the civil aerospace segment, reflecting the company's reliance on long-term service contracts; 2) supply chain challenges and persistent inflation which could cap profit improvements; 3) some concentration risk, given the company's small number of commercial aerospace engines for widebody aircraft; and 4) longer-term strategic challenges to maintain a competitive position on large commercial aero-engine programmes and to achieve profitable growth in new business segments.
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE CONSIDERATIONS
+Governance considerations were a key driver of this rating action. Rolls-Royce has built a track record of meeting its financial guidance since the depths of the pandemic and has materially increased its profit and cash flow expectations for 2023. Moody's now believes that the company has the ability to maintain positive free cash flow on a sustainable basis. Therefore, the rating agency has changed Rolls-Royce's governance issuer profile score to G-3 from G-4 thanks to an improved management credibility and track record factor.
+As a result, Moody's has also lifted Rolls-Royce's credit impact score to CIS-4 from CIS-5, reflecting the lower drag from governance factors in particular on its credit quality.
+LIQUIDITY
+Rolls-Royce's liquidity is excellent. As of 30 June 2023, the company's total liquidity amounted to GBP7.1 billion, comprising unrestricted cash of GBP2.6 billion, and GBP4.5 billion of undrawn credit facilities maturing between April 2025 and September 2027. Moody's expectation of material free cash flow in 2023 and beyond also enhances Rolls-Royce's liquidity. The company has increasing debt maturities from 2024, starting with €550 million notes maturing next year which Moody's expects Rolls-Royce to repay out of cash. In its liquidity assessment, Moody's considers the need for Rolls-Royce to maintain a comfortable cash balance in light of the large and growing net liabilities on commercial aerospace long term service contracts of GBP8.2 billion, in addition to seasonal working capital outflows of GBP0.5 billion – 1.0 billion.
+RATING OUTLOOK
+The positive outlook reflects Moody's expectations that Rolls-Royce has the potential to improve its trading results, cash flows and credit metrics in the next 12 to 18 months to levels commensurate with a higher rating. The outlook also assumes that the company will maintain a conservative financial policy targeting further reductions in leverage and will maintain substantial cash balances of at least GBP2.0 – 2.5 billion, alongside substantial liquidity.
+FACTORS THAT COULD LEAD TO AN UPGRADE OR DOWNGRADE OF THE RATINGS
+The ratings could be upgraded if:
+• Rolls-Royce builds a further track record of performance in line with or above guidance, and
+• The company demonstrates sustainable operating margin and interest coverage improvements, and
+• Moody's-adjusted gross leverage is sustainably well below 4.0x and net leverage declines in tandem, with substantial cash on balance sheet not decreasing below GBP2.5 billion, and
+• Moody's-adjusted free cash flow remains strong, and
+• Rolls-Royce maintains a conservative financial policy.
+The ratings could be downgraded if:
+• Moody's-adjusted debt/EBITDA increases towards 5.5x, especially if not sufficiently balanced by cash on balance sheet, or
+• Moody's-adjusted FCF/debt turns negative, or
+• Operating margins or interest cover metrics weaken, or
+• The business profile deteriorates, including the company's market positions, or lower than expected aftermarket profitability, or
+• Financial policy turns more aggressive, including on shareholder returns, in the absence of business performance improvements.
+LIST OF AFFECTED RATINGS
+Upgrades:
+..Issuer: Rolls-Royce plc
+.... Probability of Default Rating, Upgraded to Ba2-PD from Ba3-PD
+....LT Corporate Family Rating, Upgraded to Ba2 from Ba3
+....BACKED Senior Unsecured Medium-Term Note Program, Upgraded to (P)Ba2 from (P)Ba3
+....BACKED Senior Unsecured Regular Bond/Debenture, Upgraded to Ba2 from Ba3
+Outlook Actions:
+..Issuer: Rolls-Royce plc
+....Outlook, Remains Positive
+PRINCIPAL METHODOLOGY
+The principal methodology used in these ratings was Aerospace and Defense  published in October 2021 and available at https://ratings.moodys.com/rmc-documents/75735. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+COMPANY PROFILE
+Headquartered in London, England, Rolls-Royce is a leading global manufacturer of aero-engines, gas turbines and reciprocating engines with operations in three principal business segments -- Civil Aerospace, Defence and Power Systems. In the 12 months ended June 2023, the company reported revenue from continuing operations of GBP14.6 billion and company-adjusted operating profit of GBP1.4 billion.

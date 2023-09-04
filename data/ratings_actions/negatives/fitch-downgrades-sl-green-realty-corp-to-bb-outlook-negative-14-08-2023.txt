@@ -1,0 +1,94 @@
+Fitch Downgrades SL Green Realty Corp. to 'BB+'; Outlook Negative
+
+Fitch Ratings - New York - 14 Aug 2023: Fitch Ratings has downgraded SL Green Realty Corp.'s (SLG) Issuer Default Rating as well as the rating of its subsidiary, SL Green Operating Partnership, L.P., to 'BB+', from 'BBB-'. The Rating Outlook is Negative. Fitch has also assigned a 'BB+' rating with a Recovery Rating of 'RR4' to SL Green Operating Partnership's $425 million term loan with an October 2023 maturity and a six month as-of-right extension option to April 2024.
+Despite the expectation of stabilizing leverage, Fitch's ratings consider the low unencumbered asset coverage of unsecured debt (UA/UD), which has persisted meaningfully below 2.0x since the beginning of the Covid-19 pandemic, coinciding with SLG's transition to more of an asset management model. This is mitigated to some extent by SLG's credit strengths, including its relatively strong, high quality New York office portfolio that features above-average occupancy rates, long-term leases to solid credit tenants, and strong contingent liquidity from institutional lenders and investors.
+SLG's geographic portfolio concentration in the New York metro area, opportunistic capital-allocation strategy, shift towards more of an asset management strategy, and ownership of capital-intensive office properties also balance the company's credit positives. In addition, SLG is a less-established unsecured public bond borrower than many of its REIT peers and has recently been steering away from the incremental flexibility that an unsecured-borrowing strategy provides. Historically, the persistent strength and economic diversity of Manhattan and have helped to offset these risks.
+Resolution of the Negative Outlook would be considered through improvement in the UA/UD ratio and Fitch's expectation of SLG reaching the 2x level in the forecast horizon. This would be within the context of the evolving NYC office leasing and financing environment as office tenants assess future leasing requirements. The New York office leasing fundamentals, trends in UA/UD, overall leverage, and refinancing of maturing debt will be key factors in assessing the ratings going forward.
+KEY RATING DRIVERS
+Persisting Low Unencumbered Coverage: UA/UD coverage of below 2.0x historically hindered SLG's credit profile compared with similarly rated companies. As such, Fitch believes SLG has lower financial flexibility through its unencumbered portfolio, with near-term unencumbered asset coverage of unsecured debt (UA/UD) likely to remain considerably below 2.0x, although the company is anticipated to pay down incremental unsecured debt. Fitch estimates net UA/UD, calculated as unencumbered property NOI divided by a stressed 7.75% capitalization rate, was 1.2x at June 30, 2023, similar to net UA/UD of 1.2x at March 31, 2022; however, this is a significant decline from UA/UD net cash of 1.8x at Dec. 31, 2019.
+Fitch expects UA/UD to increase to around 1.5x by YE2023 due to a pay down of unsecured debt in 2023 from asset dispositions and SLG's One Madison partner contribution. Nonetheless, the expectation of SLG's transition towards more of an asset management model in coming years will make it increasingly difficult to grow UA/UD as the company will likely own fewer unencumbered assets prospectively.
+However, SLG's attempts to sell incremental assets could provide a path for UA/UD to increase towards 2.0x by YE2024 if the company is able to execute its disposition program and achieve anticipated debt refinancings as the company looks to further pay off unsecured debt.
+Fitch excludes non-property unencumbered assets such as SLG's debt and preferred equity portfolio from the UA/UD calculations, though Fitch does incorporate the presence of this portfolio qualitatively.
+Leverage Returning to Pre-Pandemic Levels: After the partial sale and deconsolidation of 245 Park, Fitch expects SLG's consolidated net debt to recurring operating EBITDA (REIT leverage) to subside around the mid-6x level through the forecast period. This is driven by debt repayment via a substantial disposition program and equity contribution from its One Madison JV partner, along with incremental income from the delivery of ongoing development projects, such as 760 Madison and One Madison.
+Leverage has been volatile recently as it was 10.1x for the year-ended Dec. 31, 2022, largely driven higher by the 245 Park acquisition in 3Q22 (although still would have been around 9x had the purchase been at the beginning of 2022), compared to 7.1x in 2021. However, Fitch sees SLG's high 2022 leverage level as temporary, as a partner was envisioned for the asset from the purchase outset, and was attained in June 2023 with Mori Trust buying a 49.9% stake. Therefore, Fitch believes this transaction and further planned debt paydowns will facilitate leverage returning to more historic levels.
+Above-Average Portfolio Quality: SLG wholly owns and has interests in high-quality, primarily New York City office properties with above- average occupancy rates and rents, as well as long-term leases to solid credit tenants. As of June 30, 2023, the company also owns and operates a street retail portfolio in key Manhattan shopping corridors, such as the Plaza District, SoHo and Times Square, as well as two residential New York City assets.
+The company's tenant credit profile is strong, with minimal concentration. SLG's top-10 tenants generally have healthy credit profiles and comprise approximately 23.8% of annualized revenues. SLG's portfolio has stronger contingent liquidity relative to most asset classes in other markets when considering Midtown Manhattan assets still remain in high demand by secured lenders and institutional investors as evidenced by the recent partial interest sale of 245 Park Avenue at approximately a 4% cap rate.
+Office Leasing Pressure: Fitch believes in-office work will remain a core tenet of corporate America. However, an increase of employers adapting to more flexible working environments and hybrid arrangements is likely to result in tenants leasing less space than in prior periods, potentially leading to a slower recovery in leasing and rent growth than typically seen after a downturn.
+The recovery in NYC office space has been somewhat muted to this point, though increased acceptance of workplace flexibility will ultimately impact leasing. Nonetheless, a distinguishing feature that has emerged since the pandemic is the relative strength of higher quality space in the leasing market characterized by modern amenities, sustainability features, and transit-centric locations. This should benefit SLG and REITs in general.
+Transition to Asset Management Model: Fitch expects SLG to pursue more of an asset management platform prospectively. This strategy shift presents more risk with regard to higher anticipated joint venture use and development exposure as well as leading to the potential of the company not seeking to avail itself to the unsecured debt market, which would result in reduced financial flexibility and capital access going forward.
+Asset Concentration and Development Risks: SLG holds asset concentration risk following its sell down of assets in recent years, resulting in decreased granularity, and increased joint venture and development risk. Nevertheless, SLG successfully executed the development and lease-up of its One Vanderbilt asset, although it now represents 15.2% of annual rent at SLG's share. The company has a 71% ownership stake, but is reported on an unconsolidated basis.
+Likewise, SLG is looking to replicate the One Vanderbilt development success at One Madison, which is one of its largest assets that was taken offline in 2020 to be redeveloped, representing incremental lease-up risk. SLG maintains a 25.5% ownership stake in One Madison, having sold two other interests in the project in a joint venture partnership; the asset is also reported on an unconsolidated basis. The asset is projected to begin generating meaningful income in 2025 and is 55.6% pre-leased as of June 30, 2023.
+DERIVATION SUMMARY
+SLG owns high-quality, primarily NYC office portfolios, with relatively high occupancy rates and long-term leases to solid-credit tenants. The company's New York-focused portfolio has better contingent liquidity from institutional lenders and investors than its peer, Corporate Office Properties.
+Historically, the persistent strength and economic diversity of Manhattan and its high rents help to mitigate the geographic concentration risk. In the past, SLG has approached ground-up development more opportunistically, rather than as a key component of its operating strategy, although higher perceived risk-adjusted returns from development has somewhat altered this approach in recent years.
+Vornado Realty Trust is the most similar peer to SLG due to its predominant NYC office focus, although Vornado historically has more of a consolidated development pipeline, and SLG has had a secondary suburban component in the past (and retains one asset), while also maintaining a debt and preferred equity investment portfolio.
+Fitch rates the IDRs of the parent REIT and subsidiary operating partnership on a consolidated basis, using the weak parent/strong subsidiary approach and open access and control factors, based on the entities operating as a single enterprise with strong legal and operational ties. Fitch applies 50% equity credit to the company's perpetual preferred securities given the cumulative nature of coupon deferral with settlement through a manner other than equity (cash). Certain metrics calculate leverage including preferred stock. No country ceiling or operating environment aspects impact the rating.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within The Rating Case for the Issuer:
+--Approximate flat GAAP to low single digit same-store net operating income (SSNOI) growth (0%-+1%) through the forecast period, which is derived by an assumption of 25-60bps occupancy gains in 2023-2024 and low-single-digit releasing spreads increases per annum;
+--Paydown of consolidated unsecured debt with One Madison partnership proceeds and dispositions;
+--Net dispositions of $1.75 billion in 2023 and $350 million in 2024;
+--No equity issued through forecast period and no incremental share repurchases;
+--Maintenance of current dividend.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Fitch's expectation of REIT leverage sustaining below 7.0x;
+--Fitch's expectation of UA/UD sustaining at or above 2.0x;
+--Proven and consistent capital management commensurate with a higher rating.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Fitch's expectation of REIT leverage sustaining above 8.0x;
+--Fitch's expectation of UA/UD sustaining below 1.5x;
+--Fitch will evaluate the aforementioned sensitivities and consider revising should it expect material and lasting changes to the cash flow profile and financeability of the assets;
+--Fitch's expectation of a sustained liquidity coverage ratio below 1.0x.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Relatively Weak Liquidity Coverage: Fitch estimates that SLG's sources of liquidity (cash, availability under its revolving credit facility, retained cash flow after dividends/distributions) cover its uses (pro rata debt maturities, recurring capex, nondiscretionary development expenditures) by 0.7x for July 1, 2023-Dec. 31, 2024, as the company has a considerable amount of near-term maturities. This includes the pro-rata share of all JV debt maturities as well as of-right extension options, which make the company's maturity schedule more manageable. Not including JV debt, Fitch estimates this liquidity ratio would be 1.4x over the next six quarters.
+The calculation does not assume SLG raises any external capital to repay debt maturities. Under a scenario where the company refinances 80% of maturing secured debt (including JV debt), SLG's liquidity coverage also improves to 1.4x.
+Overall, the company's weighted-average debt tenor is approximately 4.2 years as of June 30, 2023. The company intends to address upcoming maturities through incremental asset dispositions and refinancing of mortgages. In addition, in Fall 2023, SLG expects to receive approximately $577 million in equity contribution from its One Madison joint venture partners after the construction on the tower is completed.
+Fitch believes the issuer's demonstrated access to a variety of capital sources over time mitigates refinancing risk. Accordingly, in April 2023, SLG demonstrated access to capital despite the current constrained capital climate, in refinancing its 919 3rd Avenue asset for a similar $500 million gross amount, as what had been outstanding previously for approximately 100 bps higher interest rate (6.11% vs 5.12%) than what it had been before. The company has demonstrated progress on this front in the relatively choppy current environment.
+SLG's historically conservative common dividend policy supported its liquidity by allowing it to retain additional operating cash flow. The company's adjusted funds from operations pay-out ratio has trended moderately below the industry average and was 78.3% for TTM ended March 31, 2023.
+ISSUER PROFILE
+SL Green is a NYC-based office REIT that holds interests in 60 buildings totalling 33.1 million square feet. This included ownership interests in 28.8 million square feet of Manhattan buildings and 3.4 million square feet securing debt and preferred equity investments.
+SUMMARY OF FINANCIAL ADJUSTMENTS
+--Fitch adds back noncash stock-based compensation to recurring operating EBITDA;
+--Fitch calculates certain metrics before preferred stock, including REIT leverage;
+--Fitch adds cash distributions from unconsolidated joint ventures and subtracts distributions to non-controlling interests to calculate operating EBITDA.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+SL Green Operating Partnership, L.P.
+LT IDRBB+ Downgrade
+
+
+BBB- 
+senior unsecured
+LTBB+ Downgrade
+RR4
+
+BBB- 
+junior subordinated
+LTBB Downgrade
+RR5
+
+BB+ 
+senior unsecured
+LTBB+ New Rating
+RR4
+
+ SL Green Realty Corp.
+LT IDRBB+ Downgrade
+
+
+BBB- 
+preferred
+LTBB- Downgrade
+RR6
+
+BB 

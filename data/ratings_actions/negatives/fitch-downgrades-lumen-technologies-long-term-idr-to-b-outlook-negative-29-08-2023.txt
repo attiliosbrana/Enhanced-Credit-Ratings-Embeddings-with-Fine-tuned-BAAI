@@ -1,0 +1,116 @@
+Fitch Downgrades Lumen Technologies' Long-Term IDR to 'B-'; Outlook Negative
+
+Fitch Ratings - Chicago - 29 Aug 2023: Fitch Ratings has downgraded Lumen Technologies, Inc.'s and its subsidiaries' Long-Term Issuer Default Rating (IDR) to 'B-' from 'B'. The Rating Outlook remains Negative. Fitch has also downgraded by one notch the issue level ratings assigned to Lumen and its subsidiaries.
+The Rating action reflects the increased event risks and the overhang on Lumen's credit profile stemming from the company's disclosure of the formation of a bondholder group to discuss refinancing options and covenant compliance related to the application of proceeds received from the sale of the company's Latin American business as well as execution risks related to the company's ability to strengthen its operating profile.
+The combination of the large maturity wall with weak operating results calls into question the long-term sustainability of the company's capital structure and gives rise to an increasing potential of distressed debt exchanges in the event access to debt capital markets or other refinancing options becomes more restricted.
+KEY RATING DRIVERS
+Weaker-than-Expected Results: Fitch expects Lumen to experience a mid-to-high teens decline in pro forma EBITDA in 2023. Pro forma results primarily exclude the results from its Latin American business and its 20-state incumbent local exchange property, which were divested in August 2022 and October 2022, respectively.
+Contributing to the pressure are approximately $200 million to $250 million of headwinds from inflationary pressures and overhead costs associated with its 2022 divestitures that Lumen is working to eliminate. EBITDA is being affected by $150 million to $200 million of growth and optimization costs being implemented by the new management team, with the plan running through 2024.
+Rising 2023 Leverage Expectations: Lower than anticipated EBITDA is likely to push EBITDA leverage to low-to-mid 4x before declining after the sale of the EMEA business (expected in early 2024) and the subsequent reduction of debt according to Fitch's forecast. Leverage is expected to remain around this level as EBITDA stabilizes in late 2024 and potentially grows in 2025. There is a fair degree of execution risk around the new management team's plans to return the business to growth.
+Looming Maturities: Lumen has approximately $1.85 billion of debt scheduled to mature in 2025, which includes the $200 million outstanding on Lumen's revolving credit facility due January, 2025 and a more meaningful $9.4 billion of debt maturing in 2027. Fitch acknowledges that the company intends to use the proceeds received from its pending sale of its EMEA assets for $1.8 billion (approximately $1.5 billion net of cash taxes) to reduce debt maturities. Fitch believes if the company's operating profile fails to strengthen, the company's available options to address the maturity wall will diminish and the potential for distressed debt exchanges will become more prominent.
+Key Competitor in Business Services: Lumen operates in an industry where scale is a key factor, and is a top-three competitor in the business services market. AT&T Inc. (BBB+/Stable) is the largest in this segment, and Lumen's revenue base is similar in size to the comparable operations of Verizon Communications Inc. (A-/Stable). The company's network capabilities, in particular a strong metropolitan network, and a broad product and service portfolio emphasizing IP-based infrastructure and managed services, provide it with a solid base to grow enterprise segment revenue.
+Asset Sales' Effect on Credit Profile: The company announced the sale of its EMEA business held in November 2022 to Colt Technology Services Group Limited for $1.8 billion in cash, subject to closing adjustments. The transaction is expected to close as early as late 2023 following the receipt of regulatory approvals in the U.S. and the countries in which the EMEA business operates. Fitch anticipates the company will reduce debt with the net proceeds.
+Asset sales in 2022 are supportive of the credit profile. Lumen sold its Latin American business and certain incumbent local exchange (ILEC) properties in 2022, with a with a total value of approximately $10.2 billion, including $1.4 billion of Embarq debt assumed by the purchaser of the ILEC properties. The sales contributed to a $9.9 billion reduction in estimated net debt, after accounting for the $1.038 billion tax payment in 2023.
+Secular Challenges Facing Telecoms: In Fitch's view, Lumen continues to face secular challenges similar to other wireline operators. The company seeks to more aggressively address these challenges through increased investment in its enterprise and consumer fiber to the home businesses following asset sales. The company faces execution risk with regard to this strategy, but Fitch believes the investments have the potential to stabilize and eventually grow revenues.
+The ratings reflect the continued secular challenges faced by Lumen Technologies, Inc. and the effect on the company's revenue profile posed by migration to newer products and services from legacy offerings. Increased investments over the next year under growth and optimization programs, and, to some extent, inflationary factors will affect expected results. These factors are partly offset by the potential for improved longer-term competitive positioning and a refocusing on the enterprise business by the new management team, although the near term is not without execution risk.
+Parent-Subsidiary Relationship: Fitch equalizes the IDR of Lumen and Qwest Corporation and Level 3 Parent (the guarantor of its subsidiary Level 3 Financing's debt), based on a stronger subsidiary/weaker parent approach, based on open legal ring-fencing and open access and control.
+DERIVATION SUMMARY
+Lumen has a relatively strong competitive position based on the scale and size of its wireline operations in the enterprise/business services market. In this market, Lumen has a moderately smaller revenue position than AT&T Inc. and is similar in size to Verizon. All three companies have an advantage with national or multinational companies, given extensive footprints in the U.S. and abroad. Lumen has a larger enterprise business that notably differentiates it from other wireline operators, such as Windstream Services, LLC (B/Stable) and Frontier Communications Parent, Inc. (BB-/Negative).
+AT&T and Verizon maintain lower financial leverage, generate higher EBITDA and FCF, and have wireless offerings providing more service diversification compared with Lumen. FCF improved at Lumen due to the dividend reduction and cost synergies. Lumen has lower exposure to the residential market than wireline operators Frontier and Windstream. The residential market held up relatively well during the coronavirus pandemic, but continues to face secular challenges. Incumbent wireline operators face competition for residential broadband customers from cable operators. Lumen and other wireline operators are investing more aggressively in fiber in response to these threats.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within the Rating Case for the Issuer Include:
+--Organic revenues will decline in the mid-single digits in 2023, gradually improving to the low-single digits by the end of our 2023-2026 forecast period;
+--The sale of the EMEA business closes at the beginning of 2024 and the net proceeds from the sale are expected to be used to reduce debt;
+--EBITDA margins are expected to be a low 30% in 2023, gradually improving as growth and optimization programs in 2023 and 2024 end and as benefits of the programs are realized. EBITDA margins could approach the mid-30% by the end of the forecast period;
+--2023 capex to be toward the lower end of company guidance of $2.9 billion-$3.1 billion;
+--An increase in capital intensity to the low 20% as the company, reflective of enterprise capex, capex spent on growth and optimization programs, and spending on fiber. Fiber spending reflects the continued passing of more locations and success-based capex;
+--No stock repurchases.
+Key Recovery Rating Assumptions
+--The recovery analysis assumes that Lumen would be reorganized as a going-concern in bankruptcy rather than liquidated.
+--We have assumed as 10% administrative claim. The revolving facility is assumed to be fully drawn.
+Going-Concern (GC) Approach
+In estimating a distressed enterprise valuation (EV) for the three issuers in Lumen's capital structure, Fitch assumes that continued secular challenges cause pricing pressure in the company's Enterprise business, and there is a slower-than-anticipated uptake in growth products. These forces cause revenues and earnings to decline, prompting a restructuring.
+For Level 3, after a period of restructuring, Fitch assumes that EBITDA margins contract to approximately 28%, producing GC EBITDA of approximately $1.6 billion, pro forma for the sale of the EMEA business, reflecting Fitch's view of a sustainable, post reorganization EBITDA level, upon which the agency bases the EV.
+Fitch applies a 5.5x EV/EBITDA multiple to arrive at the GC EV of $8 billion for Level 3. The choice of this multiple considered the following factors:
+The multiple is slightly lower than the median TMT enterprise value multiple but is in line with other similar telecommunications companies that exhibit similar characteristics. Peers utilize EV/EBITDA multiples in the 4.5x-6.0x range.
+In the 2023 "Telecom, Media, and Technology Bankruptcy Enterprise Values and Credit Recoveries" case study, Fitch notes 13 Telecom and Cable bankruptcies and reorganizations with recovery multiples ranging from 3.7xto 18.2x. Of these companies, recent peers and close comparisons emerging from bankruptcy include Frontier Communications, Inc. with a multiple of 5.5x. Level 3 has a modern fiber network, unlike some peers that emerged from bankruptcy a decade or more ago.
+The allocation of GC EV under the liability waterfall results in the first lien senior secured debt attaining a 'RR1' recovery, and senior unsecured debt achieving a 'RR3' recovery.
+For Qwest Corp., after restructuring we assume that EBITDA margins contract to approximately 46% from 56% in 2022, producing GC EBITDA of approximately $2.7 billion, reflecting Fitch's view of a sustainable, post reorganization EBITDA level upon which Fitch bases the EV.
+Fitch applies a 5.0x EV/EBITDA multiple at Qwest Corp. to arrive at the GC EV of $12.0 billion. Fitch has applied a lower multiple to reflect the secular pressures in the local part of the business.
+The allocation of GC EV under the liability waterfall results in the senior unsecured debt achieving a 'RR1' recovery. The unsecured debt at Qwest Corp. is structurally senior within Lumen's capital structure, leading the'RR1' recovery rating. There is approximately $9.8 billion of residual value at Qwest Corp.
+Fitch assumes there is no EBITDA at Lumen, as Level 3 and Qwest Corp. generate a substantial majority of consolidated EBITDA and certain corporate costs offset EBITDA generated by the small level of operations outside of the two largest subsidiaries.
+Fitch assumes there are no administrative claims at the Lumen level given such claims have been applied at the two issuing subsidiaries. The $9.8 billion of residual Qwest Corp. value flows up to Qwest Services Corporation, which provides a senior secured debt guarantee to Lumen's first lien debt, resulting in Lumen's first lien senior secured debt, including the full draw on the revolver, achieving a 'RR1' recovery. There is sufficient residual value after the recovery on the first lien debt at Lumen such that the senior unsecured guarantee provided by Qwest Communications International to Qwest Capital Funding leads to a 'RR1' recovery. Thereafter, the remaining value in the liability waterfall is available to Lumen's senior unsecured debt, leading to a 'RR5' recovery.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+--Demonstrating a stabilizing operating profile by reporting consistent EBITDA, EBITDA margin and FCF growth;
+--Successfully addressing the scheduled 2025 maturities with the pending EMEA asset sale and the articulation of a plan to address the 2027 maturities;
+--EBITDA leverage remaining at or below 4.5x, while consistently generating positive FCF margins in the mid-single digits.
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+--A weakening of Lumen's operating results, including the deteriorating margins and consistent mid-single digit or greater revenue erosion brought on by difficult economic conditions or competitive pressures the company is unable to offset through cost reductions;
+--Failure to close the EMEA asset sale or otherwise address the 2025 scheduled maturities or any other event that increases the likelihood of a distressed debt exchange;
+--Discretionary management decisions, including but not limited to execution of M&A activity or a shift in capital allocation priorities that increases EBITDA leverage beyond 5.5x in the absence of a credible deleveraging plan.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Adequate Liquidity: Lumen's cash and cash equivalents totaled $411 million as of June 30, 2023, reflecting a decline relative to the $1.251 billion of cash on hand as of Dec. 31, 2022. Fitch notes material use of cash related to tax payments related to the 2022 divestitures. Total debt as of June 30, 2023 was approximately $19.9 billion, reflecting a modest decline from $20.431 billion as of Dec. 31, 2022 before finance leases, unamortized discounts, debt issuance costs and other adjustments. The credit agreement was amended and restated in January 2020. The $2.2 billion senior secured revolving credit facility is set to mature in January 2025 and had approximately $200 million outstanding as of June 30, 2023. Lumen's secured credit facility benefits from secured guarantees by Qwest Communications International Inc., Qwest Services Corporation, CenturyTel Holdings, Inc., and Wildcat Holdco LLC. Qwest Capital Funding is an unsecured debt guarantor.
+The largest regulated subsidiary, Qwest Corp., does not guarantee Lumen's secured facility, nor does Level 3 Parent. The Lumen senior secured notes are guaranteed by the same subsidiaries guaranteeing the senior secured credit facilities and will be secured by the same collateral.
+The secured revolving credit facility and term loan A limit Lumen's gross debt/EBITDA to no more than 4.75x. The current credit agreement requires cash interest coverage to be no less than 2.0x. The company is subject to an excess cash flow sweep of 50%, with step downs to 25% and 0%, at total leverage of 3.5x and 3.0x, respectively. The excess cash flow calculation provides credit for voluntary prepayments and certain other investments.
+ISSUER PROFILE
+Lumen Technologies, Inc. is one of the largest wireline providers in the U.S. with a strong presence in the enterprise market, including multinational corporations, large enterprises, small and medium-sized businesses, governments and other carriers on a wholesale basis.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Level 3 Parent, LLC
+LT IDRB- Downgrade
+
+
+B 
+Level 3 Financing, Inc.
+LT IDRB- Downgrade
+
+
+B 
+senior unsecured
+LTB Downgrade
+RR3
+
+B+ 
+senior secured
+LTBB- Downgrade
+RR1
+
+BB 
+Qwest Communications International Inc.
+LT IDRB- Downgrade
+
+
+B 
+Qwest Capital Funding, Inc.
+ 
+
+  senior unsecured
+LTBB- Downgrade
+RR1
+
+BB 
+Lumen Technologies, Inc.
+LT IDRB- Downgrade
+
+
+B 
+senior unsecured
+LTCCC+ Downgrade
+RR5
+
+B- 
+senior secured
+LTBB- Downgrade
+RR1
+
+BB 

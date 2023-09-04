@@ -1,0 +1,74 @@
+Fitch Affirms Punjab National Bank at 'BBB‐'; Upgrades VR to 'b+'
+
+Fitch Ratings - Singapore/Mumbai - 31 Aug 2023: Fitch Ratings has affirmed India-based Punjab National Bank's (PNB) Long-Term Issuer Default Rating (IDR) at 'BBB-'. The Outlook is Stable.
+Fitch has also affirmed the bank's Government Support Rating (GSR) at 'bbb-' while upgrading the Viability Rating (VR) to 'b+' from 'b'. A full list of rating actions is below.
+KEY RATING DRIVERS
+Support Underpins IDR, VR Upgraded: PNB's Long-Term IDR is driven by its GSR of 'bbb-', which is above the VR, reflecting Fitch's expectation of a high probability of extraordinary state support for the bank, if required. The Stable Outlook on the IDR mirrors the Outlook on the Indian sovereign's IDR (BBB-/Stable).
+Fitch upgraded PNB's VR on improvement in its asset quality and earnings from relatively stressed levels. We expect these improvements to be sustainable in an improved operating environment (OE). Even so, PNB's VR is a notch below the implied VR of 'bb-' because Fitch believes the bank's risk profile has a greater impact on the VR than implied by its weighting.
+High Systemic Importance: PNB's GSR factors in its systemic importance due to its large size with a market share of 6% in sector assets and 7% in deposits, and the state's 73% ownership. PNB also plays a quasi-policy role through social lending.
+Risk Profile Underpins VR: PNB's risk profile has a high influence on the VR, given the bank's risk appetite was significantly higher during the previous credit cycle, which exacerbated the negative effect on the bank's key financial metrics during a less benign OE. PNB's risk profile will remain an important rating factor as the bank pursues higher loan growth with a focus on retail loans. We expect risk appetite to gradually increase, which would test its underwriting standards and risk controls.
+Supportive OE: Fitch has revised the OE score to 'bb+' from 'bb' reflecting our view of structural improvements since the onset of the pandemic. The agency forecasts India to be one of the fastest-growing Fitch-rated sovereigns globally this fiscal year. Healthy business sentiment, resilient financial markets and the government's capital spending can buffer global economic headwinds and inflation.
+Importantly, India also exhibits robust medium-term growth potential, supported by resilient investment prospects. Combined with an already large and diversified economy, we believe the environment is conducive for banks to do consistently profitable business, provided risks are well-managed.
+Large Domestic Franchise: We believe the bank's large franchise will support profitable business generation commensurate with the 'bb+' business profile score, provided risks are controlled. PNB's risk appetite has weighed on its traditional business profile - partly under government influence, similar to other state banks - and, to a greater extent, its risk profile. This had resulted in earnings volatility over the previous cycle, which has eased amid risk aversion and ongoing clean-up of bad loans.
+Asset Quality Pressures Easing: Fitch has revised PNB's asset-quality score to 'b' from 'b-', reflecting less pressure on asset quality. PNB's impaired-loan ratio fell to 7.7% in the first three months of the financial year ending March 2024 (1QFY24), from 8.7% at FYE23, as recent bad loans were more than offset by steady recoveries and write-offs. The ratio is still above the industry average, but PNB's specific loan-loss cover has improved. The outlook is positive, as we expect the core metric to fall further.
+Credit Cost Remains Key: Fitch has revised PNB's earnings and profitability score to 'b' from 'b-', given the improvement in profitability. The operating profit/risk-weighted assets (RWA) ratio rose to 1.2% by end-1QFY24, from 0.7% at FYE23, as wider margins, steady loan growth and better treasury profits more than offset credit costs (1QFY24: 2% of loans; FY20: 2.9%). The outlook is positive, as we expect the core metric to improve further, and drive the four-year average towards the 'bb' threshold of 1.25%.
+Stable, Moderate Capitalisation: Fitch estimates that PNB's common equity Tier 1 (CET1) ratio was 11.0% at end-1QFY24 (including profit), or 300bp above the regulatory minimum. The ratio has been stable at current levels in recent years, as better internal capital generation and moderate amounts of fresh equity capital offset higher loan growth and dividends. The net impaired loans/CET1 ratio has declined but at 23.6% remains above that of most peers, implying that capital can be vulnerable in case of unexpected losses, as PNB's financial performance has been cyclical.
+Robust Funding and Liquidity: We estimate that loans/customer deposits normalised to 74% by end-1QFY24, from 72% in FYE23. Funding remains a strength, driven by high depositor confidence due to PNB's close state linkages. This is reflected in the high share of customer deposits (92%) in total funding. The bank has sufficient liquidity, reflected in its liquidity coverage ratio of 162% in FY23.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+IDR AND GSR
+The GSR is most sensitive to Fitch's assessment of the government's propensity and ability to support PNB, based on its size, systemic importance and linkages to the state. Weakening of the government's ability to provide extraordinary support - reflected in negative action on India's sovereign ratings - would likely lead to negative action on the IDR.
+Negative action on the Long-Term IDRs is also likely should Fitch perceive any reduction in the government's propensity to extend timely support, in which case the agency would reassess the GSR, and in turn, the bank's Long-Term IDR, although that is not our base case.
+VR
+We expect PNB's VR to be stable in the near term, although it is below the implied VR. A downgrade is less likely in our base scenario, but possible if there is significant deterioration in the OE, or if the bank's risk profile becomes a more binding constraint on its modest loss-absorption buffers, reflected in a significant deterioration in key financial parameters, such as those mentioned below:
+- the four-year average impaired-loan ratio approaching 15% (current: 12.2%);
+- resurgence of losses, putting PNB's structural profitability in doubt; and
+- a significant drop in PNB's CET1 ratio from current levels closer to the regulatory minimum of 8%, without a credible plan to restore it closer to Fitch's 'bb' threshold.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+IDR AND GSR
+Positive sovereign rating action would lead to a corresponding change to PNB's Long-Term IDR, if Fitch believes that the sovereign's ability and propensity to support the bank has improved. However, an upgrade of the sovereign rating appears unlikely in the near term. A VR upgrade is unlikely to affect the IDR, as it is four notches below the IDR.
+VR
+A VR upgrade is less likely in the near term, but possible if we revise upwards our assessment of its key rating factors, particularly if we assess that the bank's risk profile has improved more meaningfully and sustainably. It could also manifest in stronger key financial metrics, such as those mentioned below:
+- the CET1 ratio is sustained above Fitch's 'bb' threshold;
+- the four-year average impaired-loan ratio nears 5%;
+- the four-year average operating profit/RWA ratio is sustained above 1.25% along with lower earnings volatility.
+PNB's risk profile will also remain an important consideration in determining whether the improvements to its financial metrics can be sustained.
+OTHER DEBT AND ISSUER RATINGS: KEY RATING DRIVERS
+PNB's Long-Term IDR (xgs) is driven by its VR. Its Short-Term IDR (xgs) is in accordance with its Long-Term IDR (xgs) and the short-term rating mapping outlined in Fitch's criteria.
+OTHER DEBT AND ISSUER RATINGS: RATING SENSITIVITIES
+PNB's Long-Term IDR (xgs) will move in tandem with its VR. Its Short-Term IDR (xgs) is sensitive to changes in its Long-Term IDR (xgs) and is mapped in line with Fitch's criteria.
+VR ADJUSTMENTS
+PNB's VR is one notch lower than Fitch's implied VR. Fitch has used the risk profile as a negative adjustment factor to arrive at the assigned VR, as we believe that the bank's risk profile continues to have a greater impact on the VR than suggested by the weighting.
+The OE score of 'bb+' has been assigned above the implied category of 'b' for the following adjustment reasons: economic performance, and size and structure of the economy (positive).
+The business profile score of 'bb+' has been assigned below the implied category of 'bbb' for the following adjustment reason: management and governance (negative).
+The funding and liquidity score of 'bbb-' has been assigned above the implied category of 'bb' for the following reason: deposit structure (positive).
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+Sources of Information
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+PNB's IDRs and the Outlook are the same as India's sovereign rating and is thus directly linked with the sovereign IDR via the bank's GSR, which reflects our view of the probability of extraordinary state support, should there be a need.
+ESG CONSIDERATIONS
+PNB has an ESG Relevance Score of '4' for Governance Structure, in line with other state banks. This reflects our assessment that key governance aspects, in particular board independence and effectiveness, ownership concentration and protection of creditor or stakeholder rights, have a moderate, yet negative, influence on PNB's credit profile, and are relevant to the ratings in conjunction with other factors.
+Similar to our view of other state banks, we believe PNB's governance is less developed, evident from its significant lending to higher‐risk borrowers and instances of weak oversight, which in PNB's case, has led to above-peer levels of stressed loans and credit losses. The board is dominated by government appointees, and its business model is often focused on supporting government strategies, with lending directed towards promoting social and economic policies, which may include lending to government‐owned companies. These factors also drive our view on the bank's state linkages, which affect support prospects that determine the long‐term ratings.
+Fitch has revised PNB's ESG Relevance Score for Financial Transparency to the sector default score of '3' from '4'. The change primarily highlights the change in Fitch's view that risks from Covid-affected loans under forbearance have receded, despite some limitation in disclosure for those loans. This is because we believe that a large proportion of those stressed loans may actually be covered by government guarantee, which materially minimises the risk of losses from this portfolio. In addition, the quality and frequency of financial reporting and audit processes are commensurate with a score of '3', and does not weight materially on our assessment of their intrinsic creditworthiness.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Punjab National Bank
+LT IDRBBB- Affirmed
+BBB- 
+ST IDRF3 Affirmed
+F3 
+Viabilityb+ Upgrade
+b 
+Government Supportbbb- Affirmed
+bbb- 
+LT IDR (xgs)B+(xgs) Upgrade
+B(xgs) 
+ST IDR (xgs)B(xgs) Affirmed
+B(xgs) 

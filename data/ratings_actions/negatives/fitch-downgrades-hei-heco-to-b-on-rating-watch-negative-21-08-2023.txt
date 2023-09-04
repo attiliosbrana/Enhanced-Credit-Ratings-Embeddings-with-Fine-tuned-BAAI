@@ -1,0 +1,135 @@
+Fitch Downgrades HEI and HECO to 'B'; On Rating Watch Negative
+
+Fitch Ratings - New York - 21 Aug 2023: Fitch Ratings has downgraded Hawaiian Electric Industries, Inc.'s (HEI) Long-Term Issuer Default Rating (IDR) to 'B' from 'BBB+' and Hawaiian Electric Company, Inc.'s (HECO) Long-Term IDR to 'B' from 'A-'. Fitch has also downgraded both HEI's and HECO's Short-Term IDRs to 'B' from 'F2'.
+Fitch has downgraded the senior unsecured debt at HECO to 'B+' from 'A' with a Recovery Rating (RR) of 3. Fitch has additionally assigned first-time Long-Term IDRs of 'B' to HECO's wholly owned utility subsidiaries, Maui Electric Company, Limited (MECO) and Hawaii Electric Light Company, Inc. (HELCO). HECO guarantees the senior unsecured debt of both MECO and HELCO. Fitch has downgraded the senior unsecured debt at MECO to 'B+'/'RR3' from 'A' and senior unsecured debt at HELCO to 'BB-'/'RR2' from 'A'. 'RR2' implies superior recovery (71%-90%) and 'RR3' implies good recovery (51%-70%) in the event of default. The ratings of HEI, HECO, MECO and HELCO have been placed on Rating Watch Negative. A full list of rating actions follows at the end of this release.
+The rating action reflects potential exposure to large third-party wildfire-related liabilities if utility equipment is determined to have ignited recent wildfires in Maui and the utility is deemed responsible for such claims under applicable negligence standards. Fitch believes HECO and its subsidiary utilities' access to capital at a reasonable cost is uncertain, given the magnitude of the potential liabilities associated with the wildfires. Confirmed deaths resulting from the unfolding disaster exceed 100 and more than 2,200 structures have reportedly destroyed. Fitch believes potential liabilities to the utility could approximate upwards of $3.8 billion representing an existential threat to the company, barring substantial regulatory/legislative support.
+The rating action also reflect costs to rebuild MECO's damaged electric infrastructure, which could come at a material cost to MECO's customer base of approximately 74,000 customers and adversely affect the financial profile of MECO and HECO in the near-term.
+KEY RATING DRIVERS
+Devastating Maui Wildfires: Wildfires ignited Aug. 8, 2023 on the Hawaiian island of Maui are among the deadliest in modern U.S. history. Based on recent reports, the death toll stands at over 100 and more than 2,200 structures have been destroyed. As of Aug. 20, 2023, the utility has restored more than 80% of customers capable of receiving service restoration and remains focused on restoring the remaining 1,800 customers.
+Third-Party Liabilities: Multiple lawsuits have been filed against HECO and MECO alleging negligence. While the official cause of fires is yet to be determined, several investigations are underway with results from these investigations likely to be disclosed in the coming 6 months-12 months. If the investigations determine that utility equipment sparked the wildfires and the utility is deemed to be negligent in a court of law, Fitch believes HECO and MECO may be subject to large third-party liabilities in a process that would take several years
+Significant Potential Financial Impact: Fitch estimates utilities' exposure to third-party liabilities of approximately $3.8 billion, recognizing the fluid nature of wildfire risks and exposures and the possibility that higher total liabilities cannot be ruled out. Recent pressure on HEI equity as well as on HEI and subsidiaries' debt instruments underscores concern regarding the companies' access to capital at a reasonable price. HECO had just under $350 million of cash and cash equivalents and borrowing capacity on its RCF as of June 30, 2023, and $100 million of senior notes are scheduled to mature in November 2023. HEI had $170 million of cash and cash equivalents and $129 million of borrowing capacity on its RCF as of June 30, 2023 and no debt maturities in 2023 and 2024.
+Rebuilding Looms Ahead: The destruction in Maui Electric's service territory will require a multi-year rebuilding effort with material capital costs relative to the size of MECO. As of YE 2022, Maui's rate base was approximately $560 million and it served approximately 74,000 customers. The company has not disclosed its property and liability insurance coverage; the coverage is likely to be modest in Fitch's view given the size of the utility. The rebuild and additional investment to protect the system from future wildfires will likely to be challenging due the overhang of large potential third-party liabilities and a higher cost of capital.
+Credit Quality of HELCO and MECO: HELCO and MECO are wholly owned subsidiaries of HECO. HECO guarantees all of the outstanding debt of HECO and MECO. HELCO operates a fully regulated electric utility with a relatively small rate base of $573 million catering to around 89,000 customers on the island of Hawaii. MECO operates a fully regulated electric utility with a relatively small rate base of $560 million catering to around 74,000 customers in Maui, Lanai and Molokai. The allowed ROE for both HELCO and MECO is 9.5%, in line with the national average, while their allowed equity ratio of 58% is above the national average.
+Fitch views the performance-based approach in Hawaii as a relatively stable rate setting framework for these utilities. Both HELCO and MECO meet their liquidity needs through the short-term borrowings at HECO. HELCO had cash of $36 million as of June 30, 2023 and has $20 million of debt maturing in November 2023. MECO had cash of $37 million as of June 30, 2023 and has $30 million of debt maturing in November 2023.
+Recovery Analysis: Fitch has utilized a bespoke recovery analysis to arrive at debt instrument ratings of HECO and its subsidiaries. In a hypothetical default scenario, where the utility equipment is deemed to have ignited the fire, limited access to capital markets due to threat of significant wildfire liabilities drives HECO and its utility subsidiaries to file for bankruptcy.
+Fitch utilizes expected 2023 rate base for HECO, MECO and HELCO to determine the going concern enterprise value of these entities. Fitch has assumed $3.8 billion of wildfire-related claims are lodged jointly and severally against HECO and MECO and these claims are expected to be pari passu with their outstanding unsecured obligations.
+For HELCO, Fitch has assumed a going concern enterprise value of $630 million and 10% administrative claims. The Recovery Rating for HELCO's senior unsecured debt is capped at RR2 in accordance with Fitch's Corporates Recovery Ratings and Instrument Ratings Criteria.
+Fitch has assumed a going concern enterprise value of $615 million for MECO, which after deducting 10% administrative claims, is applied to the unsecured wildfire liabilities and unsecured debt obligations. The Recovery Ratings for MECO's unsecured debt also reflect the unsecured guarantee from HECO resulting in a 'RR3' rating.
+For HECO, Fitch has assumed a going concern enterprise value of $3.2 billion, which includes residual equity value from HELCO. After deducting 10% administrative claims, the enterprise value is applied to the remaining unsecured wildfire liabilities, HECO's unsecured debt obligations and remaining MECO's unsecured debt claims, on a pari basis.
+Please refer to the ESG Considerations section for ESG Relevance factors that are Key Rating Drivers.
+DERIVATION SUMMARY
+HEI is primarily comparable to the utility holding company, PG&E Corporation (PCG; BB+/Stable) in terms of exposure to wildfire risks. In addition, both HEI and PCG are utility holding companies operating in a single state with generally supportive rate regulation. Fitch expects that HECO will focus on wildfire mitigation in an effort to prevent future catastrophic wildfires. These efforts notwithstanding, Fitch believes the risk of catastrophic wildfire significantly heightens HECO and its subsidiaries business risk.
+Similar to HEI and MECO today, PCG's wholly-owned utility subsidiary, Pacific Gas & Electric Company (PG&E), experienced devastating wildfires in 2017-2018. In the case of PCG/PG&E, potential third-party liabilities and financial pressures were accelerated by inverse condemnation resulting in a liquidity crisis that ultimately forced the utility and its parent to file for protection under Chapter 11 of the U.S. Bankruptcy Code. Since inverse condemnation does not apply in Hawaii, the determination and ultimate payment of potential liabilities related to the fires, if any, is expected to take several years.
+For MECO, there has yet to be a determination that the utility's equipment was involved in ignition of the Maui wildfires. Fitch believes it will take several years for the courts to judge the prudence of the utility's actions, if MECO's equipment is deemed to have caused the wildfires. Nonetheless, the overhang of billions of dollars of potential wildfire liabilities combined with other potential adverse impacts from the wildfires has significantly pressured HECO's access to capital at reasonable rates. The higher cost of capital comes at a time when the need for HECO to invest to rebuild parts of its system and mitigate future wildfire risk is acute and expected to result in significantly higher capex and operating costs.
+HECO is much smaller than PG&E, which ranks among the largest utilities in the U.S. In its 2019 restructuring, PCG and PG&E utilized an estimated rate base value of approximately $29 billion for 2020 and agreed to pay roughly $25.5 billion of wildfire-related liabilities to fire victims and others. PCG and PG&E emerged from bankruptcy in July 2020.
+While there has been no determination that utility equipment of MECO ignited the Maui wildfires, nor any ruling regarding the prudence of the utility's actions, actual wildfire liabilities could exceed Fitch's projected $3.8 billion. HECO's consolidated rate base was $3.7 billion at YE 2022.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer Include:
+--Exposure to third-party and other liabilities of approximately $3.8 billion;
+--In the absence of any information on the magnitude of financial impact on HEI and HECO, no fresh financial assumptions have been made by Fitch as of now. However, Fitch expect the Maui wildfires will have a very meaningful impact on HEI and HECO's credit metrics.
+As considered at the time of the last rating action in July 2023
+--HECO capex of about $380 million on average over 2023-2024; increasing to a mid-point of $430 million in 2025;
+--HECO capital structure of about 57% common equity/capital, with debt issuances and equity contributions as needed to maintain regulatory capital structure;
+--HECO's ROE lag of around 100 bps-110 bps through 2025;
+--Modest contribution from PIMs in 2023-2025 ($3 million on average annually);
+--$6.6 million rate refund annual from 2023-2025 based on annual savings per the accelerated Management Audit commitment;
+--No equity issuance over the forecast period;
+--To better represent the risk to the consolidated company, Fitch deconsolidates the bank and adds the contributions as recurring dividends to HEI. Assume on average $65 million of annual dividend payment from the bank from 2023-2025.
+RATING SENSITIVITIES
+Hawaiian Electric Industries, Inc.
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--A conclusive determination that utility equipment was not involved in the ignition of recent wildfires in Maui would lead to removal of Rating Watch Negative and meaningful upward revision of ratings. However, ratings are unlikely to be restored at prior levels due to heightened risk arising from increasing wildfire activity in utility subsidiaries' service territory and incremental cost of rebuilding MECO's damaged infrastructure, which is expected to pressure MECO's and consolidated HECO's credit metrics.
+--Tangible evidence of state regulatory and legislative support to mitigate financial risk for the utility subsidiaries against potential large wildfire related claims and rebuilding costs.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Financial liability arising from state investigations or adverse rulings on the lawsuits without a path to timely recovery of such costs could lead to multi-notch downgrades depending on the involvement of utility equipment igniting the Hawaii fires, if any, and the magnitude of associated liabilities;
+--Lack of regulatory support and mechanisms for timely recovery of wildfire related asset restoration costs in a credit supportive manner;
+--Further deterioration in liquidity headroom arising out of tightening access to capital markets;
+--Inability to upstream required dividends from American Savings Bank, its wholly owned bank subsidiary.
+Hawaiian Electric Company, Inc.
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--A conclusive determination that utility equipment was not involved in the ignition of recent wildfires in Maui would lead to removal of Rating Watch Negative and meaningful upward revision of ratings. However, ratings are unlikely to be restored at prior levels due to heightened risk arising from increasing wildfire activity in its service territory and cost of rebuilding the damaged infrastructure from the recent Maui wildfires, which is expected to pressure MECO's and consolidated HECO's credit metrics.
+--Tangible evidence of state regulatory and legislative support to mitigate financial risk against potential large wildfire related claims and rebuilding costs.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Financial liability arising from the state investigations or adverse rulings on the lawsuits without a path to timely recovery of such costs could lead to multi-notch downgrades depending on the involvement of utility equipment in igniting the Hawaii fires, if any, and the magnitude of associated liabilities;
+--Lack of regulatory support and mechanisms for timely recovery of wildfire related asset restoration costs in a credit supportive manner;
+--Further deterioration in liquidity headroom arising out of tightening access to capital markets;
+--Determination of the magnitude of wildfire related liabilities that exceeds Fitch's current estimates could lead to diminished recovery for unsecured debt obligations leading to negative rating actions.
+Maui Electric Company, Limited
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Positive ratings actions at HECO.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Negative ratings action at HECO;
+--Determination of the magnitude of wildfire related liabilities that exceeds Fitch's current estimates could lead to diminished recovery for unsecured debt obligations leading to negative rating actions.
+Hawaii Electric Light Company, Inc.
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Positive ratings actions at HECO.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Negative ratings action at HECO.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Both HECO and HEI have sufficient near-term liquidity. HEI had available cash of $170 million and a $175 million revolving credit facility with borrowing capacity of $129 million available as of June 30, 2023. HECO had available cash of $144 million and its $200 million revolving credit facility was fully available for borrowings as of June 30, 2023.
+HEI has no debt maturities in 2023 and 2024 while HECO has a $100 million maturing in 2023 and no debt maturity in 2024. Under the terms of HEI's RCF, if HEI no longer owns HECO it would constitute an event of default.
+HELCO had cash of $36 million as of June 30, 2023 and has $20 million of debt maturing in November 2023. MECO had cash of $37 million as of June 30, 2023 and has $30 million of debt maturing in November 2023.
+ISSUER PROFILE
+HEI is a parent holding company of integrated regulated electric utility HECO and ASB, a bank, and Pacific Current. HECO, MECO and HELCO are engaged in the generation, purchase, transmission, distribution and sale of electric energy in Hawaii. ASB is the third largest bank in Hawaii with $9.6 billion in assets and $8.2 billion in deposits. Pacific Current invests in non-regulated clean energy in Hawaii.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+HEI and HECO have an ESG Relevance Score of '5' for Customer Welfare - Fair Messaging, Privacy & Data Security due to the uncertainty on involvement of HECO's equipment in sparking the Maui wildfires and the devastation caused to its customers, which has a negative impact on the credit profile, and is highly relevant to the rating, resulting in implicitly lower ratings.
+HEI and HECO have an ESG Relevance Score of '5' for Exposure to Environmental Impacts due to heightened risk from wildfires and the uncertainty on utility-sparked wildfires, which has a negative impact on the credit profile, and is highly relevant to the rating, resulting in implicitly lower ratings.
+HEI and HECO have an ESG Relevance Score of '5' for Exposure to Social Impacts due to adverse customer and other constituent impacts associated with unusual wildfire activity in Hawaii, which has a negative impact on the credit profile, and is highly relevant to the rating, resulting in implicitly lower ratings.
+MECO and HELCO's ESG scores would be in line with HECO's since HECO is a debt guarantor for MECO and HELCO.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Hawaiian Electric Industries, Inc.
+LT IDRB Downgrade
+
+
+BBB+ 
+ST IDRB Downgrade
+
+
+F2 
+senior unsecured
+STB Downgrade
+
+
+F2 
+Hawaiian Electric Company, Inc.
+LT IDRB Downgrade
+
+
+A- 
+ST IDRB Downgrade
+
+
+F2 
+senior unsecured
+LTB+ Downgrade
+RR3
+
+A 
+senior unsecured
+STB Downgrade
+
+
+F2 
+Hawaii Electric Light Company Inc.
+LT IDRB New Rating
+
+
+  senior unsecured
+LTBB- Downgrade
+RR2
+
+A 
+Maui Electric Company Limited
+LT IDRB New Rating
+
+
+ 

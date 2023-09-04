@@ -1,0 +1,18 @@
+Moody's upgrades Village of Hodgkins, IL's Met. Biosolids Mgmt. Environ. Imp. Rev. Bonds to A1
+New York, August 24, 2023 -- Moody's Investors Service has upgraded the rating to A1 from A2 on the Village of Hodgkins, IL's Metropolitan Biosolids Management project's Environmental Improvement Revenue Bonds (MBM) Series 2002 secured by Metropolitan Water Reclamation District of Greater Chicago (MWRD), IL's gross revenue pledge. The outlook remains stable.
+RATINGS RATIONALE
+The upgrade to A1 follows the upgrade of MWRD's GOULT rating to Aa1 keeping the ratings aligned given debt service on the bonds is paid by the district to the trustee per the trust indenture. The bonds are rated three notches below MWRD's GOULT rating due to the operational lease risk as the agreement may be terminated should the project fall below set output standards and the less essential nature of the project.
+RATING OUTLOOK
+The stable outlook reflects stability in the credit profile of MWRD.
+FACTORS THAT COULD LEAD TO AN UPGRADE OF THE RATING
+- Upward movement of MWRD's GO rating
+FACTORS THAT COULD LEAD TO A DOWNGRADE OF THE RATING
+- Downward movement in MWRD's GO rating
+- Termination of the project
+LEGAL SECURITY
+The bonds are secured by a gross pledge of all service agreement payments from the Metropolitan Water Reclamation District of Greater Chicago (MWRD; GO rated Aa1 stable outlook). Additionally, the bonds benefit from a debt service reserve funded to Maximum Annual Debt Service (MADS).
+Upon meeting the terms of the Service Agreement stipulated after passing certification tests, the District is required to pay the vendor a monthly fee for 228 months (last 12 months of debt service is deposited in escrow). Currently, MWRD is paying the debt service to the trustee per Veolia's request. The MWRD responsibility is to the vendor for the capital lease payments. Veolia still guarantees the bonds to the trustee. Up until certification, Veolia had been paying debt service under a construction and operating performance guaranty since April 2004.
+PROFILE
+MWRD delivers wastewater treatment residuals to Metropolitan Biosolids Management, which in turn creates small fertilizer pellets for use in the agriculture and turf grass industries and as a base material for fertilizer blending operations.
+METHODOLOGY
+The principal methodology used in this rating was Lease, Appropriation, Moral Obligation and Comparable Debt of US Special Purpose Districts Methodology published in November 2022 and available at https://ratings.moodys.com/rmc-documents/394969. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.

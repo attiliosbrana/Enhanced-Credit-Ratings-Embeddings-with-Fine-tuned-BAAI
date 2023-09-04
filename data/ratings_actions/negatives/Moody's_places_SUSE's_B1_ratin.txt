@@ -1,0 +1,36 @@
+Moody's places SUSE's B1 ratings on review for downgrade
+Frankfurt am Main, August 23, 2023 -- Moody's Investors Service (Moody's) placed SUSE S.A.'s (SUSE) B1 corporate family rating (CFR) and the B1-PD probability of default rating (PDR) on review for downgrade. Concurrently, Moody's placed on review for downgrade the B1 rating of the instruments issued by Marcel BidCo LLC, Marcel Bidco GmbH and Marcel Lux Debtco S.a.r.l.. The outlook has been changed to ratings under review from stable.
+A full list of affected ratings can be found at the end of this press release.
+RATINGS RATIONALE / FACTORS THAT COULD LEAD TO AN UPGRADE OR DOWNGRADE OF THE RATINGS
+The placement of SUSE's CFR, PDR and instrument ratings on review for downgrade reflects the expected deterioration of the company's credit metrics in connection with the voluntary public purchase offer launched by its majority shareholder Marcel LUX III SARL, which is ultimately managed and controlled by EQT AB (EQT). The transaction also signals a willingness to tolerate higher leverage at the same time as the company faces weaker than expected growth during fiscal year ending in October 2023 as highlighted by the recent second quarter profit warning issued on 10 May 2023, which in turn weakens Moody's visibility in terms of the trajectory of revenue, EBITDA and cash flow generation in the coming quarters. SUSE will support the transaction by paying an interim dividend in an amount up to €584 million if the offer acceptance rate is 100%, with up to €500 million to be financed by incremental debt issued by SUSE.
+The increase in debt issued by the SUSE group companies will depend on the acceptance rate. A high acceptance rate would result in a significant deterioration of credit metrics to levels that are not commensurate with the current B1 rating. For instance, if SUSE raises incremental debt of €500 million, pro forma Moody's-adjusted leverage would weaken to around 6.4x from 3.7x as of the last twelve months that ended April 2023 and remain worse than Moody's expectations for SUSE's B1 rating at least until October 2025. Furthermore, the higher interest expense would weaken Moody's-adjusted free cash flow (FCF)/debt to below 10% at least until October 2025. Under this scenario, Moody's expects a downgrade to be limited to one notch.
+Scenarios with a lower amount of incremental debt may result in metrics in line with expectations for SUSE's B1 rating. Nevertheless, the transaction indicates a less conservative financial policy, as well as the potential for a reduction in quality and timeliness of reporting, and could still lead to a negative rating action.
+The review will focus on the expected credit metrics following the transaction and on the company's governance, including its financial policy and strategy, as a private company. Moody's anticipates resolving the review when there is clarity regarding the future capital structure of the company, which should occur over the next two to three months.
+Factors that could lead to an upgrade or downgrade of the ratings will be updated once the review is completed.
+Prior to the review and as highlighted above, Moody's noted that negative pressure on the rating could arise if Moody's-adjusted debt/EBITDA weakens to above 5.0x; or Moody's-adjusted FCF/debt weakens to below 10%, all on a sustained basis. A significant weakening of the company's liquidity profile would also create downward pressure on the rating.
+Positive rating action from the current B1 rating is unlikely at this stage but could generally arise if SUSE performs strongly in terms of revenue and EBITDA growth, such that its Moody's-adjusted debt/EBITDA remains below 4.0x while Moody's-adjusted FCF/debt remains at or above 15%, all on a sustained basis. A rating upgrade would also require a diversification of revenue streams and a larger scale.
+LIST OF AFFECTED RATINGS
+On Review for Downgrade:
+..Issuer: SUSE S.A.
+.... Probability of Default Rating, Placed on Review for Downgrade, currently B1-PD
+.... LT Corporate Family Rating, Placed on Review for Downgrade, currently B1
+..Issuer: Marcel Bidco GmbH
+....BACKED Senior Secured Bank Credit Facility, Placed on Review for Downgrade, currently B1
+..Issuer: Marcel BidCo LLC
+....BACKED Senior Secured Bank Credit Facility, Placed on Review for Downgrade, currently B1
+..Issuer: Marcel Lux Debtco S.a.r.l.
+....BACKED Senior Secured Bank Credit Facility, Placed on Review for Downgrade, currently B1
+Outlook Actions:
+..Issuer: SUSE S.A.
+....Outlook, Changed To Ratings Under Review From Stable
+..Issuer: Marcel Bidco GmbH
+....Outlook, Changed To Ratings Under Review From Stable
+..Issuer: Marcel BidCo LLC
+....Outlook, Changed To Ratings Under Review From Stable
+..Issuer: Marcel Lux Debtco S.a.r.l.
+....Outlook, Changed To Ratings Under Review From Stable
+PRINCIPAL METHODOLOGY
+The principal methodology used in these ratings was Software published in June 2022 and available at https://ratings.moodys.com/rmc-documents/389867. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+COMPANY PROFILE
+SUSE S.A., founded in 1992, is an open-source software provider with headquarters in Nuremberg, Germany. SUSE develops, delivers and supports commercial open-source software products, and is specialised in "paid Linux" OS. Predominantly through its core product, SUSE Linux Enterprise Server (SLES), which accounts for more than 80% of its revenue, the company provides its software and services to more than 10 thousand customers worldwide. EQT agreed to acquire SUSE from Micro Focus International plc in 2018 for a total cash consideration of $2.5 billion; the deal closed in February 2019. Following an IPO in May 2021, EQT maintained a majority stake in SUSE (79% as of October 2022), with the remainder being held by management and free float.
+SUSE generated company-adjusted revenue of $673 million and company-adjusted EBITDA of €250 million as of the last twelve months that ended in April 2023.

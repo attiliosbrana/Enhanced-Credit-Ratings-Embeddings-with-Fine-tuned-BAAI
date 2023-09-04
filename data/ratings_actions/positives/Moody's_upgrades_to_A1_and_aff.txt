@@ -1,0 +1,23 @@
+Moody's upgrades to A1 and affirms VMIG 1 LOC-backed Michigan Strategic Fund, Variable Rate Revenue Bonds, Series 2002 (Henry Ford Museum & Greenfield Village Project)
+New York, September 01, 2023 -- Moody's Investor Service ("Moody's") has upgraded to A1 from A2 the long-term letter of credit backed rating of Michigan Strategic Fund Variable, Rate Revenue Bonds, Series 2002 (Henry Ford Museum & Greenfield Village Project) (the "Bonds") and has affirmed the VMIG 1 short-term rating currently assigned to the Bonds. PNC Bank, N.A. (the Bank) will provide a substitute letter of credit (the LOC) to support the Bonds.
+RATINGS RATIONALE
+The ratings are based upon (i) the direct-pay LOC provided by the Bank, (ii) the structure and legal protections of the transaction which provide for timely payment of debt service and purchase price to bondholders, and (iii) Moody's evaluation of the credit quality of the Bank.
+Moody's current long-term and short-term Counterparty Risk (CR) Assessments of the Bank are A1(cr) and P-1(cr), respectively.
+FACTORS THAT COULD LEAD TO AN UPGRADE OF THE RATINGS
+• Moody's upgrades the long-term CR Assessment of the Bank.
+• Upgrade of the short-term rating is not applicable
+FACTORS THAT COULD LEAD TO A DOWNGRADE OF THE RATINGS
+• Moody's downgrades the long-term CR Assessment of the Bank
+• Moody's downgrades the short-term CR Assessment of the Bank
+The LOC is sized for full principal plus 44 days of interest at 10%, the maximum rate applicable to the Bonds, and will provide sufficient coverage while the Bonds are in the weekly and daily rate modes. Moody's ratings apply to Bonds in the weekly and daily rate modes only.
+The trustee is instructed to draw on the LOC by 3:00 p.m., New York City (NYC) time, on the business day prior to any principal or interest payment date in accordance with its terms in order to receive payments when due. The trustee is also instructed to draw on the LOC by 12:00 p.m., NYC time on each purchase date for purchase price of tendered Bonds, to the extent remarketing proceeds are insufficient.
+Draws made under the LOC for interest shall be automatically reinstated by the Bank immediately upon payment of such drawing by the Bank.
+Prior to the expiration, termination or substitution of the LOC, the Bonds are subject to payment funded with a draw on the LOC. The payment will occur upon the mandatory tender, mandatory redemption or acceleration of such Bonds, as provided below:
+• Expiration: mandatory redemption on the interest payment date prior to the stated expiration date of the LOC, currently August 16, 2028;
+• Substitution: mandatory tender on the effective date of the substitute LOC;
+• Interest rate mode conversion: mandatory tender on each interest rate mode conversion date;
+• Event of default under the reimbursement agreement: Bank may send notice to the trustee declaring the principal of and accrued interest on all outstanding Bonds  immediately due and payable. The payment of principal and interest on the Bonds shall not be later than five (5) calendar days following the event of default resulting in such declaration.
+The Bonds will be remarketed in the weekly rate mode with interest payable on the first business day of each month. The Bonds are subject to conversion, in whole, to the daily or fixed rate mode. The LOC is appropriately sized to support the Bonds in the weekly and daily rate modes only.
+Bondholders may optionally tender Bonds in the weekly rate mode on any business day with seven (7) days prior written notice to the trustee and the remarketing agent. Bondholders may optionally tender Bonds in the daily rate mode on any business day by providing written notice to the trustee and the remarketing agent by 11:00 a.m., NYC time, on the purchase date. Bondholders tendering Bonds will receive purchase price equal to the par amount of the Bonds tendered plus accrued interest to the tender date.
+The Bonds will be subject to mandatory tender on the effective date of an alternate LOC. Draws for purchase price upon the substitution of the LOC will be made under the existing LOC and the existing LOC may not be surrendered to the Bank for cancellation until such tender draw has been honored.
+The principal methodology used in these ratings was Guarantees, Letters of Credit and Other Forms of Credit Substitution Methodology published in July 2022 and available at https://ratings.moodys.com/rmc-documents/386295. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.

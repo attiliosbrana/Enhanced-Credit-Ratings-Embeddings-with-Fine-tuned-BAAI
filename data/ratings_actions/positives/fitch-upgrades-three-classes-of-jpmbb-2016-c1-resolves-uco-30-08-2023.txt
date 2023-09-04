@@ -1,0 +1,35 @@
+Fitch Upgrades Three Classes of JPMBB 2016-C1; Resolves UCO
+
+Fitch Ratings - New York - 30 Aug 2023: Fitch Ratings has upgraded three classes and affirmed 11 classes of JPMBB Commercial Mortgage Securities Trust 2016-C1 commercial mortgage pass-through certificates. Class F has received a Stable Rating Outlook, following the rating upgrade. The under criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+JPMBB 2016-C1
+   A-3 46645LAW7
+LTAAAsf Affirmed
+AAAsf 
+A-4 46645LAX5
+LTAAAsf Affirmed
+AAAsf 
+A-5 46645LAY3
+LTAAAsf Affirmed
+AAAsf 
+A-S 46645LBD8
+LTAAAsf Affirmed
+AAAsf 
+A-SB 46645LAZ0
+LTAAAsf Affirmed
+AAAsf 
+B 46645LBE6
+LTAA+sf Upgrade
+AA-sf 
+C 46645LBF3
+LTAsf Upgrade
+A-sf 
+D 46645LAG2
+LTBBB-sf Affirmed
+BBB-sf 
+D-1 46645LAC1
+LTBBBsf Affirmed
+BBBsf 

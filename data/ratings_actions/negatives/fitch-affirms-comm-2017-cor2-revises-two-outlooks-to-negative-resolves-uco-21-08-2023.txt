@@ -1,0 +1,35 @@
+Fitch Affirms COMM 2017-COR2; Revises Two Outlooks to Negative; Resolves UCO
+
+Fitch Ratings - New York - 21 Aug 2023: Fitch Ratings has affirmed 13 classes of COMM 2017-COR2 Mortgage Trust Series 2017-COR2. The Rating Outlook for classes E-RR and F-RR were revised to Negative from Stable, and the Outlook for class G-RR remains Negative. The under criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+COMM 2017-COR2
+   A-2 12595EAC9
+LTAAAsf Affirmed
+AAAsf 
+A-3 12595EAD7
+LTAAAsf Affirmed
+AAAsf 
+A-M 12595EAF2
+LTAAAsf Affirmed
+AAAsf 
+A-SB 12595EAB1
+LTAAAsf Affirmed
+AAAsf 
+B 12595EAG0
+LTAA-sf Affirmed
+AA-sf 
+C 12595EAH8
+LTA-sf Affirmed
+A-sf 
+D 12595EAN5
+LTBBBsf Affirmed
+BBBsf 
+E-RR 12595EAQ8
+LTBBB-sf Affirmed
+BBB-sf 
+F-RR 12595EAS4
+LTBBsf Affirmed
+BBsf 

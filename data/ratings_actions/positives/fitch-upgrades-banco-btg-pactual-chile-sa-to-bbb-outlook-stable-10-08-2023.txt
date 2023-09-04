@@ -1,0 +1,69 @@
+Fitch Upgrades Banco BTG Pactual Chile S.A. to 'BBB'; Outlook Stable
+
+Fitch Ratings - São Paulo - 10 Aug 2023: Fitch Ratings has upgraded Banco BTG Pactual Chile's (BTG Chile) Viability Rating (VR) to 'bbb' from 'bbb-' and Long-Term Foreign and Local Currency Issuer Default Ratings (IDRs) to 'BBB' from 'BBB-'. Fitch has also upgraded the bank's National Long-Term Rating to 'AA(cl)' from 'AA-(cl)' and Shareholder Support Rating (SSR) to 'bb-' from 'b+'. In addition, Fitch has affirmed BTG Chile's Short-Term Foreign and Local Currency IDRs at 'F3' and National Short-Term Ratings at 'N1+(cl)'. The Rating Outlook on the Long-Term ratings is Stable.
+KEY RATING DRIVERS
+VR, IDRs and National Ratings
+Intrinsic Creditworthiness Underpins Ratings: The upgrade of BTG Chile's Long-Term IDRs and National Long-Term Ratings are driven by its intrinsic creditworthiness, as reflected in its 'bbb' VR, which is in line with the implied VR. Fitch no longer adjusts the implied VR as the uplift over the parent's IDRs remains at the typical three-notch maximum per Fitch criteria following Banco BTG Pactual S.A.'s recent upgrade (see "Fitch Takes Rating Actions on 12 Brazilian Banks Following Sovereign Upgrade", on Aug. 2, 2023).
+Solid Financial Profile: BTG Chile's VR is now equal to domestic peers with similar National Long-Term Ratings based on the strength of some the bank's financial metrics relative to its domestic peers. In particular, BTG Chile's core capital and profitability metrics are well above its peers. Fitch has also considered in its assessment the bank's more diversified and stable revenue stream, sound asset quality and reserve coverage, and independent funding with an ample LCR of almost 300%. Fitch expects the bank's financial profile to remain relatively stable over our forecast horizon.
+Growing Business Profile: Although the bank is part of a larger and leading regional investment bank, its domestic franchise remains small, albeit growing, counterbalancing its solid financial profile that is currently captured by its 'bbb' category Key Rating Driver (KDR) scores. BTG Chile has a small franchise as a bank in Chile (about 0.8% of total loans as of June 30, 2023), but a long track record and a leading market position in investment banking, brokerage business, asset and wealth management, with more than 30 years of experience in Chile. This underpins the bank's diversified revenue stream, which has resulted in a solid financial profile with a CAGR's growth for revenues and net income of 23.1% and 37.5% for 2018-2022.
+Good Risk Profile and Contagion Risk Limited: The bank's asset quality, cost of risk and earnings generation, provide the entity an ample loss absorption capacity relative to peers. Fitch believes the bank's solid financial profile, independent management, funding and liquidity, limited direct exposure to its parent, strong local regulator capable of identifying and, if necessary, restricting transfers of capital and liquidity from the subsidiary to the parent, and the difference in operating environment (OE) with the parent would limit contagion risk, supporting BTG Chile's higher stand-alone credit profile relative to its parent.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+VR, IDRs and National Ratings
+--Downward pressure on BTG Chile's ratings could stem from a higher risk appetite that results in significantly weaker asset quality, which could affect the bank's profitability and, ultimately, its capitalization, with a sustained decline in the bank's CET1 ratio below 13% or its operating profit/RWA ratio below 2%;
+--National Ratings are sensitive to a weakening of creditworthiness relative to other Chilean issuers.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+VR, IDRs and National Ratings:
+--A potential upgrade of the bank's ratings is limited given its still small domestic business profile.
+--BTG Chile's VR and IDRs are also limited as the ratings are at the typical maximum three-notch uplift from its parent's IDRs as per Fitch's criteria.
+--At the IDRs current level, there is no upside potential for the National Ratings.
+OTHER DEBT AND ISSUER RATINGS: KEY RATING DRIVERS
+Debt Ratings: Fitch has upgraded BTG Chile's National Long-Term Rating of senior unsecured debt by one notch to 'AA(cl)'. Fitch rates BTG Chile's senior unsecured bonds at the same level as the bank's National Long-Term Scale Ratings of 'AA(cl)', as the likelihood of default of the senior debt is the same as that of the issuer. BTG Chile's National Scale Rating for subordinated debt has been upgraded by one notch to 'A+(cl)'.
+Fitch rates BTG Chile's National Scale Subordinated Debt 'A+(cl)', two-notches below its National Long-Term Issuer Rating. The two-notch difference factors loss severity due to its subordinated nature (after default), coupled with no additional notching for non-performance risk given the subordinated debt's gone concern feature (triggered after the point of nonviability).
+Support Rating: The one notch upgrade to 'bb-' of the Shareholder Support Rating (SSR) reflects the same rating action on the ultimate parent of BTG Chile's IDRs. Fitch believes BTG Chile has a moderate probability of extraordinary support forthcoming from its parent, as reflected in its parent's IDRs, despite the parent's willingness to do so.
+Fitch views the Chilean operations as strategically important for Banco BTG Pactual S.A., although it is relatively small compared with the parent (4.4% of consolidated assets at YE22). BTG Chile's important role in the group due to its proven business synergies in the parent's regional expansion, and the reputational risk to the parent, considering they share the same brand, highly influence the bank's SSR.
+OTHER DEBT AND ISSUER RATINGS: RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to negative rating action/downgrade
+--Senior and subordinated debt ratings would generally move together with the bank's National Long-Term Ratings. The subordinated debt would remain two-notches below the bank's National Long-Term Ratings.
+--Reductions in BTG Chile's SSR is subject to the potential downgrade of the ultimate parent. In addition, the bank's SSR could be affected by a change in Fitch's opinion on its parent's propensity to provide support, which appears unlikely in the medium term.
+Factors that could, individually or collectively, lead to positive rating action/upgrade
+--Senior and subordinated debt ratings would generally move together with the bank's National Long-Term Ratings. The subordinated debt would remain two-notches below the bank's National Long-Term Ratings.
+--A potential rating upgrade in the bank's SSR is unlikely considering its recent upgrade and the Stable Outlook on the bank's ultimate parent, Banco BTG Pactual, S.A.'s Long-Term IDRs (BB/Stable).
+VR ADJUSTMENTS
+--The Business Profile score of 'bbb-' has been assigned above the 'bb' category implied score due to the following adjustment reasons: Group Benefits and Risks (positive) and Strategy and Execution (positive).
+--The Capitalization & Leverage score of 'bbb+' has been assigned below the 'a' category implied score due to the following adjustment reasons: Risk Profile and Business Model (negative).
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+Banco BTG Pactual Chile's ratings are linked to those of its ultimate parent, Banco BTG Pactual S.A.
+ESG CONSIDERATIONS
+Unless otherwise disclosed in this section, the highest level of ESG credit relevance is a score of '3'. This means ESG issues are credit-neutral or have only a minimal credit impact on the entity, due to either their nature or the way in which they are being managed by the entity. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/esg.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Banco BTG Pactual Chile
+LT IDRBBB Upgrade
+BBB- 
+ST IDRF3 Affirmed
+F3 
+LC LT IDRBBB Upgrade
+BBB- 
+LC ST IDRF3 Affirmed
+F3 
+Natl LTAA(cl) Upgrade
+AA-(cl) 
+Natl STN1+(cl) Affirmed
+N1+(cl) 
+Viabilitybbb Upgrade
+bbb- 
+Shareholder Supportbb- Upgrade
+b+ 
+senior unsecured
+Natl LTAA(cl) Upgrade
+AA-(cl) 
+subordinated
+Natl LTA+(cl) Upgrade
+A(cl) 

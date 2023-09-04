@@ -1,0 +1,63 @@
+Fitch Downgrades EverBank Financial Corporation f/k/a TIAA FSB Holdings, Inc. to 'BBB-'/'F3'/Stable
+
+Fitch Ratings - New York - 07 Aug 2023: Fitch Ratings has downgraded the Long-Term (LT) and Short-Term (ST) Issuer Default Ratings (IDRs) of EverBank Financial Corporation (EFC, f/k/a TIAA FSB Holdings, Inc.) and its operating subsidiary, EverBank, National Association (EverBank, f/k/a TIAA FSB) to 'BBB-'/'F3' from 'BBB+'/'F2'. The ratings have been removed from Rating Watch Negative and assigned a Stable Rating Outlook.
+The downgrade reflects the withdraw of Shareholder Support Rating (SSR) from Teachers Insurance and Annuity Association of America's (TIAA) following the competed majority sale of the bank to a private equity consortium of Stone Point Capital, Warburg Pincus, Reverence Capital Partners, Sixth Street, and Bayview Asset management on Aug. 1, 2023. TIAA will remain a minority shareholder in EFC.
+The affirmation of EFC and EverBank's Viability Ratings (VR), which now drive the IDRs, and Stable Outlooks reflect the completion of balance sheet transformation, clarity on growth plans, and demonstrated stability in the bank's deposit base following the sale announcement.
+KEY RATING DRIVERS
+Shareholder Support Withdrawn: Fitch has withdrawn shareholder support for EFC following the finalization of the sale. Going forward, Fitch will assess EFC based on its standalone creditworthiness. Fitch expects the bank will operate independently from the controlling shareholder consortium as required under the bank holding company act.
+Business Model Transformation: EFC's Business Profile factor score of 'bb+' is the primary detractor at its current 'bbb-' rating, reflecting a nascent commercial lending franchise relative to its asset size and a deposit franchise which has weaker pricing power compared to similarly rated peers. EFC's conversion into a national bank charter removes limitation on growing its commercial business. The loss of TIAA branding and carveout of the trust bank is partially offset by increasingly attractive growth and return prospects within fund finance and commercial lending, following retrenchment by peer banks. Appointment of new CEO Greg Seibly, former President and Head of Regional Banking at MUFG Union Bank, supports the bank's expansion plans, particularly into Southern California.
+Loss Share Supports Asset Quality: EFC's benchmark ratio of impaired loans to gross loans is elevated compared to mid-tier regional peer median, driven by an increase in commercial loans nonaccruals. The bank's 10-year net chargeoff (NCO) average remains comparable to peers at 10 bps of total loans, including net recoveries over the past year. Although Fitch expects asset quality to perform in line with similarly rated peers over the rating horizon, contractual agreements related to TIAA FSB's legacy loan portfolio provides substantial headroom at the 'bbb' Asset Quality factor score.
+High Capital Position Support Ratings: EFC has accreted common equity tier 1 (CET1) to levels above peer median for the mid-tier regionals, supported by the capital infusion related to the partial sale of the mortgage portfolio at par. Fitch views EFC's post-deal CET1 of 14.1% as a key support following the bank's transition into a new business model and expects the above-peer capital levels will be comfortably maintained over the rating horizon. Additionally, EFC does not have unrealized losses from its investment portfolio. Over time, Fitch expects CET1 to be the constraining capital ratio given the portfolio remixing into higher-risk weight commercial loans.
+Stable Deposit Levels: Fitch observed stable deposit flows following sale announcement and March regional banking stress. Partial sale of the mortgage portfolio provides substantial additional liquidity to support future loan growth. Additionally, Fitch views EFC to have adequate flexibility to raise deposits at near market levels through its direct bank platform.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+Should Fitch observe operating losses (excluding one-time merger related adjustments) due to increased deposit or credit costs, its overall rating would likely experience negative rating pressure.
+Although Fitch expects some decline in CET1 as the bank deploys its capital into loan growth, negative rating pressure could emerge if the bank's CET1 ratio falls below 12% absent a credible plan to rebuild levels back above this threshold over the next 18 months.
+Fitch expects that NPAs and NCOs will perform in-line with similarly rated peers over the rating horizon and as such above peer loan losses will likely result in negative rating pressure.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+Over the medium-to-long term, upside ratings potential would require a material improvement in EFC's earnings performance and revenue diversification, to bring it in line with higher rated mid-tier regional peers, while maintaining sound asset quality, maintaining capital, maintaining its reduced reliance on wholesale funding and fostering a conservative risk appetite.
+OTHER DEBT AND ISSUER RATINGS: KEY RATING DRIVERS
+Long- and Short-Term Deposits: EverBank's long-term uninsured deposits are rated one notch higher than the bank's LT IDR because U.S. uninsured deposits benefit from depositor preference. U.S. depositor preference gives deposit liabilities superior recovery prospects in the event of default. Fitch rates TFSB's short-term uninsured deposits 'F3' in accordance with our Bank Rating Criteria based on the bank's long-term deposit rating and Fitch's assessment of its funding and liquidity profile.
+Subordinated Debt: Following the completion of the sale, EFC's subordinated debt anchored by EFC's Viability Rating (VR) and is notched two times for loss severity as it does not meet the specific conditions under our criteria for applying a one-notch variance from the VR.
+Trust Preferred Securities: Following the completion of the sale, EFC's trust preferred securities are rated four notches below its VR, two times for loss severity and two times for non-performance risk.
+Government Support: EFC and EverBank's Government Support Ratings (GSR) of 'ns' reflect Fitch's view that government support is unlikely.
+OTHER DEBT AND ISSUER RATINGS: RATING SENSITIVITIES
+Long- and Short-Term Deposit Ratings: Long- and short-term deposit ratings are sensitive to any changes to EverBank's Long- and Short-Term IDRs.
+Subordinated Debt and Trust Preferred Securities: Subordinated debt and trust preferred securities ratings are sensitive to any changes in either the VR or our view of loss severity under a resolution scenario.
+VR ADJUSTMENTS
+The Business Profile score of 'bb+' has been assigned below its implied 'bbb' category score due to the following adjustment reason: Business Model (negative).
+The Asset Quality score of 'bbb' has been assigned below its implied 'a' category score due to the following adjustment reason: Historical and Future Metrics (negative).
+The Capital and Leverage score of 'bbb' has been assigned below its implied 'a' category score due to the following adjustment reason: Historical and Future Metrics (negative).
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+TIAA FSB Holdings Inc Preferred Trust VII
+   preferred
+LTB+ Downgrade
+BB 
+EverBank, National Association
+LT IDRBBB- Downgrade
+BBB+ 
+ST IDRF3 Downgrade
+F2 
+Viabilitybbb- Affirmed
+bbb- 
+Government Supportns Affirmed
+ns 
+Shareholder SupportWD Withdrawn
+bbb+ 
+long-term deposits
+LTBBB Downgrade
+A- 
+short-term deposits
+STF3 Downgrade
+F2 
+TIAA FSB Holdings Inc Preferred Trust IX
+  

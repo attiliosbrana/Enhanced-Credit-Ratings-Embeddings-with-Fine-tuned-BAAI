@@ -1,0 +1,16 @@
+Moody's places ratings on Arch Finance Limited's three repackaged deals on review for downgrade
+Tokyo, September 01, 2023 -- Moody's Japan K.K. has today placed on review for downgrade the ratings on three repackaged notes issued by Arch Finance Limited.
+The affected ratings are as follows:
+Deal Name: Arch Finance Limited Series 2006-1 Reverse Dual Currency Loan
+....JPY2,952,114,750 Series 2006-1 Reverse Dual Currency Loan, Baa1 (sf) Placed Under Review for Downgrade; previously on Mar 15, 2016 Downgraded to Baa1 (sf)
+Deal Name: Arch Finance Limited Series 2006-2 Reverse Dual Currency Loan
+....JPY2,952,114,750 Series 2006-2 Reverse Dual Currency Loan, Baa1 (sf) Placed Under Review for Downgrade; previously on Mar 15, 2016 Downgraded to Baa1 (sf)
+Deal Name: Arch Finance Limited Series 2006-3 Reverse Dual Currency Loan
+....JPY2,952,114,750 Series 2006-3 Reverse Dual Currency Loan, Baa1 (sf) Placed Under Review for Downgrade; previously on Mar 15, 2016 Downgraded to Baa1 (sf)
+RATINGS RATIONALE
+Today's rating actions follow Moody's rating action on the collateral on August 29, 2023. The rating on the collateral has been placed on review for downgrade.
+The ratings of the notes mainly reflect the credit quality of the collateral asset, the credit quality of the swap counterparty, and the strength of the transaction structure.
+If the ratings on the collateral asset or swap counterparty change, the ratings on the notes may also change.
+The principal methodology used in these ratings was "Repackaged Securities Methodology (Japanese)" published in June 2023 and available at https://ratings.moodys.com/rmc-documents/404095. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+Factors that would lead to an upgrade or downgrade of the ratings:
+Factors that could lead to a rating downgrade or upgrade are a deterioration or improvement in the credit quality of the collateral asset and the swap counterparty.

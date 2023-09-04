@@ -1,0 +1,53 @@
+Fitch Revises Outlook on Concord New Energy to Positive; Affirms at 'BB-'
+
+Fitch Ratings - Hong Kong - 21 Aug 2023: Fitch Ratings has revised the Outlook on Concord New Energy Group Limited's (CNE) Long-Term Foreign-Currency Issuer Default Rating (IDR) to Positive, from Stable, and affirmed the IDR and senior unsecured rating at 'BB-'.
+The Outlook revision reflects CNE's strengthened credit profile after years of rapid expansion and project optimisation by selling subsidy-reliant projects with slower cash flow conversion and developing grid-parity projects. CNE has significantly improved its cash flow, levelised cost of energy (LCOE) and funding costs, and substantially reduced its reliance on renewable subsidies over the past few years.
+The Positive Outlook is also supported by CNE's visible deleveraging trend in the medium term. We believe its cash flow from operations (CFO) will continue rising as CNE grows its project portfolio to support stable capacity additions, leading to decreasing capex intensity and lower leverage. We forecast a temporary rise in EBITDA net leverage to 6.3x in 2023 (2022: 5.6x) due to a concentration of new installations towards year-end, followed by steady deleveraging to below our upgrade trigger of 5.5x.
+KEY RATING DRIVERS
+Improved Project Quality: CNE increased its CFO by 222% in two years to CNY1,776 million in 2022 (2020: CNY551 million), while its effective capacity grew by 49% in the same period. The disproportionate surge in cash flow was driven mainly by the improved quality of its project portfolio. Subsidies only accounted for 19% of revenue in 2022, from 41% in 2020, and should further decline to 9% by 2025. LCOE has decreased to CNY215 per megawatt hour (MWh) at end-1H23, 37% below the end-2020 level, as newly built grid-parity farms have better utilisation hours and lower depreciation.
+Sufficient Cash Flow for Expansion: We expect CNE to install around 1.0 gigawatts (GW) of new capacity this year, similar to 2022, which nearly fulfils its target of doubling its effective capacity during 2021-2023. We expect installations at a rate of 1.0-1.2GW per year subsequently, based on CNE's development capability, in line with its target to further double capacity in the next five years. We forecast CFO of CNY1.3 billion and CNY1.8 billion in 2023 and 2024, sufficient to cover the 20% equity capital component of our forecast annual capex of around CNY4.8 billion.
+CNE disposed of 189MW of effective capacity in 2022, and 644MW in 2020 and 519MW in 2021. We expect a decrease in project sales from 2023 onwards. CNE's CFO has become strong enough to support fast organic growth, making it less reliant on asset divestures. The remaining projects are also generally more cash flow affluent, in line with management's preference. The 2022 divestures were valued at 2.3x price/book on average, higher than the 1.8x in 2021 and 1.1x in 2020, revealing the quality and liquidity of CNE's project portfolio.
+O&M Segment Expansion: CNE is China's largest third-party operation and maintenance (O&M) provider for wind and solar farms. Its serviced capacity reached 18.0GW at end-2022, from 11.0GW at end-2021 and 7.5GW at end-2020. CNE also provides design, consultancy, and engineering, procurement and construction (EPC) services. Its strong O&M and EPC capability suggest that execution risks for future capacity expansion are limited.
+Improving Financial Flexibility: We expect CNE to have lower average funding costs of below 4.8% this year, below the 2019 level by almost 1pp, after it repaid its US dollar bonds ahead of maturity. The company also has improved access to bank loans on an incremental basis, compared with its previous reliance on financial leasing to fund project development. We expect EBITDA interest coverage of 3.0x-4.0x within our rating horizon, commensurate with a 'bb' level of financial flexibility.
+Steady Deleveraging Trend: We expect CNE to deleverage steadily to EBITDA net leverage of 5.6x in 2024 and 5.1x in 2025 as its operating capacity increases. This would follow a temporary rebound to 6.3x in 2023 (2022: 5.6x) as new installations are concentrated in 2H23 (52MW in 1H23), constraining EBITDA growth but increasing year-end debt. We forecast an annual capex of CNY4.6 billion-5.0 billion on installations. We believe a drop in CNE's capacity addition/operating capacity ratio to 31% in 2025, from 46% in 2022, will support the deleveraging trend in the medium term.
+DERIVATION SUMMARY
+CNE's rating is supported by its healthy project portfolio with solid returns. The Positive Outlook reflects its improving project quality, visible deleveraging and growing size. Its leverage and coverage metrics are commensurate with those of peers rated in the 'BB' category. CNE's credit profile is comparable with that of Indian peer ReNew Power Private Limited (BB-/Stable).
+Our medium-term forecast for CNE's EBITDA net leverage of around 5.0x is broadly in line with that for ReNew. However, we forecast stronger operating EBITDA interest coverage for CNE of above 3.0x-4.0x in the next three years, compared with around 2.0x for ReNew, due to CNE's lower funding costs.
+CNE also has higher cash flow predictability as a result of lower counterparty risk. We expect renewable subsidies to account for only 15% of CNE's electricity sales revenue in 2023, with the rest coming from strong state-owned power grids. The majority of ReNew's key customers are non-federal government-owned utilities with weak credit profiles. CNE has a smaller scale, although this has no impact on its operating efficiency or investment cost.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer
+- Annual net capacity additions of 950MW-1,200MW during 2023-2026, with a rising trend
+- Disposal of 100MW of capacity each year in 2023 and 2024, and no disposals from 2025
+- Generally stable utilisation hours
+- Stable tariffs at existing wind and solar farms; no subsidy assumed for newly installed capacities
+- O&M revenue to rise by 20%-30% a year in 2023-2026
+- Annual capex at around CNY4.5-5.0 billion in 2023-2026
+- Collection of 45% of annual eligible subsidy and no additional collection of legacy subsidies
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+- EBITDA net leverage on track to trend below 5.5x by 2025
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+- Fitch will revise CNE's Outlook to Stable if the positive trigger is not met.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Sufficient Liquidity: CNE had CNY2.7 billion of readily available cash at end-1H23 after repaying USD90 million of US dollar bonds ahead of maturity, still sufficient to cover short-term debt of CNY1.7 billion. We forecast CFO of CNY1.3 million in 2023 and expect 80% of CNE's CNY4.9 billion in capex for 2023 to be financed by project loans or financial leasing. We believe existing cash, CFO and expected proceeds from project divestures should be enough to cover the equity capital component of capex and project-level debt amortisation in 2023.
+ISSUER PROFILE
+CNE is a renewable power operator in China that mainly owns and operates wind and solar farms. It owned 3.6GW of operational attributable installed capacity as of end-2022, including 2,469MW of self-controlled wind capacity, 444MW of solar power capacity, and 675MW of effective capacity owned through joint ventures and associate companies. The company also provides O&M and design services to other renewable power plants.
+SUMMARY OF FINANCIAL ADJUSTMENTS
+VAT Deduction: Wind and solar farms in China enjoy a 50% value-added tax (VAT) rebate as an incentive for supplying renewable energy. Revenue from wind farms is net of VAT and only the 50% rebate is reflected in the income statement and included as EBITDA. Wind farms are exempt from VAT in the first five operating years, during which time they do not pay VAT or receive rebates. The amount of VAT that has been exempted, although 100% retained by wind farms, is not reflected in the income statement. We have adjusted CNE's EBITDA by adding 50% of the VAT that has been exempted.
+External Guarantee: CNE continued to provide a guarantee of CNY339 million at end-2022 on bank loans for projects it sold to overseas renewable funds. We include half of the guaranteed amount in the calculation of CNE's leverage, as repayment of the loans is covered by project CFO.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Concord New Energy Group Limited
+LT IDRBB- Affirmed
+BB- 
+senior unsecured
+LTBB- Affirmed
+BB- 

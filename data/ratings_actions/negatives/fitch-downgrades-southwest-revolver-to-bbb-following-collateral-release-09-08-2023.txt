@@ -1,0 +1,47 @@
+Fitch Downgrades Southwest's Revolver to 'BBB+' Following Collateral Release
+
+Fitch Ratings - Chicago - 09 Aug 2023: Fitch Ratings has downgraded Southwest Airlines Co's (Southwest) Revolver to 'BBB+' from 'A-' following an amendment to the credit agreement that released all collateral. This action does not affect Southwest's Issuer Default Rating (IDR) or its unsecured debt ratings both of which are rated 'BBB+'.
+Southwest's 'BBB+' IDR continues to be supported by the company's conservative financial policies. As of June 30, 2023, Southwest remains in a net cash position and maintains more than $13 billion in total liquidity. The ratings also consider Southwest's leading market position in the U.S. domestic market and growth opportunities as the company restores the depth of its network coming out of the pandemic.
+KEY RATING DRIVERS
+Release of Collateral: Southwest recently amended its $1 billion revolver to release all collateral that had previously been pledged to the facility. As such, Fitch has downgraded the facility rating to be in line with Southwest's other unsecured issuances. The revolving facility was initially unsecured when it was put in place in 2016. Southwest pledged collateral to the facility in 2020 in the midst of the COVID-19 pandemic. Along with releasing collateral, the company also extended the revolver maturity to August 2028.
+Strong Balance sheet: Southwest's total debt and operating lease liabilities stood at $9.3 billion as of June 30, 2023, down from a peak of $13.3 billion during the pandemic. Total debt remains well below Southwest's total cash and short-term investments of $12.2 billion. Fitch expects Southwest to continue reducing debt over our forecast period, driving total adjusted leverage towards 2x in 2024, approaching pre-pandemic levels.
+Financial Flexibility Supports the Rating: In addition to modest debt balances, Southwest maintains a sizeable base of unencumbered assets that could be leveraged in a downturn. Debt maturities in 2023 and 2024 are minimal. Southwest has a sizeable aircraft orderbook, driving heavy capital spending through the forecast period. However, capex consists of highly financeable 737 MAX aircraft. Fitch expects Southwest to pay for most aircraft with cash, but the company maintains the option of financing its deliveries if needed.
+Sustained Profitability: Southwest reported an EBIT margin of 11.3% for the second quarter of 2023, which remains several hundred basis points below several competitors, but marks a rebound from Q1 earnings that were impacted by Southwest's December network outage. The company expects to generate margin expansion for full-year 2023.
+Fitch's base case incorporates modestly growing margins for 2023 anticipating softness in unit revenues amid a difficult comparison to 2022 results along with some pull-back in domestic fares as travelers favor international destinations. These impacts will be offset by lower fuel prices and easing unit costs. Fitch anticipates improving profitability beyond 2023. Along with a normalizing economic environment, Fitch expects Southwest to benefit from an increased percentage of higher-gauge 737 MAXs in its fleet and the effects of restoring depth within its route network, pushing margins towards 2019 levels by 2025.
+DERIVATION SUMMARY
+Southwest's 'BBB+' rating is in line with Ryanair and is several notches above most North American competitors. Southwest's rating is supported by its strong balance sheet, large balance of unencumbered assets and low-cost structure. It remains in a net cash position as of June 30, 2023 despite raising a material amount of debt during the downturn to bolster liquidity. The company also has a strong position in domestic and leisure markets. Southwest's hedging policies also provide some insulation from jet fuel price shocks.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer Include:
+--Airline traffic continues to rebound throughout the forecast. Domestic traffic is fully recovered to pre-pandemic levels in 2022, while total airline traffic meets or exceeds 2019 levels by 2024;
+--Yields are generally supportive, reflecting solid demand levels and limited seat supply in the market;
+--Brent crude prices average $85/barrel through the forecast;
+--Capex is in line with company forecasts.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade:
+--Southwest progresses through its fleet modernization plan in a credit-conscious manner, adding to unencumbered assets;
+--Gross debt balances trending toward pre-pandemic levels, leading total adjusted debt/EBITDAR to 2.0x or below;
+--Achievement of revenue and productivity goals, network restoration targets and cost strategy, leading to FCF margins sustained in the mid-single digits or higher;
+--Effective management of nonfuel unit costs, allowing Southwest to maintain a cost advantage compared with peers.
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade:
+--Sustained adjusted debt/EBITDAR above 2.5x or EBITDAR/gross interest plus rent falling below 4.0x on a sustained basis;
+--Structurally lower operating margins suggesting an erosion of Southwest's competitive position or cost advantage, leading to FCF margins sustained below the low-single digits;
+--Deviation in capital allocation and financial policies leading to a reduction in financial flexibility, including lower balances of unencumbered assets.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Robust Liquidity Position: As of June 30, 2023, Southwest had approximately $13.2 billion in liquidity, which consisted of $9.2 billion in cash, $3.0 billion in marketable securities and full availability under its $1 billion revolving credit facility. Liquidity compares with roughly $5 billion that the company held pre-pandemic due to the airline's effort to shore up liquidity by issuing debt during the downturn.
+Near-term maturity risk of long-term debt instruments and finance leases is limited. After pre-paying $1.25 billion in notes that were due in 2023, the company now has minimal maturities until 2025. Southwest has $1.6 billion in convertible notes and $1.3 billion in senior unsecured notes that mature in 2025. Fitch expects these maturities to be sufficiently covered by existing liquidity, operating cash flows and access to capital markets if needed.
+ISSUER PROFILE
+Southwest is the largest domestic air carrier in the U.S., and serves 121 airports across 11 countries. Southwest primarily operates in the U.S. but also serves 10 additional countries primarily in Latin America including Mexico, Jamaica, The Bahamas, Aruba, Dominican Republic, Costa Rica, Belize, Cuba, the Cayman Islands, and Turks and Caicos.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Southwest Airlines Co.
+   senior unsecured
+LTBBB+ Downgrade
+A- 

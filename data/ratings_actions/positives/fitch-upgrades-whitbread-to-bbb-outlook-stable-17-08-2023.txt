@@ -1,0 +1,61 @@
+Fitch Upgrades Whitbread to 'BBB'; Outlook Stable
+
+Fitch Ratings - London - 17 Aug 2023: Fitch Ratings has upgraded Whitbread PLC's Long-Term Issuer Default Rating (IDR) and senior unsecured instrument ratings to 'BBB' from 'BBB-'. The Outlook on the IDR is Stable.
+The upgrade reflects our expectation that Whitbread's conservative leverage and strong operating performance will be sustained over the next three years, despite a likely mild recession in its core UK market. This is supported by robust financial flexibility and its commitment to maintain leverage in line with our sensitivities for a 'BBB' rating. We expect Whitbread to protect its credit ratios following its capital allocation framework, should demand weaken more than we currently assume.
+The rating and Stable Outlook are further underpinned by the company's leading market position in the UK and strong liquidity. We assume that expansion in Germany will be executed as planned, with the business reaching breakeven on a run-rate basis in 2024.
+KEY RATING DRIVERS
+Strong Performance: Whitbread's revenue grew by double digits in the fiscal year ending February 2023 (FY23) and 1QFY24, supported by a post-pandemic rebound in travel and leisure spending and structural market changes as supply from independent hotels reduced by around 10% since 2019. Whitbread's revenue per available room (RevPAR) continued to outperform the wider UK midscale and economy market. In FY23, EBITDA exceeded pre-pandemic levels, although its growth lagged revenue, resulting in an EBITDA margin of 21.6% in FY23 (FY20: 24.4%).
+Macroeconomic Uncertainties: Whitbread's lead indicators have not shown any weakening in consumer demand so far, but we believe that revenue growth will start decelerating from 2QFY24. Nevertheless, we do not expect significant pressure on leisure and travel spend as our current economic outlook suggests UK GDP will shrink by just 0.1% in 2023 and employment levels will remain healthy.
+Our rating case assumes UK RevPAR is flat in 2HFY24 and declines by 1.5% in FY25. This is a conservative assumption, given that RevPAR fell by 6% during the 2008 recession, which was longer and deeper than the likely mild recession in 2023. In addition, the market structure was less favourable at that time, with greater competition from independents.
+Conservative Leverage: Strong operating performance allowed Whitbread to deleverage in FY23 to pre-pandemic levels. We project EBITDAR net leverage will increase slightly to 2.8x in FY24 (FY23: 2.6x) as a result of a GBP300 million share buyback in 1HFY24 and will remain around this level over FY25-FY27, assuming no further share buybacks. Whitbread's leverage is conservative for its 'BBB' rating and ensures some rating headroom to accommodate potential increases in shareholder remuneration or greater-than-expected profit pressures in case demand weakens.
+Superior Financial Discipline: Whitbread has a record of staying within its leverage threshold, which is fully aligned with Fitch's negative rating sensitivity for a 'BBB' rating. According to the company's financial policy, this is the maximum tolerable leverage and Whitbread would consider cutting discretionary spend or adjusting capex if the ratio was at risk. During the pandemic, Whitbread undertook a number of measures to protect its balance sheet, including suspending dividends, cutting capex and raising equity through a rights issue.
+Positive FCF Assumed: Whitbread generated positive free cash flow (FCF) in FY22 but it turned mildly negative in FY23 due to reinstatement of dividends and a material rebound in capex for expansion, which was kept low during the pandemic. We assume FCF will turn positive in FY24 as capex normalises and EBITDA grows. This is despite a gradual increase in dividends as Whitbread's dividend policy is to grow dividends broadly in line with earnings each year, maintaining a pay-out ratio of 45%.
+Execution Risk from Expansion: The rating considers manageable execution risks from expansion into the German market, where its long-term ambition is to become number one operator (1QFY24: 10,000 rooms). The German market offers consolidation opportunities, which should benefit Whitbread's geographic diversification, but the associated investment will weigh on near-term profitability. Whitbread expects German operations to become breakeven on a run-rate basis in 2024, but in our view, profitability evolution will depend on the speed of expansion as Whitbread may pursue small bolt-on M&A in this market in addition to the committed pipeline.
+Moderate Diversification: Whitbread's business profile is commensurate with a low investment grade rating due to its moderate diversification and business scale. The company's profit generation is concentrated on the UK market, one brand and one pricing point. This is balanced by its leading market position in UK budget hotels, strong regional presence across the country (representing around 80% of its UK hotel rooms) and the well-known Premier Inn brand that appeals to a wide customer base.
+Substantial Freehold Ownership: We regard Whitbread's substantial unencumbered portfolio of freehold assets as a key differentiating factor against lower-rated, more diversified or asset-light peers. Premier Inn's market value of GBP4.9 billion to GBP5.8 billion, according to the latest third-party valuation, adds flexibility to Whitbread's cost base and ability to sell assets to reduce debt and fund expansion. Whitbread's pipeline is skewed towards leaseholds, and its freehold assets are expected to reduce towards 50% of hotels from 54% once hotels in its pipeline are open. Our rating case captures higher lease-equivalent debt as the leasehold portion of Whitbread hotels increases.
+DERIVATION SUMMARY
+Whitbread is rated one notch above its asset-light peers Accor SA (BBB-/Stable) and Hyatt Hotels Corporation (BBB-/Stable), which generate profits mostly through managing hotels and receiving franchise fees. Whitbread has less geographic, brand and pricing point diversification than Accor and Hyatt but the one-notch rating difference is justified by Whitbread's more conservative financial structure, higher profitability and financial flexibility coming from its portfolio of freehold property.
+Compared with its closest UK peer Travelodge, Whitbread exhibits greater scale and brand recognition and wider regional diversification across the country.
+KEY ASSUMPTIONS
+- Around 10% revenue growth in FY24, driven mainly by 1HFY24, with revenue in 2HFY24 assumed flat
+- 1.5% decline in UK RevPAR in FY25; low single-digit growth over FY26-FY27
+- Around 7,500 and 6,500 new rooms added in UK and Germany, respectively, over FY24-FY27
+- EBITDAR margin of around 35% in FY24, stable in FY25 and gradually improving over FY26-FY27
+- Cumulative capex of GBP1.6 billion in FY24-FY27, including maintenance capex, expansion and refurbishments
+- Bolt-on M&A of GBP200 million in aggregate for FY24-FY27
+- GBP300 million share buyback in FY24
+- Dividends growing in line with earnings each year, maintaining a pay-out ratio of 45%
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+- Successful expansion in Germany with the business reaching critical mass and sustained profitability
+- Room system expansion, accompanied by system-wide RevPAR growth and maintenance of a strong EBITDAR margin
+- EBITDAR net leverage below 2.5x on a sustained basis, supported by a consistent financial policy
+- Mid-single-digit FCF margin
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+- Limited revenue growth and EBITDAR margin below 30% due to weakness in the UK market or unsuccessful expansion in Germany
+- Weakened commitment to conservative financial policy and deviations from the publicly stated leverage target, leading to EBITDAR net leverage increasing above 3.5x on a sustained basis.
+- EBITDAR fixed-charge coverage below 2.5x on a sustained basis.
+- Neutral or volatile FCF margin
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Ample Liquidity: At end-FY23, Whitbread had a net cash position with cash and cash equivalents of around GBP1.2 billion that exceeded its debt (excluding lease liabilities), which comprises three bonds for a total GBP1 billion. Its liquidity was further supported by an undrawn GBP775 million revolving credit facility maturing in 2028 and our expectation of positive FCF over FY24-FY26. The company does not have any maturities before October 2025, when its GBP450 million senior unsecured bond matures.
+ISSUER PROFILE
+Whitbread is the UK's leading hospitality business operating hotels primarily under the Premier Inn brand, with 54% of properties under freehold. Whitbread is focused on the budget segment with 909 hotels and 95,805 rooms at end-FY23. Whitbread has diversified into Germany, where it currently operates 56 hotels.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Whitbread Group Plc
+   senior unsecured
+LTBBB Upgrade
+BBB- 
+Whitbread PLC
+LT IDRBBB Upgrade
+BBB- 
+ST IDRF2 Upgrade
+F3 

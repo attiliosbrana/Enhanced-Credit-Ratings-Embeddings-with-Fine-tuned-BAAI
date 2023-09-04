@@ -1,0 +1,75 @@
+Fitch Revises Recess Holdco's Outlook to Negative; Affirms IDR at 'BB-'
+
+Fitch Ratings - Toronto - 30 Aug 2023: Fitch Ratings has affirmed Recess HoldCo LLC and First Student BidCo, Inc.'s (Collectively First Student) Long-Term Issuer Default Ratings (IDRs) at 'BB-'. Fitch has also affirmed First Student's senior secured debt, consisting of the term loan B, senior secured notes, revolving facility and term loan C, at 'BB+'/'RR2'. The Rating Outlook has been revised to Negative from Stable.
+Fitch has withdrawn First Transit Parent Inc's LT IDR and issue ratings, due to lack of sufficient information to continue to rate First Transit Parent Inc. under its new ownership. The issue level ratings were previously replicated from First Student due to First Transit Parent Inc's status as a co-borrower.
+KEY RATING DRIVERS
+Negative Rating Outlook: The Negative Outlook reflects the weakening in credit metrics and cash flow resulting from high cost inflation and a pandemic-driven loss in routes. In FY2024, Fitch forecasts EBITDAR leverage of 5.4x and EBITDA interest coverage in the mid-2x, levels that are weak for the 'BB-' rating.
+First Student is in the process of renewing contracts with price increases, hiring drivers and recovering routes, which has the potential to moderate the impact of cost inflation and improve credit metrics, however; execution risks are a key concern. Persistent operating challenges in balancing pricing and costs that inhibit deleveraging and weaken First Student's cash flow profile would likely lead to a one-notch downgrade while execution of its price and operational strategy that supports a sustained improvement in credit metrics could stabilize the Outlook.
+Forecast Improving Leverage to Sub-5.0x: Fitch expects EBITDAR leverage to be elevated at around 5.4x and 5.0x in FY24 and FY25, respectively, which is above similarly rated transportation peers and Fitch's rating thresholds for First Students' current 'BB-' rating. The expectation assumes a good degree of operating execution, supporting improved profitability, over the next two years and that capital deployment, namely M&A, occurs in a credit-neutral manner. Fitch forecasts favorable execution of management's price and operational strategy could lead to a sub-5x leverage in FY26 and beyond.
+Execution Risks in Pricing/Cost Structure: First Student is in the process of repricing many of its contracted routes to offset the impact of cost inflation, namely in labor costs. Fitch expects the cost recovery timeline to span the next three years, about one-third of contracts are renewed each year, and that execution on contract negotiations with school districts and managing its cost structure will be needed to recover profitability.
+Persistent driver shortages, which have led to only a 90% recovery in routes since the pandemic, and labor union agreements are also in focus in the near term. Fitch views the potentially disruptive nature of changing school bus contractors, as well as First Student's relatively modern fleet compared with peers, as incentive for school districts to accept higher, cost-driven pricing.
+Adequate Financial Flexibility: Fitch expects EBITDA interest coverage to be somewhat weak for the rating category at about 2.4x in FY2024, though this level could improve to the high-2.0x range over the following two years. Interest rate swaps add visibility to interest costs over the next few years. FCF generation is expected to be negative again in FY2024, though this includes growth-related incremental capex. Fitch forecasts positive FCF generation in FY2025 of slightly above $50 million.
+Stable Demand and Multi-Year Contracts: First Student's demand profile benefits from the essential nature of student transportation services and multi-year contracts with high renewal rates. Contracts are typically structured on a per route, per hour, or per mile basis and often include price escalators and fuel purchasing provisions to account for cost inflation and fuel exposure. Customer relationships have generally been stable, with customer retention around 95% and 10+ year average tenure for around 85% of customers.
+Leading Market Position: First Student is the largest provider of outsourced student transportation in North America and is estimated to be nearly twice the size of the next largest competitor; however, it competes on a local basis, typically against smaller operators or school or municipality-provided transportation services. Its large scale affords some market benefits such as an ability to move drivers to short-staffed locations, which maintains good customer relations, and economies of scale in purchasing equipment.
+First Transit Divestiture Credit Neutral: Fitch considers the sales of First Transit as relatively credit neutral. The company used proceeds sales to pay down slightly over $300 million of term loans and senior bonds, which offset a roughly 12% reduction in EBITDA. While the transaction reduces First Student's diversification, the remaining school bus business is relatively more stable and profitable. It also allows for increased operational focus in the First Student business.
+DERIVATION SUMMARY
+Fitch compares First Student with other transportation issuers such as Stericycle (BB/Stable) and STG Logistics (B+/Stable). Similar to First Student, Stericycle's business profile strengths include its contracted service and steady demand profile. STG has a relatively high exposure to cyclical freight and intermodal end markets. Fitch expects Stericycle's EBITDAR leverage to improve to the low-3.0x compared with First Student's in the low-to-mid 5.0x over the next two years. Fitch expects STG's EBITDAR leverage to rise to the low-5.0x in FY2023 from 4.2x in FY2022 reflecting weaker market conditions.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within the Rating Case for the Issuer
+--Fitch forecasts revenues to increase 9% in FY24 driven by solid pricing, new business wins and some route recovery. Revenue growth is projected to be in the mid-to-high single digits over the FY2025-2026 timeframe, supported by continued price increases, although at a more moderate pace, gradual improvement in route recovery and modest incremental M&A;
+--Fitch expects EBITDA margin to trend toward 15% in FY25, with pricing partly moderated by wage increases and general cost inflation. Fitch also expects costs related to labor shortages to gradually phase out as the labor market loosens;
+--Capex at 10% of revenues in FY24 to support new business wins before moderating to roughly 7% thereafter;
+--Tuck-in size M&A continues, but in a credit neutral manner. Fitch does not expect voluntary debt repayment.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to Stabilization of the Outlook
+--The Rating Outlook could be stabilized if First Student executes on price and operational improvements that support EBITDAR leverage sustainably below 5x and EBITDA interest coverage durably above 2.5x
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Commitment to deleveraging with EBITDAR leverage sustained below 4.0x;
+--EBITDA margins persisted above 18%.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--EBITDAR leverage sustained above 5.0x;
+--EBITDA interest coverage below 2.5x;
+--EBITDA margin consistently below 10% or expectations of sustained neutral to negative FCF generation.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Adequate Liquidity: As of March 2023, total liquidity was $692 million, consisting of $222 million of cash and $470 revolver availability. Fitch does not count the restricted cash balance in its liquidity calculation. The term loan amortizes at 1% per year and matures in 2028, and the next maturity is the senior secured notes in 2029.
+ISSUER PROFILE
+First Student is the largest national provider of essential K-12 student transport services in North America, operating roughly 42,000 school buses.
+Criteria Variation
+Variation from Criteria: Fitch looks to its Corporate Rating Criteria dated Oct. 28, 2022, which outlines and defines a variety of quantitative measures used to assess credit risk. As per criteria, Fitch's definition of total debt is all encompassing. However, Fitch's criteria is designed to be used in conjunction with experienced analytical judgment, and, as such, adjustments may be made to the application of the criteria that more accurately reflects the risks of a specific transaction or entity.
+Fitch does not consider the term loan C as debt for analytical purposes, which is a variation from the Corporate Rating Criteria's definition of total debt. Proceeds from the term loan C are used only to cash collateralize LCs supporting the company's self-insurance program. These proceeds sit in a restricted account that is reported as restricted cash. If the company was required to contribute additional collateral and/or if an LC were to be drawn, Fitch would add a corresponding portion back to total debt.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+First Student Bidco Inc.
+LT IDRBB- Affirmed
+
+
+BB- 
+senior secured
+LTBB+ Affirmed
+RR2
+
+BB+ 
+Recess HoldCo LLC
+LT IDRBB- Affirmed
+
+
+BB- 
+First Transit Parent Inc.
+LT IDRWD Withdrawn
+
+
+BB- 
+senior secured
+LTWD Withdrawn
+
+
+BB+ 

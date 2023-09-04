@@ -1,0 +1,34 @@
+Fitch Downgrades Wells Fargo Commercial Mortgage 2017-C39 and MOA 2020-C39 E; Resolves UCO
+
+Fitch Ratings - Toronto - 31 Aug 2023: Fitch Ratings has downgraded four and affirmed 10 classes of Wells Fargo Commercial Mortgage (WFCM) Trust 2017-C39 commercial mortgage pass-through certificates. Fitch has also downgraded the MOA 2020-C39 E horizontal risk retention pass through certificate (2017 C39 III Trust).
+The Rating Outlooks on classes A-S, B, C and X-B have been revised to Negative from Stable. Classes D, E-RR and MOA 2020-WC39 class E class have been assigned Negative Outlooks following the downgrades.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+MOA 2020-WC39 E
+   E-RR 90214WAA0
+LTBBsf Downgrade
+BBB-sf 
+WFCM 2017-C39
+   A-2 95000XAB3
+LTAAAsf Affirmed
+AAAsf 
+A-3 95000XAC1
+LTAAAsf Affirmed
+AAAsf 
+A-4 95000XAE7
+LTAAAsf Affirmed
+AAAsf 
+A-5 95000XAF4
+LTAAAsf Affirmed
+AAAsf 
+A-S 95000XAG2
+LTAAAsf Affirmed
+AAAsf 
+A-SB 95000XAD9
+LTAAAsf Affirmed
+AAAsf 
+B 95000XAK3
+LTAA-sf Affirmed
+AA-sf 

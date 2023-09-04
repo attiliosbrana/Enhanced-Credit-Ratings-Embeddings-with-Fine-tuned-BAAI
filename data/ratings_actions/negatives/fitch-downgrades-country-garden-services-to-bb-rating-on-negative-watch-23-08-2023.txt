@@ -1,0 +1,51 @@
+Fitch Downgrades Country Garden Services to 'BB+'; Rating on Negative Watch
+
+Fitch Ratings - Hong Kong/Shanghai - 23 Aug 2023: Fitch Ratings has downgraded Country Garden Services Holdings Company Limited's (CGS) Long-Term Issuer Default Rating (IDR) to 'BB+' from 'BBB-' and placed the rating on Rating Watch Negative (RWN).
+The downgrade reflects our view that CGS's growth, brand reputation, profitability and funding access may be negatively affected by the heightened liquidity pressure at its sister company, Country Garden Holdings Company Limited (CGH).
+The RWN captures the risk of an erosion in CGS's liquidity and working capital, as well as any change in its financial policies.
+The 'BB+' IDR is supported by CGS's leading market position, sustained operating and free cash flow (FCF) generation from its stable, asset-light business and robust net cash position.
+KEY RATING DRIVERS
+Slower Growth: Weaker China property sales and CGH's liquidity stress may limit CGS's growth. CGH's projects accounted for 48% of CGS's revenue-bearing gross floor area (GFA) at end-2022. We have cut our forecast of CGS's property-management revenue growth to 7% in 2023 and 4% in 2024, from 16% and 15%, respectively, due to our expectation of a slowdown in CGH's sales and project delivery.
+Reputation and Profitability Impact: We believe CGS's brand reputation could be affected by the credit stress at CGH. Existing customers are less likely to switch away from the company, but the acquisition of new third-party contracts may slow, dampening the company's medium-term profitability. This is because new contracts typically carry higher profitability than existing ones due to limited price adjustments for existing contracts and continuous cost inflation pressure.
+Weakened Funding Access: CGS is maintaining its strong net cash position and management has stated that the company has little need for new external funding due to the high visibility over its cash-generative business and the company's reduced appetite for acquisitions. Fitch believes CGS's funding access could be affected by CGH's evolving situation but the company's relatively stable operating cash flow may continue to support financial flexibility. CGS said there is limited impact on its access to bank financing so far, and it has not provided any financial support, such as pledge guarantees, to CGH.
+Rising Working Capital: CGS's trade receivable days have lengthened from about 60 in 2019 to over 130 in 2022. Fitch estimates working-capital outflow of CNY3 billion-3.5 billion in 2023 from an expected increase in receivables from CGH and longer receivable days from local governments for CGS's city service business. We assume most of the revenue from CGH will not be collected from 2H23. Any delay in payment, including from related and third parties, that is longer than our expectations may lead to a weaker working-capital position and FCF.
+Common Shareholder and Chairperson: Any aggressive financial policy change, including a sharp increase in dividends or other cash outflows, would be detrimental to CGS in light of its ownership structure amid the recent liquidity distress at CGH. Ms. Yang Huiyan, who effectively controls 36.12% of the voting rights at CGS, is also a major shareholder of CGH and the chairman of the company.
+However, Ms. Yang's donation of 20% of CGS shares on 29 July 2023 to a charity, the Guoqiang Public Welfare Foundation, whose founding member is her younger sister, may reduce the incentive to increase dividend payouts. In addition, the dividend is immaterial to CGH's debt balance. Ms. Yang also sold a 7% stake in CGS in December 2022, which raised HKD5 billion that was subsequently lent to CGH. In addition, CGS brought forward its 2022 final dividend payment by around two weeks in August 2023.
+Solid Market Position: CGS is likely to maintain its leading market position despite our projections of slower growth. CGS had the largest GFA under management of 869 million sq m in China in 2022, about 50% more than the third-largest company. We believe M&A activity in the property-management industry has slowed since 2022, evident from the drop in total transactions to CNY10.6 billion in 2022 from CNY36.3 billion in 2021, according to China Indices Academy Limited.
+DERIVATION SUMMARY
+CGS's weakening brand reputation and pricing power together with the likely deterioration in its financial flexibility lead to the one-notch difference with the credit profile of Newmark Group, Inc. (BBB-/Stable), a leading commercial real-estate service provider in the US. Both companies are leading players within their segments and concentrated in their country of operations.
+CGS's RWN reflects the potential erosion in its liquidity, working-capital position and change in financial policies, which may lead to negative FCF.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer
+- Revenue-bearing GFA growth of 7% in 2023 and 4% in 2024;
+- Revenue growth of 0%-2% in 2023-2024 on lower revenue-bearing GFA growth, and a decrease in revenue from community value-added services and value-added services to non-property owners;
+- EBITDA margin of around 16% in 2023-2024, from 18% in 2022, reflecting a decline in the margin on community value-added services and value-added services to non-property owners;
+- Annual acquisitions of CNY800 million in 2023-2024, given the company's reduced appetite on fast expansion;
+- A higher dividend payout ratio of 30% in 2023-2024 to capture cash leakage risks, despite the company's guidance of 25% (2022: 25% of core net profit, excluding one-off items such as impairment of goodwill and other intangible assets, according to the company);
+- Receivable days to increase to 165 in 2023 from 135 in 2022, leading to a CNY3 billion-3.5 billion increase in receivables.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+- The RWN will be removed if the negative triggers are not met
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+- Failure to generate positive FCF
+- Evidence of further deterioration in working-capital position, including a material increase in receivables
+- Evidence of a material deterioration in liquidity
+- Signs of aggressive financial policies changes, including but not limited to a sharp increase in the dividend payout
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Robust Liquidity: CGS reported readily available cash and cash equivalents of CNY11.2 billion at end-2022, which was enough to cover short-term bank borrowings of CNY1.2 billion. CGS has no capital-market debt. Other than the CNY1.2 billion in bank and other borrowings due this year, it has CNY84 million in debt due 2024, CNY65 million due over 2025-2027 and CNY867 million due beyond 2027. Management confirmed that the company has no trust loans.
+ISSUER PROFILE
+CGS is a leading residential property-management service provider in China. CGS was founded in 1992 as a subsidiary of CGH before it was spun off and listed separately in June 2018.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+CGS has an ESG Relevance Score of '4' for Governance Structure due to concentrated ownership, which has a negative impact on the credit profile, and is relevant to the rating in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Country Garden Services Holdings Company Limited
+LT IDRBB+ Downgrade
+BBB- 

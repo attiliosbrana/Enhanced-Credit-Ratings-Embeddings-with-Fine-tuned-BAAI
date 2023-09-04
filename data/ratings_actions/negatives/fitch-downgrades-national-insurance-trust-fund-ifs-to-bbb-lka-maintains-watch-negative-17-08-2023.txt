@@ -1,0 +1,33 @@
+Fitch Downgrades National Insurance Trust Fund's IFS to 'BBB+(lka)'; Maintains Watch Negative
+
+Fitch Ratings - Colombo/Sydney - 17 Aug 2023: Fitch Ratings has downgraded Sri Lanka-based National Insurance Trust Fund Board's (NITF) National Insurer Financial Strength (IFS) Rating to 'BBB+(lka)', from A-(lka)', and maintained the Rating Watch Negative (RWN).
+The one-notch downgrade follows NITF's continued delays in renewing its external reinsurance arrangements and the resulting weaker risk-management practices. This, alongside continued capital weakness in certain business lines, exposes NITF's capital and earnings to greater volatility.
+The RWN reflects heightened near-term downside risks to its credit profile, including elevated investment and liquidity risks, the substantial delays in renewing the reinsurance contracts and the stressed financial performance outlook.
+KEY RATING DRIVERS
+Continued Delays in Reinsurance Renewal: NITF's risk-management practices continue to lag that of other insurers, including substantial delays in renewing its external reinsurance contracts. Management attributes these delays to inherent bottlenecks in government procurement processes. NITF, as the sole domestic reinsurer, is mandated by the state to receive 30% of reinsurance cessations from all domestic non-life operators. We believe unforeseen losses faced by NITF without retrocession cover could result in heightened volatility for its capital position and earnings.
+Weak Capital in Non-SRCCT segments: The insurer's regulatory capital positions remain weak in non-Strikes, Riots, Civil Commotion and Terrorism (SRCCT) lines, including reinsurance, health, motor and other non-motor classes, with limited fungibility among the business lines. However, its consolidated regulatory risk-based capital (RBC) ratio remains strong, supported primarily by SRCCT, and compares well against the industry average. The RBC ratio was 474% at end-March 2023 (2022: 434%, 2021: 600%) reflecting a decrease attributed to higher market risk charges.
+Weak Underwriting Profitability: The combined ratios of NITF's reinsurance, motor and health segments exceed 100%, reflecting frail underwriting practices in its non-SRCCT segments. The consolidated combined ratio deteriorated to 85% in 2022, from 75% in 2021, largely owing to heightened claims in the reinsurance and health segments. However, the three-year consolidated combined ratio compared favourably against non-life peers at 72% during 2020-2022, supported by modest claims in the SRCCT fund and the insurer's low-cost operating model.
+Profit Concentration on SRCCT: We consider as a credit weakness the substantial reliance on profitability from SRCCT as well as limited flexibility in cash flow between the highly profitable SRCCT line, which contributes more than 37% of gross premiums, and other segments. Gross premiums grew by 9% in 2022 (2021: 13%), driven primarily by growth in SRCCT of 19%, while the reinsurance segment contracted by 12%. NITF's return on equity averaged 46% in the past three years.
+Stretched Foreign-Currency Liquidity: Fitch believes the weak foreign-currency liquidity in the local banking system could limit NITF's ability to meet foreign-currency obligations, such as premium payments to foreign reinsurers via local insurance brokers, and claim obligations arising from foreign-currency-denominated policies. NITF says its foreign-currency claim obligations are limited to its inward reinsurance business from local general insurance companies, and that it can settle these claims in the local currency.
+Concentration in Government Securities: We expect pressure on NITF's investment and capital profile to ease, as the government's proposed debt restructuring plan will not have a direct impact on the local-currency government debt holdings of insurers, banks and non-banking financial institutions. NITF's investments are solely in government securities, in accordance with its legislative framework. However, investments in Sri Lanka Development Bonds (4% invested assets and 7% of capital at end-2022) will be subject to the government's proposed debt plan.
+'Moderate' Company Profile: We regard the insurer's company profile as 'Moderate' compared with other domestic insurers, based on a 'Favourable' business profile and 'Less Favourable' corporate governance. NITF's business profile is supported by its large domestic operating scale and substantive business franchise, which benefits from its full state ownership and role in implementing government policies. Our 'Less Favourable' corporate governance assessment is driven by the weak governance structure and limited financial transparency.
+RATING SENSITIVITIES
+We expect to resolve the RWN once the impact of Sri Lanka's economic crisis on NITF's credit profile becomes more apparent. This may take longer than six months.
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade:
+- Inability to access foreign- or local-currency assets to meet NITF's liabilities, including any restrictions by the government
+- Rising investment and asset risks, including a downgrade of the ratings of financial institutions or the sovereign (Long-Term Local-Currency Issuer Default Rating: C)
+- Deterioration in risk-management practices; for instance, due to persistent delays in renewing reinsurance arrangements
+- Deterioration in the RBC ratio to below 250% or continued weakness in the capital positions of non-SRCCT lines, for a sustained period
+- Deterioration in the combined ratio to above 103% for a sustained period
+- Significant weakening in NITF's company profile, such as a large reduction in government-related business
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade:
+There is limited scope for upward rating action given the RWN.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+National Insurance Trust Fund Board
+Natl LT IFSBBB+(lka) Downgrade
+A-(lka) 

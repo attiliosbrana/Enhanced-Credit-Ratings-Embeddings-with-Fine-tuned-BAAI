@@ -1,0 +1,35 @@
+Fitch Downgrades One Class of WFCM 2017-C41; Affirms MOA 2020-WC41 E-RR; Resolves UCO
+
+Fitch Ratings - Toronto - 28 Aug 2023: Fitch Ratings has downgraded one class and affirmed 13 classes of Wells Fargo Commercial Mortgage Trust, Series 2017-C41. Fitch has also affirmed the rating for 2017 C41 III Trust pass through certificate (MOA 2020-WC41 Class E-RR). The Rating Outlooks for Class E-RR and the MOA 2020-WC41 E-RR certificate was revised to Negative from Stable. In addition, a Negative Outlook was assigned to Class F-RR. The under criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+WFCM 2017-C41
+   A-2 95001ABA3
+LTAAAsf Affirmed
+AAAsf 
+A-3 95001ABC9
+LTAAAsf Affirmed
+AAAsf 
+A-4 95001ABD7
+LTAAAsf Affirmed
+AAAsf 
+A-S 95001ABG0
+LTAAAsf Affirmed
+AAAsf 
+A-SB 95001ABB1
+LTAAAsf Affirmed
+AAAsf 
+B 95001ABH8
+LTAA-sf Affirmed
+AA-sf 
+C 95001ABJ4
+LTA-sf Affirmed
+A-sf 
+D 95001AAD8
+LTBBB+sf Affirmed
+BBB+sf 
+E-RR 95001AAG1
+LTBBB-sf Affirmed
+BBB-sf 

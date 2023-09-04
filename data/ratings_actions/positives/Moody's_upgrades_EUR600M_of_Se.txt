@@ -1,0 +1,24 @@
+Moody's upgrades EUR600M of Serie B Notes in FONDO DE TITULIZACION PYMES SANTANDER 15
+Madrid, August 25, 2023 -- Moody's Investors Service ("Moody's") has today upgraded the rating of Serie B notes in FONDO DE TITULIZACION PYMES SANTANDER 15. The rating action reflects the increased credit enhancement level for the affected note.
+....EUR600M Serie B Notes, Upgraded to Ba2 (sf); previously on Jan 16, 2023 Upgraded to B1 (sf)
+Moody's affirmed the ratings of the notes that had sufficient credit enhancement to maintain their current ratings.
+....EUR2400M Serie A Notes, Affirmed Aa1 (sf); previously on Jan 16, 2023 Affirmed Aa1 (sf)
+....EUR150M Serie C Notes, Affirmed Ca (sf); previously on Jan 16, 2023 Affirmed Ca (sf)
+FONDO DE TITULIZACION PYMES SANTANDER 15 is a cash securitisations of standard loans and credit lines granted by Banco Santander S.A. (Spain) ("Santander", LT Deposit Rating: A2 / ST Deposit Rating: P-1) to small and medium-sized enterprises ("SMEs") and self-employed individuals located in Spain.
+Maximum achievable rating is Aa1 (sf) for structured finance transactions in Spain, driven by the corresponding local currency country ceiling of the country.
+RATINGS RATIONALE
+The rating action is prompted by an increase in credit enhancement for the affected tranche.
+Revision of Key Collateral Assumptions:
+As part of the rating action, Moody's reassessed its default probability and recovery rate assumptions for the portfolio reflecting the collateral performance to date.
+The performance of the transaction has continued to be stable since the last rating action in January 2023. Total delinquencies have increased in the past year, with 90 days plus arrears currently standing at 0.82% of current pool balance. Cumulative defaults currently stand at 1.07% of original pool balance up from 0.59% a year earlier.
+For FONDO DE TITULIZACION PYMES SANTANDER 15, the current default probability is 9% of the current portfolio balance and the assumption for the fixed recovery rate is 30%. Moody's has increased the CoV to 48.5% from 48.2%, which, combined with the revised key collateral assumptions, corresponds to a portfolio credit enhancement of 23%.
+Increase in Available Credit Enhancement
+Sequential amortization led to the increase in the credit enhancement available in this transaction.
+The credit enhancement for the most senior tranche increased to 62.4% from 41.7% since the last rating action. Serie B notes credit enhancement has increased to 12.3% from 8.3% in the same period.
+Counterparty Exposure:
+Today's rating actions took into consideration the notes' exposure to relevant counterparties, such as servicer or account bank.
+Methodology Underlying the Rating Action:
+The principal methodology used in these ratings was "SME Asset-Backed Securitizations methodology" published in July 2023 and available at https://ratings.moodys.com/rmc-documents/404936. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+Factors that would lead to an upgrade or downgrade of the ratings:
+Factors or circumstances that could lead to an upgrade of the ratings include (1) performance of the underlying collateral that is better than Moody's expected, (2) an increase in available credit enhancement and (3) improvements in the credit quality of the transaction counterparties and (4) a decrease in sovereign risk.
+Factors or circumstances that could lead to a downgrade of the ratings include (1) an increase in sovereign risk, (2) performance of the underlying collateral that is worse than Moody's expected, (3) deterioration in the notes' available credit enhancement and (4) deterioration in the credit quality of the transaction counterparties.

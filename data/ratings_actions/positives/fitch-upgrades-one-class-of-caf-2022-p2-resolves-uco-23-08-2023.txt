@@ -1,0 +1,35 @@
+Fitch Upgrades One Class of CAF 2022-P2; Resolves UCO
+
+Fitch Ratings - Toronto - 23 Aug 2023: Fitch Ratings has upgraded one and affirmed eight classes of CoreVest American Finance 2022-P2 Trust (CAF 2022-P2) commercial mortgage pass-through certificates. Fitch has removed all classes from this transaction from Under Criteria Observation (UCO).
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+CAF 2022-P2
+   A-1 21872DAA0
+LTAAAsf Affirmed
+AAAsf 
+A-2 21872DAB8
+LTAAAsf Affirmed
+AAAsf 
+B 21872DAC6
+LTA+sf Upgrade
+Asf 
+C 21872DAD4
+LTA-sf Affirmed
+A-sf 
+D 21872DAE2
+LTBBBsf Affirmed
+BBBsf 
+E 21872DAF9
+LTBBB-sf Affirmed
+BBB-sf 
+F 21872DAG7
+LTBB-sf Affirmed
+BB-sf 
+G 21872DAJ1
+LTB-sf Affirmed
+B-sf 
+X 21872DAM4
+LTA-sf Affirmed
+A-sf 

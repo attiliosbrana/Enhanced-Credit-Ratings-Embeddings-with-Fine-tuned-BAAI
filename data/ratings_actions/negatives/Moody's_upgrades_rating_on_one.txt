@@ -1,0 +1,25 @@
+Moody's upgrades rating on one class and downgrades rating on one class of notes issued by Sound Point CLO XXI, Ltd.
+$77.5 million of notes affected
+New York, August 22, 2023 -- Moody's Investors Service ("Moody's") has upgraded the rating on the following notes issued by Sound Point CLO XXI, Ltd.:
+U.S.$55,000,000 Class A-2 Senior Secured Floating Rate Notes due 2031, Upgraded to Aa1 (sf); previously on Oct 10, 2018 Definitive Rating Assigned Aa2 (sf)
+Moody's has also downgraded the rating on the following notes:
+U.S.$22,500,000 Class D Junior Secured Deferrable Floating Rate Notes due 2031, Downgraded to B1 (sf); previously on Aug 21, 2020 Confirmed at Ba3 (sf)
+Sound Point CLO XXI, Ltd., issued in October 2018, is a managed cashflow CLO. The notes are collateralized primarily by a portfolio of broadly syndicated senior secured corporate loans. The transaction's reinvestment period will end in October 2023.
+RATINGS RATIONALE
+The upgrade rating action on the Class A-2 notes reflects the benefit of the short period of time remaining before the end of the deal's reinvestment period in October 2023. In light of the reinvestment restrictions during the amortization period, which limit the ability of the manager to effect significant changes to the current collateral pool, Moody's analyzed the deal assuming a higher likelihood that the collateral pool characteristics will be maintained and continue to satisfy certain covenant requirements. In particular, Moody's assumed that the deal will benefit from a lower weighted average rating factor (WARF) compared to the covenant level. Moody's modeled a WARF of 2680 compared to its current covenant level of 2778.
+The downgrade rating action on the Class D notes reflects the specific risks to the junior notes posed by par loss observed in the underlying CLO portfolio. Based on the trustee's July 2023 report, the OC ratio for the Class D notes is reported at 105.13% [1] versus July 2022 trustee reported level of 106.45% [2].
+Moody's modeled the transaction using a cash flow model based on the Binomial Expansion Technique, as described in "Moody's Global Approach to Rating Collateralized Loan Obligations."
+The key model inputs Moody's used in its analysis, such as par, weighted average rating factor, diversity score, weighted average spread, and weighted average recovery rate, are based on its published methodology and could differ from the trustee's reported numbers.
+For modeling purposes, Moody's used the following base-case assumptions:
+Performing par and principal proceeds balance: $483,493,089
+Defaulted par:  $2,931,993
+Diversity Score: 81
+Weighted Average Rating Factor (WARF): 2680
+Weighted Average Spread (WAS) (before accounting for reference rate floors): 3.39%
+Weighted Average Recovery Rate (WARR): 46.92%
+Weighted Average Life (WAL): 4.14 years
+In addition to base case analysis, Moody's ran additional scenarios where outcomes could diverge from the base case. The additional scenarios consider one or more factors individually or in combination, and include: defaults by obligors whose low ratings or debt prices suggest distress, defaults by obligors with potential refinancing risk, deterioration in the credit quality of the underlying portfolio, decrease in overall WAS or net interest income, lower recoveries on defaulted assets.
+Methodology Used for the Rating Action
+The principal methodology used in these ratings was "Moody's Global Approach to Rating Collateralized Loan Obligations" published in December 2021 and available at https://ratings.moodys.com/rmc-documents/74832.  Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+Factors that Would Lead to an upgrade or downgrade of the Ratings:
+The performance of the rated notes is subject to uncertainty. The performance of the rated notes is sensitive to the performance of the underlying portfolio, which in turn depends on economic and credit conditions that may change. The Manager's investment decisions and management of the transaction will also affect the performance of the rated notes.

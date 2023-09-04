@@ -1,0 +1,63 @@
+Fitch Revises Eramet's Outlook to Negative; Affirms IDR at 'BB+'
+
+Fitch Ratings - Barcelona - 29 Aug 2023: Fitch Ratings has revised Eramet S.A.'s (Eramet) Outlook to Negative from Stable and affirmed its Long-Term Issuer Default Rating (IDR) at 'BB+'. Fitch has also affirmed Eramet's senior unsecured notes at 'BB+'. The Recovery Rating is 'RR4'.
+The Negative Outlook reflects weaker than expected operational performance across the group, including the uncertain future of the loss-making operations of Société le Nickel (SLN), Eramet's subsidiary in New Caledonia, amid uncompetitive electricity supply in a weaker price environment for ferronickel. Combined with large projects, subject to execution risks, EBITDA net leverage trends above 1.5x in our updated forecasts, assuming SLN remains a consolidated entity.
+While Eramet publicly stated that they will not commit new funding for SLN, the political importance of this asset for New Caledonia's economy casts uncertainty on the timing, possibility and financial impact of a potential disengagement. Implementing the current business plan, while continuing to support loss-making operations in New Caledonia, would likely lead to a financial profile that is more commensurate with a 'BB' rating.
+KEY RATING DRIVERS
+Structural Weakness at SLN: SLN reported EBITDA of EUR-70 million in 1H23 versus a EUR113 million contribution in 1H22. This was mostly driven by commodity price declines while around EUR25 million-EUR30 million are attributable to higher cash costs of ferronickel production amid reduced operational efficiency of the plant and the commissioning of a temporary offshore power generator. Given a subdued demand outlook, one mining site moving to maintenance and care from mid-July linked to the absence of operating permits and higher target ferronickel production of 25kt for 2H23, we assume an EBITDA contribution of EUR-150 million for SLN for 2023.
+Mixed Picture for Remaining Assets: Manganese earnings were materially below expectations due to logistics problems linked to the railway in Gabon, higher input costs and weaker price realisation, which led us to reduce the expected EBITDA contribution by around EUR175 million to EUR647 million for 2023. Nickel operations in Indonesia outperformed with an 80% volume growth and benefiting from a supportive ore transfer pricing regime in Indonesia (linked to LME prices), leading to an increase of dividend expectations by EUR80 million to EUR280 million. Contributions from mineral sands, lithium and corporate centre were in line with our forecast.
+Operational Performance in Focus: Taking into account slight changes to capex guidance, cash flow generation in 2023 for Eramet (excluding SLN) is expected to be only slightly weaker than what we assumed earlier in the year. For the consolidated group Eramet's operational performance and results have been weaker year-to-date than most peers in the mining sector. The Negative Outlook reflects challenges to restructure operations at SLN, and room for improvement of asset resilience across the wider group, which will determine the ability of Eramet to deliver its business plan.
+Consolidated Earnings Visibly Lower: We have reduced our EBITDA forecast (after including dividends from associates, deducting minority dividends and IFRS16 lease treatment) to EUR638 million from EUR977 million, which results in EBITDA net leverage of 1.4x-1.5x for 2023 and 2024. Despite an EBITDA contribution from SLN assumed to be managed to a neutral position by 2025, large capex in Argentina and Indonesia drive leverage higher towards 1.8x-1.9x in our forecast. The consolidated profile excluding SLN (and assuming no more funding support) would be expected to remain below 1.5x on a sustained basis.
+Leverage Definitions Deviate: Eramet's first priority for capital allocation is to preserve a prudent balance sheet over the long term, with net debt/EBITDA on average below 1x through the cycle. Our downgrade sensitivity is EBITDA net leverage above 1.5x, but our definition of leverage differs as we incorporate dividends from associates into EBITDA, deduct dividends paid to minorities as well as depreciation and interest linked to IFRS16 leases. Our net debt definition also differs. As a result, it is possible for Fitch's EBITDA net leverage to be above 1.5x, even if Eramet-defined net debt/EBITDA is maintained at 1x. Hence, Eramet's existing financial policy will not protect a 'BB+' rating under all circumstances.
+Indonesian Country Ceiling Applied: EBITDA from operations in France, Norway and the US, together with repatriation of dividends from Indonesia, are sufficient to comfortably cover hard-currency gross interest expense over the forecast horizon, in accordance with Fitch's Corporates Exceeding the Country Ceiling Rating Criteria. We have applied Indonesia's Country Ceiling of 'BBB' as it is the lowest among these countries.
+DERIVATION SUMMARY
+Anglo American plc (BBB+/Stable) has stronger (net) leverage metrics, interest cover, liquidity and maturity profile compared to Eramet. Anglo American has a significantly larger scale (individual operations and overall group), and stronger diversification across commodities, end-markets and country risk of operations.
+Sibanye-Stillwater Limited (BB/Stable) produces precious group metals that are required for the energy transition (mainly for catalytic converter processes) and prospective battery materials. Sibanye also has gold assets in South Africa that sit in the fourth quartile of the global cost curve. The financial profile is stronger. Sibanye currently is net cash positive, but has an acquisitive growth strategy, particularly in battery materials.
+Sibanye is closing the acquisition of a 50% stake in the Rhyolite Ridge lithium-boron project in the US with anticipated annual production of 24,000 tonnes of lithium carbonate/hydroxide (approval of capex and finalising of project finance expected this year). It is also implementing its Keliber project in Finland (85% stake) that will produce up to 15,000 tonnes of lithium hydroxide monohydrate with a ramp-up targeted for 2025.
+Across the portfolio, Eramet benefits from a better cost position and prospective wider diversification of commodities (including battery grade nickel, lithium and cobalt derivatives), with mine lives comparable or slightly longer. Both companies have experienced operational challenges or disruptions across various assets over the last 12 months.
+KEY ASSUMPTIONS
+- Manganese ore free-on-board price of USD4.2 per dry metric tonne unit (dmtu) for 2023, and at USD4.1-USD4.3/dmtu over the following three years
+- Volumes in line with updated management guidance
+- Capex of EUR800 million for 2023 and EUR800 million-EUR900 million per year over 2024-2025, reducing to EUR600 million in 2026
+- Equity contributions received from Tsingshan for the lithium project in Argentina and equity contributions made for the HPAL plant in Indonesia factored in after FCF
+- Effective tax rate in line with management guidance
+- No defined pay-out ratio for dividends. However, we expect dividends to move in line with earnings and FCF generation while preserving a conservative balance sheet (first priority of capital allocation). The rating forecast indicates negative FCF for the next three years, so we have assumed dividends for 2024 and subsequent years to be in line with 2022's EUR72 million.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+The Outlook is Negative, meaning positive rating action is unlikely in the short-term. The following circumstances would be considered for a stabilisation:
+- EBITDA net leverage (capturing recurring dividends from associates and minority dividends paid) below 1.5x on a sustained basis
+- Successful restructuring of operations and/or ownership structure at SLN, avoiding future cash burn and the need for Eramet to support the subsidiary; together with
+- More consistent operating performance across the asset portfolio
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+- EBITDA net leverage (capturing recurring dividends from associates and minority dividends paid) above 1.5x on a sustained basis (2022: 0.35x)
+- EBITDA interest coverage falling below 7.5x on a sustained basis (2022: 15.8x)
+- Operating EBITDA margin dropping below 25% on a sustained basis linked to operational performance of assets; unplanned outages or operational issues that increase earnings variability
+- Deterioration of operating environment in Gabon, eg. increased risk of Gabon tightening foreign-exchange controls or adversely changing the fiscal regime for Comilog (subsidiary in Gabon) or the wider sector, given Eramet's high exposure to Gabon
+- Sustained negative FCF linked to capex and dividends or material debt-funded acquisitions
+- Failure to address major refinancing needs 12 months ahead of maturity
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Robust Liquidity: As of end-June 2023 Eramet held around EUR1.3 billion of cash and cash equivalents (including bank deposits and 70% of other short-term investments that were reported as current financial assets in the accounts) ahead of major growth capex across the portfolio. It has also refinanced its revolving credit facility at EUR935 million with a maturity in June 2028, which remains entirely undrawn, and entered into a medium-term lithium-prepayment agreement with Glencore for EUR400 million.
+The business is funded beyond December 2025. Most liquidity is held at the corporate centre/offshore. There are capital controls in place for Gabon, a jurisdiction with a large earnings contribution, but only 35% of revenues are repatriated, which are less than the combined operating expenditure and capex for those operations.
+ISSUER PROFILE
+Eramet is a France-based mid-sized metals & mining company specialised in manganese (ore + alloys), nickel and mineral sands, developing lithium as its fourth main business segment.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Eramet S.A.
+LT IDRBB+ Affirmed
+
+
+BB+ 
+senior unsecured
+LTBB+ Affirmed
+RR4
+
+BB+ 

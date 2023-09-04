@@ -1,0 +1,74 @@
+Fitch Revises Cardinal Health's Outlook to Positive; Affirms LT IDR at 'BBB'
+
+Fitch Ratings - New York - 11 Aug 2023: Fitch Ratings has revised Cardinal Health, Inc.'s (CAH) Outlook to Positive from Stable, and affirmed its Long-Term Issuer Default Rating (IDR) at 'BBB' and Short-Term IDR at 'F2'.
+The revision in Outlook to Positive primarily reflects Fitch's expectation that CAH will operate with lower financial leverage over the forecast period compared with the recent past and CAH is expected to report stronger earnings in the medical segment resulting from remedial actions to address inflation, demand trends and cost optimization.
+The rating actions apply to approximately $4.7 billion of debt as of June 30, 2023.
+KEY RATING DRIVERS
+Stable Pharmaceutical Segment: CAH's 'BBB' Long-Term IDR benefits from a stable pharmaceutical segment operating profile and good cash flow from operations. Cash generation is supported by steady pharmaceutical demand, increasing revenue and cash flow opportunities tied to specialty drugs and an oligopolistic drug-distribution industry in the U.S., despite the uncertainties tied to changing volumes and prices of generic drugs and regulatory pressures.
+Fitch expects annual CFO between $2.3 billion and 2.6 billion annually between FY 2024-2026 and FCF between $1.3 billion and $1.6 billion annually between FY 2024-2026, after assumed payments of $350 million per year related to opioid settlements. Fitch expects that CAH can expand CFO and FCF margins with continued focus on slowing the growth in SG&A expenses.
+Improved Leverage Profile: CAH's leverage profile is expected to continue to improve because of debt repayment and anticipated EBITDA growth. However, debt outstanding as of June 2023 is expected to be refinanced as it comes due.
+Fitch's EBITDA leverage was calculated in the range of 2.7x-3.0x during FYs 2019-2023 and is now estimated to be in the range of 1.8x to 2.1x over FYs 2024-2027. Overall, EBITDA will fluctuate at $2.3 billion-$2.6 billion over the forecast period (after Fitch opioid charges of $350 million per year) as a result of the frequency, timing, and magnitude of the growth of specialty drug services, effectiveness of pricing changes related to contract renewals, and branded and generic pharmaceutical manufacturer pricing changes.
+Improving Outlook for Medical Segment: CAH's medical segment continues to experience weak financial results primarily due to inflation and global supply chain constraints. However, the outlook for improved performance is reasonable because of a credible improvement plan that is designed to address the aforementioned challenges along with the design of accelerating the Cardinal Health branded products, at-Home solutions and focused cost management. In comparison to the past two years, Fitch is now modelling steading improvement in segment growth that will enhance consolidated EBITDA.
+Customer Concentration: A significant portion of revenue for Cardinal and its peers has come from a concentrated group of customers in recent years. In fiscal 2022, revenues related to CVS Health Corporation and OptumRx accounted for 25% and 16% of revenues, respectively.
+In addition, CVS Health accounted for 24% of CAH's gross trade receivables at June 30, 2022. Sales through group purchasing organizations (GPOs), which act as agents that negotiate vendor contracts on behalf of their members represented approximately 19% of revenues for fiscal 2022 and 2021. The trade receivable balances are with individual members of the GPOs and therefore credit risk is spread through various members.
+Fitch Litigation Assumptions: Fitch believes CAH has significant financial flexibility to settle the estimated liability of $6.5 billion associated with lawsuits and claims brought by states and political subdivisions related to the distribution of prescription opioid pain medications. Fitch anticipates that the liabilities will be paid over 18 years rather than as lump sums, and Fitch treats these payments as a reduction to EBITDA (approximately $350 million/year) rather than incorporating the liability into CAH's adjusted debt.
+New U.S. Drug Legislation: Fitch's assessment of the potential rating implications of the Inflation Reduction Act will initially center on branded pharma manufacturers with cash flow derived from the affected drugs. Global pharma companies generally maintain diversified product portfolios, which should minimize pricing pressure for any single drug. However, there could be limited offsets to declining revenue; as a result, that could moderately affect pharma sector profitability and cash flow which, in turn, could affect contracts that manufacturers have with wholesalers like CAH. Fitch has not adjusted its revenue or segment operating margin assumptions for CAH related to the new legislation.
+DERIVATION SUMMARY
+The credit profiles of CAH and its peers, AmerisourceBergen Corp. (ABC; A-/Stable) and McKesson Corp. (MCK; A-/Stable) benefit from stable operating profiles and consistent cash generation. Like its peers, CAH benefits from steady pharmaceutical demand and an oligopolistic position within the drug-distribution industry.
+Those strengths are somewhat offset by weak performance, albeit improving within the medical segment, persistent, restructuring, litigation and regulatory costs and ongoing changes in the U.S. healthcare environment that may dampen funding for the products and services provided by Cardinal Health and its peers.
+CAH's leading competitors ABC and MCK have exhibited lower financial leverage and higher profitability in recent years and are expected to do so over the medium term. In addition, both ABC and MCK have developed or acquired significant capabilities to service pharmaceutical manufacturers of specialty drugs, which is one of the fastest growing and profitable areas of pharmaceutical distribution. Fitch understands CAH plans to expand its capabilities in this area, which has the potential for improved profitability relative to peers.
+Fitch believes the guarantee from Cardinal Health, Inc. of Allegiance Corporation's debt signals strong legal, operational and strategic linkages between the two entities, which allows for the debt of the subsidiary to be rated 'BBB', the same level as the debt of the parent company.
+The 'F2' Short-Term IDR is supported by the company's good financial flexibility, financial structure and operating environment. CAH's financial structure subfactor of 'a-', financial flexibility subfactor of 'bbb+' with very comfortable liquidity of 'a' and a well spread maturity schedule of long-term debt all support the 'F2' Short-Term IDR. The 'F2' rating also benefits from committed revolving credit facilities that back-stop CP issuance.
+KEY ASSUMPTIONS
+--Pharmaceutical segment revenue CAGR of approximately 8%-9% through 2026; medical segment revenue CAGR of approximately 1%-2% through 2026;
+--EBITDA margins remain near 1.00% over the forecast period;
+--Litigation settlements and legal expenses of approximately $350 million per year through FY 2026 are charged to EBITDA;
+--Working capital is assumed to be net positive over the forecast period of approximately $400 million per year;
+--Capex of approximately $500 million per year and common dividends of approximately $500 million per year over the forecast period;
+--Share repurchases of $2 billion in FY 2023 and $1 billion per year in FYs 2024-2026;
+--Acquisitions are not assumed;
+--FY 2023 debt maturity is repaid; all remaining debt is assumed to be refinanced after FY 2023;
+--All debt is assumed to be refinanced at rates between 5.0% and 5.5%.
+RATING SENSITIVITIES
+Factors That Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+--Gross debt/EBITDA (after opioid payments) expected to remain below 2.5x;
+--FCF (after opioid payments)/debt expected to remain above 20%.
+Factors That Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+--A deepening of recent shifts in the industry's competitive and pricing dynamics, such as lower-than-expected brand-name product inflation, higher-than-expected margin compression or generic price erosion and reduced profitability related to key contract revisions;
+--Debt-funded acquisitions, share buybacks, material operational issues, declining revenues or evidence of material margin pressure that lead to an expectation of gross debt/EBITDA (after opioid payments) expected to remain above 3.0x;
+--FCF (after opioid payments)/debt expected to remain below 15%.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Ample Liquidity: Fitch believes that CAH has ample sources of liquidity based on cash on hand and committed credit facilities and projected FCF that can cover working capital needs, capex, contractual obligations, dividends and potential litigation settlement payments.
+CAH has near full availability under its $2 billion revolving credit facility (RCF) due in February 2028, plus an undrawn $1 billion accounts receivable securitization program due in September 2025. The RCF also backs CAH's $2 billion CP program. The revolving credit and committed receivables sales facilities require CAH to maintain a consolidated net leverage ratio of no more than 3.75- to-1. As of March 31, 2023, CAH was in compliance with this financial covenant.
+The CP program and receivables sales facility program balances were zero as of March 31, 2023. CAH discloses that during the nine months ended March 31, 2023, it had maximum combined total daily amounts outstanding of $445 million and an average combined daily amount outstanding of $4 million. Fitch anticipates that CAH will utilize the CP program and receivable sales facility less as long as interest rates remain higher compared to the recent past.
+Laddered Maturities: Fitch projects FCFs and cash balances will be more than adequate to fund near-term maturities as well as opioid settlement payments. Debt maturities are manageable and well-laddered with a total of $4.7 billion of debt maturities, excluding $580 million due FY 2023. All debt is assumed to be refinanced after FY 2023 at rates between 5.0 and 5.5%.
+ISSUER PROFILE
+Cardinal Health, Inc. (CAH) is a globally integrated healthcare services and products company providing pharmaceuticals and medical products along with customized solutions for hospitals, healthcare systems, pharmacies, ambulatory surgery centers, clinical laboratories, physician offices and patients in the home.
+SUMMARY OF FINANCIAL ADJUSTMENTS
+Fitch has adjusted EBITDA to reflect reported merger and integration expenses, litigation expenses, impairments, state opioid assessments and other charges and credits that are deemed non-recurring.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+CAH has an ESG Relevance Score of '4' for Customer Welfare — Fair Messaging, Privacy & Data Security due to its exposure to loss contingencies related to opioid litigation that affects U.S. pharmaceutical distributors, which has a negative impact on the credit profile, and is relevant to the rating, in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Allegiance Corporation
+   senior unsecured
+LTBBB Affirmed
+BBB 
+Cardinal Health, Inc.
+LT IDRBBB Affirmed
+BBB 
+ST IDRF2 Affirmed
+F2 
+senior unsecured
+LTBBB Affirmed
+BBB 
+senior unsecured
+STF2 Affirmed
+F2 

@@ -1,0 +1,35 @@
+Fitch Downgrades Four Classes of BANK 2017-BNK8; Four Negative Outlooks Assigned; Resolves UCO
+
+Fitch Ratings - New York - 07 Aug 2023: Fitch Ratings has downgraded four and affirmed nine classes of BANK 2017-BNK8 Commercial Mortgage Pass-Through Certificates, Series 2017-BNK8. Fitch has assigned Negative Rating Outlooks on classes D, E, X-D and X-E following their downgrades. The under criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+BANK 2017-BNK8
+   A-3 06650AAD9
+LTAAAsf Affirmed
+AAAsf 
+A-4 06650AAE7
+LTAAAsf Affirmed
+AAAsf 
+A-S 06650AAH0
+LTAAAsf Affirmed
+AAAsf 
+A-SB 06650AAC1
+LTAAAsf Affirmed
+AAAsf 
+B 06650AAJ6
+LTAA-sf Affirmed
+AA-sf 
+C 06650AAK3
+LTA-sf Affirmed
+A-sf 
+D 06650AAU1
+LTBBsf Downgrade
+BBB-sf 
+E 06650AAW7
+LTB-sf Downgrade
+BB-sf 
+F 06650AAY3
+LTCCCsf Affirmed
+CCCsf 

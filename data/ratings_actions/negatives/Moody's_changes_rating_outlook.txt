@@ -1,0 +1,22 @@
+Moody's changes rating outlook on Gemini HDPE to negative from stable; Affirms Ba2 rating on senior secured term loan
+Approximately $543 million (originally $600 million) outstanding debt affected
+New York, August 18, 2023 -- Moody's Investors Service ("Moody's") today affirmed the Ba2 rating on Gemini HDPE LLC's ("Gemini") senior secured term loan due 2027, which has approximately $543 million of debt outstanding. The outlook was revised to negative from stable.
+Affirmations:
+..Issuer: Gemini HDPE LLC
+....Senior Secured Term Loan, Affirmed Ba2
+Outlook Actions:
+..Issuer: Gemini HDPE LLC
+....Outlook, Changed To Negative From Stable
+RATINGS RATIONALE
+Today's rating action reflects the degradation in the credit quality of Gemini's sole owner and offtaker, INEOS Group Holdings S.A. (INEOS: Ba2 negative). Earlier this month, INEOS' Ba2 rating was affirmed and its rating outlook was changed to negative from stable owing to increasing leverage driven by global chemical markets softening from 2022 peaks and higher debt loads from related-party loans. INEOS also suffered an unexpected setback when its construction permit was revoked for its €4 billion cracker development project in Belgium that commenced construction earlier this year. INEOS' leverage was 5.6x for the twelve month period ending June 30, 2023 relative to 3.3x at the end of 2022 and Moody's expects it to reach 6x by the end of 2023.
+Offtaker credit quality is the primary driver of Gemini's credit profile because INEOS wraps operational and market risk under its Tolling Agreement. Additionally, INEOS is deeply involved in the project as owner, operator, technology provider, and facility coordinator given Gemini's location within INEOS's manufacturing complex. INEOS provides guaranties under long-term Tolling Agreements that are structured to achieve a low but stable 1.0x debt service coverage ratio. The toll payment obligation is absolute, unconditional, and not subject to abatement or set-off. We expect the plant will maintain its strong cost position and will produce solid operational results through the remainder of 2023 and beyond with production output above nameplate capacity.
+Other key credit considerations include Gemini's highly competitive cost position; weak project finance protections particularly the lack of reserves such as a debt service reserve; as well as refinancing risk with 70% of the debt scheduled to be outstanding at maturity. This refinancing risk is mitigated by the terms of the Tolling Agreements that extend well past the debt maturity and provide for sufficient cash flow to repay the expected refinancing amount by the maturity of the Toll Agreements in December 2035. There is minimal liquidity retained at the asset and Gemini had $6.13 million in cash and equivalents as of March 31, 2023.
+RATING OUTLOOK
+The negative outlook considers the degradation in credit quality of Gemini's offtaker/owner owing in part to the recent outlook change of INEOS.
+FACTORS THAT COULD LEAD TO AN UPGRADE OR DOWNGRADE OF THE RATINGS
+In light of the negative outlook, there are limited prospects for a positive rating action at the project. Gemini HDPE's rating could be stabilized should INEOS' credit profile stabilize or upgraded if there is improvement in INEOS's credit quality as long as the project maintains solid operational performance.
+Gemini HDPE's rating could be downgraded if there is deterioration of INEOS's credit quality, if the key underlying contracts are challenged or violated or if the project encounters extensive operating problems.
+PROFILE
+Gemini HDPE LLC (Gemini) is a high-density polyethylene (HDPE) manufacturing plant within INEOS's Battleground Manufacturing Complex (BMC) located in La Porte, Texas. The project uses INEOS' licensed proprietary Innovene-S process and is operating above its nameplate capacity of 1 billion pounds of HDPE per year.
+METHODOLOGY
+The principal methodology used in this rating was Generic Project Finance Methodology published in January 2022 and available at https://ratings.moodys.com/rmc-documents/361401. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.

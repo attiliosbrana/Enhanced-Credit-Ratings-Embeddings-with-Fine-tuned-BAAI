@@ -1,0 +1,36 @@
+Fitch Upgrades Fukoku Life's IFS Rating to 'A+'; Outlook Stable
+
+Fitch Ratings - Tokyo/Hong Kong - 28 Aug 2023: Fitch Ratings has upgraded Japan-based Fukoku Mutual Life Insurance Company's Insurer Financial Strength (IFS) Rating at to 'A+' (Strong), from 'A' (Strong), and its Long-Term Issuer Default Rating to 'A', from 'A-'. The Outlook is Stable. The agency has also upgraded the company's US dollar-denominated subordinated notes to 'A-', from 'BBB+'.
+KEY RATING DRIVERS
+Strengthened Credit Profile: The upgrade reflects Fukoku Life's steadily strengthened capitalisation, which compares well against Fitch's criteria guidelines for above the 'A' IFS category. Fitch also expects the V-shaped recovery of the company's profitability metrics from the financial year ending March 2024 (FYE24) to continue to support the accumulation of capital.
+'Very Strong' Capitalisation: Capital adequacy, measured by the Fitch Prism Model, remained at 'Extremely Strong' at end-March 2023, backed by accumulated core capital and reserves. Despite recent financial market volatility, the economic solvency ratio has been stable at 245%, from 242% a year earlier. Fitch expects the ratio to rise towards 300% over the next three to five years, amid continued core capital accumulation.
+Fukoku Life retains substantial excess capital to absorb volatility from its domestic equity exposure, at 11% of its general account at end-March 2023, currency risk, with more than 80% of its foreign bonds being unhedged, and interest rate risk.
+'Favourable' Company Profile: Fitch ranks Fukoku Life's company profile as 'Favourable' based on a 'Favourable' business profile and 'Moderate/Favourable' corporate governance compared with all other Japanese insurers. Its stable and solid performance is partly driven by a strong customer base among public-sector employees, which tends to be stable due to greater job security compared with the private sector. Therefore, Fitch scores the company profile at 'a+' under its credit-factor scoring guidelines.
+Underwriting Profitability to Recover: Fitch expects profitability to recover from FYE24, with a core profit margin of around 15%. The domestic underwriting business suffered insured losses in FYE23, caused by 'deemed hospitalisation' amid the Covid-19 Omicron variant. This saw the core profit margin halve to 9% (FYE22: 18%, FYE21: 17%). However, Fitch believes 'deemed hospitalisation' has now ceased after the government removed pandemic-related restrictions in May 2023.
+Growing Positive Investment Spread: The company's positive investment spread increased to JPY42 billion in FYE23, from JPY39 billion a year earlier. Fitch expects the positive investment spread to continue growing over the next three to five years, due partly to steadily declining average guaranteed yield, which should support earnings growth.
+Declining Interest Rate Risk: Fukoku Life faces interest-rate risk due to the duration mismatch in its assets and liabilities. Fitch expects the company to increasingly narrow the gap, supported by a moderately rising Japanese yen bond yield. Fitch also believes the company retains a sufficient capital buffer to absorb interest-rate risk.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+- A strengthened company profile, specifically, if the company's market share significantly rises or if it achieves a more globally diversified insurance underwriting business portfolio.
+- Sustained growth in the third-sector business, with a core profit margin of well above 15% and return on assets of above 1.2% (three year average 0.9%), on a prolonged basis.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+- A drop in the capital buffer; specifically, if the company fails to maintain a Fitch Prism Model Score at well into the 'Strong' level.
+- A decline in profitability; specifically, the core profit margin falling to below 10% for a prolonged period.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Fukoku Mutual Life Insurance Company
+LT IDRA Upgrade
+A- 
+LT IFSA+ Upgrade
+A 
+subordinated
+LTA- Upgrade
+BBB+ 

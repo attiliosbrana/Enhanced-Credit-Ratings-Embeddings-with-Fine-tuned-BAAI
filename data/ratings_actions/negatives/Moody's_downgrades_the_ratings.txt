@@ -1,0 +1,37 @@
+Moody's downgrades the ratings on EUR 22.5m CLO notes of Palmer Square European Loan Funding 2022-1 Designated Activity Company
+Moody's also affirms the ratings on EUR 421.9m of notes
+London, August 23, 2023 -- Moody's Investors Service ("Moody's") has downgraded the ratings on the following notes issued by Palmer Square European Loan Funding 2022-1 Designated Activity Company:
+....EUR 17,500,000 Class E Senior Secured Deferrable Floating Rate Notes due 2031, Downgraded to Ba3 (sf); previously on Mar 16, 2022 Definitive Rating Assigned Ba2 (sf)
+....EUR 5,000,000 Class F Senior Secured Deferrable Floating Rate Notes due 2031, Downgraded to B2 (sf); previously on Mar 16, 2022 Definitive Rating Assigned B1 (sf)
+Moody's has also affirmed the ratings on the following notes:
+....EUR 340,000,000 (Current Outstanding Amount EUR 314,444,550) Class A Senior Secured Floating Rate Notes due 2031, Affirmed Aaa (sf); previously on Mar 16, 2022 Definitive Rating Assigned Aaa (sf)
+....EUR 57,500,000 Class B Senior Secured Floating Rate Notes due 2031, Affirmed Aa2 (sf); previously on Mar 16, 2022 Definitive Rating Assigned Aa2 (sf)
+....EUR 22,500,000 Class C Senior Secured Deferrable Floating Rate Notes due 2031, Affirmed A2 (sf); previously on Mar 16, 2022 Definitive Rating Assigned A2 (sf)
+....EUR 27,500,000 Class D Senior Secured Deferrable Floating Rate Notes due 2031, Affirmed Baa3 (sf); previously on Mar 16, 2022 Definitive Rating Assigned Baa3 (sf)
+Palmer Square European Loan Funding 2022-1 Designated Activity Company, issued in March 2022, is a static collateralised loan obligation (CLO) backed by a portfolio of mostly high-yield senior secured European loans. The portfolio is serviced by Palmer Square Europe Capital Management LLC. The servicer may sell assets on behalf of the Issuer during the life of the transaction. Reinvestment is not permitted and all sales and unscheduled principal proceeds received will be used to amortize the notes in sequential order.
+RATINGS RATIONALE
+The rating downgrades on the Class E and Class F notes are primarily a result of the deterioration in over-collateralisation ratios since last review in December 2022.
+The affirmations on the ratings on the Class A, Class B, Class C and Class D Notes are primarily a result of the expected losses on the notes remaining consistent with their current rating levels, after taking into account the CLO's latest portfolio, its relevant structural features and its actual over-collateralisation ratios.
+The over-collateralisation ratios of the rated notes have deteriorated since last review in December 2022. According to the trustee report dated July 2023 [1] the Class A/B, Class C, Class D, Class E and Class F OC ratios are reported at 126.50%, 119.37%, 111.67%, 107.27% and 106.07% compared to November 2022 [2] levels of 126.27%, 119.38%, 111.92%, 107.64% and 106.47%, respectively. Moody's notes that the July 2023 principal payments are not reflected in the reported OC ratios.
+The key model inputs Moody's uses in its analysis, such as par, weighted average rating factor, diversity score and the weighted average recovery rate, are based on its published methodology and could differ from the trustee's reported numbers.
+In its base case, Moody's used the following assumptions:
+Performing par and principal proceeds balance: EUR 471.6m
+Defaulted Securities: EUR 1.74m
+Diversity Score: 58
+Weighted Average Rating Factor (WARF): 2783
+Weighted Average Life (WAL): 4.41 years
+Weighted Average Spread (WAS) (before accounting for Euribor floors): 3.64%
+Weighted Average Coupon (WAC): 3.93%
+Weighted Average Recovery Rate (WARR): 45.48%
+The default probability derives from the credit quality of the collateral pool and Moody's expectation of the remaining life of the collateral pool. The estimated average recovery rate on future defaults is based primarily on the seniority of the assets in the collateral pool. In each case, historical and market performance and a servicer's latitude to trade collateral are also relevant factors. Moody's incorporates these default and recovery characteristics of the collateral pool into its cash flow model analysis, subjecting them to stresses as a function of the target rating of each CLO liability it is analysing.
+Moody's notes that the August 2023 trustee report was published at the time it was completing its analysis of the July 2023 data. Key portfolio metrics such as WARF, diversity score, weighted average spread and life, and OC ratios exhibit little or no change between these dates.
+Methodology Underlying the Rating Action:
+The principal methodology used in these ratings was "Moody's Global Approach to Rating Collateralized Loan Obligations" published in December 2021 and available at https://ratings.moodys.com/rmc-documents/74832. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+Counterparty Exposure:
+Today's rating action took into consideration the notes' exposure to relevant counterparties, such as account bank, using the methodology "Moody's Approach to Assessing Counterparty Risks in Structured Finance" published in June 2022. Moody's concluded the ratings of the notes are not constrained by these risks.
+Factors that would lead to an upgrade or downgrade of the ratings:
+The rated notes' performance is subject to uncertainty. The notes' performance is sensitive to the performance of the underlying portfolio, which in turn depends on economic and credit conditions that may change.
+Additional uncertainty about performance is due to the following:
+• Portfolio amortisation: The main source of uncertainty in this transaction is the pace of amortisation of the underlying portfolio, which can vary significantly depending on market conditions and have a significant impact on the notes' ratings. Amortisation could accelerate as a consequence of high loan prepayment levels or collateral sales by the servicer or be delayed by an increase in loan amend-and-extend restructurings. Fast amortisation would usually benefit the ratings of the notes beginning with the notes having the highest prepayment priority.
+• Recovery of defaulted assets: Market value fluctuations in trustee-reported defaulted assets and those Moody's assumes have defaulted can result in volatility in the deal's over-collateralisation levels.  Further, the timing of recoveries and the servicer's decision whether to work out or sell defaulted assets can also result in additional uncertainty.  Recoveries higher than Moody's expectations would have a positive impact on the notes' ratings.
+In addition to the quantitative factors that Moody's explicitly modelled, qualitative factors are part of the rating committee's considerations. These qualitative factors include the structural protections in the transaction, its recent performance given the market environment, the legal environment, specific documentation features, the servicer's track record and the potential for selection bias in the portfolio. All information available to rating committees, including macroeconomic forecasts, input from other Moody's analytical groups, market factors, and judgments regarding the nature and severity of credit stress on the transactions, can influence the final rating decision.

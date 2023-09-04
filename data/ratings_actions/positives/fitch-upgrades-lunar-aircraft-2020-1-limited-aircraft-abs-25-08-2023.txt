@@ -1,0 +1,19 @@
+Fitch Upgrades Lunar Aircraft 2020-1 Limited Aircraft ABS
+
+Fitch Ratings - New York - 25 Aug 2023: Fitch Ratings has upgraded the ratings of Lunar Aircraft 2020-1 Limited's class A, B, and C notes to A-sf', 'BBB-sf', and 'BB-sf', from 'BBBsf', 'BBsf' and 'Bsf', respectively. The ratings have been assigned a Stable Outlook. This transaction, along with the rest of the portfolio of aircraft operating lease ABS transactions that Fitch performs surveillance on, was placed Under Criteria Observation (UCO) in June of 2023 following Fitch's publication of new Aircraft Operating Lease ABS Criteria:
+https://www.fitchratings.com/research/structured-finance/fitch-ratings-updates-aircraft-operating-lease-abs-rating-criteria-23-06-2023
+These ratings reflect current transaction performance, Fitch's cash flow projections, and its expectation for the structure to withstand stress scenarios commensurate with their respective ratings within the framework of Fitch's new criteria and related asset model. The rating actions also consider lease terms, lessee credit quality and performance, updated aircraft values, and Fitch's assumptions and stresses, which inform our modeled cash flows and coverage levels. Fitch's updated rating assumptions for airlines are based on a variety of performance metrics and airline characteristics.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Lunar Aircraft 2020-1 Limited
+   A 55037LAA2
+LTA-sf Upgrade
+BBBsf 
+B 55037LAB0
+LTBBB-sf Upgrade
+BBsf 
+C 55037LAC8
+LTBB-sf Upgrade
+Bsf 

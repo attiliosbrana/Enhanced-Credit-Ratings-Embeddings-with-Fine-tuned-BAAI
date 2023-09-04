@@ -1,0 +1,17 @@
+Moody's downgrades Country Garden's ratings to Ca/C; outlook remains negative
+Hong Kong, August 31, 2023 -- Moody's Investors Service has downgraded Country Garden Holdings Company Limited's corporate family rating (CFR) to Ca from Caa1 and its senior unsecured rating to C from Caa2.
+The outlook remains negative.
+"The rating downgrades with negative outlook reflect Country Garden's tight liquidity and heightened default risk, as well as the likely weak recovery prospects for the company's bondholders," says Kaven Tsang, a Moody's Senior Vice President.
+RATINGS RATIONALE
+Although Country Garden reported RMB101 billion of unrestricted cash as of June 2023, Moody's estimates the company does not have sufficient internal cash sources to address its upcoming offshore bond maturity, given its weakening sales and sizable maturing debt over the next 12-18 months. Specifically, the company will have around RMB17 billion of onshore bonds and around RMB14 billion of offshore bonds due or becoming puttable through the end of 2024.
+Country Garden's weak liquidity and limited ability to service its maturing debt are also reflected in its proposed equity issuance on 30 August to settle part of its debt repayment, as well as its two missed USD coupon payments earlier in the month.
+Moody's expects recovery prospects for Country Garden's offshore bondholders to be low if the company defaults, given its high debt leverage and large amount of financing at the operating subsidiary level.
+While the company could service its debt through asset disposals or other fundraising plans, such fundraising activities carry high uncertainties.
+Country Garden's C senior unsecured rating is one notch lower than the CFR to reflect this structural subordination risk. Most of the company's consolidated claims are at its operating subsidiaries, which have priority over its senior unsecured claims at the holding company in a bankruptcy scenario. Moody's expects the likely recovery rate for claims at the holding company to be lower.
+In terms of environmental, social and governance (ESG) factors, Moody's has considered the company's weak financial and liquidity management, as well as its concentrated ownership by its key shareholder, Yang Huiyan, who held a 52.6% stake in the company as of the end of July 2023. The concentrated ownership indicates that influence from the company's largest shareholder could materially change its financial policy and strategy, despite the shareholder's history of providing funding support to the company.
+FACTORS THAT COULD LEAD TO AN UPGRADE OR DOWNGRADE OF THE RATINGS
+Moody's could downgrade Country Garden's CFR if recovery prospects for its creditors weaken further.
+An upgrade is unlikely, given the negative outlook.
+However, positive rating momentum could develop if Country Garden repays its maturing debt obligations and improves its liquidity position materially.
+The principal methodology used in these ratings was Homebuilding and Property Development published in October 2022 and available at https://ratings.moodys.com/rmc-documents/394515. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+Country Garden Holdings Company Limited, founded in 1992 and listed on the Hong Kong Stock Exchange, is a leading Chinese integrated property developer. As of the end of 2022, the company had an attributable land bank of 201.5 million square meters (sqm) in terms of gross floor area (GFA) across different cities in China.

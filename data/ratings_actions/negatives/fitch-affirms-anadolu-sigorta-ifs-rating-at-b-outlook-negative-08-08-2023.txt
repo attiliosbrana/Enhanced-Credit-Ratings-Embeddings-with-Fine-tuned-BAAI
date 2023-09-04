@@ -1,0 +1,41 @@
+Fitch Affirms Anadolu Sigorta's IFS Rating at 'B+'; Outlook Negative
+
+Related Content:
+Anadolu Anonim Turk Sigorta Sirketi
+Anadolu Anonim Turk Sigorta Sirketi - Ratings Navigator
+Fitch Ratings - Madrid - 08 Aug 2023: Fitch Ratings has affirmed Anadolu Anonim Turk Sigorta Sirketi's (Anadolu Sigorta) Insurer Financial Strength (IFS) Rating at 'B+' with a Negative Outlook and National IFS Rating at 'AA+(tur)' with a Stable Outlook.
+The affirmation reflects Anadolu Sigorta's 'Most Favourable' business profile in Turkiye relative to other insurers', high asset risk driven by its substantial exposure to Turkish assets, as well as adequate but pressured capitalisation and profitability. The Negative Outlook on the IFS Rating reflects that on the Turkish sovereign rating, which affects the operating environment where the insurer operates and the credit quality of its investment portfolio.
+KEY RATING DRIVERS
+Leading Turkish Insurer: Fitch views Anadolu Sigorta's business profile as 'Most Favourable', as measured against other Turkish insurers, supported by the company's very strong position in the country's highly competitive insurance sector. Anadolu Sigorta was the second-largest non-life insurer in Turkiye at end-2022, with a market share of about 12%. We expect the strong business profile to support the resilience of Anadolu's credit profile against the challenges posed by the Turkish economy.
+Substantial Exposure to Turkish Assets: Anadolu Sigorta is highly exposed to domestic assets. Most of its investment portfolio comprised deposits in Turkish banks and Turkish government and local issuers bonds at end-1H23. The company's credit quality is therefore highly correlated with that of Turkish banks and the sovereign. Assets risk remain the main rating weakness for the company and is reflected in the Negative Outlook on the IFS rating.
+Capitalisation to Marginally Improve: The company's capitalisation, as measured by Fitch's Prism Factor-Based Capital Model, was in the 'Somewhat Weak' category at end-2022, down from 'Adequate' at end-2021, due to increased net premiums and reserves as a reflection of the highly inflationary environment. We expect Anadolu Sigorta's Prism FBM score to improve to the high end of the 'Somewhat weak' or 'Adequate' category in 2023, given improved earnings and higher equity position expected due to higher retained earnings at end-2023. Anadolu Sigorta's regulatory solvency ratio was comfortably above 100% at end-2022 and at end-1H23.
+Weak Underwriting Profitability: Anadolu Sigorta's profitability is weak and under pressure from the very challenging operating environment. The reported combined ratio slightly improved to 121% in 1H23 (1H22: 128%) despite the poor motor third-party (MTPL) performance, as other lines improved their performance due to higher tariffs implemented in 2022. However, it remains largely unprofitable.
+Anadolu Sigorta's earnings have been resilient with reported net income of TRY2,910 million in 1H23 (1H22: TRY376 million). As in previous years, this was supported by the investment result as the underwriting performance remained loss-making. We expect Anadolu Sigorta to report a positive net result in 2023 but for underwriting to continue making heavy losses.
+National Rating Reflects Robust Franchise: The company's 'AA+(tur)' National IFS rating largely reflects its strong franchise in Turkiye, and a regulatory solvency ratio consistently over 100%.
+RATING SENSITIVITIES
+IFS RATING
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+- A downgrade of Turkiye's Long-Term Local-Currency Issuer Default Rating (IDR) or major Turkish banks' ratings leading to a material deterioration in the company's investment quality
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+-The Outlook could be revised to Stable if the Outlook on Turkiye's Long-Term Local-Currency IDR or that on major Turkish banks' ratings, was revised to Stable
+NATIONAL IFS RATING
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Return on equity exceeding inflation levels for a sustained period, provided the company's market position remains very strong
+Factors that could, individually or collectively, lead to negative rating action /downgrade:
+--A decline in the company's regulatory solvency ratio to below 100% on a sustained basis
+--Substantial deterioration of the company's market position in Turkiye
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Anadolu Anonim Turk Sigorta Sirketi
+LT IFSB+ Affirmed
+B+ 
+Natl LT IFSAA+(tur) Affirmed
+AA+(tur) 

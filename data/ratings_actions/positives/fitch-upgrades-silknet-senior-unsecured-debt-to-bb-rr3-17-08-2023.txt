@@ -1,0 +1,39 @@
+Fitch Upgrades Silknet's Senior Unsecured Debt to 'BB-'/'RR3'
+
+Fitch Ratings - Frankfurt am Main - 17 Aug 2023: Fitch Ratings has upgraded Silknet JSC's senior unsecured debt to 'BB-'/'RR3' from 'B+'/'RR4' and removed the company's ratings from Under Criteria Observation.
+The upgrades of the instrument and Recovery Ratings follow changes in Fitch's Country-Specific Treatment of Recovery Ratings Criteria published in March 2023. Under the new criteria, Georgia has moved to Group C from Group D countries, so its jurisdiction-based Recovery Rating cap has changed to 'C', allowing for debt to be rated one notch above the Issuer Default Rating (IDR) if recoveries are strong. Under our Recovery Ratings assumptions, the underlying recovery percentage is higher than 70%, capped at 'RR3'.
+KEY RATING DRIVERS
+The key rating drivers for Silknet's IDR are detailed in the rating action commentary 'Fitch Upgrades Silknet to 'B+'; Outlook Stable' at https://www.fitchratings.com/research/corporate-finance/fitch-upgrades-silknet-to-b-outlook-stable-28-11-2022.
+Silknet has an ESG Relevance score of '4' for Governance Structure reflecting the dominant majority shareholder's influence over the company and related-party transactions. This has a negative impact on the credit profile, and is relevant to the rating in conjunction with other factors.
+KEY ASSUMPTIONS
+Key Recovery Rating Assumptions
+-The recovery analysis assumes that Silknet would be deemed a going-concern (GC) in bankruptcy and that it would be reorganised rather than liquidated
+-USD200 million of unsecured debt outstanding at end-December 2022 following buying back a portion of the USD300 million bond
+-A 10% fee for administrative claims
+-GC EBITDA estimate of GEL170 million reflects Fitch's view of a sustainable, post-reorganisation EBITDA upon which we base the valuation of the company
+-An enterprise value (EV)/EBITDA multiple of 4.0x is used to calculate a post-reorganisation valuation, reflecting a conservative post-distressed valuation
+For rating case assumptions, see the previous rating action commentary.
+RATING SENSITIVITIES
+Rating sensitivities are detailed in the previous rating action commentary.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+Silknet has an ESG Relevance score of '4' for Governance Structure reflecting the dominant majority shareholder's influence over the company and related-party transactions. This has a negative impact on the credit profile, and is relevant to the rating in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Silknet JSC
+LT IDRB+ Criteria Observation Removed
+
+
+B+ 
+senior unsecured
+LTBB- Upgrade
+RR3
+
+B+ 

@@ -1,0 +1,53 @@
+Fitch Downgrades Jimo Tourism to 'BB+'; Removes RWN; Outlook Stable
+
+Fitch Ratings - Hong Kong/Beijing - 09 Aug 2023: Fitch Ratings has downgraded Qingdao Jimo District Urban Tourism Development and Investment Co. Ltd.'s (Jimo Tourism) Long-Term Foreign- and Local-Currency Issuer Default Ratings (IDRs) to 'BB+', from 'BBB-'. The Outlook is Stable.
+Fitch has also downgraded the ratings on Jimo Tourism's two outstanding senior unsecured US-dollar bonds, which mature in December 2024 and June 2025. The bonds - issued by wholly owned subsidiary, Jingming Yuantong Development Investment (BVI) Co., Ltd - are unconditionally and irrevocably guaranteed by Jimo Tourism.
+All ratings have been removed from Rating Watch Negative (RWN), on which they were placed on 21 February 2023.
+The downgrade follows our reassessment that the sponsoring Jimo district government has a lower ability to provide legitimate support to Jimo Tourism, should it be needed.
+KEY RATING DRIVERS
+Status, Ownership and Control: 'Very Strong'
+Jimo Tourism is wholly owned by the Jimo State-owned Assets Operation and Service Centre and, ultimately, by the Jimo district government. The government exercises tight control over Jimo Tourism, as evident by its board appointments and the company's regular performance reports. All major corporate events, including M&As, disposals, strategic development, long-term plans, annual budgets, major capital expenditure and funding plans, require government approval.
+Support Track Record: 'Strong'
+Jimo Tourism receives consistent and regular government support in the form of annual operating subsidies, equity injections and asset transfers. Jimo Tourism received CNY1.5 billion in operating subsidies during 2020-2022, which was 1.7x its EBITDA. The government also issued a special bond of CNY1.1 billion to fund the company's infrastructure and construction. We expect such support to continue, given the issuer's government linkage and the works that it undertakes for the government. Nonetheless, the support assessment is constrained by the lack of an explicit government guarantee.
+Socio-Political Implications of Default: 'Moderate'
+Jimo Tourism is a core government-related entity (GRE) in the district, providing 90% of local heat supply from November to April each year. It also undertakes key projects, such as water-supply facility upgrades, canal improvement, infrastructure development and weather observatory station construction. These essential public services support the local economy and improve the quality of life for residents.
+Jimo Tourism's financial distress would disrupt its projects and have economic repercussions. However, there are other local GREs that provide similar services and the company's default would not affect its completed projects.
+Financial Implications of Default: 'Very Strong'
+Jimo Tourism is the district's second-largest GRE by assets, a large portion of which relate to public services and infrastructure. The company's financial viability is linked to the local economy, as its projects depend on government repurchases, demand from residents and the availability of skilled workers in the district. Jimo Tourism also has ample funding access, including to onshore debt capital markets and bank financing; hence, its financial distress would be likely to have a contagion effect on the district and its other GREs.
+Standalone Credit Profile
+'b' Standalone Credit Profile: We assess revenue defensibility as 'Midrange', as Jimo Tourism's operations are district-level focused. Operating risk is 'Midrange', as well-identified costs are offset by large capital expenditure and limited flexibility to vary the timing and scale of government-directed projects. The financial profile is 'Weaker', underpinned by high leverage, heavy short- to medium-term capital expenditure and the time taken to recover costs. We estimate net leverage will exceed 30x over the next three to five years.
+Revenue Defensibility 'Midrange'
+Operating Risk 'Midrange'
+Financial Profile 'Weaker'
+Derivation Summary
+Jimo Tourism is rated under Fitch's Government-Related Entities Rating Criteria, with an overall support score of 40, reflecting its ownership, control and strong support by the Jimo district government. Fitch also factors in the socio-political and financial implications for the government should the company default and Jimo Tourism's Standalone Credit Profile assessment under Fitch's Public Sector, Revenue-Supported Entities Rating Criteria.
+Issuer Profile
+Jimo Tourism was established in 2007 and is one of two major GREs in Jimo district. Its main businesses include heat supply, infrastructure and construction.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+- A lowering of Fitch's credit view of Jimo district's ability to provide subsidies, grants or other legitimate resources allowed under China's policies and regulations
+- A significant weakening of the socio-political or financial implications of a default, a weaker government support record or a dilution of the government's shareholding or control
+A downgrade of Jimo Tourism's IDRs will result in a similar change in the rating of its notes.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+- An upward revision in Fitch's credit view of Jimo district's ability to provide subsidies, grants or other legitimate resources allowed under China's policies and regulations
+- A stronger assessment of the government's support record or the socio-political implications of a default
+An upgrade of Jimo Tourism's IDRs will result in a similar change in the rating of its notes.
+ESG Considerations
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/topics/esg/products#esg-relevance-scores
+Best/Worst Case Rating Scenario
+International scale credit ratings of Sovereigns, Public Finance and Infrastructure issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of three notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+References for Substantially Material Source Cited as Key Driver Rating
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Qingdao Jimo District Urban Tourism Development and Investment Co. Ltd.
+LT IDRBB+ Downgrade
+BBB- 
+LC LT IDRBB+ Downgrade
+BBB- 
+Jingming Yuantong Development Investment (BVI) Co., Ltd
+   senior unsecured
+LTBB+ Downgrade
+BBB- 

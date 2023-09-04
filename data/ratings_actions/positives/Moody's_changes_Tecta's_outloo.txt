@@ -1,0 +1,30 @@
+Moody's changes Tecta's outlook to positive, affirms B2 CFR and assigns B2 to new first lien debt
+New York, August 14, 2023 -- Moody's Investors Service ("Moody's") revised the rating outlook of Tecta America Corp's ("Tecta") to positive from stable. Moody's also affirmed Tecta's corporate family rating (CFR) at B2 and its probability of default rating (PDR) at B2-PD.  At the same time, Moody's assigned a B2 rating to Tecta's proposed $200 million first lien term loan and downgraded the company's existing first lien term loan to B2 from B1.
+The proceeds from the proposed first lien facility will be used to repay Tecta's existing second lien term loan, fund acquisitions, and pay transaction fees.  Ratings on the second lien will be withdrawn at the close of the transaction.
+"Tecta's ratings affirmation and positive outlook reflect the company's rapid deleveraging and commitment to a moderate leverage profile.  Since the company's 2021 acquisition of Empire and debt funded dividend, Tecta has reduced leverage by about 2x to mid 4x for the twelve months ending June 30, 2023."
+"The company's robust backlog and non-discretionary commercial roofing services positions the company well to withstand a high interest rate, low growth macro-economic environment.  Tecta's ability to maintain leverage below 4.5x will be a key consideration during our outlook period," added Remsen.
+The B2 rating assigned to the proposed $200 million first lien term loan and the downgrade of the existing first lien term loan to B2 reflect a pro forma capital structure comprised all first lien secured debt. The repayment of the second lien term loan as part of this transaction removes the prior debt cushion to the first lien debt.  Given the now all first lien capital structure, the ratings are aligned with the B2 CFR.
+Affirmations:
+..Issuer: Tecta America Corp
+.... Corporate Family Rating, Affirmed B2
+.... Probability of Default Rating, Affirmed B2-PD
+Downgrades:
+..Issuer: Tecta America Corp
+....Backed Senior Secured 1st Lien Bank Credit Facility, Downgraded to B2 from B1
+Assignments:
+..Issuer: Tecta America Corp
+....Backed Senior Secured 1st Lien Term Loan, Assigned B2
+Outlook Actions:
+..Issuer: Tecta America Corp
+....Outlook, Changed To Positive From Stable
+RATINGS RATIONALE
+Tecta's B2 CFR reflects the company's market position as a leading providers of roofing maintenance and replacement services to a diversified set of commercial and industrial end markets, its broad customer base, and nationwide footprint. Tecta's solid operating margins, predictable free cash flow and good liquidity profile are also supportive of the rating.
+The rating also reflects Moody's consideration of Tecta's vulnerability to cyclical end markets, including exposure to new commercial construction. Moody's also considers governance characteristics, including its private equity ownership and control, and potential for debt funded shareholder distributions.
+Tecta's good liquidity is supported by a proposed upsized $185 million revolver under the company's proposed credit facility (expiring in 2026) and Moody's expectation of $30 million and $50 million of free cash flow in 2023 and 2024. Tecta's first lien senior secured revolving credit facility's principal financial covenant is based on revolver usage.  If the revolver usage exceeds 35% of commitments, Tecta then must maintain a first lien leverage ratio of no more than 8.15x. Moody's does not expect the net leverage covenant ratio test to be triggered over the next 12 months. The company's existing term loan does not have any financial covenants.  The new $200 million term loan is expected to contain the same covenants as the existing first lien term loan.
+ENVIRONMENTAL, SOCIAL, GOVERNANCE CONSIDERATIONS
+Governance factors Moody's consider for Tecta include the company's financial strategy of its sponsor with respect to the company's debt leverage including funding acquisitions and shareholder distributions.
+FACTORS THAT COULD LEAD TO AN UPGRADE OR DOWNGRADE OF THE RATINGS
+The ratings could be upgraded if Debt-to-EBITDA approaches 4.5x, EBITA-to-interest expense is sustained above 3.0x, and the company maintains good liquidity.  A sustained commitment to a less aggressive financial policy could also lead to an upgrade.
+Alternatively, the ratings could be downgraded if Debt-to-EBITDA is sustained above 6.0x, EBITA-to-interest expense is sustained below 2.0x, the company takes a very aggressive financial policy action including shareholder dividends, or liquidity deteriorates.
+Headquartered in Rosemont, IL, Tecta America Corp provides roofing maintenance and replacement services to the commercial and industrial end markets in the US.  Altas Partners, through its affiliates, is the majority owner of Tecta along with a minority interest from Leonard Green Partners. Revenue for the twelve months ending June 30, 2023 was about $1.3 billion.
+The principal methodology used in these ratings was Business and Consumer Services published in November 2021 and available at https://ratings.moodys.com/rmc-documents/356424. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.

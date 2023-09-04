@@ -1,0 +1,67 @@
+Fitch Upgrades Entrevias' National Rating to 'AA+(bra)'; Affirms Debs at 'BB', Outlook to Positive
+
+Fitch Ratings - São Paulo - 25 Aug 2023: Fitch Ratings has upgraded the National Long-Term (LT) Rating of Entrevias Concessionária de Rodovias S.A. (Entrevias) to 'AA+(bra)'/Outlook Positive from 'AA-(bra)'/Outlook Stable. In addition, Fitch has affirmed Entrevias' BRL 1.0 billion second debentures issuance due in 2030 at 'BB' and revised the Outlook to Positive from Stable.
+The upgrade of National LT Rating reflects the strong operational performance in 2022 and 2023. Total traffic surpassed Fitch's Base Case. Liquidity and credit metrics have improved and increased transactions' cushion to withstand stresses. The Positive Outlook reflects Fitch's expectation that the positive traffic trend will continue in the following years supporting metrics in line with a higher rating. If the strong traffic performance remains in 2023 and 2024 and investments are performed according to issuer's expectation allowing for additional tariff readjustment, Entrevias' debt rating could be upgraded.
+RATING RATIONALE
+The ratings reflect the operational profile of the concessionaire with heavy vehicles representing approximately 60% of the paying axles. The North Section of the toll road, which crosses Ribeirão Preto in State of São Paulo, has a proven traffic base, present moderate volatility and corresponds to approximately 70% of total traffic. The South Section, a more recent stretch, is crucial for the region's agricultural production flow.
+The works for duplication of lanes between Marília and Echaporã are expected to be concluded by the end of August 2023. After the conclusion of this investment, the concessionaire has the right to charge additional tariff in Florinea and Echaporã toll plazas. The concession agreement provides for annual tariff increases that track inflation and has an extensive capex plan up to 2025.
+The senior debt is also indexed to inflation and includes a six months reserve account. There is a large amount of investments to be executed until 2025. The existent restrictions on cash distribution up to 2024 provide adequate liquidity leading to a minimum loan life coverage ratio (LLCR) of 1.6x in 2023, in Fitch's rating case. After that period, the minimum debt service coverage ratio (DSCR) is 1.2x and average DSCR is 1.4x, which is considered strong for the assigned rating, according to Fitch's Applicable Criteria.
+KEY RATING DRIVERS
+Volume Strongly Linked to Economy (Volume Risk - High Midrange)
+Entrevias' concession is divided into the North and South sections, both in the State of São Paulo. The North Section is located in a wealthy region and crosses Ribeirão Preto as well as has a long track record of operations. The right to collect tolls was granted to Entrevias in May 2018, after the maturity of the prior concession. The South Section, which crosses Marília, connects the states of São Paulo and Paraná, and is crucial for agricultural production flow, such as horticulture, sugar, sugar cane and temporary crops. This stretch started collecting tolls for the first time in October 2018. The Brazilian logistics network narrows competition between toll roads, therefore, price elasticity is moderate.
+Tariffs Adjusted by Inflation (Price Risk - Midrange)
+The concession falls under the state of São Paulo jurisdiction and is regulated by Agência de Transporte do Estado de São Paulo (ARTESP). The concession contract stipulates annual tariffs readjustments based on accumulated inflation. Historically, the grantor has either granted the tariffs adjustments or compensated the lack of full pass-through in accordance with the financial rebalancing mechanisms defined in the concession contract. The framework is considered robust, and projection considers an annual tariff increase. Besides that, the concessionaire has the right to receive extra readjustments as long as the duplication of the South Section stretches is completed.
+Extensive Capex Plan in the Next Years (Infrastructure Development/Renewal - Midrange)
+Entrevias is expected to undertake a heavy capex plan in order to comply with the concession agreement, and to accommodate medium-term traffic forecasts in the South Section of the road, in the region of Marília. Although the company has an adequate infrastructure and renewal plan, it does not have an Engineering, Procurement and Construction (EPC) agreement with a major construction company. However, the construction works are standard, making it easier to replace the contractor if necessary. Entrevias forecasts that expansion capex should be concluded by 2025 and no additional funding will be required.
+Cash Trap Mechanism up to 2024 (Debt Structure - Midrange)
+The debentures are senior and indexed to inflation, which is also used to readjust tariffs, providing a natural hedge to the debt. The amortization profile is fully amortizing, back-loaded and the debt structure benefits from a six-month debt service reserve account (DSRA). The debt includes limitation related to additional indebtedness, restrictions on cash distribution up to 2024 and dividend lock-up triggers after 2025.
+Financial Profile
+Entrevias' needs to perform considerable amount of investments until 2025. The debt structure restricts distributions until end of 2024 to secure liquidity to support the investments. Up to 2024, the minimum LLCR under the rating case is 1.6x in 2023. From 2025 onwards, the minimum and average DSCR are 1.2x and 1.4x. The minimum DSCR occurs in 2028 and is due to the backloaded amortization profile of the debt. Entrevias presents strong breakevens and could withstand a 42% traffic drop in 2028 and still meets debt service in this year.
+PEER GROUP
+In International scale, the closest peer of Entrevias in the region are Red de Carreteras de Occidente, S.A.B de CV (RCO, BBB/AAA(mex)/Stable) and Autopista del Sol, S.A. (AdS, B/A(cri)/Stable). RCO's Volume is assessed as strong while AdS' is weak.
+RCO's higher rating is explained by its stronger metrics (the minimum and average DSCR are 1.3x and 1.8x) coupled with the Strong Volume assessment due to resilient traffic profile and strategic location in Mexico. On the other side, despite AdS' strategic location in Costa Rica, it has a tight financial profile expected for the coming years with DSCR close to 1x until 2025, and also the minimum and average DSCR are 0.9x (in 2023) and 1.2x, respectively, which justify the lower level of rating in comparison with Entrevias.
+In National scale, Entrevias' closest peers are Concessionária Rodovia dos Tamoios S.A (Tamoios, second debentures issuances National LT rating AA(bra)/Positive) and Concessionária Ponte Rio-Niteroi S.A. (Ecoponte, first debentures issuance's National LT rating AA(bra)/Stable). While Tamoios has midrange assessment for volume given the traffic volatility, Entrevias and Ecoponte have high-midrange assessment for volume.
+Tamoios presents a strong minimum LLCR of 3.0x, nonetheless its rating is constrained by the strong reliance on finishing the main contour works and exposure to cost overruns during this phase. Tamoios' rating has a positive outlook indicating that after 2024 and conclusion of the works it is expected to present strong liquidity and metrics commensurate with higher rating.
+Ecoponte presents weaker metrics (minimum and average DSCRs of 0.7x and 1.2x) which explains the lower national scale rating.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+--Traffic performance consistently below Fitch's Base Case assumptions;
+--Subsequent delays in concluding the Florinea and Echaporã investments which will trigger extraordinary tariff adjustments;
+--Capex and Cost overruns which can lead to reduced liquidity and DSCRs to be below 1.2x.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+--Sustained traffic growth in 2023 and 2024, in line with Fitch's Base Case assumptions.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Sovereigns, Public Finance and Infrastructure issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of three notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+TRANSACTION SUMMARY
+Entrevias Concessionaria de Rodovias S.A. is an SPV that owns the concession rights to explore, invest and maintain 570km of roads in the State of Sao Paulo, divided in seven highways and two stretches that connect the north of the state of Parana and the southeast of the state of Minas Gerais. The concession was granted by the State Government of Sao Paulo, intermediated by ARTESP, in 2017 for a period of 30 years (maturity in June 2047).
+CREDIT UPDATE
+In 2022, traffic levels were 5% above Fitch's base case and 10% higher than 2021. Up to June 2023, traffic grew 7% when compared to same period of 2022. As with many other assets in São Paulo State, the economic recovery boosted the performance of traffic for light and heavy categories.
+The concessionaire is allowed to charge a higher amount of tariff for the duplicated section of the road when it concludes the investments. According to management, the duplication between Marília and Echaporã is in conclusion and the concessionaire has a contractual right to increase the tariff in Florinea and Echaporã above inflation. Entrevias presented an EBITDA of BRL 106 million in the first quarter of 2023 and as of end of March 2022 it had a total cash balance (including DSRA) of BRL 273,5 million.
+FINANCIAL ANALYSIS
+The main assumptions of Fitch's Base Case include:
+-- Brazilian Inflation: 5.2% in 2023, 4.0% from 2024 onwards;
+-- Brazilian GDP growth: 2.3% in 2023, 1.3% in 2024, 2.1% in 2025 and 2.0% from 2026 onwards;
+--For 2023, traffic growth of 5.0% when compared to 2022. After that, annual traffic growth of 1.2x the GDP growth;
+-- Investments of BRL1.1 billion between 2023 and 2025, according to management case;
+--Opex assumptions according to management case.
+The same assumptions were used in the rating case, except for the following:
+--For 2023, traffic growth of 5.0% when compared to 2022. After that, annual traffic growth of 1.0x the GDP growth;
+--5% stress over Base Case's Opex and investments assumptions.
+In Fitch's base case and rating cases, minimum LLCR is 1.7x and 1.6x, respectively. The average DSCR under base and rating cases is 1.5x and 1.4, respectively. DSCRs mentioned on this rating action commentary are calculated according to Fitch's criteria and, therefore, do not include cash balance.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Entrevias Concessionaria de Rodovias S.A.
+   Entrevias Concessionaria de Rodovias S.A./Debentures/1 LT
+LTBB Affirmed
+BB 
+Entrevias Concessionaria de Rodovias S.A./Debentures/1 Natl LT
+Natl LTAA+(bra) Upgrade
+AA-(bra) 

@@ -1,0 +1,75 @@
+Fitch Affirms Energy Development Oman at 'BB'; Outlook Positive
+
+Fitch Ratings - Frankfurt am Main - 17 Aug 2023: Fitch Ratings has affirmed Energy Development Oman SAOC's (EDO) Long-Term Issuer Default Rating (IDR) at 'BB' with a Positive Outlook and assigned it a senior unsecured rating of 'BB'/'RR4'.
+EDO's Long-Term IDR is constrained by the rating of its sole shareholder, the government of Oman (BB/Positive) given their close links, in line with Fitch's Government-Related Entities (GRE) and Parent and Subsidiary Linkage (PSL) Rating Criteria.
+We have revised EDO's Standalone Credit Profile (SCP) to 'bbb+' from 'bbb', due to a growing record of maintaining a prudent financial profile and successfully maintaining the size and scale of reserves and production within the current fiscal framework. The SCP remains supported by EDO's large-scale oil and gas operations, strong and resilient cash flow generation due to contracted sales prices for gas and a flexible royalty framework, flexible dividend policy, and low leverage.
+The SCP is constrained by a single country of operations compared with peers with international footprints, a purely upstream-focused business model, and a relatively mature reserve base with low proved reserve life compared to peers.
+The 'BB' senior unsecured rating reflects our generic approach for issuers rated 'BB-' or above and average recovery prospects given a fully senior unsecured capital structure.
+KEY RATING DRIVERS
+Sovereign Constrains Rating: EDO's rating is constrained by that of Oman in accordance with Fitch's GRE Rating Criteria and PSL Rating Criteria. Under our GRE Rating Criteria, we assess the support track record and socio-political implications of default as ' Strong' and status, ownership and control as well as financial implications of default as 'Very Strong'. This assessment results in a support score of 45 out of a maximum of 60. The IDR is constrained by the parent's, as strong linkages between EDO and Oman underline EDO's importance to its owner.
+Ownership and Support Factors: The 'Very Strong' status, ownership and control reflects EDO's full ownership by the state with no near-term privatisation plans. The company is directed by a board of directors nominated by the government. In 2022 the government provided a shareholder bridge facility, which alleviated the dividend burden on EDO's cash flows during 2022 and allowed the company to defer accessing debt capital markets. We expect the government to continue providing support when necessary, given EDO's pivotal role within Oman's infrastructure and economy. This leads to a 'Strong' assessment of the support track record.
+Strategic Importance of Sector: The oil and gas sector represents a significant part of the Omani economy, with EDO's Block 6 concessions accounting for a very large portion of the nation's total oil and gas reserves. Furthermore, EDO is one of the largest corporate employers in Oman. We therefore view socio-political implications of default as 'Strong'.
+Financial Implications Factor: EDO has limited capital market presence thus far. Its default would significantly impair the financial standing of the sovereign and the ability of either the government or other GREs within the country to raise financing. This underlines our 'Very Strong' assessment of financial implications of default.
+Scale Offsets Limited Diversification: Through its interest in Petroleum Development Oman (PDO), EDO is the largest oil and gas producer in Oman. PDO operates the onshore Block 6 oil and gas concessions, which comprise over 24% of Oman's land acreage and have more than 50 years of production history. This somewhat mitigates EDO's focus on a single country of operations. We expect an average output of around 760kboe/d until 2026 in our rating case forecast.
+Generous, Yet Flexible, Payouts Under Fiscal Framework: EDO has been subject to a unique fiscal framework since 2021. The fiscal terms include royalties paid to the government weekly based on EDO's monthly revenue from the sale of oil and condensate and taxes paid on income derived from its oil and gas operations. Royalties paid are significant under our price deck, but they are determined by prevailing oil prices in a non-linear fashion, supporting stable cash flows under a wide range of price scenarios.
+EDO's tax burden is also significant. However, we view the overall fiscal framework as generally in line with global standards, where national oil and gas companies are subject to generous pay outs to the government, albeit with provisions to ease the burden on cash flows when market conditions are weak.
+Strong Financial Profile: Fitch forecasts EDO will maintain a strong financial profile until 2026 under the agency's oil and gas price deck, despite growing capex and high royalties and tax payments to the government. Dividends are paid from excess cash flow after all debt service obligations and working capital requirements have been met, as well as considering minimum cash levels, which allows cash flow flexibility.
+We expect EDO's EBITDA net leverage and funds from operations (FFO) net leverage to average below 1x and below 1.5x, respectively, in 2023-2026, which includes an assumption of regular debt issuances to fund capex as well as continuing dividend payments. EDO plans to maintain company-defined net debt to FFO below 2.2x, which has been set by the board and is covenanted in the company's USD2.5 billion loan facility.
+Favourable Unit Economics: In 2022, EDO's total production costs before royalties amounted to around USD5/boe of direct production costs and around USD11/boe of capex, putting it at the lower end of the global cost curve. Adding generous royalties, which we estimate at around USD15-20/boe, pushes total production costs up significantly. This is somewhat mitigated by EDO's still strong financial profile, EDO's and government interests being largely aligned, and the progressive nature of taxation with respect to oil prices.
+Improving ESG Footprint: EDO continues to reduce greenhouse gas emissions from operations and flaring as well as improving energy efficiency. PDO also plans to expand its renewable power generation capacity to 30% of total capacity in the medium term. We view EDO's and PDO's environmental targets as broadly in line with Middle Eastern peers, but lagging those of their large European peers such as TotalEnergies SE (AA-/Stable), BP plc (A/Positive) or Eni SpA (A-/Stable).
+DERIVATION SUMMARY
+EDO's closest peers in EMEA oil and gas are Saudi Arabian Oil Company (Saudi Aramco, A+/Stable), QatarEnergy (AA-/Positive), and OQ SAOC (BB/Positive).
+EDO has a stronger SCP than its Omani peer OQ (bbb-), as OQ has somewhat higher gross leverage metrics, lower through-the-cycle EBITDA and cash flows, and smaller scale, partially offset by higher diversification and a much lower dividend burden. OQ's GRE support score is five points lower than EDO's due to plans to privatise some subsidiaries, which results in a 'Strong' assessment for status, ownership and control. Nevertheless, strong linkages between OQ and its ultimate parent, the government of Oman, result in rating being constrained by the sovereign.
+Fitch assesses all three companies under its GRE Rating Criteria. Their IDRs are constrained by their respective sovereign ratings.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer
+- Brent crude oil prices in 2023-2026 in line with Fitch's base case price deck
+- Gas production sold at current fixed prices to 2026
+- Upstream production volumes averaging around 770kboe/d in 2023-2026
+- Capex averaging USD3,800 million per year in 2023-2026
+- Dividends in line with the company's financial policy
+RATING SENSITIVITIES
+EDO:
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+- Positive rating action on Oman would be mirrored on EDO's rating
+- The SCP is capped by limitations of the company's business profile.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+- The rating is on Positive Outlook, therefore, we do not expect a negative rating action at least in the short term. However, the Outlook revision to Stable on Oman will be replicated for EDO.
+- Negative rating action on Oman would be mirrored on EDO's rating
+- Weakening linkages between Oman and EDO (which we believe is unlikely), coupled with significant deterioration of the latter's SCP
+- FFO gross leverage and/or EBITDA net leverage rising above 1.5x on a sustained basis due to, for example, sustained negative free cash flow (FCF) driven by high capex or large acquisitions, which may be negative for the SCP but not necessarily for the IDR
+Oman (as of 11 April 2023):
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+- Public Finances: A persistent upward trend in government debt/GDP; for example, stemming from a loosening of the fiscal stance, a materialisation of large contingent liabilities or lower-than-expected oil prices.
+- External Finances: Substantial deterioration of Oman's external balance sheet and liquidity conditions; for example, in the form of a large decline in central bank reserves and OIA assets.
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+- Public Finances: Greater confidence in medium-term stabilisation of government debt/GDP and sovereign net foreign assets/GDP; for example, through the introduction of new fiscal consolidation measures or a sustained period of high oil revenue.
+- External Finances: A continued decline in net external debt/GDP, reflecting lower state-owned entities' external debt or an accumulation of foreign assets.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Strong Liquidity: As of end-2022, EDO had cash and cash equivalents of USD228 million. Together with the USD390 million undrawn revolving credit facilities obtained in early 2023, EDO has sufficient liquidity to cover two-year debt maturities of USD428 million. We expect EDO to maintain a robust liquidity profile considering its strong pre-dividend FCF, proven access to international debt markets and strong linkage with the sovereign. We expect EDO's flexible dividend policy will allow for liquidity preservation during periods of restricted capital-market access or lower prices.
+The company has a stated minimum cash target of around USD220 million plus additional cash reserve for 25% of next year's debt service obligations, which is taken into account for determining cash flow available for dividends.
+ISSUER PROFILE
+EDO is Oman's national energy company and owns participating interest in two concessions, accounting for approximately 65% of Oman's oil and gas production. Its total production totalled 859kboe/d in 2022.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+EDO's rating is constrained by Oman's sovereign rating.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Energy Development Oman SAOC
+LT IDRBB Affirmed
+
+
+BB 
+senior unsecured
+LTBB New Rating
+RR4
+
+ 

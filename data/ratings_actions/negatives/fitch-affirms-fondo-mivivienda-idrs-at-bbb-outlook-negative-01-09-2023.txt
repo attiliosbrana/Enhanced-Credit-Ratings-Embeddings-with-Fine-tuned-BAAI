@@ -1,0 +1,51 @@
+Fitch Affirms Fondo Mivivienda's IDRs at 'BBB'; Outlook Negative
+
+Fitch Ratings - Monterrey - 01 Sep 2023: Fitch Ratings has affirmed Fondo Mivivienda S.A.'s (FMV) Long-Term (LT) and Short-Term (ST) Foreign Currency Issuer Default Ratings (IDRs) at 'BBB' and 'F2', respectively, and LT and ST Local Currency IDRs at 'BBB' and 'F2', respectively. Fitch has also affirmed the Government Support Rating (GSR) at 'bbb'. The Rating Outlook for the LT IDRs is Negative.
+The Outlook remains Negative to reflect that of Peru's sovereign rating (see 'Fitch Affirms Peru at 'BBB'; Outlook Negative,' dated April 28, 2023 and available on www.fitchratings.com), given the support-driven nature of the bank's ratings.
+KEY RATING DRIVERS
+Government Support Drives Ratings: FMV's IDRs are driven by its GSR, which is equalized with Peru's LT IDRs of 'BBB' with a Negative Outlook. The ratings reflect Fitch's assessment of the Peruvian government's high propensity and ability to provide timely support to FMV, if needed. Fitch's view of support reflects FMV's key role in implementing economic development policies related to the housing shortage. Although the Peruvian government does not explicitly fully guarantee all of FMV's liabilities, Fitch takes into account that FMV is fully owned by the state, and has many operational and financial synergies with the public administration.
+The GSR indicates the minimum level to which the entity's Long-Term IDRs could fall if Fitch does not change its view on potential sovereign support.
+Policy Bank Role: The ratings consider FMV's high strategic importance in promoting and financing housing solutions in Peru — especially for low- and middle-income segments — and its critical role in the government's public policies to reduce the country's still-elevated housing shortage. The company is the largest provider of affordable housing financing in Peru. FMV's loan placement accounted for almost 31% of the number of residential mortgages financed in the Peruvian market at September 2022.
+Good Asset Quality: FMV has historically sustained low rates of delinquency in its loan portfolio due to its wholesale nature and its exposure to large, primarily regulated financial institutions. However, FMV's size and relatively limited number of entities in the local financial sector resulted in relatively high concentrations per borrower. The top 20 financial institutions (IFIs) represented 3.1x equity as of June 2023 (2.5x in 2022). These are comprised of mainly the largest banks in Peru, accounting for 87% of gross loans.
+Profitability Recovering: FMV's profitability recovered as its operating profit to risk weighted assets ratio was 2.18% as of June 2023, compared with an average of 1.06% from 2018 to 2021. The improvement in profitability reflected lower impairment charges, cost control and stable margins. Profitability remains limited by low margins related to its business model, social mission and hedge expenses of cross-currency swaps.
+Strong Capital Position: The development bank also maintains a strong loss-absorption capacity, underpinned by its Fitch Core Capital to Risk Weighted Assets ratio of 68%, which partially offset asset quality concentration risks. Robust capital is one of FMV's main strengths compared with its peers.
+Diversified Funding: The company made significant advances in diversifying its funding base over the last four years. FMV relies on local and international funding sources to diversify and better match its assets and liabilities, and has contracted credit lines with multilaterals to finance sustainable housing.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+--FMV's ratings will mirror any potential negative change in Peru's sovereign ratings;
+--FMV's ratings could change if Fitch perceives a decrease in the entity's strategic importance to government public policies. However, this is not a baseline scenario.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+--An upgrade is highly unlikely in the near future, as the IDRs are constrained by the sovereign rating;
+--Positive rating actions on FMV will mirror any potential positive change in Peru's sovereign rating.
+OTHER DEBT AND ISSUER RATINGS: KEY RATING DRIVERS
+Fitch also rates FMV's outstanding senior unsecured debt of PEN1.5 billion of Global Depository Notes due in February 2024 and USD600 million due in April 2027. The ratings for the senior debt issuances are at the same level as its LT IDRs, as the notes' likelihood of default is the same as FMV's.
+FMV's 2027 note proceeds will primarily be invested to finance eligible green or social housing projects that target individuals with no or limited access to affordable housing. The notes will pay interest semi-annually and include an event of default triggered by cross-default clauses of other debt of USD20 million or more.
+OTHER DEBT AND ISSUER RATINGS: RATING SENSITIVITIES
+The senior unsecured notes are sensitive to any positive or negative change in FMV's ratings.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+FMV's ratings are driven by support from the Peruvian government.
+ESG CONSIDERATIONS
+FMV has an ESG Relevance Score of '4' [+] for Human Rights, Community Relations, Access & Affordability. This reflects its essential policy role in supporting government policies to ensure low-income individuals have access to low-cost housing. FMV's key social role forms part of our support assessment. These considerations have a moderately positive impact on FMV's credit profile and are relevant to its ratings in conjunction with other factors.
+Unless otherwise disclosed in this section, the highest level of ESG credit relevance is a score of '3'. This means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings/com.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Fondo Mivivienda S.A.
+LT IDRBBB Affirmed
+BBB 
+ST IDRF2 Affirmed
+F2 
+LC LT IDRBBB Affirmed
+BBB 
+LC ST IDRF2 Affirmed
+F2 
+Government Supportbbb Affirmed
+bbb 
+senior unsecured
+LTBBB Affirmed
+BBB 

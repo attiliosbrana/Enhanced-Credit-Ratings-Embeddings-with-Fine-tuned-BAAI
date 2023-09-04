@@ -1,0 +1,59 @@
+Fitch Upgrades The Mosaic Company's LT IDR to 'BBB'; Outlook Stable
+
+Fitch Ratings - New York - 25 Aug 2023: Fitch Ratings has upgraded the Mosaic Company and Mosaic Global Holdings Inc.'s Issuer Default Rating (IDR) to 'BBB' from 'BBB-' with a Stable Rating Outlook. Fitch has also upgraded the companies' senior unsecured debt ratings to 'BBB' from 'BBB-'.
+The upgrade reflects Mosaic's successful deleveraging in 2021 and 2022, and its balanced capital allocation strategy. The rating is also supported by the company's leading position as one of the world's largest fertilizer producers, and strong position in the global cost curve due to the ramp up of Esterhazy's K3 mine shaft; the rating is somewhat constrained by underlying potash and phosphate price volatility.
+The Stable Outlook incorporates Fitch's expectation that Mosaic's EBITDA leverage will remain below 2.0x over the forecast period, despite the decline in EBITDA generation from peak levels due to the fall of Muriate of Potash (MOP) and U.S. Gulf Diammonium Phosphate (DAP) prices, and the company's capital deployment strategy through investments in growth capex and shareholder returns.
+KEY RATING DRIVERS
+Declining Fertilizer Prices: Fitch forecasts EBITDA to fall by 44% to $3.1 billion in 2023 due to the price drop of potash (Muriate of Potash [MOP]) and phosphate (U.S. Gulf Diammonium Phosphate [DAP]) at $400/tonne and $550/tonne, respectively, compared with 2022 actuals of $643/tonne and $804/tonne. The fall in potash prices can be attributed to the reactivation of idled Canadian capacity, and sanctioned Russian and Belarussian potash volumes finding their way to the market.
+DAP prices reflect Fitch's expectations that surplus supply, as seen in 2H22 and 1Q23, will continue to weigh on prices, while increased exports from China and Morocco will offset an expected demand recovery. Fitch expects that Mosaic's volumes will improve in 2023 as prices decline and demand improves with greater affordability.
+Global Cost Position: Fitch expects Mosaic to be well positioned within the global cost curve in 2023 for both potash and phosphate segments. Fitch believes that the Esterhazy K3 mine positions Mosaic in the first quartile in the global potash cost curve. Historically, the company's K1 and K2 shaft mines at Esterhazy were near the third quartile for the potash segment. As Mosaic fully decommissioned those mines in 2022, capacity and production were replaced primarily by the K3 shaft, with Mosaic's Colonsay mine providing swing production determined by potash demand.
+The phosphate segment is expected to remain competitive in the second quartile of the global cost curve.
+Improved Leverage Position: Mosaic's debt reduction efforts resulted in a successful deleveraging, which supports the rating. The company met its debt reduction targets in 2021 and 2022, including over $1 billion of long-term debt repayment. Fitch expects the company to allocate its cash flows to further invest in its operations and to return capital to shareholders via dividends and share repurchases, while keeping EBITDA leverage below 2.0x and maintaining access to its $2.5 billion revolver.
+Leading Market Position: Mosaic's large scale and strong market position support its rating. The Company is the world's second-largest phosphate producer, accounting for 12% of global production and 69% of North American production of phosphate fertilizer in 2022. The company is also the second largest global potash producer, accounting for 14% of world production and 35% of North American production in 2022. The company has five potash mines with 11.7Mt capacity and 10 phosphate facilities with 23MT capacity in North America, Peru and Brazil. Fitch believes that Mosaic will continue to operate at this scale in the forecasted period.
+DERIVATION SUMMARY
+Mosaic has a comparable operating profile relative to fertilizer peers Israel Chemicals Ltd. (ICL Group Ltd.; BBB-/Stable), CF Industries Holdings, Inc. (BBB/Stable) and OCP S.A. (BB+/Stable). Mosaic's EBITDA margins are generally in the mid 20% range, which are comparable to ICL's but are lower than OCP's and CF Industries, which are in the 30%-40% range. Mosaic's EBITDA leverage is stronger than OCP's and largely in-line with the other IG fertilizer peers. Fitch expects Mosaic and CF will maintain EBITDA leverage below 2.0x, while OCP and ICL will see their leverage increase above 2.0x over the forecast horizon. Mosaic's FCF margins are stronger than OCP and ICL, which are break-even to slightly negative; however, its FCF margins trail those of CF Industries, which benefits from stronger EBITDA margins and its significant scale as the world's largest ammonia producer.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer
+--MOP realized prices of $400/tonne in 2023, $300/tonne in 2024, and $230/tonne in 2025, and thereafter;
+--DAP realized prices of $550/tonne in 2023, $380/tonne in 2024, and $370/tonne in 2025, and thereafter;
+--Potash volumes increase 3% in 2023, 5% in 2024, 8% in 2025 and 5% in 2026;
+--Phosphate volumes increase 3% in 2023, 6% in 2024, 8% in 2025 and 6% in 2026;
+--Capex in line with guidance at $1.3 billion in 2023 and thereafter;
+--Share repurchases of $1.5 billion in 2023, $1 billion in 2024, and $700 million thereafter.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Mid-cycle EBITDA leverage sustained below 1.5x;
+--Continued commitment to prudent capital allocation with share repurchases sized in line with cash flows.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Aggressive equity-friendly capital allocation strategy leading to Mid-cycle EBITDA leverage sustained above 2.5x;
+--Sustained negative FCF;
+--Liquidity anticipated to be less than $1.5 billion.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Strong Liquidity: Cash on hand for Mosaic is $626.1 million in 2Q23, with $2.4 billion available from its $2.5 billion revolver after $10 million letter of credit issuances. The revolver matures in August 2026 and is forecast to remain unutilized. The revolver has a maximum debt to capital ratio of 65% and a minimum interest coverage ratio of 3.0x. Fitch expects the company will remain in compliance.
+The company redeemed its $550 million note due 2022 in 4Q22. In 2Q23, Mosaic entered into a $700 million delayed-draw term loan, which Fitch expects will be used to support redemption of the company's $900 million note due November 2023.
+The company maintains a $2.5 billion commercial paper program and also utilizes inventory financing, structured payable arrangements and accounts receivable factoring to support liquidity. While Fitch considers these facilities as short-term debt, the agency assumes the arrangements will remain in place in the forecast period.
+Mosaic has limited exposure to rising interest rates over the medium term, as the vast majority of its outstanding debt is fixed-rate with minimal maturities before 2027.
+ISSUER PROFILE
+The Mosaic Company is a leading producer and marketer of concentrated phosphate and potash crop nutrients. The company is the second largest integrated phosphate producer and one of the largest potash producers in the world.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Mosaic Global Holdings Inc.
+LT IDRBBB Upgrade
+BBB- 
+senior unsecured
+LTBBB Upgrade
+BBB- 
+The Mosaic Company
+LT IDRBBB Upgrade
+BBB- 
+senior unsecured
+LTBBB Upgrade
+BBB- 

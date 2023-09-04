@@ -1,0 +1,19 @@
+Moody's changes Earthstone's rating outlook to positive
+New York, August 21, 2023 -- Moody's Investors Service ("Moody's") changed Earthstone Energy Holdings, LLC's (Earthstone) rating outlook to positive from stable. Concurrently, Moody's affirmed Earthstone's B1 Corporate Family Rating (CFR), B1-PD Probability of Default Rating (PDR) and B3 senior unsecured notes rating. The Speculative Grade Liquidity Rating (SGL) is unchanged at SGL-2.
+This rating action follows the announcement by Earthstone Energy, Inc. (Earthstone Energy) and Permian Resources Corporation (Permian Resources) that Permian Resources will acquire Earthstone Energy in an all-stock transaction valued at about $4.5 billion, including Earthstone Energy's net debt.[1] Earthstone is a wholly-owned subsidiary of Earthstone Energy. Permian Resources Operating, LLC (B1 positive) is a subsidiary of Permian Resources Corporation. The transaction is expected to close by the end of 2023, subject to regulatory and shareholder approvals.
+Affirmations:
+..Issuer: Earthstone Energy Holdings, LLC
+.... Corporate Family Rating, Affirmed B1
+.... Probability of Default Rating, Affirmed B1-PD
+....Senior Unsecured Regular Bond/Debenture, Affirmed B3
+Outlook Actions:
+..Issuer: Earthstone Energy Holdings, LLC
+....Outlook, Changed To Positive From Stable
+RATINGS RATIONALE
+Earthstone's positive rating outlook is consistent with Permian Resources Operating, LLC's positive outlook, and reflects the credit enhancing nature of the potential transaction, which should enhance the combined company's position in the Permian Basin, creating synergy opportunities and increased economies of scale.
+Earthstone's B1 CFR reflects its competitive cost structure, moderate financial leverage and concentrated operations in the Midland and Delaware Basins (subsets of the larger Permian Basin). The company's scale has increased considerably following a series of acquisitions since the beginning of 2021, most recently with the Novo Oil & Gas Holdings, LLC acquisition in the Delaware Basin – its largest acquisition to date. Earthstone's credit profile is challenged by its aggressive acquisition strategy, having undertaken several transactions since December 2020, and geographic concentration. Earthstone's two largest owners, private equity firms EnCap Investments and Post Oak Energy Capital continue to be patient in terms of distributions, enabling the company to utilize free cash flow to repay revolver borrowings following its frequent acquisitions.
+Earthstone's notes are rated B3, two notches below the B1 CFR. The double notching results from the priority ranking of the relatively large senior secured revolving credit facility. The revolver has a borrowing base of $2 billion with an elected commitment of $1.75 billion.
+FACTORS THAT COULD LEAD TO AN UPGRADE OR DOWNGRADE OF THE RATINGS
+As a stand-alone entity with no benefit attributed from the pending acquisition by Permian Resources, the ratings could be upgraded if Earthstone maintains its leveraged full cycle ratio (LFCR) above 1.5x in a mid-cycle commodity price environment, with RCF/debt sustained above 40% and while demonstrating a consistent track record of successfully developing acquired acreage at competitive economics. A downgrade is possible if the company's RCF/debt declines below 25% or if its LFCR falls below 1.0x.
+Based in The Woodlands, Texas, Earthstone Energy is a publicly traded independent exploration and production company with EnCap Investments and Post Oak Energy Capital as significant owners. The company operates in the Delaware and Midland basins in New Mexico and West Texas.
+The principal methodology used in these ratings was Independent Exploration and Production published in December 2022 and available at https://ratings.moodys.com/rmc-documents/396736. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.

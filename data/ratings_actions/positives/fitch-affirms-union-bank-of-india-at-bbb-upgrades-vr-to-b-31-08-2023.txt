@@ -1,0 +1,77 @@
+Fitch Affirms Union Bank of India at 'BBB‐'; Upgrades VR to 'b+'
+
+Fitch Ratings - Singapore/Mumbai - 31 Aug 2023: Fitch Ratings has affirmed Union Bank of India's Long-Term Issuer Default Rating (IDR) at 'BBB-'. The Outlook is Stable. Fitch has also affirmed the Government Support Rating (GSR) at 'bbb-', while upgrading the Viability Rating (VR) to 'b+' from 'b'.
+A full list of rating actions is below.
+KEY RATING DRIVERS
+Support Underpins IDR, VR Upgraded: Union's Long-Term IDR is driven by its GSR and is the same as the Indian sovereign's IDR (BBB-/Stable). It reflects Fitch's expectation of a high probability of extraordinary state support for Union, if needed. The Stable Outlook on the IDR mirrors the Outlook on the sovereign's IDR.
+Fitch upgraded Union's VR on improvement in asset quality, earnings and capitalisation from previously relatively stressed levels. However, Union's VR is a notch below the implied VR of 'bb-' because Fitch believes its risk profile has a greater impact on the VR than implied by its weighting.
+High Systemic Importance: Union's GSR stems from its high systemic importance due to its large size, with a market share of 5.5% in sector assets and 6% of deposits, and the state's 77% ownership. The bank also plays a quasi-policy role through social lending.
+Risk Profile Drives VR: Union's risk profile has a high influence on the VR, as the bank's significantly higher risk appetite exacerbated the negative impact on key financial metrics in a less benign operating environment. The risk profile is likely to remain an important rating factor, as we expect the bank's risk appetite to gradually increase, including in corporate loans, which would test the bank's underwriting standards and risk controls.
+Supportive Operating Environment: Fitch has revised the operating environment (OE) score to 'bb+' from 'bb' reflecting our view of structural improvements since the onset of the pandemic. The agency forecasts India to be one of the fastest-growing Fitch-rated sovereigns globally this fiscal year. Healthy business sentiment, resilient financial markets and the government's capital spending can buffer global economic headwinds and inflation.
+Importantly, India also exhibits robust medium-term growth potential, supported by resilient investment prospects. Combined with an already large and diversified economy, we believe the environment is conducive for banks to do consistently profitable business, provided risks are well-managed.
+Large Domestic Franchise: We believe that Union's franchise should support sustained business and earnings generation commensurate with the 'bb+' business profile score. However, the bank's significantly higher risk appetite has weighed on its traditional business model, and more so, risk profile in the past - partly under government influence, like other state banks. This had resulted in high earnings volatility over the previous credit cycle, although volatility has eased after the clean-up of legacy bad loans.
+Asset Quality Pressures Easing: Fitch has revised Union's asset-quality score to 'b' from 'b-', reflecting easing pressure on asset quality. The bank's impaired-loan ratio fell further to 7.3% in the first three months of the financial year ending March 2024 (1QFY24), from 7.5% at FYE23, on a steady recovery and write-off of legacy impaired loans. It is still above the sector average although specific loan-loss cover has improved. Fitch has a positive outlook on the score, as we expect the core metric to improve further.
+Improving Profitability: Fitch has revised Union's earnings and profitability score to 'b+' from 'b', considering the improved profitability. The bank's operating profit/risk-weighted assets (RWA) ratio increased to 3.5% by end-1QFY24, from 2.1% at FYE23, driven by a sharp fall in impairment charges, better cost control and improving income, supported by loan growth. Fitch has a positive outlook on the score, as we expect the core metric to improve further.
+CET1 Ratio Exceeds Most Peers: Fitch has revised Union's capitalisation and leverage score to 'bb-', from 'b+', to reflect the improvement in its common equity Tier 1 (CET1) ratio to 12.9% (including profit) by end-1QFY24 under Fitch's estimate, from 10.6% at FYE22. We believe that the bank's improved capital buffers can absorb moderate shocks, given the significant fall in the bank's net impaired loan/CET1 ratio, to 16.7% by end-1QFY24 from 41.9% at FYE22.
+Union's CET1 ratio is the second highest among state-owned peers, and we expect it to improve further following the fresh equity raised in August 2023, accompanied by steady internal accruals.
+Stable Funding and Liquidity: We estimate that Union's loans/customer deposits ratio was broadly stable at 72.6% at end-1QFY24, based on preliminary disclosures, from 72.4% at FYE23 on comparable terms. We expect the ratio to rise further, as it is still well below the pre-Covid-19 pandemic levels (FY19: 79.3%). Funding remains a strength, driven by high depositor confidence due to the bank's close state linkages, reflected in the high share of customer deposits in total funding. The bank has sufficient liquidity, reflected in its liquidity coverage ratio of 166% in 1QFY24.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+IDR AND GSR
+The GSR is most sensitive to Fitch's assessment of the government's propensity and ability to support Union, based on its size, systemic importance and linkages to the state. Weakening of the government's ability to provide extraordinary support - reflected in negative action on India's sovereign ratings - would likely lead to negative action on the Long-Term IDR.
+Negative action on the IDRs is also likely should Fitch perceive any reduction in the government's propensity to extend timely support, in which case the agency will reassess the GSR, and in turn, the bank's IDRs, although that is not our base case.
+VR
+A downgrade of the VR is less likely in our base scenario, but it is possible if there is significant deterioration in the OE, and if the bank's risk profile were to become a more binding constraint on its modest loss-absorption buffers.
+A deterioration in the OE could manifest in the case of a significantly weaker level on all the three key financial metrics mentioned below:
+- the four-year average impaired-loan ratio approaching 15% (current: 11.6%);
+- resurgence of losses that puts Union's structural profitability in doubt;
+- a significant drop in Union's CET1 ratio from current levels, and closer to the regulatory minimum of 8%, without a credible plan to restore it to closer to fitch's 'bb' threshold.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+IDR AND GSR
+Positive sovereign rating action would lead to a corresponding change to Union's Long-Term IDR, if Fitch believes that the sovereign's ability and propensity to support the bank has improved. However, an upgrade of the sovereign rating appears less likely in the near term.
+A VR upgrade is unlikely to affect the IDR, as it is four notches below the IDR.
+VR
+A VR upgrade is less likely in the near term, but possible if we assess that the bank's risk profile has improved more meaningfully and sustainably. It could manifest in stronger key financial metrics, such as all the three factors mentioned below:
+- the CET1 ratio is sustained well above Fitch's 'bb' threshold;
+- the four-year average impaired-loan ratio approaches 5%;
+- the four-year average operating profit/RWA ratio is sustained above 1.25%, along with lower earnings volatility.
+Union's risk profile will also remain an important consideration in determining whether the improvements to its financial metrics can be sustained.
+OTHER DEBT AND ISSUER RATINGS: KEY RATING DRIVERS
+Union's Long-Term IDR (xgs) is driven by its VR. Its Short-Term IDR (xgs) is in accordance with its Long-Term IDR (xgs) and the short-term rating mapping outlined in Fitch's criteria.
+OTHER DEBT AND ISSUER RATINGS: RATING SENSITIVITIES
+The bank's Long-Term IDR (xgs) will move in tandem with its VR. Its Short-Term IDR (xgs) is sensitive to changes in its Long-Term IDR (xgs) and is mapped in line with Fitch's criteria.
+VR ADJUSTMENTS
+Union's VR is one-notch lower than Fitch's implied VR. Fitch has used the risk profile as a negative adjustment factor to arrive at the assigned VR, as we believe that the bank's risk profile has a greater impact on the VR than suggested by the weighting.
+The OE score of 'bb+' has been assigned above the implied category of 'b' for the following adjustment reasons: economic performance, and size and structure of the economy (positive).
+The business profile score of 'bb+' has been assigned below the implied category of 'bbb' for the following adjustment reason: management and governance (negative).
+The funding and liquidity score of 'bbb-' has been assigned above the implied category of 'bb' for the following reason: deposit structure (positive).
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+Sources of Information
+The principal sources of information used in the analysis are described in the Applicable Criteria
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+Union's IDRs and the Outlook are the same as India's sovereign rating and is thus directly linked with the sovereign IDR via the bank's GSR, which reflects our view of the probability of extraordinary state support, should there be a need.
+ESG CONSIDERATIONS
+Union has an ESG Relevance Score of '4' for Governance Structure, in line with similarly rated state banks. This reflects our assessment that key governance aspects, particularly board independence and effectiveness, ownership concentration and protection of creditor or stakeholder rights, are of moderate influence, yet negative for Union's credit profile, and relevant to the ratings in conjunction with other factors.
+Fitch views Union's governance as less developed, similar to other Indian state banks, evident from significant lending to higher-risk borrowers and segments that has led to high levels of poorly performing loans and credit losses. The board is dominated by government appointees, and business models often focus on supporting government strategy, with lending directed towards promoting socioeconomic and macroeconomic policies. This may include lending to central state-owned companies. These factors also drive our view on the bank's state linkages. This affects the support prospects that drive the long-term ratings.
+Fitch has revised Union's ESG Relevance Score for Financial Transparency to the sector default score of '3' from '4'. The change primarily highlights the change in Fitch's view that risks from Covid-affected loans under forbearance have receded, despite some limitations in disclosure. This is because we believe that a large proportion of those stressed loans may be covered by government guarantee, which materially minimises the risk of losses from this portfolio. In addition, the quality and frequency of financial reporting and audit processes are commensurate with a score of '3', and does not weight materially on our assessment of their intrinsic creditworthiness.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Union Bank of India
+LT IDRBBB- Affirmed
+BBB- 
+ST IDRF3 Affirmed
+F3 
+Viabilityb+ Upgrade
+b 
+Government Supportbbb- Affirmed
+bbb- 
+LT IDR (xgs)B+(xgs) Upgrade
+B(xgs) 
+ST IDR (xgs)B(xgs) Affirmed
+B(xgs) 

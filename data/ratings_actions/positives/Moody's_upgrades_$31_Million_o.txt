@@ -1,0 +1,18 @@
+Moody's upgrades $31 Million of US Scratch & Dent RMBS issued from 2005 to 2007
+New York, August 31, 2023 -- Moody's Investors Service ("Moody's") has upgraded the ratings of two bonds from two US residential mortgage-backed transactions (RMBS), backed by scratch and dent mortgages issued by multiple issuers.
+Please click on this link https://www.moodys.com/viewresearchdoc.aspx?docid=PBS_ARFTL479980 for the List of Affected Credit Ratings. This list is an integral part of this Press Release and identifies each affected issuer. This link also contains the associated underlying collateral losses.
+Issuer: RAAC Series 2005-RP3 Trust
+Cl. M-2, Upgraded to Baa3 (sf); previously on Mar 7, 2022 Upgraded to Ba1 (sf)
+Issuer: Structured Asset Securities Corporation 2007-GEL2
+Cl. A3, Upgraded to Baa3 (sf); previously on Mar 7, 2022 Upgraded to Ba1 (sf)
+RATINGS RATIONALE
+Today's rating actions reflect the recent performance as well as Moody's updated loss expectations on the underlying pools. The rating upgrades are a result of the improving performance of the related pools, and/or an increase in credit enhancement available to the bonds.
+Principal Methodologies
+The principal methodology used in these ratings was "US RMBS Surveillance Methodology" published in July 2022 and available at https://ratings.moodys.com/rmc-documents/390485. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+In addition, Moody's publishes a weekly summary of structured finance credit ratings and methodologies, available to all registered users of our website, www.moodys.com/SFQuickCheck.
+Factors that would lead to an upgrade or downgrade of the ratings:
+Up
+Levels of credit protection that are higher than necessary to protect investors against current expectations of loss could drive the ratings of the subordinate bonds up. Losses could decline from Moody's original expectations as a result of a lower number of obligor defaults or appreciation in the value of the mortgaged property securing an obligor's promise of payment. Transaction performance also depends greatly on the US macro economy and housing market.
+Down
+Levels of credit protection that are insufficient to protect investors against current expectations of loss could drive the ratings down. Losses could rise above Moody's expectations as a result of a higher number of obligor defaults or deterioration in the value of the mortgaged property securing an obligor's promise of payment. Transaction performance also depends greatly on the US macro economy and housing market. Other reasons for worse-than-expected performance include poor servicing, error on the part of transaction parties, inadequate transaction governance and fraud.
+Finally, performance of RMBS continues to remain highly dependent on servicer procedures. Any change resulting from servicing transfers or other policy or regulatory change can impact the performance of these transactions. In addition, improvements in reporting formats and data availability across deals and trustees may provide better insight into certain performance metrics such as the level of collateral modifications.

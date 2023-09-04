@@ -1,0 +1,18 @@
+Moody's upgrades ratings in Small Business Origination Loan Trust 2021-1 DAC, a UK SME Loans Securitisation
+London, August 31, 2023 -- Moody's Investors Service ("Moody's") has today upgraded the ratings of 2 classes of notes in Small Business Origination Loan Trust 2021-1 DAC ("SBOLT 2021-1", or the "Issuer"). The rating action reflects the increase in the levels of credit enhancement for the affected notes. Moody's also affirmed the ratings of 2 classes of notes in the same transaction.
+....GBP 138.52M (current outstanding balance of GBP 17.24M) Class A Floating Rate Asset-Backed Notes due March 2030, Affirmed Aaa (sf); previously on Feb 20, 2023 Upgraded to Aaa (sf)
+....GBP 3.35M (current outstanding balance of GBP 1.97M) Class B Floating Rate Asset-Backed Notes due March 2030, Affirmed Aaa (sf); previously on Feb 20, 2023 Upgraded to Aaa (sf)
+....GBP 24.58M (current outstanding balance of GBP 14.46M) Class C Floating Rate Asset-Backed Notes due March 2030, Upgraded to Aaa (sf); previously on Feb 20, 2023 Upgraded to A1 (sf)
+....GBP 20.67M (current outstanding balance of GBP 12.16M) Class D Floating Rate Asset-Backed Notes due March 2030, Upgraded to A3 (sf); previously on Feb 20, 2023 Upgraded to Baa3 (sf)
+RATINGS RATIONALE
+The rating action is prompted by an increase in credit enhancement for the affected tranches, alongside excess spread having been sufficient to offset the defaults which have already occurred in the transaction.
+Revision of Key Collateral Assumptions SME:
+As part of the rating action, Moody's reassessed its default probability and recovery rate assumptions for the portfolio reflecting the collateral performance to date.
+The performance of the transaction has continued to be stable since the previous rating action in February 2023. According to the August 2023 Investor Report[1], 30 plus day delinquencies are currently standing at 1.47% of the current pool balance, with 60 days plus arrears currently standing at 0.24% of current pool balance. Cumulative defaults currently stand at 6.99% of original pool balance, up from 5.53% in February 2023.
+For SBOLT 2021-1, Moody's current default probability is 10.00% of the current portfolio balance and the assumption for the fixed recovery rate is 20.00%. Moody's has maintained its portfolio credit enhancement of 47.00%, which, combined with the key collateral assumptions, corresponds to a CoV of 60.18%.
+Sequential amortization and trapping of excess spread led to the increase in the credit enhancement available in this transaction.
+For instance, the credit enhancement for the Class C Notes increased to 54.0% from 38.3% since the last rating action.
+The principal methodology used in these ratings was "SME Asset-Backed Securitizations methodology" published in July 2023 and available at https://ratings.moodys.com/rmc-documents/404936. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+Factors that would lead to an upgrade or downgrade of the ratings:
+Factors or circumstances that could lead to an upgrade of the ratings include (1) performance of the underlying collateral that is better than Moody's expected, (2) an increase in available credit enhancement and (3) improvements in the credit quality of the transaction counterparties
+Factors or circumstances that could lead to a downgrade of the ratings include (1) an increase in sovereign risk, (2) performance of the underlying collateral that is worse than Moody's expected, (3) deterioration in the notes' available credit enhancement and (4) deterioration in the credit quality of the transaction counterparties.

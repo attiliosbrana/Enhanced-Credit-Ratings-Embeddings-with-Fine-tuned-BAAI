@@ -1,0 +1,90 @@
+Fitch Downgrades Swedish SBB's IDR to 'B-' and Unsecured Debt to 'B+'; Maintains RWN
+
+Fitch Ratings - Frankfurt am Main - 21 Aug 2023: Fitch Ratings has downgraded Swedish property company SBB - Samhällsbyggnadsbolaget i Norden AB's (SBB) Long-Term Issuer Default Rating (LT IDR) to 'B-' from 'BB+'. The senior unsecured debt rating has been downgraded to 'B+' from 'BB+' and its Recovery Rating revised to 'RR2' from 'RR4'. The ratings remain on Rating Watch Negative (RWN). A full list of rating actions is below.
+The downgrades reflect SBB's deteriorating liquidity stemming from i) insufficient progress on raising enough liquidity - primarily through asset disposals - to reduce refinancing risk as it approaches its SEK6.8 billion February 2024 bond maturities and ii) unfavourable real estate and capital-market conditions. SBB continues to undertake asset disposals but execution risk remains high.
+Fitch had previously expected the disposal of SBB's remaining stake in EduCo to alleviate SBB's near-term debt maturity profile but that sale is now on hold. Fitch expects to resolve its RWN on further news on raising sufficient liquidity, particularly as it approaches its February 2024 maturities.
+KEY RATING DRIVERS
+Deteriorating Liquidity: SBB's available liquidity at end-1H23 (SEK4.1 billion of cash and available credit lines) was insufficient to cover its debt maturities within the next 12 months (end-1H23: SEK14.6 billion) despite an additional SEK2.4 billion from its August 2023 preference share issue. A combination of further completed disposals, successful refinancing of secured bank debt, and other efforts to raise cash will be key to meeting SBB's refinancing needs. Additionally, SBB's postponed dividend is payable in 2Q24. Pressure on SBB's liquidity will remain, given its SEK12.7 billion debt maturing within the next 12-24 months.
+Asset Disposals Continue: SBB continues to complete disposals, and announced sales, once completed, could yield up to SEK4.6 billion additional liquidity during 3Q23. Fitch calculates that these disposals, together with cash raised from SBB's recent preference share issue, will cover its 2H23 and 1H24 bond maturities, and its commercial paper totaling SEK8.7 billion. The remaining SEK5.9 billion debt maturing within the next 12 months comprise secured bank debt, for which Fitch believes the lenders are more likely to refinance than the unsecured bond market.
+Breakdown of Announced Disposals: At end-1H23, SBB had SEK795 million of signed disposals, of which SEK400 million was part of the earlier EduCo transaction with Brookfield, and a further SEK3 billion in signed letters of intent (LOIs) for other reported property disposals. During 3Q23, SBB also received SEK491 million from the sale of its Heba shares and signed a SEK104 million disposal with Hoganas Municipality. These disposals total up to SEK4.6 billion.
+Preference Share Issue: On 21 July 2023, SBB issued SEK2.4 billion in preference shares in a newly established subsidiary, SBB Residential Property AB, to Morgan Stanley Real Estate Investing. The proceeds are used to strengthen SBB's liquidity. The subsidiary's portfolio comprises SEK6.2 billion of Swedish residential properties managed by SBB. Fitch treats the preference shares without payment obligation as 100% debt as they were issued by a subsidiary, and structurally rank ahead of SBB's senior unsecured bonds.
+EduCo Disposal on Hold: SBB's negotiations to sell its remaining EduCo 51% stake (including related shareholder loans) to Brookfield have been discontinued. A disposal at expected value would have materially improved SBB's liquidity and reduced its refinancing risk. These events now put pressure on SBB to find other disposals, or raise further asset proceeds by other means, to manage upcoming debt maturities.
+Completing Developments: SBB has SEK1.8 billion remaining development capex to complete its pre-let development projects (through to 2025), which will add SEK256 million of net operating income in the next two years. Fitch expects the developments to be funded with cash flow from operations and committed construction loans.
+Operations Continues to Perform: SBB's portfolio liquidity and its ability to leverage assets is supported by continued operational performance. Like-for-like rental growth in 1H23 was 9.5%, vacancy is a low 3.7%, while the average lease length remains at 11 years. Its community service properties have an indirect and a direct government tenant base, including government departments, municipalities, education, elderly care, and LSS (disabled) housing. Fitch views SBB's long-term, government-linked rental income from CPI-indexed rents as lower risk and being able to carry higher leverage than commercial properties.
+DERIVATION SUMMARY
+The lower-yielding nature of SBB's residential rental portfolio and longer lease length than peers' (from both community-service assets and given the average tenure of residential assets), plus its portfolio mix, allow SBB more leverage headroom and lower interest cover than that of (i) commercial property-orientated Swedish peers; and (ii) EMEA commercial property peers that underpin our EMEA REIT Navigator mid-point ratio guidelines.
+Fitch views SBB's real estate portfolio as stable, due to the strength of Swedish residential properties with regulated below-open market rents and community-service properties' stable government-entity tenant base with longer-term leases. This is tempered by the regional location of some assets within SBB's portfolio. Its portfolio fundamentals are less sensitive to economic cycles than commercial office property companies that are reliant on open market conditions with multiple participants affecting market fundamentals.
+Before SBB's ratings were downgraded for its heightened refinance risk, see previous rating action commentaries for peer analysis justifying the investment-grade quality of SBB's property portfolio.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer:
+- Disposals of primarily community-service properties during 2023 amounting to SEK6 billion
+- Moderate 2.5%-4% rental growth in 2023-2026, driven by CPI indexation and moderate inflation
+- Around SEK1 billion in residential and community-service refurbishment capex per year, with a net 4%-6% income return on spend
+- No acquisitions to 2027
+- Building-rights profits and disposal proceeds amounting to SEK0.8 billion-SEK1 billion per year in cash flow for the next four years
+- Payment of postponed 2023 dividend in 2Q24, followed by cash dividends at 90% of funds from operation to 2027
+KEY RECOVERY RATING ASSUMPTIONS
+Our recovery analysis assumes that SBB would be liquidated rather than restructured as a going concern in a default.
+Recoveries are based on the 1H23 independent valuation of the investment property portfolio. Fitch has deducted disclosed encumbered assets to total SEK69.1 billion of unencumbered investment property assets. Fitch applies a standard 20% discount to these valuations. The total amount we assume available to unsecured creditors is around SEK50.2 billion. We assume no cash is available in recovery scenarios.
+After deducting a standard 10% for administrative claims, we have assumed that SBB's SEK2.5 billion of undrawn unsecured revolving credit facilities (RCFs) would be fully drawn at the time of default.
+In the debt hierarchy we have deducted the recent SEK2.4 billion SBB Residential Property AB preference shares, which rank ahead of SBB's unsecured creditors. Fitch's principal waterfall analysis generates a ranked recovery for senior unsecured debt of 'RR2' (a waterfall generated recovery computation output percentage of 78%) based on current metrics and assumptions. The 'RR2' indicates a 'B+' unsecured debt instrument rating. Given the structural subordination of SBB's hybrids, we estimate a ranked recovery of 'RR6' with 0% expected recoveries. The 'RR6' band indicates a 'CCC' instrument rating, two notches below SBB's 'B-' IDR.
+RATING SENSITIVITIES
+Factors That Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade:
+- Net debt/EBITDA less than 16.0x based on the current portfolio mix of around 20% residential by EBITDA
+- EBITDA net interest cover greater than 1.2x
+- Eighteen-month liquidity score above 1.0x
+- Proof of easing refinancing risk, including improved capital markets' receptivity to SBB
+Factors That Could, Individually or Collectively, Lead to a Downgrade:
+- Lack of progress in refinancing secured bank funding
+- Lack of progress by end-October 2023 to materially reduce 1Q24 refinance risk
+- Six-month liquidity score below 1.0x
+- Actions pointing to a potential renegotiation of debt terms and conditions, including any material reduction in lenders' terms sought to avoid a default
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Tight Liquidity: At end-1H23, SBB's readily available cash declined to SEK1.6 billion (end-1Q23: SEK4.3 billion) in addition to SEK2.5 billion of undrawn credit facilities. This compares with SEK14.6 billion in debt maturities within the next 12 months including commercial paper, and a further SEK12.7 billion within the next 12-24 months. The resultant 12-month liquidity score is below 1x.
+During 3Q23, SBB received proceeds from various disposals, issued SEK2.36 billion in preference shares, and signed various disposals some with LOIs. If these disposal proceeds are received, Fitch calculates that SBB has liquidity to cover 2H23 and 1H24 bonds maturities, and its commercial paper, assuming that secured bank financings are refinanced.
+SBB's average interest cost was 2.2% at end-1H23, excluding hybrid coupons.
+Fitch does not expect SBB's liquidity to be sufficient to immediately repay all debt to unsecured bondholders, in the unlikely event that a covenant breach (detailed in previous Fitch reports) takes place.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+SBB has an ESG credit relevance score of '4' for Governance Structure to reflect previous key person risk and continuing different voting rights among shareholders affording greater voting rights to the key person. SBB has an ESG relevance score '4' for Financial Transparency, reflecting ongoing investigation by the Swedish authorities into application of accounting standards and disclosures. These considerations have a negative impact on the credit profile, and are relevant to the ratings in conjunction with other factors.
+Unless otherwise disclosed in this section, the highest level of ESG credit relevance is a score of '3'. This means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation of the materiality and relevance of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/esg
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+SBB - Samhallsbyggnadsbolaget i Norden AB
+LT IDRB- Downgrade
+
+
+BB+ 
+ST IDRB Rating Watch On
+
+
+B 
+senior unsecured
+LTB+ Downgrade
+RR2
+
+BB+ 
+subordinated
+LTCCC Downgrade
+RR6
+
+BB- 
+senior unsecured
+STB Rating Watch On
+
+
+B 
+SBB Treasury Oyj
+ 
+
+  senior unsecured
+LTB+ Downgrade
+RR2
+
+BB+ 

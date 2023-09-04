@@ -1,0 +1,71 @@
+Fitch Downgrades APLN to 'RD' on DDE; Upgrades to 'CCC-' on Liquidity Prospects
+
+Fitch Ratings - Singapore - 08 Aug 2023: Fitch Ratings has downgraded Indonesia-based developer PT Agung Podomoro Land Tbk's (APLN) Long-Term Issuer Default Rating (IDR) to 'RD' (Restricted Default) from 'C', following the completion of the tender offer. We believe this represents a restricted default under our distressed debt exchange (DDE) definition.
+Subsequently Fitch has upgraded APLN's Long-Term IDR to 'CCC-' to reflect the company's liquidity prospects following the tender offer. Its cash balance is insufficient to pay the remaining USD131.9 million of unsecured 5.95% notes maturing on 2 June 2024, and we believe there is high execution risks surrounding APLN's ability to use its unencumbered assets to support refinancing or repayment efforts.
+Fitch has also upgraded APLN's unsecured US dollar notes due in June 2024 to 'CCC-', from 'C', with a Recovery Rating of 'RR4'. The notes were issued by APLN's wholly owned subsidiary, APL Realty Holdings Pte. Ltd., and are guaranteed by APLN and several of its subsidiaries.
+KEY RATING DRIVERS
+DDE Drives Downgrade: We regard APLN's tender offer as a DDE, as we believe the amendments to the terms constitute a material reduction in original terms and that the transaction helped the company to avoid a traditional default, given its untenable liquidity profile. As such, the Long-Term IDR was downgraded to 'RD' on the completion of the DDE, in line with our criteria.
+Weak Liquidity, Deteriorating Cash-Balance: The subsequent upgrade to 'CCC-' reflects that the company is no longer in a default-like process, and its weak liquidity prospects. Headroom is minimal, with high execution risks around its ability to repay debt in the next 12 months amid falling presales. We forecast the company's consolidated cash balance will deteriorate to below IDR600 billion by end-2023 (end-March: IDR900 billion) if the presales decline is not arrested.
+High Refinancing Risk: The completion of the tender offer has reduced, but not eliminated, APLN's refinancing risk in the next 12-18 months. APLN has two unpledged properties valued at around IDR3.1 trillion (around USD200 million) based on the company's share. We believe these assets could be sold or pledged as collateral against a new loan, to repay the remaining US dollar notes. However, APLN's partial ownership of these assets, as well as its declining presales, exposes these options to material execution risk.
+Declining Presales Pressures Liquidity: Fitch forecasts consolidated presales, excluding bulk land sales, to fall by more than 20% to IDR1.3 trillion in 2023 (2022: IDR1.7 trillion), driven by an increase in cancellations. Cancellations remained high in 1H23 resulting in net presales of just IDR578 billion. Most cancellations are at two of APLN's largest projects, Podomoro City Medan and Podomoro Park Bandung. However, the presales run-rate in 1H23 improved slightly from the first four months this year, supported by a new project launch - Podomoro Parkland, in Karawang, in 2Q23.
+Presales in 2H23 may stabilise subject to further new project launches, as housing demand will be supported by signs of benign inflation and moderating interest rates domestically, although persistent cancellations in APLN's larger projects are a risk and may affect the company's refinancing efforts.
+Weakening Interest Coverage: APLN's holding company (holdco) liquidity will remain under pressure despite the completion of the tender offer that reduced more than half of the face value of the USD300 million unsecured notes. The holdco will have to rely on higher dividends from subsidiaries to meet interest payments, which mainly comprises the coupon of the US dollar notes, even as the group's cash flow tightens amid falling presales. This is because the holdco no longer benefits from rental income (2022: IDR222 billion) after the sale of its Central Park mall last year.
+Parental Linkage Considerations: APLN's Standalone Credit Profile (SCP) is aligned with Fitch's internal assessment of the majority parent, PT Indofica, a private company controlled by the Agung Podomoro Group's CEO. Indofica appears to be debt free, with a small portfolio of commercial property and land. Indofica's SCP is therefore driven by its 83% stake in APLN, as its assets and EBITDA are not significant enough to warrant a different credit profile. As such, Indofica's credit profile has no impact on APLN's rating under Fitch's Parent and Subsidiary Linkage Criteria.
+DERIVATION SUMMARY
+APLN's ratings reflect its untenable liquidity profile, which is exacerbated by a trend of weakening presales. Fitch believes that much of the company's refinancing options are subject to material execution risk.
+APLN's rating is two notches below that of its closest peer, PT Kawasan Industri Jababeka Tbk (KIJA, CCC+). KIJA has better liquidity than APLN following its debt restructuring in 2022 that Fitch considered to be a DDE. However, KIJA's cash balance could deplete unless the company regains access to new financing to fund near-term debt maturities.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer:
+- Consolidated presales of IDR1.3 trillion in 2023 and 2024 (attributable: IDR1.1 trillion and IDR1.1 trillion, respectively);
+- EBITDA margin of about 28%-29% in 2023 and 2024;
+- Cash outflow for construction of IDR1.7 trillion in 2023;
+- Capex on fixed assets and investment properties of IDR200 billion in 2023 and 2024;
+- Consolidated negative free cash flow of about IDR70 billion in 2023 and IDR340 billion in 2024.
+RECOVERY RATING ASSUMPTIONS
+- We assume APLN will be liquidated in a bankruptcy rather than continue as a going concern, because it is an asset-trading company. In estimating APLN's liquidation and distribution value, we have made the following adjustments and assumptions.
+- We use a 75% advance rate against the value of trade receivables.
+- We use a 60% advance rate against the value of inventory, net of advances. This reflects our assumption of a 100% advance rate against the value of completed buildings and land, and a 50% advance rate against buildings under construction.
+- We use a 100% advance rate against investment properties as well as property, plant and equipment, mainly related to shopping mall and hotel assets. We believe a 100% advance rate is reasonable as these assets are recognised at historical cost, including depreciation, while the market value is considerably higher.
+- We deducted the carrying value of the Pluit City and Green Lake Sunter assets from investment property due to the uncertainty around the development of these projects.
+- We deducted 10% of the resulting liquidation value for administrative claims.
+These assumptions result in a recovery rate corresponding to a 'RR1' Recovery Rating for APLN's unsecured notes. However, Fitch acknowledges that there is material uncertainty regarding the ability to realise the sale of these assets. We rate the senior unsecured notes at 'C' with a Recovery Rating of 'RR4' because, under Fitch's Country-Specific Treatment of Recovery Ratings Criteria, Indonesia falls into Group D of creditor friendliness. Instrument ratings of issuers with assets in this group are subject to a soft cap at the issuer's IDR and a 'RR4' Recovery Rating.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+- A sustained improvement in liquidity, including the successful refinancing of the US dollar notes due in June 2024.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+- Further weakening in liquidity that suggests a default of some kind appears probable, or that a default-like process has begun, including if the issuer announces a debt restructuring that Fitch views as a distressed debt exchange.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Insufficient Liquidity: APLN's unsecured June 2024 notes balance has decreased to USD131.9 million (around IDR1.98 trillion) after completing its tender offer. APLN's consolidated cash balance stood at just over IDR900 billion as of end-March 2023, and, along with our forecast of negative free cash flow, is not sufficient to meet its debt maturities in the next 12 months.
+The company expects to use several unpledged assets to the tune of IDR3.1 trillion, based on its ownership stake, to support its refinancing or repayment efforts, but we believe execution risks are high. APLN confirms it has extended a domestic medium-term note held by a single investor of IDR350 billion due in August 2023 to August 2025.
+ISSUER PROFILE
+APLN is an Indonesian property developer with exposure to residential and commercial properties. It has presales from key projects in Jakarta, Bandung and Medan, and also owns and operates malls, hotels and offices.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+APLN has ESG Relevance Scores of '4' for Management Strategy and Governance Structure due to the company's high development risk profile, a key part of its strategy. This hampers financial flexibility and leads to an impending risk of default, which has a negative impact on the credit profile, and is relevant to the ratings in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity.
+Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+PT Agung Podomoro Land Tbk
+LT IDRRD Downgrade
+
+
+C 
+LT IDRCCC- Upgrade
+
+
+RD 
+APL Realty Holdings Pte. Ltd.
+ 
+
+  senior unsecured
+LTCCC- Upgrade
+RR4
+
+C 

@@ -1,0 +1,35 @@
+Fitch Affirms BANK 2018-BNK13; Outlooks Revised on Four Classes to Negative; Removes UCO
+
+Fitch Ratings - New York - 10 Aug 2023: Fitch Ratings has affirmed 16 classes of the BANK 2018-BNK13 transaction. The Rating Outlooks on classes D, E, X-D and X-E have been revised to Negative from Stable. All classes have been removed from Under Criteria Observation (UCO).
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+BANK 2018-BNK13
+   A-2 06539LAX8
+LTAAAsf Affirmed
+AAAsf 
+A-3 06539LAY6
+LTAAAsf Affirmed
+AAAsf 
+A-4 06539LBA7
+LTAAAsf Affirmed
+AAAsf 
+A-5 06539LBB5
+LTAAAsf Affirmed
+AAAsf 
+A-S 06539LBE9
+LTAAAsf Affirmed
+AAAsf 
+A-SB 06539LAZ3
+LTAAAsf Affirmed
+AAAsf 
+B 06539LBF6
+LTAA-sf Affirmed
+AA-sf 
+C 06539LBG4
+LTA-sf Affirmed
+A-sf 
+D 06539LAJ9
+LTBBB-sf Affirmed
+BBB-sf 

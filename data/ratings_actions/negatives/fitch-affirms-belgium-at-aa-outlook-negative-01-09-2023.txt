@@ -1,0 +1,62 @@
+Fitch Affirms Belgium at 'AA-'; Outlook Negative
+
+Fitch Ratings - Frankfurt am Main - 01 Sep 2023: Fitch Ratings has affirmed Belgium's Long-Term Foreign-Currency Issuer Default Rating (IDR) at 'AA-' with a Negative Outlook.
+A full list of rating actions is at the end of this rating action commentary.
+KEY RATING DRIVERS
+Strong Credit Fundamentals, High Debt: Belgium's ratings are supported by its diversified, high-value-added and wealthy economy, with income per capita higher than the 'AA' rated median. Belgium's credit profile also benefits from very favourable governance indicators and the reserve currency status of the euro. These strengths are balanced by a very high level of public indebtedness and a political and institutional context that complicates fiscal adjustment efforts. The Negative Outlook reflects the risk of an upward trend in government indebtedness over the medium term, in the context of persistently wide deficits.
+Higher Deficits, Political Uncertainty: We expect the general government deficit to widen this year to 4.7% of GDP from 3.9% in 2022. Higher public sector wages and social transfers linked to automatic indexation; higher public investment; and interest payments, which will begin to rise this year both in cash terms and as a share of GDP, will offset the winding down of support measures linked to energy price rises and the pandemic.
+For 2024 and 2025, we expect a reduction in the deficit to 4.3% of GDP and 4.0%, respectively, assuming that the consolidation plans outlined in the Stability Programme are to a certain extent implemented. The reintroduction of fiscal rules at EU level expected next year may serve as an incentive to implement deficit-reducing measures. However, economic and fiscal policy settings are uncertain due to federal and regional elections due in June 2024 and subsequent coalition negotiations.
+Debt Ratio Rising Again: Government debt as a share of GDP this year is expected to stay close to the 2022 estimate (104.8%, down only slightly from 105.1% last year). Our public finance projections are consistent with the debt ratio increasing to 105.6% next year, and reaching 106.9% in 2025, which is around 2x the forecast for the 'AA' median. Our baseline projections suggest that the debt ratio would increase to around 110% by 2027 on the assumption that ageing costs gradually push up the deficit. This implies that substantial consolidation measures would be needed to stabilise the debt ratio.
+The relatively long average maturity of Belgian public debt (over 11 years) means that higher bond yields are transmitting slowly to the average cost of debt. Interest payments - in cash and as a share of revenues - will start rising this year, and are expected to reach 2.2% by 2025, but will remain below the 'AA' median forecast (3.1%).
+Steady Economic Growth Forecast: Overall, we expect real GDP growth to average 1.1% this year, a substantial revision from 0.5% at the time of the last review in March. For 2024 we expect a slightly faster pace of growth of 1.3, as economic prospects across the eurozone improve, supporting exports and private investment, with growth then edging down to 1.1% in 2025. Our forecast for 2024 implies a downward revision in the growth rate from the last review (1.6%), highlighting a more protracted period of weak economic activity brought about by monetary policy tightening.
+Persistent Inflation, Competitiveness Risks: While headline consumer price inflation has declined sharply to 1.6% in June and 1.7% in July, core inflation has proved much more persistent, averaging 8.2% in the seven months to July. Wage indexation, which is unusually pervasive in Belgium, has translated to sharp increases in wages (growth in gross wages and salaries was 8.3% in 4Q22 and 12.1% in 1Q23) and faster growth in unit labour costs in Belgium compared with neighbouring economies (6.0% on an annual basis in 2022 compared with a range of 3.2%-4.9% for France, Germany and the Netherlands).
+Nominal wage growth should not diverge from wage rises abroad, but there is the risk that a protracted divergence in firms' costs between Belgium and its trading partners affects external competitiveness, leading to further declines in Belgian export market shares.
+Current Account, External Position: We expect the current account deficit to narrow over the next three years, from 3.5% of GDP last year, which was driven by high energy prices and a negative services balance, to 0.4% of GDP by 2025. While Belgium remains an external debtor (net external debt estimated at around 23% of GDP this year), the Belgian private sector's strong balance sheet translates into a positive net international investment position (53.6% of GDP in 1Q23).
+Sound Banking System, Credit: Fitch's Macro-Prudential Risk Indicator score for Belgium remains '2', denoting moderate vulnerability. However, credit flows to both households and corporates have slowed in recent months, as demand for loans has been affected by higher interest rates. Asset quality for banking sector loans remains sound, with the overall non-performing loan ratio stable at 1.5%. Belgian banks are well capitalised, with the common equity Tier 1 ratio at 18.9% in 1Q23 (average for the EU: 15.8%), up from 17.5% a year earlier, and their liquidity healthy.
+ESG - Governance: Belgium has an ESG Relevance Score (RS) of '5[+]' for both Political Stability and Rights and for the Rule of Law, Institutional and Regulatory Quality and Control of Corruption. Theses scores reflect the high weight that the World Bank Governance Indicators (WBGI) have in our proprietary Sovereign Rating Model. Belgium has a high WBGI ranking at 84.1, reflecting its long track record of stable and peaceful political transitions, well established rights for participation in the political process, strong institutional capacity, effective rule of law and a low level of corruption.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+-Public Finances: Failure to reduce fiscal deficits leading to a continued increase in the government debt/GDP ratio over the medium term.
+-Macro: Evidence that diverging labour costs from trading partners will lead to a persistent deterioration in international competitiveness, putting pressures on Belgium's medium-term growth prospects.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+-Public Finances: Confidence in the reduction of public sector indebtedness, for example, through a sustained reduction of fiscal deficits.
+-Macro: Strengthening medium-term growth prospects, particularly if related to competitiveness improvements or structural reform implementation.
+SOVEREIGN RATING MODEL (SRM) AND QUALITATIVE OVERLAY (QO)
+Fitch's proprietary SRM assigns Belgium a score equivalent to a rating of 'A+' on the Long-Term Foreign-Currency (LT FC) IDR scale.
+Fitch's sovereign rating committee adjusted the output from the SRM score to arrive at the final LT FC IDR by applying its QO, relative to SRM data and output, as follows:
+- Macro: +1 notch, to offset the deterioration in the SRM output driven by external shocks. The deterioration of Belgium's GDP growth and fiscal metrics reflect two very substantial and unprecedented exogenous shocks (the pandemic and the rise in energy prices) that have hit the majority of sovereigns, and Fitch believes that Belgium has the capacity to absorb it without lasting effects on its long-term macroeconomic stability.
+Fitch's SRM is the agency's proprietary multiple regression rating model that employs 18 variables based on three-year centred averages, including one year of forecasts, to produce a score equivalent to a LT FC IDR. Fitch's QO is a forward-looking qualitative framework designed to allow for adjustment to the SRM output to assign the final rating, reflecting factors within our criteria that are not fully quantifiable and/or not fully reflected in the SRM.
+COUNTRY CEILING
+The Country Ceiling for Belgium is 'AAA', 3 notches above the LT FC IDR. This reflects very strong constraints and incentives, relative to the IDR, against capital or exchange controls being imposed that would prevent or significantly impede the private sector from converting local currency into foreign currency and transferring the proceeds to non-resident creditors to service debt payments.
+Fitch's Country Ceiling Model produced a starting point uplift of +3 notches above the IDR. Fitch's rating committee did not apply a qualitative adjustment to the model result.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Sovereigns, Public Finance and Infrastructure issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of three notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+Belgium has an ESG Relevance Score of '5[+]' for Political Stability and Rights as World Bank Governance Indicators have the highest weight in Fitch's SRM and are therefore highly relevant to the rating and a key rating driver with a high weight. As Belgium has a percentile rank above 50 for the respective Governance Indicator, this has a positive impact on the credit profile.
+Belgium has an ESG Relevance Score of '5[+]' for Rule of Law, Institutional & Regulatory Quality and Control of Corruption as World Bank Governance Indicators have the highest weight in Fitch's SRM and are therefore highly relevant to the rating and are a key rating driver with a high weight. As Belgium has a percentile rank above 50 for the respective Governance Indicators, this has a positive impact on the credit profile.
+Belgium has an ESG Relevance Score of '4[+]'for Human Rights and Political Freedoms as the Voice and Accountability pillar of the World Bank Governance Indicators is relevant to the rating and a rating driver. As Belgium has a percentile rank above 50 for the respective Governance Indicator, this has a positive impact on the credit profile.
+Belgium has an ESG Relevance Score of '4[+]' for Creditor Rights as willingness to service and repay debt is relevant to the rating and is a rating driver for Belgium, as for all sovereigns. As Belgium has track record of 20+ years without a restructuring of public debt and captured in our SRM variable, this has a positive impact on the credit profile.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Belgium
+LT IDRAA- Affirmed
+AA- 
+ST IDRF1+ Affirmed
+F1+ 
+LC LT IDRAA- Affirmed
+AA- 
+LC ST IDRF1+ Affirmed
+F1+ 
+Country CeilingAAA Affirmed
+AAA 
+senior unsecured
+LTAA- Affirmed
+AA- 
+senior unsecured
+STF1+ Affirmed
+F1+ 

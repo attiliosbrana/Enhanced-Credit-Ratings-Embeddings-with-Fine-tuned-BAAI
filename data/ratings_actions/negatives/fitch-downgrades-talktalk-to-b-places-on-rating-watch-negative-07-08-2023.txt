@@ -1,0 +1,81 @@
+Fitch Downgrades TalkTalk to 'B-'; Places on Rating Watch Negative
+
+Related Content:
+TalkTalk Telecom Group PLC
+Fitch Ratings - London - 07 Aug 2023: Fitch Ratings has downgraded TalkTalk Telecom Group Plc's (TTG) Long-Term Issuer Default Rating (IDR) to B-' from 'B' and secured debt rating to 'B-'/'RR4' from 'B'/'RR4 and placed the IDR on Rating Watch Negative (RWN).
+The downgrade of TTG's IDR reflects operational pressures that are driving high leverage, material refinancing risk and our expectation of consistently negative Fitch-defined free cash flow (FCF) over the next three years, which will also impact liquidity headroom. We expect Fitch-defined EBITDA net leverage to remain above 5.0x until at least the financial year ending February 2025 (FY25) and further drawdowns on the company's revolving credit facility (RCF) to fund operations.
+The RWN reflects continued operational execution risks and the potential need to reduce leverage and strengthen the company's liquidity position ahead of debt refinancing in November 2024 and February 2025. The company has strategic options that could ease short-term liquidity pressures. However, an operational turnaround plan could take time to show financial improvements.
+The RWN will likely be resolved by an affirmation with a Negative Outlook or a one-notch downgrade depending on whether any short-term inorganic measures the company undertakes to improve liquidity, reduce leverage and stabilise operational pressures are sufficient to indicate a viable refinancing of its debt maturities.
+KEY RATING DRIVERS
+Underperforming Expectations: We believe the group's on-net base has continued to decline consistently while inflation-adjusted price increases of CPI plus 3.7% have yet to bring a meaningful benefit for revenue and EBITDA. We understand Fitch-defined EBITDA net leverage increased significantly in FY23. TTG is in a tough trading environment. Vulnerability to high input costs from inflation-linked Openreach wholesale costs and operating cost inflation are exacerbated by a declining consumer base and price competition, limiting its ability to fully pass on inflation and depressing its margins.
+Negative FCF: We expect TTG to generate negative normalised FCF between FY24-26. TTG is undergoing significant investment to transition to fibre-to-the-premises (FttP), driving high capex and copper-to-fibre transition costs. We expect capex to reduce in later years as the transition to FttP reaches maturity and copper-to-fibre costs cease. However, we foresee higher cash interest costs on refinancing as a constraint on FCF.
+TTG plan to monetise some assets such as selling IP addresses. These actions and future working capital benefits may provide some benefit but their sustainability and amount are uncertain. Consequently, we believe TTG will remain structurally reliant on the RCF to fund operations over the next three years.
+Elevated Refinancing Risk: TTG's GBP330 million RCF and GBP685 million bond mature within the next 18 months. RCF covenants have been relaxed to allow for additional leverage headroom and the RCF remains the company's main source of liquidity. We believe that high leverage, coupled with challenging financing conditions, significantly raises refinancing risk within the next 12 months without material near-term deleveraging and a liquidity injection. Fitch forecasts UK base interest rates to rise to 5.75% and 4.75% by end-2023 and 2024, indicating potential double-digit refinancing rates for TTG.
+Strategic Options, Execution Risk: TTG is in advanced negotiations to sell the B2BDirect business, which it expects to conclude within the next two months. The owners have entered into a non-legally binding equity support agreement in the event the sale is delayed or unsuccessful. Although the sale will ease short term liquidity pressure, we believe further asset monetisation or equity support is necessary to refinance and enable TTG to execute its strategic priorities. Valuation and timing of further investments and possible divestments remain uncertain.
+The need to demonstrate improved operating performance supported by lower leverage and improved liquidity in sight of impending debt maturities introduces high execution risk. Failure to demonstrate progress on these fronts within the next six months is likely to put negative pressure on the rating.
+High Leverage Gradually Reducing: We forecast leverage will remain high but gradually decrease over FY24-27, reaching around 4.8x in FY26 from 6.3x in FY24. Fitch expects price increases to have a greater impact in FY24, reflecting a headline price increase of around 14% from April 2023 supplementing prior year re-pricing. We forecast an EBITDA margin of 9.8% in FY24, largely driven by contractual price increases and some operational cost savings, although we expect the gross margin to be around 50%. We believe key operating metrics, such as customer base and churn, and cost management will need to improve for sustained deleveraging.
+Growth Drivers Still Exist: TTG has options to improve its business under a more sustainable capital structure. Management has outlined greater focus on customer retention and upselling speed tiers with full fibre following the transition to Equinox 2. TTG's ethernet business continues to show a good growth trajectory and generates significantly higher average revenue per user (ARPU). An increase in the alternative network (altnet) mix on the Wholesale platform will provide a tangible opportunity to expand coverage and mitigate the impact of higher wholesale fibre costs, with altnets reportedly pricing one-third lower than Openreach.
+Any material benefit is heavily dependent on the rate and scale of altnet build and future pricing but a transition to fibre supports ARPU accretion, customer retention and lower run rate operating costs.
+DERIVATION SUMMARY
+TTG is weakly positioned at 'B-' until it can reduce leverage and improve discretionary cash flows to manage its balance sheet.
+The rating reflects a sizeable broadband customer base and the company's positioning in the value-for-money segment within a competitive market structure. TTG's operating and FCF margins are tangibly below the telecoms sector average, largely reflecting its limited scale, unbundled local exchange network architecture, adaptability to the prevailing macroeconomic conditions and dependence on regulated wholesale products for 'last-mile' connectivity.
+The company is less exposed to trends in cord 'cutting', where consumers trade down or cancel pay-TV subscriptions in favour of alternative internet or wireless-based services, although it continues to incur attrition in its customer base. TalkTalk's business model faces uncertainties in its long-term structure resulting from success of inflation pass-through execution, evolving regulation and a continued need to improve its cost structure.
+Peers such as BT Group plc (BBB/Stable) and VMED O2 UK Limited (BB-/Stable) benefit from fully-owned access infrastructure, revenue diversification as a result of scale in multiple products segments (such as mobile and pay-TV), and materially higher operating and cash flow margins. We consider cash-flow visibility at these peers greater and therefore supportive of higher relative leverage (i.e. supportive of higher leverage if ratings were aligned).
+KEY ASSUMPTIONS
+- Revenue growth of 5% in FY24 and CAGR of 3% in FY24-FY27, reflecting the combination of inflation-linked price increases, growth in the Ethernet business and transition to full-fibre products but offset by competitive market dynamics.
+- Gross margin of 51% in FY24, maintained around 50% in FY24-FY27, affected by higher wholesale costs on fibre-to-the-cabinet and FttP mitigated by increasing altnet mix.
+- Fitch-defined EBITDA margin of about 9.8% in FY24 gradually increasing to about 13.5% in FY27, as operating expenses, including subscriber acquisition costs, gradually reduce in addition to top line growth.
+- IFRS16 lease cost is adjusted for one-off customer connection costs, which are treated as part of capex. Our initial analysis assumes GBP42 million of the IFRS16 lease cost relates to customer connection costs in FY23.
+- Treatment of 50% of copper-to-fibre migration costs as recurring with total copper-to-fibre costs of GBP48 million; GBP40 million and GBP30 million in FY24-26.
+- Positive working capital-to-sales ratio of 1.3% in FY24; -0.7% in FY25 and -1% in FY26-27 supported by better working capital terms but offset by deferred subscriber acquisition cash out flows.
+- Capex-to-sales ratio of around 8% in FY24 reducing to 6.5% in FY25 and towards 5% from FY26, reflecting the near-term investment in the transition to fibre and improving capex intensity followed by normalisation as the programme matures.
+- Network monetisation income treated above FCF but not included in Fitch-defined EBITDA.
+- Intragroup costs treated above FCF.
+- No dividends in FY24-FY27, use of the payment in kind toggle is assumed.
+Key Recovery Rating Assumptions
+The recovery analysis assumes that TTG would be liquidated rather than reorganised in bankruptcy. We have assumed a 10% administrative claim.
+A liquidation value (LV) approach involves discounting TTG's book value of balance sheet assets and estimating the total asset liquidation proceeds in a hypothetical liquidation process. Under the LV approach, we calculate the total amount available to creditors after the 10% administration claim at GBP397 million.
+Accounts receivables are excluded reflecting the drawn portion of the receivables purchase agreement facility.
+We assume the GBP330 million RCF is fully drawn and is treated as pari-passu with the GBP685 million senior secured bond.
+Our waterfall analysis generates a ranked recovery for the senior secured debt creditors in the 'RR4' band indicating a 'B-' senior secured instrument rating, in line with the IDR. The waterfall analysis output percentage on current metrics and assumptions is 39%.
+RATING SENSITIVITIES
+Factors That Could, Individually Or Collectively, Lead To Positive Rating Action/Upgrade
+- Stabilisation of operating metrics combined with Fitch-defined EBITDA margin above 10% and Fitch-defined EBITDA net leverage below 5.0x on a sustained basis
+- Positive FCF margin in low single-digits and cash flow from operations to total debt above 2.5% on a sustained basis
+- EBITDA interest cover sustainably above 2.0x
+The RWN would be resolved with an affirmation at 'B-' and Negative Outlook if the company is successful in reducing leverage and improving liquidity through an asset monetisation programme or shareholder support within the next six months
+Factors That Could, Individually Or Collectively, Lead To Negative Rating Action/Downgrade
+- Deterioration in operating metrics so that Fitch defined EBITDA net leverage remains consistently above 6.5x
+- FCF margin consistently negative requiring permanent RCF drawdowns or inability to meet debt service over the next 12 months
+- Failure to make progress in refinancing the RCF and secured bond or otherwise ensure secure committed funding
+- EBITDA interest cover consistently below 2.0x
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Limited Liquidity: TTG has access to near-term RCF capacity and supplier working capital arrangements. However, consistent negative near-term FCF is likely to require the further drawdowns on the RCF, putting adverse pressure on liquidity, excluding any potential future external liquidity support. The RCF matures in November 2024 while the senior secured notes are due in February 2025. TTG intends to refinance all outstanding debt in FY24.
+ISSUER PROFILE
+TTG is an alternative 'value-for-money' fixed line telecom operator in the UK, offering quad-play services to consumers and broadband and ethernet services to business customers.
+In accordance with Fitch's policies, the issuer appealed and provided additional information to Fitch that resulted in a rating action that is different than the original rating committee outcome.
+SUMMARY OF FINANCIAL ADJUSTMENTS
+Customer connection costs are classified by TTG as right of use assets and depreciated under IFRS16 but are paid upfront as part of capex. Therefore, TTG's lease cash repayments are lower than depreciation of right of use assets plus interest on lease liabilities (IFRS16 lease costs). According to Fitch's criteria, IFRS16 lease costs should be deducted from operating profit in calculating Fitch-defined EBITDA for this sector. We have treated the customer connection element of lease costs as capex and lowered FY22 and FY23 IFRS16 lease costs by an assumed GBP22 million and GBP42 million, respectively, for the portion of lease costs, which relate to one-off customer connection costs.
+Sources of Information
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+TalkTalk Telecom Group PLC
+LT IDRB- Downgrade
+
+
+B 
+senior secured
+LTB- Downgrade
+RR4
+
+B 

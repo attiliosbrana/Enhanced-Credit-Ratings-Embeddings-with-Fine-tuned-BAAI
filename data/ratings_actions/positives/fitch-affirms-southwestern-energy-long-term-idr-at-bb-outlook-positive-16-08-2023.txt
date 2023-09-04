@@ -1,0 +1,63 @@
+Fitch Affirms Southwestern Energy's Long-Term IDR at 'BB+'; Outlook Positive
+
+Fitch Ratings - New York - 16 Aug 2023: Fitch Ratings has affirmed Southwestern Energy Company's Long-Term Issuer Default Rating (IDR) at 'BB+'. Fitch has also affirmed the company's senior secured revolver at 'BBB-'/'RR1' and senior unsecured notes at 'BB+'/'RR4'. The Rating Outlook remains Positive.
+Southwestern's ratings are supported by its production scale, expectation of material FCF generation at current Strip prices, current debt reduction efforts, strong exposure to liquified natural gas plants (LNG) through its Haynesville operations, solid hedging program, and ample liquidity. This is partially offset by volatile natural gas prices, increasing differentials in the Appalachian basin, and inflationary pressures on drilling and completion costs which are moderating.
+The Positive Outlook reflects Fitch's belief the company will continue to reduce debt until it meets its goal of gross debt of $3.5 billion.
+KEY RATING DRIVERS
+Expected Material Debt Reduction: Southwestern's gross debt target of $3.5 billion should allow the company to maintain EBITDA leverage below 2.0x under Fitch's long-term natural gas price assumption of $2.75, which is consistent with investment grade metrics. At Fitch's price deck, the company should generate sufficient FCF to meet the target debt level by around the end of 2024. The company prepaid the Term Loan B debt with cash at year-end 2022 and prepaid the entirety of the 7.75% senior notes due 2027 in 1Q23 with $316 million of cash and $134 million of revolver borrowings.
+Marcellus and Haynesville Exposure: Southwestern is the largest producer in the Haynesville and has strong exposure to the growing LNG market, which is benefiting from higher exports to Europe and Asia. Southwestern's acquisitions have allowed for scale in the basin, which should have a positive impact on overall costs. In addition, the basin could be a source of future production growth. The company is the largest LNG supplier in the country and currently sends approximately 1.5 billion cubic feet per day (bcf/d) to existing LNG operators.
+Fitch believes the Appalachian acreage continues to deliver favorable operational results and believes development spending in its liquids-weighted region combined with higher NGL prices should help support netbacks. Widening differentials and takeaway capacity remain long-term concerns for Appalachian operators. Netbacks in Appalachia are typically lower than operators in the Haynesville.
+Debt Reduction Prioritized: Southwestern has reiterated that debt reduction remains the highest priority until it reaches its goal of gross debt of $3.5 billion. The company announced a $1 billion stock repurchase program in 2022, although the pace and timing of that program will likely be determined by FCF. Fitch believes that meaningful stock repurchases will not occur until the company reaches its debt reduction target.
+Hedge Program Remains Robust: The company maintains a strong hedge policy, which decreases cashflow volatility. Southwestern has hedged 70% of projected 2023 natural gas production at an average price of $3.05 per thousand cubic feet of natural gas (mcf), 42% of projected 2024 production at an average price of $3.49/mcf, and 12% of projected 2025 natural gas production at an average price of $3.65/mcf. Fitch believes that as debt reduction efforts continue, the percentage of hedged production is likely to move lower, although this should not have a material impact on the credit.
+There was a timing mismatch between the closing of hedge contracts with the receipt of cash from the production sold, which could drive large working capital usage during periods of volatility coupled with high commodity prices. Although this is a timing issue and has no impact on profitability, the required revolver draws could have an impact on liquidity and the timing of overall debt reduction. Fitch believes liquidity is adequate to meet these swings. Furthermore, Southwestern has synchronized the settling of new gas hedges with the receipt of cash from production sold, although there are still legacy hedges that continue to present the timing mismatch.
+DERIVATION SUMMARY
+Southwestern is one of the largest U.S. natural gas E&P companies at approximately 4.6 billion cubic feet of natural gas equivalent per day (bcfe/d) as of March 31, 2023, which is larger than Antero Resources (AR: BBB-/Stable) at 3.3 bcfe/d, CNX Resources (CNX: BB+/Stable) at 1.5 bcfe/d, and Chesapeake Energy Corporation (CHK: BB+/Positive) at 4.1 bcfe/d, but below EQT Corporation (EQT; BBB-/Stable) at 5.1bcfe/d.
+Fitch estimates 2023 EBITDA leverage at 1.7x, which is lower than CNX (2.0x), but higher than AR (0.8x), CHK (0.8x) and EQT (1.5x) based on Fitch's current price deck. Fitch calculated unhedged netbacks for 1Q23 production for Southwestern at $2.1/mcfe are towards the mid point of the range of its peers which range from $1.4/mcfe for AR to $2.6/mcfe for EQT.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within The Rating Case for the Issuer:
+--WTI oil price of $75/barrel (bbl) in 2023, $70/bbl in 2024, $65/bbl in 2025, and $60/bbl in 2026;
+--Henry Hub natural gas price of $3.00/thousand cubic feet (mcf) in 2023, $3.50/mcf in 2024, $3.00/mcf in 2025 and $2.75 in the long term;
+--Low single digit production declines in 2023 and 2024 and low single digit increases in out years;
+--Liquids mix of 13%-14% over the forecast horizon;
+--Annual Capex of approximately $2.0 billion throughout forecast period;
+--FCF is used to reduce debt until the $3.5 billion gross debt target is reached. No assumptions made for dividends, acquisitions, or divestitures.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Further debt reduction beyond the $3.5 billion gross debt target;
+--Mid-cycle EBITDA leverage approaching 1.5x on a sustained basis;
+--Improvement in netbacks relative to peers.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Mid-cycle EBITDA leverage above 2.0x on a sustained basis;
+--Change in stated financial policy that leads to weaker credit metrics;
+--Weakening in differential trends and the unit cost profile.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Ample Liquidity: Southwestern's liquidity consists of $25 million of cash on hand and a $2.0 billion secured credit facility with availability of $1.7 billion after $310 million drawn and $25 million in letters of credit as of June 30, 2023. The borrowing base is $3.5 billion and elected commitments are $2.0 billion. The revolver matures in April 2027.
+The next material bond maturity is in 2025 of approximately $389 million. Southwestern paid off a 2027 maturity in 2023. Fitch anticipates FCF will be used to reduce outstanding revolver borrowings in the near term.
+ISSUER PROFILE
+Southwestern Energy is an independent energy company engaged in exploration and development of, principally, natural gas. E&P operations are primarily comprised of Northeast Appalachia in Pennsylvania (dry gas), Southwest Appalachia in West Virginia (wet gas), and the Haynesville Basin in Louisiana.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Southwestern Energy Company
+LT IDRBB+ Affirmed
+
+
+BB+ 
+senior secured
+LTBBB- Affirmed
+RR1
+
+BBB- 
+senior unsecured
+LTBB+ Affirmed
+RR4
+
+BB+ 

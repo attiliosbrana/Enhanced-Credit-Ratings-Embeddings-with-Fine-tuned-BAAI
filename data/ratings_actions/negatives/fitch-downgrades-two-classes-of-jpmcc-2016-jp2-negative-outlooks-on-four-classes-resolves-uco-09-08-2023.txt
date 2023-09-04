@@ -1,0 +1,35 @@
+Fitch Downgrades Two Classes of JPMCC 2016-JP2; Negative Outlooks on Four Classes; Resolves UCO
+
+Fitch Ratings - New York - 09 Aug 2023: Fitch Ratings has downgraded two classes and affirmed nine classes of J.P. Morgan Chase Commercial Mortgage Securities Trust 2016-JP2 commercial mortgage pass-through certificates. A Negative Outlook was assigned to classes D and X-C following the downgrade. In addition, the Rating Outlook for class C was revised to Negative from Stable and the Outlook for class E remains Negative. The criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+JPMCC 2016-JP2
+   A-3 46590MAQ3
+LTAAAsf Affirmed
+AAAsf 
+A-4 46590MAR1
+LTAAAsf Affirmed
+AAAsf 
+A-S 46590MAV2
+LTAAAsf Affirmed
+AAAsf 
+A-SB 46590MAS9
+LTAAAsf Affirmed
+AAAsf 
+B 46590MAW0
+LTAA-sf Affirmed
+AA-sf 
+C 46590MAX8
+LTA-sf Affirmed
+A-sf 
+D 46590MAC4
+LTBBsf Downgrade
+BBB-sf 
+E 46590MAE0
+LTB-sf Affirmed
+B-sf 
+X-A 46590MAT7
+LTAAAsf Affirmed
+AAAsf 

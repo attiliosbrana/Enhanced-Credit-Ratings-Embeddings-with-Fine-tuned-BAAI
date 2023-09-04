@@ -1,0 +1,35 @@
+Fitch Downgrades CSAIL 2019-C17; Resolves UCO
+
+Fitch Ratings - Chicago - 24 Aug 2023: Fitch Ratings has downgraded three and affirmed 13 classes of CSAIL 2019-C17 Commercial Mortgage Trust. The criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+CSAIL 2019-C17
+   A-1 12597BAQ2
+LTAAAsf Affirmed
+AAAsf 
+A-2 12597BAR0
+LTAAAsf Affirmed
+AAAsf 
+A-3 12597BAS8
+LTAAAsf Affirmed
+AAAsf 
+A-4 12597BAT6
+LTAAAsf Affirmed
+AAAsf 
+A-5 12597BAU3
+LTAAAsf Affirmed
+AAAsf 
+A-S 12597BAY5
+LTAAAsf Affirmed
+AAAsf 
+A-SB 12597BAV1
+LTAAAsf Affirmed
+AAAsf 
+B 12597BAZ2
+LTAA-sf Affirmed
+AA-sf 
+C 12597BBA6
+LTA-sf Affirmed
+A-sf 

@@ -1,0 +1,35 @@
+Fitch Affirms GSMS 2019-GC40; Revises Five Outlooks to Negative; Resolves UCO
+
+Fitch Ratings - Chicago - 17 Aug 2023: Fitch Ratings has affirmed 16 classes of GS Mortgage Securities Trust, series 2019-GC40. Fitch has also revised the Rating Outlooks on classes E, F and G-RR, along with the associated interest-only (IO) classes X-D and X-F, to Negative from Stable. The under criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+GSMS 2019-GC40
+   A-1 36257HBL9
+LTAAAsf Affirmed
+AAAsf 
+A-2 36257HBM7
+LTAAAsf Affirmed
+AAAsf 
+A-3 36257HBN5
+LTAAAsf Affirmed
+AAAsf 
+A-4 36257HBP0
+LTAAAsf Affirmed
+AAAsf 
+A-AB 36257HBQ8
+LTAAAsf Affirmed
+AAAsf 
+A-S 36257HBT2
+LTAAAsf Affirmed
+AAAsf 
+B 36257HBU9
+LTAA-sf Affirmed
+AA-sf 
+C 36257HBV7
+LTA-sf Affirmed
+A-sf 
+D 36257HAA4
+LTBBBsf Affirmed
+BBBsf 

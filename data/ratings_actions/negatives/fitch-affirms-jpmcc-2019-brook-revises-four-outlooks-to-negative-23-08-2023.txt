@@ -1,0 +1,32 @@
+Fitch Affirms JPMCC 2019-BROOK; Revises Four Outlooks to Negative
+
+Fitch Ratings - Toronto - 23 Aug 2023: Fitch Ratings has affirmed seven classes of JPMCC Mortgage Securities Trust 2019-BROOK Commercial Mortgage Pass-Through Certificates. The Rating Outlooks on four classes were revised to Negative from Stable. The interest-only class X-CP has been marked as paid-in-full as it is no longer receiving payments.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+JPMCC 2019-BROOK
+   A 46591JAA4
+LTAAAsf Affirmed
+AAAsf 
+B 46591JAG1
+LTAA-sf Affirmed
+AA-sf 
+C 46591JAJ5
+LTA-sf Affirmed
+A-sf 
+D 46591JAL0
+LTBBB-sf Affirmed
+BBB-sf 
+E 46591JAN6
+LTBB-sf Affirmed
+BB-sf 
+F 46591JAQ9
+LTB-sf Affirmed
+B-sf 
+X-CP 46591JAC0
+LTPIFsf Paid In Full
+BBB-sf 
+X-EXT 46591JAE6
+LTBBB-sf Affirmed
+BBB-sf 

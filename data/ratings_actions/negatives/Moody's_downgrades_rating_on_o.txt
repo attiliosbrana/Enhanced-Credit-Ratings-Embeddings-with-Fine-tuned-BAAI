@@ -1,0 +1,24 @@
+Moody's downgrades rating on one class of CLO notes issued by Halcyon Loan Advisors Funding 2013-2 Ltd.
+Approximately $8.0 million of notes affected
+New York, August 24, 2023 -- Moody's Investors Service ("Moody's") has downgraded the rating on the following note issued by Halcyon Loan Advisors Funding 2013-2 Ltd.:
+U.S.$26,750,000 Class D Mezzanine Secured Deferrable Floating Rate Notes (current outstanding balance of $8,019,091.32), Downgraded to Ca (sf); previously on October 5, 2022 Downgraded to Caa3 (sf)
+Halcyon Loan Advisors Funding 2013-2 Ltd., issued in July 2013, is a managed cashflow CLO. The notes are collateralized primarily by a portfolio of broadly syndicated senior secured corporate loans. The transaction's reinvestment period ended in August 2017.
+RATINGS RATIONALE
+The downgrade rating action on the Class D notes reflects the specific risks to the notes posed by par loss and credit deterioration observed in the underlying CLO portfolio. Based on the trustee's July 2023 report [1], the OC ratio for the Class D notes is reported at 43.95% versus October 2022 [2] level of 64.45%. Moody's notes that the July 2023 trustee-reported OC ratios do not reflect the August 2023 payment distribution, when $923,356 of principal proceeds were used to pay down the Class D Notes.
+The rating action is also due to deterioration of the credit quality of the portfolio. Based on Moody's calculation, the weighted average rating factor (WARF) of the portfolio is currently 7907 compared to 4103 in October 2022. Based on Moody's calculation, the proportion of obligors in the portfolio with Moody's corporate family or other equivalent ratings of Caa1 or lower (after any adjustments for watchlist for possible downgrade) is currently 100% of the CLO par.
+Moody's also observes that interest collections have been insufficient to pay accrued interest due on the Class D notes over the last four payment dates. As a result, today's rating action also reflects growing concerns about the uncertainty arising from the potential for the acceleration of the notes or liquidation of the collateral should an event of default occur and continue.
+Moody's modeled the transaction using a cash flow model based on the Binomial Expansion Technique, as described in "Moody's Global Approach to Rating Collateralized Loan Obligations." In addition, because of the collateral pool's low diversity, Moody's used CDOROM™ to simulate a default distribution that it then used as an input in the cash flow model.
+The key model inputs Moody's used in its analysis, such as par, weighted average rating factor, diversity score, weighted average spread, and weighted average recovery rate, are based on its published methodology and could differ from the trustee's reported numbers. For modeling purposes, Moody's used the following base-case assumptions:
+Performing par and principal proceeds balance: $890,022.77
+Defaulted par: $3,099,233
+Diversity Score: 1
+Weighted Average Rating Factor (WARF): 7907
+Weighted Average Spread (WAS): (before accounting for reference rate floors): 3.83%
+Weighted Average Recovery Rate (WARR): 51.04%
+Weighted Average Life (WAL): 0.6 years
+Par haircut in OC tests and interest diversion test: 17.5%
+In addition to base case analysis, Moody's ran additional scenarios where outcomes could diverge from the base case. The additional scenarios consider one or more factors individually or in combination, and include: decrease in overall WAS or net interest income, lower recoveries on defaulted assets, forced collateral liquidation.
+Methodology Used for the Rating Action
+The principal methodology used in this rating was "Moody's Global Approach to Rating Collateralized Loan Obligations" published in December 2021 and available at https://ratings.moodys.com/rmc-documents/74832.  Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+Factors that Would Lead to an Upgrade or Downgrade of the Rating:
+The performance of the rated notes is subject to uncertainty. The performance of the rated notes is sensitive to the performance of the underlying portfolio, which in turn depends on economic and credit conditions that may change.  The Manager's investment decisions and management of the transaction will also affect the performance of the rated notes.

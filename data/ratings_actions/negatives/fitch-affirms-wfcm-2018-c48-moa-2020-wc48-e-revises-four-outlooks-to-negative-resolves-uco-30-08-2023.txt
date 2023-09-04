@@ -1,0 +1,35 @@
+Fitch Affirms WFCM 2018-C48 and MOA 2020-WC48 E; Revises Four Outlooks to Negative; Resolves UCO
+
+Fitch Ratings - New York - 30 Aug 2023: Fitch Ratings has affirmed 13 classes of Wells Fargo Commercial Mortgage (WFCM) Trust 2018-C48 commercial mortgage pass-through certificates. Class A-3 has paid in full. Fitch has also affirmed the MOA 2020-WC48 E Argentic horizontal risk retention pass through certificate (2018 C48 III Trust). In addition, the Rating Outlooks on classes E-RR, F-RR, G-RR and the MOA 2020-WC48 E Argentic horizontal risk retention pass through certificate have been revised to Negative from Stable. The criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+WFCM 2018-C48
+   A-3 95001RAU3
+LTPIFsf Paid In Full
+AAAsf 
+A-4 95001RAW9
+LTAAAsf Affirmed
+AAAsf 
+A-5 95001RAX7
+LTAAAsf Affirmed
+AAAsf 
+A-S 95001RBA6
+LTAAAsf Affirmed
+AAAsf 
+A-SB 95001RAV1
+LTAAAsf Affirmed
+AAAsf 
+B 95001RBB4
+LTAA-sf Affirmed
+AA-sf 
+C 95001RBC2
+LTA-sf Affirmed
+A-sf 
+D 95001RAC3
+LTBBB-sf Affirmed
+BBB-sf 
+E-RR 95001RAE9
+LTBBB-sf Affirmed
+BBB-sf 

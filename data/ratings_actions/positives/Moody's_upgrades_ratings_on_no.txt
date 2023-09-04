@@ -1,0 +1,18 @@
+Moody's upgrades ratings on notes from Brighte Green Trust 2022-1
+Sydney, August 28, 2023 -- Moody's Investors Service has upgraded the ratings on three classes of notes issued by Brighte Green Trust 2022-1.
+IMPORTANT NOTICE: MOODY'S RATINGS AND PUBLICATIONS ARE NOT INTENDED FOR USE BY RETAIL INVESTORS. SUCH USE WOULD BE RECKLESS AND INAPPROPRIATE. SEE FULL DISCLAIMERS BELOW.
+The affected ratings are as follow:
+Issuer: Brighte Green Trust 2022-1
+....Class B-G Notes, Upgraded to Aa1 (sf); previously on Nov 17, 2022 Definitive Rating Assigned Aa2 (sf)
+....Class C-G Notes, Upgraded to A1 (sf); previously on Nov 17, 2022 Definitive Rating Assigned A2 (sf)
+....Class D-G Notes, Upgraded to Baa1 (sf); previously on Nov 17, 2022 Definitive Rating Assigned Baa2 (sf)
+RATINGS RATIONALE
+The upgrade was prompted by an increase in note subordination available for the affected notes and the good performance of the underlying portfolio to date.
+Following the August 2023 payment date, the note subordination available for the Class B-G, C-G, and D-G Notes has increased to 17.4%, 12.3%, and 9.6% respectively from 13.6%, 9.6%, and 7.5% at closing for these notes in November 2022.
+As of end-July, 0.5% of the outstanding pool was 30-plus day delinquent and 0.1% was 90-plus day delinquent. The portfolio has incurred 0.1% (as a percentage of the original portfolio balance) of losses to date, all of which have been covered by excess spread.
+Based on the observed performance to date and loan attributes, Moody's has lowered its expected default assumption to 3.25% as a percentage of the original pool balance (equivalent to 4% of the current balance) from 3.4% at closing. Moody's has also lowered its portfolio credit enhancement assumption to 22% from 23% at closing.
+The transaction is a securitisation of a portfolio of Australian unsecured consumer and commercial Buy Now Pay Later (BNPL), and personal loan receivables originated by Brighte Capital Pty Ltd.
+The principal methodology used in these ratings was "Moody's Approach to Rating Consumer Loan-Backed ABS" published in December 2022 and available at https://ratings.moodys.com/rmc-documents/396935. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+Factors that would lead to an upgrade or downgrade of the ratings:
+Factors that could lead to an upgrade of the ratings include (1) performance of the underlying collateral that is better than Moody's expectations, and (2) an increase in credit enhancement available for the notes.
+Factors that could lead to a downgrade of the ratings include (1) performance of the underlying collateral that is worse than Moody's expectations, (2) a decrease in credit enhancement available for the notes, and (3) a deterioration in the credit quality of the transaction counterparties.

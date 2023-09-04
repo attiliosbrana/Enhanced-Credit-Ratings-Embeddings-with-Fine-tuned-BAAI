@@ -1,0 +1,48 @@
+Fitch Affirms Aserta and Insurgentes Ratings; Revises National IFS Outlook to Positive
+
+Related Content:
+Aseguradora Aserta, S.A. de C.V. and Aseguradora Insurgentes, S.A. de C.V.
+Fitch Ratings - Monterrey - 15 Aug 2023: Fitch Ratings affirmed Aseguradora Aserta S.A. de C.V., (Aserta) and Aseguradora Insurgentes, S.A. de C.V.'s (Insurgentes) international and national Insurer Financial Strength (IFS) ratings at 'BBB-' and 'AA(mex)', respectively. The national IFS Outlook is revised to Positive from Stable. The international IFS Rating Outlook is Stable.
+KEY RATING DRIVERS
+National Scale IFS Ratings: The Positive Outlook on the national scale ratings of Aserta and Insurgentes is driven by a positive net result at YE 2022, by lower claims, an adequate investment and retrocession strategy along with geographic diversification, which resulted in a favorable financial profile. The Positive Outlook also reflects Fitch's expectations for the stability of financial performance and capitalization and leverage credit factors of the group within the local ratings universe.
+Group Analysis: The international ratings of Aserta and Insurgentes (A&I) are based on the consolidated profile of Grupo Aserta, S.A.P.I. de C.V. (Grupo Aserta). Grupo Aserta's strategy consists of underwriting each business in the subsidiary that technically supports the risk. As of December 2022 (4Q22), together, A&I account for more than 95% of the group's balance sheet and have are highly integrated.
+Moderate Company Profile: Grupo Aserta has a leading franchise in the Mexican surety and bond market, along with greater diversification compared to its peers through digital channels and geographic expansion of its business beyond Latin America through its branch in Spain. The group's business is focused on surety bonds, with an operating scale of USD99.2 million net premium written and USD117.2 million capital.
+Investments Aligned with the Group's Strategy: A&I's investment and liquidity risk is good. High integration within companies allow them to manage investment strategies for individual companies paired with each companies' necessities while maintaining its groups' investment risk stable. At YE 2022, Aserta's risky assets ratio improved to 20.8% from 51.7% in 2021, while Insurgentes' ratio slightly increased to 51.8% from 47.8%. Investments remain concentrated in government instruments that cap the rating factor.
+Solid Profitability: Historically, A&I have registered a positive technical profit derived from controlled loss ratio, which together with a decrease in the cost scheme has improved their combined ratio. As of 4Q22, Aserta's combined ratio was 22.2% (2021: 48.8%) while Insurgentes' was 98.9% (2021: 111.2%). Derived from its retrocession strategy, Aserta presented an increase in ceded reinsurance commissions represented in acquisition costs which was reflected in a 76% increase in Aserta's net income as of 4Q22, which was MXN393 million (2021: MXN223 million). In turn, Insurgentes reported net profit of MXN54 million (2021: MXN19 million).
+Fitch highlights the 26% growth in premiums issued by the group and a net profit of MXN221 million. Fitch does not rule out an improvement in its financial performance as a result of the concentration on the digitization and expansion of the group.
+Risk Mitigation is Strong: Due to the group's strategy, ceded premiums between A&I reached MXN740 million at YE 2022. 25% of Aserta's ceded premium were ceded to Insurgentes, equivalent to 55.8% of Insurgentes' written premium. Each subsidiary manages underwritten risks according to characteristics and the subsidiary capacity to support them.
+Reinsurance programs are adequate, designed to mitigate results deviations and capital is reasonably protected from large exposures. Reinsurers' quality is strong.
+Robust Capitalization: The capitalization and leverage ratios are robust, rated typically in the upper bound of rating category which Fitch expects to be maintained or even to be improved in the mid-term. The risk management characteristics of individual entities explain why Insurgentes' leverage ratios are slightly higher than those of Aserta. Both subsidiaries register comfortable solvency capital requirement coverage ratios (SCR). At the end of 2021, Aserta had an SCR of 2.4x, while Insurgentes reported 4.3x.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+International Scale
+--The rating is sensitive to a negative action on Mexico's sovereign rating given the high level of investment and business concentration in the country;
+--A contraction of NPW and/or equity of the holding company of less than USD50 million, respectively, as well as a sustained deterioration of the main financial ratios.
+National Scale
+Fitch's perception of weakness in Grupo Aserta's financial profile.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+International Scale
+--Fitch's perception of relevant geographic diversification or sovereign investment-to-capital ratio below 100%.
+National Scale
+--Positive financial performance assessment reflected in combined ratio below 87%;
+--Increase in the international scale rating will lead to an upgrade on the national scale rating.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Aseguradora Aserta, S.A. de C.V.
+LT IFSBBB- Affirmed
+BBB- 
+Natl LT IFSAA(mex) Affirmed
+AA(mex) 
+Aseguradora Insurgentes, S.A. de C.V.
+LT IFSBBB- Affirmed
+BBB- 
+Natl LT IFSAA(mex) Affirmed
+AA(mex) 

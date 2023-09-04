@@ -1,0 +1,48 @@
+Fitch Upgrades Itau Colombia's SSR to 'bb'
+
+Fitch Ratings - Monterrey/Bogota - 10 Aug 2023: Fitch Ratings has upgraded Itau Colombia S.A. (Itau Colombia)'s Shareholder Support Rating (SSR) to 'bb' from 'bb-'. Fitch has additionally affirmed Itau Colombia Long-Term Foreign Currency (FC) and Local Currency (LC) Issuer Default Ratings (IDRs) at 'BB' and the Viability Rating (VR) at 'bb'. Fitch has also affirmed the Short-Term FC and LC IDRs at 'B'. The Rating Outlook for the Long-Term IDRs is Stable.
+The SSR upgrade to 'bb' reflects the recent upgrade of Itau Colombia's ultimate parent Itau Unibanco Holding to 'BB+' Stable from 'BB' Stable. For additional information please review "Fitch Takes Rating Actions on 12 Brazilian Banks Following Sovereign Upgrade" dated Aug. 2, 2023 available on www.fitchratings.com
+KEY RATING DRIVERS
+VR-Driven Ratings: Itau Colombia's intrinsic creditworthiness, as reflected in its VR of 'bb', drives its IDRs and do not factor in any extraordinary support from its parent, Itau Unibanco Holding. The VR is one notch above the 'bb-' implied VR and reflects the bank's prudent risk profile. Fitch's assessment also considers the bank's business profile, underpinned by its ultimate shareholder's expansion strategy and business model, as well as Itau Colombia's low profitability and moderate risk profile, which results in controlled asset quality metrics.
+The bank's weaker core capital metrics than regional peers are also factored into the rating. However, the bank's IDRs are currently at the same level as would be derived from the institutional support approach, given that it remains a strategically important subsidiary for its parent.
+Shareholder Support Rating: The bank's SSR is one notch below its ultimate parent, Itau Unibanco Holding reflecting Fitch's assessment of ability and propensity of support. Fitch considers Itau Colombia's strategic importance for its Brazilian parent as part of its regional expansion, underpinning Itau Colombia's SSR. Therefore, Fitch anticipates support from the parent, if required.
+Itau Colombia has a consistent business model, with a focus on corporate business and medium to high income retail clients. The bank had a market share of 3.0% of the Colombian banking system's assets at end-April 2023. The bank has the eighth largest market share in loans and deposits and it is the third largest international franchise in Colombia.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+--A material deterioration of asset quality and a consistent negative profitability trend that causes a sustained decline in the common equity Tier 1 (CET1) ratio below 9% (assuming excess reserve maintenance and a challenging operating environment) could result in a negative rating action on the bank's VR;
+--Itau Colombia's SSR would be affected by a negative rating action on the parent or a change in our view of the parent's propensity to provide support;
+--Downward potential of Itau Colombia's IDRs is limited given that these are at the same level that could be achieved based on parent support. The Long-Term IDRs would only be downgraded in the event of a downgrade of both the VR and the SSR.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+--An upgrade of either the VR or SSR would result in a similar action on the Long-Term IDRs;
+--Demonstrated capacity to sustain improvements in earnings and asset quality metrics;
+--Maintaining a CET1 to risk weighted average (RWA) ratio consistently higher than 12% and an operating profit to RWA above 2.0%;
+--Operating environment improvements that allows for relatively faster loan growth; and
+--Itau Colombia's IDRs and SSR could benefit from an upgrade of its parent company's ratings, given that the entity is considered strategically important for Itau Unibanco. Fitch believes Itau Colombia's IDRs would maintain one-notch relativity to its parent.
+VR ADJUSTMENTS
+The VR is one notch above the 'bb-' implied rating due to the following adjustment reason: risk profile (positive).
+The Capitalization and Leverage score of 'bb-' has been assigned above the 'b' rating category implied score due to the following adjustment reason: Capital Flexibility and Ordinary Support (positive).
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+Itau Colombia SSR is linked to Itau Unibanco's rating.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Itau Colombia S.A.
+LT IDRBB Affirmed
+BB 
+ST IDRB Affirmed
+B 
+LC LT IDRBB Affirmed
+BB 
+LC ST IDRB Affirmed
+B 
+Viabilitybb Affirmed
+bb 
+Shareholder Supportbb Upgrade
+bb- 

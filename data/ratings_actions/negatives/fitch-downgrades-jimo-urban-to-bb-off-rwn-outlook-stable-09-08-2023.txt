@@ -1,0 +1,53 @@
+Fitch Downgrades Jimo Urban to 'BB+'; off RWN; Outlook Stable
+
+Fitch Ratings - Hong Kong - 09 Aug 2023: Fitch has downgraded Qingdao Jimo District Urban Development Investment Co.,Ltd.'s (Jimo Urban) Long-Term Foreign- and Local-Currency Issuer Default Ratings (IDRs) to 'BB+' from 'BBB-'. The Outlook is Stable. Fitch has also downgraded the senior unsecured notes under Jimo Urban to 'BB+' from 'BBB-'. The notes were directly issued by Jimo Urban.
+All ratings have been removed from Rating Watch Negative (RWN), on which they were placed on 22 February 2023.
+The downgrade follows our reassessment that the sponsoring Jimo District government has a lower ability to provide legitimate support to Jimo Urban, should it be needed.
+KEY RATING DRIVERS
+Status, Ownership and Control: 'Very Strong'
+Jimo Urban is wholly owned by the Jimo State-owned Assets Operation and Service Centre and, ultimately, by the Jimo District government. The government exercises tight control over Jimo Urban, as evident by its board appointments and the company's regular performance reports. All major corporate events, including M&A, disposals, strategic development, long-term plans, annual budgets, major capex and funding plans, require government approval.
+Support Track Record: 'Strong'
+Fitch expects government support for Jimo Urban will continue, although the support assessment in constrained by the lack of an explicit government guarantee. Jimo Urban has received consistent government support in the form of equity stake and asset transfers and annual operational subsidies. Subsidies increased continuously over 2018-2022, totalling CNY612 million. It received a CNY100 million cash capital injection in 2019, CNY500 million in government special bonds in 2020 for public construction, and was granted an exclusive car-parking licence in 2021.
+Socio-Political Implications of Default: 'Moderate'
+Jimo Urban is a major urban developer in the district. It builds and operates infrastructure and construction projects as well as social housing. Jimo Urban's financial distress would disrupt its projects and have economic repercussions. However, there are other local government-related entities (GREs) that provide similar services and the company's default would not affect its completed projects.
+Financial Implications of Default: 'Very Strong'
+Jimo Urban is the largest GRE that is supervised by the Jimo State-owned Assets Operation and Service Centre. It has diverse funding channels and an established record of capital-market access, as it is an active onshore bond issuer. Jimo Urban raises funds in capital markets for projects tasked by the local government and its default would constrain the financing capacity of other local GREs.
+Standalone Credit Profile
+The Standalone Credit Profile (SCP) of 'b' is driven by high leverage, but mitigated by high liquidity, large credit lines and good access to onshore and offshore financing markets. Jimo Urban's SCP reflects a combination of a 'Weaker' assessment for revenue defensibility and 'Midrange' for operating risk, and a 'Weaker' financial profile, which suggests a 'b(cat)' assessment. The notch-specific SCP is mainly driven by the Jimo Urban's abundant liquidity and large credit lines from banks.
+Revenue Defensibility 'Weaker'
+Operating Risk 'Midrange'
+Financial Profile 'Weaker'
+Derivation Summary
+Jimo Urban is rated under Fitch's Government-Related Entities Rating Criteria, with an overall support score of 40, reflecting its ownership, control and strong support by the Jimo District government. Fitch also factors in the socio-political and financial implications for the government should the company default and Jimo Urban's SCP assessment under Fitch's Public Sector, Revenue-Supported Entities Rating Criteria.
+Debt Ratings
+The debt rating follows the change in the IDRs.
+Issuer Profile
+Jimo Urban is Jimo District's largest GRE by assets. It mainly provides social housing, constructs facilities and expedites urbanisation in the district in conjunction with some ancillary services, such as leasing, trading, rental, leisure and hot-water supply. The district is in Qingdao, a city in Shandong province.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+- A lowering of Fitch's credit view of Jimo District's ability to provide subsidies, grants or other legitimate resources allowed under China's policies and regulations.
+- Significant weakening in the financial implications of default, a weaker support record or looser government control.
+- A downgrade of Jimo Urban's Long-Term Local-Currency IDR would lead to a similar rating action on the US dollar bonds.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+- An upward revision in Fitch's credit view of Jimo District's ability to provide subsidies, grants or other legitimate resources allowed under China's policies and regulations
+- A stronger assessment of the government's support record or the socio-political implications of a default.
+- An upgrade of Jimo Urban's Long-Term Local-Currency IDR would lead to a similar rating action on the US dollar bonds.
+ESG Considerations
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity.
+Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+Best/Worst Case Rating Scenario
+International scale credit ratings of Sovereigns, Public Finance and Infrastructure issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of three notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+References for Substantially Material Source Cited as Key Driver Rating
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Qingdao Jimo District Urban Development Investment Co.,Ltd.
+LT IDRBB+ Downgrade
+BBB- 
+LC LT IDRBB+ Downgrade
+BBB- 
+senior unsecured
+LTBB+ Downgrade
+BBB- 

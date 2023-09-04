@@ -1,0 +1,61 @@
+Fitch Upgrades Amkor Technology to 'BB+' from 'BB'; Outlook Stable
+
+Fitch Ratings - Chicago - 24 Aug 2023: Fitch Ratings has upgraded Amkor Technology, Inc.'s Long-Term Issuer Default Rating (IDR) to 'BB+' from 'BB' and the senior unsecured rating to 'BB+'/'RR4' from 'BB'/'RR4'. The Rating Outlook is Stable.
+The ratings and Outlook reflect Fitch's increased confidence in Amkor's financial profile as the company navigates demand headwinds in certain key end markets. FCF margins and leverage metrics are solid for the rating despite elevated capital spending and lower profitability, respectively, while capital returns remain conservative. Amkor's share and technology leadership and positive semiconductor content and assembly and test outsourcing trends, offset against significant customer concentration, support the rating.
+KEY RATING DRIVERS
+Conservative Financial Policies: Fitch expects Amkor's financial policies to remain conservative for the rating, due in part by historical operating volatility. We forecast EBITDA leverage sustained comfortably below our 3.5x negative leverage sensitivity through the forecast period, absent a material debt-funded acquisition, and estimate this metric was 0.9x for the latest 12 months ended June 30, 2023. Fitch expects positive FCF over the forecast period will support cash balances at the higher end of historical levels with excess cash used for capital returns
+Barriers to Entry: Cumulative investments and expectations for continued elevated capital intensity should sustain barriers to entry and Amkor's solid market positions over the intermediate term. Capital intensity should remain between 10% and 15% of net sales, supporting Amkor's broad geographic footprint and technological capabilities, particularly in advanced packaging. Meanwhile, leading foundries are using greater financial flexibility to invest in packaging capabilities and increasingly competing with OSAT providers, potentially raising investment requirements over the long term.
+Constrained FCF Profile: Amkor's modest scale and profit margins with high capital intensity structurally constrain its cash flow profile. Amkor's roughly $6.5 billion-$7.5 billion of annual revenue and operating EBITDA margins in the high-teens through the forecast period are modest compared with other segments of the semiconductor supply chain, while capital intensity of 10%-15% is in line with to above average. As a result, Fitch forecasts low- to mid-single-digit FCF margins through the forecast period, versus flat to low-single digits previously.
+Secular Growth Drivers: Fitch believes increasing semiconductor content and ongoing outsourcing trends supports low- to mid-single digit long-term growth for Amkor. Accelerating digitalization and electrification continues to drive increasing semiconductor penetration across a wide range of products, in certain markets doubling growth from volume alone. Meanwhile, ongoing adoption of the fabless semiconductor model, particularly for advanced technologies, continues unabated, expanding Amkor's addressable market.
+Customer Concentration: Moderate customer concentration amplifies Amkor's operating volatility. For fiscal 2022, Amkor's top-10 customers accounted for 65% of consolidated net sales and Apple, Inc. and Qualcomm Technologies, Inc. accounted for 20.6% and 10.1%, respectively. Despite long-standing, collaborative relationships with customers, the shorter product life cycles and commercial adoption uncertainty of smartphones and other consumer-oriented products reduce visibility for revenue and cash flow. At the same time, its share with leading smartphone providers positions Amkor to benefit from defensible market positions.
+DERIVATION SUMMARY
+Fitch views Amkor's credit profile as in line with a 'BB+' and is supported by the company's solid financial profile, which is stronger than its Fitch-rated peer-set overall, and strengthening customer relationships and technology leadership.
+Amkor's financial policies, liquidity and coverage ratios are all in line with a 'bbb'-rating and position the company ahead of its Fitch-rated peer set, although we view this factor as of moderate importance to the rating. Financial policies are more observational than explicitly articulated but Fitch expects the company to maintain conservative EBITDA leverage, cash balances near current and historically high levels and to use cash flow for organic growth opportunities and capital returns.
+Amkor's financial structure factor rating in line with and of higher importance to the 'BB+' rating. The company's EBITDA-based leverage metrics are strong for the current rating, informed in part by historical demand cyclicality, while cash flow-based metrics are more in line with a mid-'bbb' due to the company's higher-than-industry-average capital intensity. Amkor's financial structure factor rating is highest among its Fitch-rated peer-set with the majority at mid-'bb' and only Entegris at a weak-'bb', due to its recent debt-funded acquisition.
+Fitch views Amkor's 'bb' diversification rating factor as weak compared to the rating but in line with its Fitch-rated peer-set and of less importance, despite the company's still significant customer concentration. Amkor's relationship with Apple remains strong and the company is positioned to benefit from its largest customer's supply chain diversification initiatives, given a broad geographic footprint. In addition, Fitch rates other significant Apple suppliers at higher ratings, although all of these have lower concentration percentages and Fitch believes less easily replaced over an intermediate-term
+Amkor's market position factor rating is middle of the pack among similarly Fitch-rated peers but is of more importance to Amkor's 'BB+' rating. The company was the second largest OSAT provider by revenue behind Taiwanese leader, ASE Technology Holding Co., but is the leader in advanced packaging services and in U.S. and Japan markets. Expectations for increased adoption of advanced packaging services, as well as ongoing supply chain regionalization trends position Amkor for share gains.
+Fitch believes Amkor's sector competitive intensity in line with a high 'bb' rating with moderate barriers to entry given the company's cumulative investments in technology and footprint, as well as customer collaboration. Amkor faces meaningful competition from a combination of OSAT peers, large foundries with significant financial flexibility and the potential for customer to internalize assembly and test functions, which constrain the company's ability to expand profit margins. Nonetheless, solid growth opportunities from increasing outsourcing and semiconductor content, as well as higher-than-average investment intensity, mitigate substitution risks.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer Include:
+--Revenue builds through remainder of 2023 in line with historical seasonality but is still down by mid- to high-single digits for the year;
+--Revenue modestly recovers by positive low-single digits in 2024 before increasing by mid-single digits in 2025 and resuming low-single digit long-term growth rates beyond;
+--Gross profit margins remain pressured in 2023, declining to low-teens from high-teens in 2022 and more than 20% through the pandemic period;
+--Gross profit margins expand to mid- to high-teens through the remainder of the forecast period, driven by a richer sales mix;
+--Opex is roughly flat at $460 million-$465 million through the forecast period
+--Capital spending remains elevated by historical standards in order to support ongoing regionalization efforts;
+--Amkor refinances debt maturities and uses FCF for capital returns.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Expectations for FCF margins consistently in the mid-single digits;
+--Increased end market diversification, so that top 10 customers account for less than 40% of total revenue;
+--Public commitment to maintain EBITDA leverage below 3.0x.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--FCF margins sustained near 1% or below;
+--Sustained EBITDA leverage above 3.5x and CFO less capex to total debt sustained below 10%;
+--Operating profile negatively impacted by weaker competitive position or loss of market share, resulting in lower than expected revenue growth or operating EBITDA margins.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Sufficient Liquidity: Fitch believes Amkor's liquidity is sufficient and was supported by $805 million of cash and cash equivalents, $399 million of short-term investments, and a $600 million ABL in Singapore, of which the full amount was available for borrowing as of June 30, 2023. Fitch's expectation for $100 million-$350 million of annual FCF through the forecast period also supports liquidity.
+ISSUER PROFILE
+Amkor Technology, Inc., and its subsidiaries is the number two global provider of outsourced semiconductor assembly and test (OSAT) services by revenue and the number one for automotive markets. The company provides packaging and testing services to integrated device manufacturers (IDMs), fabless semiconductor companies and contract foundries.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+Amkor Technology, Inc. has an ESG Relevance Score of '4' for Governance Structure due to ownership concentration, which has a negative impact on the credit profile, and is relevant to the ratings in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Amkor Technology, Inc.
+LT IDRBB+ Upgrade
+
+
+BB 
+senior unsecured
+LTBB+ Upgrade
+RR4
+
+BB 

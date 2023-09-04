@@ -1,0 +1,45 @@
+Fitch Downgrades and Withdraws HSBC Bank Oman's Ratings on Merger Completion
+
+Fitch Ratings - London - 18 Aug 2023: Fitch Ratings has downgraded HSBC Bank Oman SAOG's (HBON) Long-Term Issuer Default Rating (IDR) to 'BB-' from 'BB+', Shareholder Support Rating (SSR) to 'No Support' (ns) from 'bb+', and Viability Rating (VR) to 'b+' from 'bb-'. The ratings have been removed from Rating Watch Negative (RWN). The Outlook on the Long-Term IDR is Positive. Concurrently, Fitch has withdrawn all the ratings. A full list of rating actions is below.
+The rating actions followed the completion of the merger between HBON and Sohar International Bank SAOG (SIB; BB-/Positive) on 17 August 2023, whereby all of HBON's assets and liabilities were transferred to SIB and following which the bank was dissolved.
+KEY RATING DRIVERS
+Prior to the downgrade, HBON's Long-Term IDR was driven by potential support from the bank's then ultimate parent, HSBC Holdings plc (HSBC; A+/Stable), as was reflected in the bank's SSR. Following the completion of the merger with SIB on 17 August 2023, Fitch has ceased to factor potential support from HSBC into HBON's ratings. This is reflected in the downgrade and withdrawal of HBON's SSR and the downgrade of its Long-Term IDR to 'BB-'/Positive, which corresponds to the rating of the merged entity.
+HBON's VR was heavily influenced by being part of the HSBC group. Without the benefits from HSBC and as part of the merger with SIB, HBON's standalone credit profile converged towards SIB's, which was reflected by the downgrade of HBON's VR to 'b+' from 'bb-' prior to its withdrawal.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+Not applicable as the ratings have been withdrawn.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+Not applicable as the ratings have been withdrawn.
+VR ADJUSTMENTS
+The operating environment score of 'bb' was assigned below the 'bbb' category implied score for Oman due to the following adjustment reasons: size and structure of economy (negative) and sovereign rating (negative).
+The asset quality score of 'b+' was assigned below the 'bb' category implied score due to the following reason: historical & future metrics (negative).
+The earnings and profitability score of 'b+' was assigned below the 'bb' category implied score due to the following reason: earnings stability (negative).
+The capitalisation and leverage score of 'b+' was assigned below the 'bbb' category implied score due to the following reason: risk profile and business model (negative).
+The funding and liquidity score of 'b+' was assigned below the 'bb' category implied score due to the following reason: deposit structure (negative).
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance, if present, is a score of '3'. This means ESG issues are credit neutral or have only a minimal credit impact on HBON, either due to their nature or to the way in which they are being managed by HBON. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/esg.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+HSBC Bank Oman SAOG
+LT IDRBB- Downgrade
+BB+ 
+LT IDRWD Withdrawn
+BB- 
+ST IDRB Affirmed
+B 
+ST IDRWD Withdrawn
+B 
+Viabilityb+ Downgrade
+bb- 
+ViabilityWD Withdrawn
+b+ 
+Shareholder Supportns Downgrade
+bb+ 
+Shareholder SupportWD Withdrawn
+ns 

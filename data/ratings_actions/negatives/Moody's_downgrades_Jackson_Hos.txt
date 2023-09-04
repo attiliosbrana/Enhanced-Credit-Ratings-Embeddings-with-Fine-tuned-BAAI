@@ -1,0 +1,20 @@
+Moody's downgrades Jackson Hospital & Clinic (AL) to B1; outlook negative
+New York, August 30, 2023 -- Moody's Investors Service has downgraded Jackson Hospital & Clinic's (AL) revenue bond rating to B1 from Ba3 and maintained the negative outlook. Jackson has approximately $90 million total debt outstanding.
+RATINGS RATIONALE
+The downgrade to B1 reflects Jackson's low liquidity that will continue to leave minimal headroom to its 50 days cash on hand covenant. The covenant is measured semiannually and was at 54 days in June 2023. Violation of the covenant could lead to an event of default and acceleration of debt under the MTI. Jackson is fully drawn on a $12 million line of credit to meet the covenant. Unexpected demands on liquidity are otherwise low with all fixed-rate debt and a defined contribution pension. Operating performance, with pressures largely due to labor expenses, will continue to improve with a number of initiatives in fiscal 2023. Jackson will also expand its clinical footprint to grow its patient base and attract more commercially insured patients and expand its 340B reimbursement strategy. Governance is a key driver of this rating action, given elevated risk for financial strategy and risk management, compliance and reporting, and management credibility and track record, all of which are governance factors under our ESG framework.
+RATING OUTLOOK
+The negative outlook reflects continued low liquidity despite improving operating performance in fiscal 2023 and 2024. Jackson will likely maintain its days cash around current levels (54 days at June 2023) via a line of credit and continued expense reductions, but the December covenant measurement date will be key, as failure to meet the covenant will constitute an event of default under the MTI.  
+FACTORS THAT COULD LEAD TO AN UPGRADE OF THE RATING
+- Meaningful, sustained liquidity growth at or above 70 days cash
+- Sustained operating performance at or above a 5% operating cash flow (OCF) margin that supports sufficient headroom on financial covenants
+- Substantial enterprise growth leading to durable increase in operating revenue and volumes
+FACTORS THAT COULD LEAD TO A DOWNGRADE OF THE RATING
+- Violation of financial covenants leading to an event of default, including further decline in liquidity below 50 days cash at semiannual measurement
+- Inability to demonstrate sustained turnaround in operating performance as measured by OCF margin
+- Incremental leverage or further weakening of debt metrics, particularly debt to cash flow
+LEGAL SECURITY
+The bonds are secured by a pledge of Gross Receipts as defined in the bond documents. Additional security is provided by a mortgage on Jackson Hospital and Clinic's hospital and adjacent parking decks.
+PROFILE
+Jackson Hospital & Clinic is a 344-licensed bed acute care center located in Montgomery, Alabama. Jackson also has a controlling interest in a Surgery Center and an Imaging Center.
+METHODOLOGY
+      The principal methodology used in these ratings was Not-For-Profit Healthcare published in December 2018 and available at https://ratings.moodys.com/rmc-documents/70886. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.

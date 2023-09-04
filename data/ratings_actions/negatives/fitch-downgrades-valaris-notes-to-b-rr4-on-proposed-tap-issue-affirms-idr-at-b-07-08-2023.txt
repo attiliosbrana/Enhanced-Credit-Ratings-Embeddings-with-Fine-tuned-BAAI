@@ -1,0 +1,72 @@
+Fitch Downgrades Valaris' Notes to 'B+'/'RR4' on Proposed Tap Issue; Affirms IDR at 'B+'
+
+Fitch Ratings - New York - 07 Aug 2023: Fitch Ratings has affirmed Valaris Limited's (Valaris) Long-Term Issuer Default Rating (IDR) at 'B+' and downgraded 2030 second lien secured notes co-issued by Valaris and Valaris Finance Company LLC to 'B+'/'RR4' from 'BB-'/'RR3' after the company decided to place a tap issue. The tap issue is primarily needed to fund the purchase options for two new drillships. The Rating Outlook is Stable.
+Valaris' rating reflects an expected sharp decline in leverage in 2024, as the currently strong floating drilling rig day rates feed into the company's next year contract prices. Valaris' credit profile benefits from one of the largest fleets of offshore jackups and floaters, short-term revenue visibility, due to the presence of contracts with fixed prices and minimum volumes, and healthy liquidity.
+Valaris is weaker positioned within its rating after the tap issuance. Its Fitch-projected midcycle EBITDA leverage of 2.8x is close the downgrade sensitivity of 3.0x. The company's profile is negatively affected by high volatility in day rates and rig utilization, combined with an asset-heavy business model and high operating leverage, which together result in considerable swings in EBITDA, depending on the industry cycle.
+KEY RATING DRIVERS
+Bond Rating Downgrade: The proposed million tap issue of the second lien notes will reduce their recovery rating to 'RR4' from 'RR3', which will bring the notes rating on par with Valaris' IDR. The incremental debt is mainly needed to fund the final payment for two drillships before the end of 2023. Fitch previously expected Valaris to fund the drillship payments with cash balance and FCF over 2023-2025. Valaris does not have contracts for the drillships at the moment.
+Rebound in Floater Market: As long-term forward oil prices started to increase in 2021, market day rates for floaters began growing at a fast pace and almost doubled between YE 2020 and YE 2022. Floater utilization has been improving and is currently at significant levels. Fitch does not assume any significant growth in market day rates for 2H23-2H24 and expects rates to decline in 2025 based on our oil price deck. The number of contracted floaters is largely stagnant worldwide as of 2017-2022.
+Fitch expects this number to increase in 2023-2024. Stacked floater rigs peaked in early 2017 after oil prices collapsed in 2014. More than half of stacked rigs, as of early 2017, exited the market by YE 2022. Valaris has been gradually reactivating its rigs and just three of its 16 floaters are currently stacked without future contract. Valaris will need to stack the two new drillships it receives in late 2023 if it does not finds contracts for them by the time it takes delivery.
+Backlog on Growth Trajectory: Valaris has recently secured a 2.5-year contract for one of its stacked drillships to work in west Africa. Valaris estimates the contract value at $364 million. The company had a $3.0 billion contract backlog, as of August 1, 2023, up from $2.5 billion as of February 2023 and $1.0 billion at YE 2020. Valaris' Fitch-projected 2024 revenue was covered by the existing backlog by 54%, while 2025 revenue is 40% covered.
+Jackup Segment Under Pressure: Valaris' jackup business enhances stability of cash flows because jackup day rates are not as volatile as those for floating rigs and global jackup utilization fell less dramatically than floaters utilization in 2017. The higher resilience of the jackup market is underpinned by shorter payback for shallower offshore upstream projects. Valaris generated most of its EBITDA from the jackup segment in 2022.
+Fitch expects this share will decline in 2023-2026 as the company's floaters move away from lower legacy day rates and the harsh environment jackup market goes through a period of muted demand by North Sea producers. Valaris also benefits from the stability of its other businesses, including bareboat charters to its joint venture (JV) with the Saudi Arabian Oil Company (Saudi Aramco; A+/Stable) and rig management services.
+Envisaged Decline in Leverage: The rating is based on a sharp reduction in gross leverage that Fitch forecasts in 2024. Valaris exited Chapter 11 restructuring in April 2021, eliminating $7.1 billion of pre-petition debt and raising a $550 million bond. However, EBITDA leverage was 6.7x at YE 2021 and 3.7x at YE 2022 due to subdued EBITDA generation driven by muted demand for offshore drilling services over the last several years leading to an oversupplied market.
+Fitch projects Valaris' EBITDA to improve to nearly $200 million in 2023 from $147 million in 2022 and reach about $500 million in 2024, as Valaris starts realizing higher day rates on the 2023 contracts from rig reactivations and active rig contract rollovers. EBITDA leverage is expected to jump to 5.7x in 2023 after the tap issuance but decline to 2.1x in 2024 as EBITDA generation starts to normalize. We expect the company's EBITDA will start declining in 2026 based on our falling oil price assumptions.
+Heavy Capex in 2023: Valaris will front-load 2023-2025 capex given the investment in the two new drillships in 2023. We forecast 2023 capex to approach $700 million but then quickly decline in 2024 and 2025 despite the capitalized portion of rig reactivation costs. Valaris aims to reactivate floaters when it can secure a contract that provides a sufficient return on reactivation. Larger part of reactivation costs is reflected EBITDA, which weighs on the company's leverage. Fitch forecasts FCF to turn positive after 2024, as a result of elevated capex and reactivation costs in 2023-2024.
+No Dividends, Growing Buybacks: We do not project any dividends to be paid by Valaris in the medium term. The company has a $200 million share buyback target for 2023, up from $100 million that we expected when we assigned the rating in April 2023. We assume that Valaris spends $100 million per annum on buybacks in 2024-2027 given our positive FCF forecast. We do not expect Valaris to pay any significant dividends until its key markets recover sustainably.
+Major Player in Offshore Drilling: Valaris owns 16 floating rigs, 11 drillships and five semisubmersible rigs, and 35 jackups. The offshore drilling fleet is the largest globally by number of rigs. Valaris operates in all large offshore oil and gas basins, such as the Gulf of Mexico, Brazil, the Middle East, West Africa, the North Sea, Southeast Asia and Australia.
+Growing JV with Saudi Aramco: Valaris has a 50% stake in an equity method-accounted JV with Saudi Aramco called ARO Drilling. ARO is an offshore drilling company that has contracts with Saudi Aramco. Fitch expects ARO to be in an expansionary stage in 2023-2027 and does not forecast any dividends from the JV. At the same time, we expect the company to fund capex through FCF generation and standalone debt without any cash calls from the partners. Valaris has $400 million notes receivable from ARO due in 2027 and 2028. Fitch does not forecast the notes principal repayment in 2023-2027 but expects the company to receive annual interest.
+DERIVATION SUMMARY
+Valaris' peers include Noble Corporation plc (BB-/Stable) and Seadrill Limited (B+/Stable). Valaris experiences lower 2023 margins due to its current contract structure, reactivation costs and higher concentration of jackups. Noble is expected to generate greater FCF than Valaris, given the recent recovery and higher margin profile for floaters, especially in the near term. Seadrill has better contract terms than Valaris for 2023 but we expect Valaris to sharply increase EBITDA generation in 2024-2025 as higher day rates are reflected in its contracts.
+Valaris has more gross debt and higher midcycle leverage than peers. This makes it more vulnerable to a market downturn compared to peers. Valaris had healthy liquidity at June 30, 2023.
+KEY ASSUMPTIONS
+--Brent oil price of $80/b in 2023, $75/b in 2024, $70/b in 2025, $65/b in 2026 and $60/b thereafter;
+--16% revenue growth in 2023 and 31% in 2024 followed by revenue decline in 2025-2027;
+--EBITDA margin growing to 11% in 2023, 21% in 2024, 23% in 2025 with a decrease to 18% by 2027;
+--Capex, including newbuilds, at $690 million in 2023 falling from $300 million in 2024 toward $150 million in 2027;
+--No dividends;
+--$200 million share buyback in 2023 and $100 million thereafter.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Sustainably stronger offshore drilling market fundamentals, including high day rates, longer contracts and growing backlog and rig utilization;
+--Track record of conservative financial policy that keeps gross debt in check;
+--Midcycle EBITDA leverage below 2.0x.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Deteriorating market fundamentals such as decreasing day rates and offshore rig utilization;
+--Significant increase in gross debt;
+--Weakening liquidity;
+--Midcycle EBITDA leverage above 3.0x.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Sufficient Liquidity: Valaris' debt is due 2030 but the company may need liquidity to cover negative FCF in the medium term. The combined negative FCF, including capex and working capital cash outflows, will reach almost $300 million in 2023-2025, according to our latest projections. This can be covered by $805 million of cash at June 30, 2023 and the $375 million undrawn long-term committed RCF. Valaris should have sufficient liquidity if it maintains a disciplined approach to discretionary cash spending.
+ISSUER PROFILE
+Valaris provides offshore drilling services to oil and gas companies across the globe. It owns the world's largest fleet of offshore rigs, including jackups and floaters. Valaris is incorporated in Bermuda and headquartered in the U.S.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+Valaris has an ESG Relevance Score of '4' for Waste & Hazardous Materials Management; Ecological Impacts due to the risk that a possible offshore oil spill may affect the drilling company. This factor has a negative impact on the credit profile, and are relevant to the ratings in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Valaris Limited
+LT IDRB+ Affirmed
+
+
+B+ 
+Senior Secured 2nd Lien
+LTB+ Downgrade
+RR4
+
+BB- 
+Valaris Finance Company LLC
+ 
+
+  Senior Secured 2nd Lien
+LTB+ Downgrade
+RR4
+
+BB- 

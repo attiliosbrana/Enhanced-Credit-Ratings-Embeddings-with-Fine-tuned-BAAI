@@ -1,0 +1,73 @@
+Fitch Places Mongolian Mining on Watch Negative; Rates Proposed Exchange and New Notes 'B(EXP)'
+
+Fitch Ratings - Hong Kong/Tokyo - 28 Aug 2023: Fitch Ratings has placed Mongolian Mining Corporation's (MMC) 'B' Long-Term Foreign-Currency Issuer Default Rating (IDR) and the rating on its US-dollar bond due April 2024 on Rating Watch Negative (RWN). At the same time, Fitch has assigned a 'B(EXP)' expected rating to MMC's proposed US-dollar senior exchange notes and new issuance with a Recovery Rating of 'RR4'. The final rating is contingent upon the receipt of final documents conforming to information already received.
+The proposed notes will mature on the third anniversary of the exchange settlement date and will be jointly and severally issued by MMC and its wholly owned subsidiary, Energy Resources LLC.
+We do not consider the proposed debt exchange transaction as default avoidance, despite the maturity extension for MMC's existing USD350 million senior secured notes due April 2024, as we believe MMC is able to accumulate sufficient cash to repay the notes, even without the proposed issuance.
+The RWN takes into consideration the low cash buffer that will be available after the repayment of the notes due 2024, should the exchange offer fail, to manage variances in the operating environment. The inherent volatility and lack of predictability of the post repayment cash position is more consistent with a rating level that is one notch lower. We will remove the RWN and affirm the rating with a Stable Outlook if the exchange is completed at the terms communicated.
+KEY RATING DRIVERS
+Exchange to Address Refinancing Risk: The exchange offer is at par value, using a combination of cash and new notes, subject to a minimum acceptance of 75% of outstanding principal. A successful transaction would reduce the funding requirements for MMC's 2024 notes and would be credit positive, as it would improve the company's maturity profile.
+Sufficient Cash for Repayment: If the proposed exchange fails, we expect that MMC would have the capacity to repay its 2024 notes with cash generated from operations, taking into consideration our forecast of a lower average selling price (ASP) in 2H23 and 1Q24. The outstanding balance of MMC's 2024 notes was USD350 million at mid-August 2023. The company had a cash balance of over USD200 million at end-June 2023, up from USD65 million at end-2022.
+We expect MMC could generate over USD250 million in EBITDA between June 2023 to 1Q24, which, after taking into consideration other cash flow uses, such as interest, taxes and capex, together with the USD50 million in an unused committed facility, would leave the company with sufficient cash for the bond repayment and continued operation.
+Limited Cash Buffer Post Repayment: We expect MMC to have over USD350 million of cash available as of end 1Q24 without the exchange offer, with an additional USD50 million in an unutilised committed facility. We calculate that the company will have a cash buffer of around USD50 million after the USD350 million principal repayment after subtracting the minimum USD50 million of cash required to maintain its operation. However, the inherent variances of MMC's operating environment can result in the buffer varying widely, which is commensurate with a one-notch lower rating.
+Robust Operational Improvements: MMC's coking-coal operation has normalised, with Covid-19 pandemic-related disruption at the border with China having eased in 1Q23. Average daily throughput rose to about 800 trucks in 1H23, surpassing pre-pandemic and the 1H22 level of around 240 trucks. MMC ramped up processing volume to 6.8 million tonnes in 1H23, from 0.9 million tonnes in 1H22, ahead of our expectations. Meanwhile, the realised ASP for hard coking coal exceeded USD160/tonne, from a 2022 average of USD147/tonne.
+We expect the ASP to fall in 2H23, but for average ASP in 2023 to remain above 2022 levels. We also expect washed hard coking coal sales volume to reach 5.5 million tonnes, against our previous forecast of 5.0 million tonnes (2022: 3.5 million tonnes). As a result, the EBITDA margin should improve to over 40%, from around 24% in 2022, with greater free cash flow from the higher volume, stronger pricing assumptions and lower costs. We also forecast net leverage to drop to below 1.0x (2022: 3.0x), supported by a strong ASP and margin expansion.
+Small Scale, Single Product: MMC is small by revenue compared with Fitch-rated coal miners globally. Washed hard coking coal accounted for over 95% of its total revenue in 2022. Its latest coal reserve statements show total marketable coal reserves of just under 400 million tonnes, or a reserve life of around 35 years. MMC's small scale and product concentration constrain its business profile to the 'b' category. MMC is looking to diversify away from coking coal, but we believe it will remain its dominant revenue contributor in the short to medium term.
+Regional Cost Advantage: MMC's cash costs, including royalties, are in the second quartile of the global coking-coal cost curve, but its cost advantage is only in the northern part of China due to the proximity of its mines to steel mills in the area. Land transportation costs to Chinese customers averaged at about USD13/tonne in 1H23, limiting MMC's cost competitiveness and putting it in the higher quartile of the global cost curve. Delivery beyond northern China would raise costs, limiting its customer-base to mainly northern China.
+DERIVATION SUMMARY
+The RWN reflects the narrow buffer provided by MMC's Fitch-estimated cash balance after the principal repayment on the 2024 notes, which may not protect MMC from volatile market conditions should the exchange offer not proceed. MMC has a smaller revenue scale compared with rated peers, such as Guangyang Antai Holdings Limited (B/Stable), PT Indika Energy Tbk (BB-/Stable) and PT Golden Energy Mines Tbk (GEMS, BB-/Stable).
+Guangyang Antai's revenue is more than 10x times that of MMC, while Indika's revenue scale is more than 7x larger and GEMS' 5x. However, MMC margin is much higher than that of Guangyang Antai and similar to that of Indika and GEM. MMC is a single-product coal miner, similar to the peers. Its operational profile in terms of mine life is similar to that of GEMS, whose mine life is over 25 years. Indika's mine life is shorter, at around 15 years.
+MMC's leverage and financial flexibility profile is weaker than that of GEMS. GEMS has more stable free cash flow generation ability, much lower leverage and well-distributed amortising debt. Both MMC and Indika have had choppy free cash flow generation in the past few years and concentrated debt maturities. Nevertheless, Indika has better interest coverage and much lower leverage. We expect lower leverage at MMC compared with Guangyang Antai, but both companies have had weak FCF generation in the past few years.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions within our Rating Case for the Issuer:
+- No exchange offer is considered
+- Hard coking coal ASP of USD150/tonne in 2023 and over USD140/tonne in 2024, consistent with Fitch's price deck assumptions
+- Total sales volume over 8.5 million tonnes in 2023, dropping to just under 7.0 million tonnes from 2024
+- EBITDA margin to average at slightly below 40% in 2023-2025, supported by higher volume, a strong ASP and normalised costs
+- Capex at average at around 10% of revenue in 2023-2025
+- No dividend payments in 2023-2025
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+- We will remove the RWN and affirm the ratings with a Stable Outlook upon completion of the exchange offer at the terms communicated.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+- Failure to complete the exchange offer or secure other means of funding to reduce refinancing risk by end-3Q23
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Adequate Liquidity: MMC had USD208 million of cash on hand and USD50 million in unutilised credit facilities at end June 2023. However, this is insufficient to repay the notes due in April 2024, which had a face value of USD350 million in mid-August 2023. Nevertheless, we expect that the company will be able to accumulate additional cash in 2H23 and 1Q24 to meet the principal repayment and retain a cash buffer to sustain its operation.
+ISSUER PROFILE
+MMC is the largest producer and exporter of high-quality hard coking coal in Mongolia. It owns and operates the Ukhaa Khudag and Baruun Naran open-pit coking coal mines in South Gobi province. MMC processed 6.6 million tonnes of run-of-mine coal in 2022, which yielded around 3.0 million tonnes of washed coking coal as a primary product and 1.2 million tonnes of washed thermal coal as a secondary product.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/topics/esg/products#esg-relevance-scores
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Mongolian Mining Corporation
+LT IDRB Rating Watch On
+
+
+B 
+senior unsecured
+LTB(EXP) Expected Rating
+RR4
+
+  senior unsecured
+LTB Rating Watch On
+RR4
+
+B 
+Energy Resources LLC
+ 
+
+  senior unsecured
+LTB(EXP) Expected Rating
+RR4
+
+  senior unsecured
+LTB Rating Watch On
+RR4
+
+B 

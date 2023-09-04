@@ -1,0 +1,20 @@
+Moody's downgrades Mallinckrodt's PDR to D-PD following bankruptcy filing
+New York, August 29, 2023 -- Moody's Investors Service ("Moody's") downgraded Mallinckrodt International Finance S.A.'s ("Mallinckrodt") probability of default rating ("PDR") to D-PD from Ca-PD. Moody's affirmed Mallinckrodt's corporate family rating ("CFR") at Ca, as well as the rating on the senior secured first lien debt at Caa3, and the rating on the senior secured second lien debt at C. The outlook remains negative. There was no change to Mallinckrodt's SGL-4 Speculative Grade Liquidity Rating.
+These actions follow the announcement that Mallinckrodt has filed for bankruptcy under Chapter 11 of the US Bankruptcy Code, on August 28, 2023. Subsequent to the bankruptcy filing, Moody's will withdraw Mallinckrodt's ratings because of the company's bankruptcy filing. For more information, please refer to Moody's Withdrawal Policy on https://ratings.moodys.com.
+Governance risk factors are material to the rating action including aggressive financial strategy and risk management practices that resulted in high financial leverage and the company's unwillingness to address its opioid settlement liabilities, which contributed to restructuring.
+Affirmations:
+..Issuer: Mallinckrodt International Finance S.A.
+.... Corporate Family Rating, Affirmed Ca
+....Senior Secured First Lien Bank Credit Facility, Affirmed Caa3
+....Senior Secured First Lien Regular Bond/Debenture, Affirmed Caa3
+....Senior Secured Second Lien Regular Bond/Debenture, Affirmed C
+Downgrades:
+..Issuer: Mallinckrodt International Finance S.A.
+.... Probability of Default Rating, Downgraded to D-PD from Ca-PD
+Outlook Actions:
+..Issuer: Mallinckrodt International Finance S.A.
+....Outlook, Remains Negative
+RATINGS RATIONALE
+Mallinckrodt' ratings are constrained by untenable capital structure, along with weak liquidity reflected in material opioid settlement liabilities and approaching debt maturities. Mallinckrodt's announced Restructuring Support Agreement, along with the company expectation to file voluntary petitions for reorganization pursuant to Chapter 11 resulted in the downgrade of its Probability of Default Rating to D-PD. Following restructuring of its balance sheet, the company will need to reverse earnings decline through cumulative contributions from existing portfolio of established specialty branded products, as well as growth from new product launches.
+The principal methodology used in these ratings was Pharmaceuticals published in November 2021 and available at https://ratings.moodys.com/rmc-documents/356413. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+Luxembourg-based Mallinckrodt International Finance S.A. is a subsidiary of Dublin, Ireland-based Mallinckrodt plc (collectively "Mallinckrodt"). Mallinckrodt International Finance S.A. is a specialty biopharmaceutical company with reported net revenue of approximately $1.85 billion for the twelve months ended June 30, 2023.

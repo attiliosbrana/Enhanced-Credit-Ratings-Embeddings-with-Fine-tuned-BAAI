@@ -1,0 +1,77 @@
+Fitch Downgrades WeWork Ratings to 'CC'
+
+Fitch Ratings - New York - 16 Aug 2023: Fitch Ratings has downgraded WeWork Companies, LLC and WeWork Inc.'s (collectively WeWork) Long-Term Issuer Default Ratings (IDRs) to 'CC' from 'CCC-' following worse than expected Q2 financial results, a public warning that the company's ability to continue as a going concern over the next 12 months will be contingent on improving its liquidity, resignations of key executives and board members, and the replacement of board members with restructuring experts.
+Fitch has also downgraded the company's issue-level ratings of first-lien bonds to 'CCC-'/'RR3' from 'CCC'/'RR3' and affirmed its second-lien and unsecured bonds at 'C'/'RR6'. The ratings impact approximately $1.4 billion of WeWork's debt.
+KEY RATING DRIVERS
+Liquidity and Funding Plan: In its previous rating action commentary in May, Fitch stated that WeWork's adequate liquidity depended on the company's continued improvement in operating performance. However, the necessary improvements have not materialized and WeWork continues to burn through cash. As of March 31, 2023, the company reported $422 million of cash on the balance sheet, which was down to $205 million as of June 30, 2023.
+In July, WeWork drew $175 million on its delayed draw facility of $475 million, leaving $300 million available. This facility is a private placement, and Fitch has not confirmed details such as conditions precedent that might reduce or eliminate it as a source of liquidity.
+Operating Performance: WeWork released projections in 2021 and 2022 for growth and cost reductions that would at least lead to breakeven results. But operating performance has been consistently worse than the projections. In its most recent public comments, the company warned that churn has increased, and cash burn continues. Since the pandemic, WeWork has indicated that the turmoil in commercial real estate markets provides them with an opportunity both in demand for flexible workspace and in their pricing power; however, the company's performance has yet to reflect this.
+Flexible Workspace Demand: WeWork's occupancy rate improved from 46% at the end of 2020 to 73% at the end of Q1 2023. Physical memberships reached 664,000, which was a slight dip since Q4 2022. All Access Memberships are also at the highest reported number over the past two years at 75,000. However, churn during Q2 2023 was a bad sign, and if it continues, WeWork will struggle to quench the cash burn. Brokers such as JLL project that flexible office space use will grow but perhaps not soon enough for WeWork. The company is targeting a return to pre-pandemic occupancy levels of low- to mid-80% range, but achieving this goal in 2023 seems beyond reach.
+DERIVATION SUMMARY
+Fitch considers WeWork's profile to be most aligned with business services companies, given the nature of its value proposition as a services platform targeted at businesses of all sizes. WeWork's rating reflects a combined consideration of business and financial profile rating factors (consistent with the factors associated with Fitch's Business Services Ratings Navigator), both on a current and prospective basis given its relatively early stage of development as a company.
+KEY ASSUMPTIONS
+--Revenue: Fitch assumes challenging macro conditions will lead to 2023 revenue being flat and growth of only 2% in 2024. An important driver of this will be WeWork's pricing power, which Fitch expects will remain an ongoing challenge, especially if the broader economy contracts.
+--EBITDA: With limited growth, Fitch believes WeWork will not be EBITDA positive in the next 12 to 18 months, although the trend continues to improve.
+KEY RECOVERY RATING ASSUMPTIONS
+--The recovery analysis assumes that WeWork would be reorganized as a going-concern (GC) in bankruptcy rather than liquidated;
+--Fitch has assumed a 10% administrative claim.
+Going Concern Approach
+--The GC EBITDA estimate reflects Fitch's view of a sustainable, post-reorganization EBITDA level upon which we base the valuation of the company;
+--Fitch estimates WeWork's going concern EBITDA by assuming a substantially smaller footprint of continuing operations in line with the assumptions regarding rejected leases. Fitch assumes 60% of current domestic revenue and 40% of non-domestic revenue, resulting in approximately $1.5 billion. Using a normalized 33% location gross margin and an estimate of restructured overhead expense of approximately $200 million results in an EBITDA margin of approximately 20% or $315 million.
+EV Multiple Approach
+An EV multiple of 5x is used to calculate a post-reorganization valuation. The estimate considered the following factors:
+--The historical bankruptcy exit multiple for companies WeWork's sector ranged from 4x-7x, with a median reorganization multiple of 6x;
+--Current EV multiples of public companies in the Business Services sector trade well above the historical reorganization range. The median forward EV multiple for this sector is about 10x. Historical multiples ranged from 6x-12x;
+--WeWork does have unique characteristics that would allow for a higher multiple in its unique brand and stake in JVs;
+--However, uncertainty surrounding WeWork's business model and the high degree of strategy and execution risk leads Fitch to utilize a recovery multiple that is below the sector median.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--FCF margin expected to be sustained neutral;
+--Interest coverage sustained above 1.0x;
+--Confidence in flexible office demand environment sustainability;
+--Operational metrics including occupancy, ARPPM and desk adds that show evidence of consistency with Fitch's base case scenario.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Accelerating negative FCF margin and ongoing liquidity concerns;
+--(CFO-capex)/debt expected to be sustained negative;
+--Worsening of office demand environment, potentially structurally.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+ISSUER PROFILE
+WeWork provides space and amenities for today's hybrid and flexible workforces. The company also markets technology for managing workspace that can be used by landlords or tenants. WeWork has more than 700 locations in 39 countries.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+WeWork has an ESG Relevance Score of '4' for Management Strategy due to ongoing challenges to implement a strategy to achieve sustainable profitability, which has a negative impact on the credit profile, and is relevant to the rating[s] in conjunction with other factors.
+WeWork has an ESG Relevance Score of '4' for Governance Structure due to SoftBank ownership concentration, which has a negative impact on the credit profile, and is relevant to the rating[s] in conjunction with other factors.
+WeWork has an ESG Relevance Score of '4' for Group Structure due to the complexity of its structure and related-party transactions with SoftBank, which has a negative impact on the credit profile, and is relevant to the rating[s] in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+WeWork Inc.
+LT IDRCC Downgrade
+
+
+CCC- 
+WeWork Companies LLC
+LT IDRCC Downgrade
+
+
+CCC- 
+senior unsecured
+LTC Affirmed
+RR6
+
+C 
+senior secured
+LTCCC- Downgrade
+RR3
+
+CCC 
+Senior Secured 2nd Lien
+LTC Affirmed
+RR6
+
+C 

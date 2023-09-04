@@ -1,0 +1,35 @@
+Fitch Downgrades Clavel Residential 2 Class A, E and F to 'Dsf'; Withdraws Ratings
+
+Fitch Ratings - Madrid - 10 Aug 2023: Fitch Ratings has downgraded Clavel Residential 2 class A, E and F notes to 'Dsf' from 'AAsf+', 'B+sf' and 'Bsf', respectively, and withdrawn the ratings. The class B, C and D notes were paid in full.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Clavel Residential 2 DAC
+   Class A XS2552394814
+LTDsf Downgrade
+AA+sf 
+Class A XS2552394814
+LTWDsf Withdrawn
+Dsf 
+Class B XS2552395621
+LTPIFsf Paid In Full
+A+sf 
+Class C XS2552395977
+LTPIFsf Paid In Full
+A-sf 
+Class D XS2552396199
+LTPIFsf Paid In Full
+BBB-sf 
+Class E XS2552396355
+LTDsf Downgrade
+B+sf 
+Class E XS2552396355
+LTWDsf Withdrawn
+Dsf 
+Class F XS2552396439
+LTDsf Downgrade
+Bsf 
+Class F XS2552396439
+LTWDsf Withdrawn
+Dsf 

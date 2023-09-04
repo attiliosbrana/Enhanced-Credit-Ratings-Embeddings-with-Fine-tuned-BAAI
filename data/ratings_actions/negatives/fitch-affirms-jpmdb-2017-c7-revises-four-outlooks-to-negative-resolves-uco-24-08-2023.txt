@@ -1,0 +1,35 @@
+Fitch Affirms JPMDB 2017-C7; Revises Four Outlooks to Negative; Resolves UCO
+
+Fitch Ratings - Toronto - 24 Aug 2023: Fitch Ratings has affirmed the ratings of 13 classes of JPMDB Commercial Mortgage Securities Trust 2017-C7, commercial mortgage pass-through certificates. In addition, the Rating Outlooks on classes C, D, E-RR and X-D were revised to Negative from Stable. The under criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+JPMDB 2017-C7
+   A-3 46648KAS5
+LTAAAsf Affirmed
+AAAsf 
+A-4 46648KAT3
+LTAAAsf Affirmed
+AAAsf 
+A-5 46648KAU0
+LTAAAsf Affirmed
+AAAsf 
+A-S 46648KAY2
+LTAAAsf Affirmed
+AAAsf 
+A-SB 46648KAV8
+LTAAAsf Affirmed
+AAAsf 
+B 46648KAZ9
+LTAA-sf Affirmed
+AA-sf 
+C 46648KBA3
+LTA-sf Affirmed
+A-sf 
+D 46648KAC0
+LTBBB-sf Affirmed
+BBB-sf 
+E-RR 46648KAE6
+LTBsf Affirmed
+Bsf 

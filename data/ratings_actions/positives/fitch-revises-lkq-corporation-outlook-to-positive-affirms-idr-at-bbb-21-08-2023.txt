@@ -1,0 +1,66 @@
+Fitch Revises LKQ Corporation's Outlook to Positive; Affirms IDR at 'BBB-'
+
+Fitch Ratings - New York - 21 Aug 2023: Fitch Ratings has affirmed LKQ Corporation and LKQ European Holdings B.V.'s (Collectively LKQ) Long-Term Issuer Default Rating (IDR) at 'BBB-'. Fitch has also affirmed LKQ's senior unsecured notes and credit facilities at 'BBB-', and assigned the CAD700 million term loan, which was drawn subsequent to 2Q23, a rating of 'BBB-'. The Rating Outlook has been revised to Positive from Stable.
+The Positive Outlook considers the expectation that LKQ will reduce gross debt and deleverage to 2.0x or less over the next two years, and that it will continue to manage capital allocation and financial policy to this level going forward. It also considers the demonstrated stability in FCF generation through business cycles and supply chain challenges that help moderate the execution risks of their strategic growth priorities, namely a regular pace of bolt-on M&A. Fitch could upgrade the ratings in the next 12-24 months if LKQ maintains stated capital allocation policies and executes gross debt reduction plans.
+KEY RATING DRIVERS
+Rating Considerations: The ratings for LKQ reflect its positive, through-the-cycle FCF generation, which is supported by a steady demand profile for LKQ's collision and mechanical repair parts, and market leading positions within its key North American and major European markets. Subsequent to near-term deleveraging actions following the UNI Select (UNI) acquisition, leverage metrics are expected to be consistent with a 'BBB' rating. Similarly, financial flexibility remains solid with a willingness to flex share repurchases to maintain its leverage profile, a characteristic supportive of occasional M&A cycles. The ratings also consider fundamental long-term risks including the potential for competitive pressures, via peers or original equipment manufacturers (OEM), or challenges in adapting to a changing car park.
+Sub-2x EBITDA Leverage Forecast: On a Fitch calculated basis, closing EBITDA leverage is estimated to be 2.6x, before any divestitures and synergies. Fitch expects FCF to be substantially directed toward debt repayment over the next two years, and as a result EBITDA leverage is expected to be in the high-1.0x to 2.0x range, while EBITDAR leverage is in the low-3.0x in the 2024-2025 timeframe. CFO-capex/debt is also strong relative to 'BBB' category automotive peers, remaining around 25% or above. Fitch believes LKQ's financial policies will remain targeted at maintaining solid investment-grade ratings including company calculated leverage of 2.0x or below. While LKQ may occasionally pursue larger acquisitions, Fitch expects these transactions would be done in the context of their stated financial policies that will prioritize deleveraging.
+UNI Select Complements LKQ: Fitch views the addition of Uni Select as largely complementary to its existing product lines while also adding a platform for developing its hard parts business in North America over time. There is also an opportunity for a good degree of cost synergies, which LKQ has estimated at least $55 million largely via branch and distribution optimization, leverage its European business sourcing capabilities and overhead. Fitch continues to expect M&A, likely continuing to add parts that grow wallet share with repair shops complimenting their existing product breadth.
+FCF Supports Capital Deployment, Flexibility: Fitch expects post-dividend FCF to range in the low-to-mid $600 million range over 2024 and 2025, a significant scale that Fitch believes is able to support bolt-on M&A and measured share repurchases without a need for significantly leveraging debt financing. LKQ has initiated a dividend in the last couple of years, however, Fitch believes dividend growth beyond the $300 million mark will largely be driven by earnings growth retaining the company's financial flexibility.
+Steady Demand Supports FCF Stability: With the exception of pandemic-driven lockdowns in 2020, demand for collision and mechanical repair parts has been steady, given its correlation to vehicle miles traveled, as opposed to new vehicle sales. Fitch expects this dynamic to continue and support a stable FCF profile. Further, LKQ managed well through widespread supply chain challenges in 2021, sustaining CFO margin in the high-single digits, a continuation of its long-run history of CFO margin in the mid-to-high single digits, even through business cycles. LKQ, like other distributors, generally benefits from counter-cyclical working capital cash flow, benefitting from a sell off of inventory in downturn conditions, moderating the impact from somewhat lower sales.
+Scale and Network Support Market Position: As a reseller of collision repair and aftermarket automotive parts, LKQ competes against a variety of other distributors as well as OEM replacement products. The potential for aggressive competitive actions is a long-term consideration for distributors like LKQ as differentiation is often limited for the business model. However, the concern is moderated by LKQ's market leading scale in a fragmented market, supporting economies of scale in procurement as well as the ability to maintain strong service levels including fill rates and network reach. Its scaled distribution network is attractive to large, multi-region customers who value product and service consistency.
+DERIVATION SUMMARY
+Compared with industrial distributor, Wesco International (Wesco; BB/Positive) and auto supplier peers, Continental AG (BBB/Stable), Goodyear Tire & Rubber (GT; BB-/Stable), LKQ has demonstrated a high level of demand stability through business cycles, largely owing to its product application in automotive repair as opposed to new vehicle production or more broadly industrial production. LKQ is also relatively auto brand agnostic, reducing platform concentration risk. Similar to Continental, LKQ holds dominant positions within its key markets, alternative parts in North America and aftermarket parts in Europe. LKQ's operating scale, breadth of product offering and distribution capabilities are supportive of its market position and margin profile in an otherwise competitive spot in the value chain as a distributor. Fitch expects LKQ's EBITDAR leverage to trend in the low-3.0x range over the 2024-2025 timeframe, while CFO-capex/debt is relatively strong compared to 'BBB' category peers and remains durably around 20% or above.
+While leverage is higher than Continental's at 1.0x, LKQ's FCF profile has been steadier with FCF margins sustained in the mid-single digits, despite recent supply chain challenges that have affected many distributors. Wesco's ratings reflect its deleveraging progress subsequent to the large purchase of Anixter, as well as its leading market position and high growth outlook driven by favorable secular growth trends. Fitch expects Wesco's EBITDA leverage to decline below 4.0x and for FCF to return to positive and stabilize after working through supply chain challenges. Wesco's CFO-capex/debt is expected to turn positive in 2023 around 10%. GT's ratings reflect the competitiveness of the tire manufacturing industry and generally stable demand through business cycles. Fitch expects GT's leverage will improve toward the low-3.0x over the next couple years and that FCF will turn positive in 2023 as certain acquisition synergies are realized and working capital spend normalizes.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer:
+--Solid organic growth in the mid-single digits in FY2023 moderates to the low-to-mid single digits thereafter as inflation-driven pricing moderates;
+--EBITDA margin of about 13% in FY2023 and remains in the 12%-13% range thereafter, with consideration for UNI Select;
+--LKQ manages capital deployment to support stated financial policies by prioritizing debt repayment over the next two years, when company-calculated leveraged returns below 2.0x;
+--LKQ remains acquisitive going forward but the strategy remains consistent with stated financial policies;
+--Growth in dividend distributions moderate, with future growth tied to earnings growth;
+--Integration of the UNI Select acquisition progresses smoothly and LKQ realizes expected synergies.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--LKQ executes on debt repayment priorities within the next 24 months that supports EBITDAR and EBITDA leverage sustained below 3.3x and 2.3x, respectively;
+--A credit conscious acquisition and capital allocation policies that enhance LKQ's operating profile, contribute to sustaining low FCF variability, and retain financial flexibility;
+--The Rating Outlook could be stabilized if LKQ deviates from deleveraging priorities subsequent to the UNI Select acquisition that lead to EBITDAR and EBITDA leverage sustained within the leverage sensitivities.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Increased cash flow variability or reduced financial flexibility as a result of changes in acquisition or capital allocation policies;
+--EBITDAR and EBITDA leverage sustained above 3.8x and 2.8x, respectively.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Comfortable Liquidity: At June 30, 2023, LKQ has a comfortable pro forma liquidity position with $519 million of cash which was adjusted from actual amounts of $1.9 billion. The incremental position was used to fund the UNI Select acquisition in August 2023. It also had around $550 million of availability, after drawing another $150 million in July 2023, under its $2.0 billion revolving credit facility after drawings and letters of credit. Fitch expects LKQ to regularly operate with a moderate portion of the revolver utilized, however; the demonstrated stability of LKQ's FCF profile and financial flexibility are supportive of a comfortable liquidity profile. LKQ's next maturity is the EUR500 million of senior unsecured notes due April 2024.
+Debt Structure: Through 1H23, LKQ raised $1.4 billion of senior unsecured notes and $500 million of senior unsecured term loan financing ahead of the UNI Select acquisition, which along with CAD700 million delayed draw term loan borrowings and modest revolver draws subsequent to 2Q23 were used to finance the $2.1 billion purchase price. LKQ will have numerous options to pay down debt over the next two years.
+Fitch Lease Capitalization: Fitch capitalizes Fitch-calculated lease costs at 8x, reflecting the high proportion of real estate within the leased asset base.
+ISSUER PROFILE
+Formed in 1998, LKQ Corporation is a global wholesale distributor of vehicle products. LKQ distributes aftermarket products that include replacement parts, components and systems, and specialty products and accessories. LKQ's products are focused on vehicle maintenance and repair.
+SUMMARY OF FINANCIAL ADJUSTMENTS
+Fitch includes payables under supply chain finance programs in its debt calculation. It also adjusts cash from operating activities to include the change in these balances.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+LKQ Corporation
+LT IDRBBB- Affirmed
+BBB- 
+senior unsecured
+LTBBB- Affirmed
+BBB- 
+senior unsecured
+LTBBB- New Rating
+ LKQ European Holdings B.V.
+LT IDRBBB- Affirmed
+BBB- 
+senior unsecured
+LTBBB- Affirmed
+BBB- 
+LKQ Italia Bondco, S.p.A.
+   senior unsecured
+LTBBB- Affirmed
+BBB- 

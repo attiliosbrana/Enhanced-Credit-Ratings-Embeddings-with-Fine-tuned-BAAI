@@ -1,0 +1,60 @@
+Fitch Affirms Lendmark's IDR at 'B'; Revises Outlook to Negative
+
+Related Content:
+LFS TopCo, LLC
+Fitch Ratings - New York - 17 Aug 2023: Fitch Ratings has affirmed the Long-Term Issuer Default Rating (IDR) of LFS Topco, LLC (Lendmark) at 'B'. The Rating Outlook has been revised to Negative from Stable. Fitch also affirmed the senior unsecured debt rating at 'B', with a Recovery Rating of 'RR4'.
+KEY RATING DRIVERS
+The Outlook revision reflects the expectation for weaker credit performance to continue, which will pressure earnings and elevates the risk of deterioration in capitalization ratios. Profit margins have come down significantly in recent quarters, and modest increases in delinquencies and losses from current levels could quickly erode tangible equity.
+The rating affirmation reflects Lendmark's modest but growing market position in the U.S. personal installment lending industry, solid risk-adjusted yields, and manageable credit performance to date. The ratings are constrained by Lendmark's monoline business model, elevated leverage, higher risk appetite and subprime exposure, and its partial private equity ownership, which increases the possibility of shareholder-friendly actions and adds long-term strategic uncertainty.
+Lendmark has continued to grow its franchise primarily through de novo branch openings, increasing the number of branches by 65 in 2022 and adding an additional 12 in the first quarter of 2023, bringing the total to 513 branches across 21 states as of March 31, 2023. The company has also maintained its direct auto purchase offering and indirect sales finance at 21% and 6% of receivables, respectively, consistent with 1Q22, but up meaningfully from 2017. Fitch views the enhanced product diversification and presence of secured auto collateral favorably as they reduce the overall risk profile of the portfolio.
+Asset performance has weakened in recent quarters, with 30+ day delinquencies rising rapidly in the second half of 2022 and exceeding pre-COVID levels, at 6.9% at YE 2022. This compares to 4.3% at YE 2021 and an average of 6.0% from YE 2017-YE 2019. Delinquencies improved modestly in 1Q23, to 6.6%, and securitized collateral improved further in 2Q23, according to data from Intex. Net charge-offs rose to 9.9% in 1Q23 (annualized), compared to 6.3% one year earlier. While Fitch believes performance at the current level is manageable, unemployment remains near its lowest point in 50 years, and Lendmark's customer base, which is already challenged by high inflation, is likely to be particularly vulnerable to economic stresses.
+Profitability, as measured by pre-tax return on average assets (ROAA), was 1.5% on an annualized basis for 1Q23; down from 3.8% in 1Q22 and a four-year average of 2.6% from 2019-2022. This was driven by increased loss provisioning expense due to higher charge-offs and revised expectations for credit performance. Given the relatively high fixed costs of the branch-based model, further increases in provisioning expense or muted origination growth given the challenging credit environment could lead to operating losses in the near term.
+Lendmark's leverage (debt/tangible equity) is considered a primary rating constraint. Leverage was 15.6x as of end-1Q23, which Fitch views as high, given the risk profile of the portfolio. This metric corresponds to Fitch's 'b' category quantitative benchmark range of 7x-20x for balance sheet-heavy finance and leasing companies with a sector risk operating environment score in the 'bbb' category. Adoption of CECL in 1Q23 raised GAAP leverage significantly compared to YE 2022 (8.5x), although Fitch notes that capital to absorb credit losses is still present via the higher loss reserve. Still, leverage has also increased compared to a year earlier (7.7x at 1Q22) due weaker credit performance driving higher reserve requirements unrelated to CECL.
+Lendmark's funding profile is largely secured, which, despite being nonrecourse, Fitch views less favorably due to the encumbrance of assets and limited financial flexibility during periods of stress. The company's proportion of unsecured debt is 11%, driven by its sole senior unsecured issuance in 2021, which is within Fitch's 'bb' category quantitative benchmark range of 10% to 40%. Fitch would view further increases in funding diversification and unencumbered assets as incrementally positive, but does not expect the mix to improve in the short term given market conditions.
+Fitch views Lendmark's cash liquidity of $25 million at 1Q23 as sufficient to support its operations and near-term funding obligations, with the unsecured notes not maturing until 2026 and the outstanding ABS still in their three- to five-year revolving periods. Additionally, the company had approximately $287 million of unencumbered receivables at 1Q23, which could be borrowed against with undrawn warehouse capacity.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+--Sustained deterioration in credit performance above Lendmark's net charge-off target range of 7.5%-8.5%;
+--Inability to reduce leverage to 15x or below given the risk profile of the business;
+--Sustained decline in ROAA below 1%;
+--Inability to access term funding for a prolonged period of 12 months-24 months; and/or
+--The imposition of new and more onerous regulations that negatively impact Lendmark's ability to execute on its business model.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+--A sustained decline in leverage below 14x (unadjusted for CECL) and/or reduction in delinquencies below 6% could result in the Outlook being revised to Stable.
+Beyond that, positive rating momentum could develop from the following:
+--A sustained decline in leverage below 10x;
+--An increase in the proportion of unsecured funding to at least 20% of total debt;
+--Continued maintenance of charge-offs within management's target range through credit cycles; and/or
+--Further diversification of the business model either through product offering or geographical expansion.
+DEBT AND OTHER INSTRUMENT RATINGS: KEY RATING DRIVERS
+The senior unsecured debt rating is equalized with the Long-Term IDR, reflecting Fitch's expectation of average recovery prospects in a stress scenario.
+DEBT AND OTHER INSTRUMENT RATINGS: RATING SENSITIVITIES
+The unsecured debt rating is expected to move in tandem with the IDR, but a meaningful decline in unencumbered assets could result in the unsecured debt rating being notched down from the IDR.
+ADJUSTMENTS
+The Business Profile has been assigned below the implied score due to the following adjustment reason(s): Business model (negative), Market position (negative).
+The Asset Quality has been assigned below the implied score due to the following adjustment reason(s): Risk profile and business model (negative).
+The Earnings & Profitability has been assigned below the implied score due to the following adjustment reason(s): Portfolio risk (negative).
+The Funding, Liquidity & Coverage has been assigned below the implied score due to the following adjustment reason(s): Funding flexibility (negative).
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+LFS TopCo, LLC has an ESG Relevance Score of '4' for Customer Welfare - Fair Messaging, Privacy & Data Security due to the importance of fair collection practices and consumer interactions and the regulatory focus on them, which has a negative impact on the credit profile, and is relevant to the ratings in conjunctions with other factors.
+LFS TopCo, LLC has an ESG Relevance Score of '4' for Governance Structure due to due to the presence of private equity ownership, which has a negative impact on the credit profile, and is relevant to the ratings in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+LFS TopCo, LLC
+LT IDRB Affirmed
+
+
+B 
+senior unsecured
+LTB Affirmed
+RR4
+
+B 

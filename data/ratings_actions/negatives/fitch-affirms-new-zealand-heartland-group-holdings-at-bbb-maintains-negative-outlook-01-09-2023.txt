@@ -1,0 +1,104 @@
+Fitch Affirms New Zealand's Heartland Group Holdings at 'BBB'; Maintains Negative Outlook
+
+Fitch Ratings - Sydney - 01 Sep 2023: Fitch Ratings has affirmed the Long-Term Issuer Default Ratings (IDRs) of Heartland Group Holdings Limited (HGL) and its subsidiary, Heartland Bank Limited (HBL), at 'BBB'. Fitch has also affirmed the Long-Term IDR of HGL's subsidiary, Heartland Australia Group Pty Ltd (HAG), at 'BBB-'. The Outlook on HGL and HAG's Long-Term IDRs remains Negative, while the Outlook on HBL's Long-Term IDRs is Stable.
+KEY RATING DRIVERS
+Consolidated Group, Standalone Bank: HGL's Long-Term IDRs and Viability Rating (VR) are driven by the group VR of 'bbb', which is determined using consolidated HGL accounts. Meanwhile, HBL's VR is derived under a standalone assessment. We expect HBL to remain below 75% of group assets over the medium-term and do not consider it as having substantially the same failure risk as HGL. The Short-Term IDRs are at the lower of the two options available at a Long-Term IDR of 'BBB', as the funding and liquidity scores of 'bbb-' for the group and 'bbb' for HBL are not sufficiently high enough to support 'F2'.
+Greater Commercial Loan Exposure: The VRs for both the group and HBL are one notch below the implied VR of 'bbb+' because of higher exposure to commercial lending compared with other domestic peers. This could increase earnings and capitalisation volatility through the cycle. The negative adjustment on the VRs reflects the risk profile.
+Weaker Non-Bank Operations: The Negative Outlook on HGL and HAG's Long-Term IDRs reflects our view that the expansion of the group's Australian non-bank operations is likely to weaken its standalone strength. This is likely to be reflected through a deterioration in funding and capital metrics. We may revise the Outlook to Stable once the group completes its acquisition of Challenger Bank Limited, as an Australian banking licence could boost its funding profile. The Stable Outlook on HBL's Long-Term IDRs reflects its better funding profile than the group, as it is the only part of the group that can take deposits.
+Low Double Leverage: We expect HGL to maintain double leverage below 120% in ordinary operations, which underpins the equalisation of its VR with the group VR. The equalisation also reflects prudent liquidity management at the holding company.
+Economic Growth to Slow: We expect slower economic growth in New Zealand during 2023, including a mild recession, following a rapid rise in the overnight cash rate. Higher living costs are likely to pressure borrowers, although we anticipate that unemployment will remain resilient, which should ease the strain on households. We factor New Zealand's high household debt into our assessment of the operating environment, resulting in a factor score of 'a', which is below the 'aa' category score implied by Fitch's criteria.
+Risk Profile Above Peers: The niche markets targeted by HGL typically have a higher risk profile than residential mortgages, which are the focus of most New Zealand bank peers. However, controls appear adequate to address these risks, as reflected in loan pricing, resulting in a sector-leading net interest margin.
+Business Model Supports Earnings: HGL is a trans-Tasman financial services holding company, with operations that have supported strong and consistent earnings over the past decade. HBL is the group's New Zealand registered bank. The business profile scores of 'bbb' for both the group and HBL are above the implied 'bb' category to reflect the benefit to earnings from the business model.
+Weakening Asset Quality: We expect higher arrears and impaired loans into 2024 due to high interest rates and a slowing economy. Still, a shift toward lower-risk reverse mortgages from personal and small business loans in the last 18 months should mean the deterioration is manageable. We think there is a limited difference between the asset quality of the group and HBL and maintain a 'bbb+' factor score for both. The group score is below the implied 'a' category score to reflect the higher risk appetite and stronger growth of the group relative to smaller New Zealand banks.
+Strong Profitability: HGL's focus on niche markets supports the group's profitability, underpinning the 'a-' factor score assigned to both the group and HBL. We expect profitability to remain sound and stronger than peers, despite pressure on the net interest margin following a shift toward lower-margin reverse mortgages and an increase in funding costs. Expenses are also like to remain high amid ongoing investment and inflationary pressures, while we expect loan impairment charges to rise due to the slowdown in economic growth.
+Australian Growth Pressures Group Capitalisation: Continued growth in the Australian operations is likely to pressure our estimate of HGL's Fitch Core Capital ratio in the financial year ending June 2024 (FY24) and we have maintained our negative outlook on the group 'bbb+' factor score to reflect this. The outlook on HBL's 'bbb+' score remains stable, as we expect the bank to gradually lift its common equity Tier 1 ratio towards 14% before the final implementation of new regulatory capital rules in 2028.
+Wholesale Funded Australian Operations: We maintain a negative outlook on HGL's funding and liquidity score to reflect continued growth in the Australian operations, which are completely wholesale funded and result in a weaker loans/customer deposits ratio than at HBL. We could revise the outlook to stable if HGL obtains an Australian banking licence, as we would expect the ratio to improve once the group raises deposits to fund the Australian operations. HBL's funding and liquidity score remains at 'bbb' with a stable outlook to reflect the bank's stronger funding profile.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+HGL
+The group VR could be downgraded should the group substantially increase its risk profile, possibly in an effort to improve its market position, resulting in significant deterioration of its financial profile during an economic downturn. A combination of the following would be likely to result in a downgrade:
+four-year average stage 3 loans/gross loans increasing above 4%;
+four-year average of the operating profit/risk-weighted asset ratio falling below 1%;
+our Fitch core capital ratio estimate ratio declining below 12.5% without a clear path to return to above this level; or
+four-year average of the group's loan/deposits ratio increasing towards 180%.
+The last two factors by themselves could drive a downgrade, with the funding and liquidity assessment likely to act as a negative adjustment to the implied VR.
+A downgrade of the group VR would result in a downgrade of HGL's Long-Term IDRs. The Long-Term IDRs may also be downgraded if HGL were to maintain common equity double leverage at above 120%, although we do not expect this to occur.
+HGL's Short-Term IDRs would only be downgraded if the Long-Term IDRs were downgraded by at least two notches.
+HBL
+HBL's VR and Long-Term IDRs could be downgraded if a deterioration in the economic environment or an increase in risk profile results in the following:
+four-year average stage 3 loans/gross loans increasing above 4%;
+four-year average of the operating profit/risk-weighted asset ratio falling below 1%; and
+the common equity Tier 1 ratio declining below 10.5% without a clear path to return to above this level (FY23: 13.5%).
+The Short-Term IDRs would only be downgraded if the Long-Term IDRs were downgraded by at least two notches.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+HGL
+An upgrade of the group VR, and therefore HGL's Long-Term IDRs, is unlikely in the near-term unless there is an upgrade in HBL's standalone VR. Obtaining a banking licence in Australia and improving the funding profile of the group could support a revision of the Outlook on the Long-Term IDRs to Stable.
+The Short-Term IDRs would be upgraded to 'F2' if we upgrade the Long-Term IDRs or revise our funding and liquidity factor score to 'bbb+', from 'bbb'. Neither appear likely in the near term.
+HBL
+An upgrade in HBL's VR and Long-Term IDRs would require a sustained improvement in the bank's risk profile without a significant weakening in any other factors. This appears unlikely in the short term.
+OTHER DEBT AND ISSUER RATINGS: KEY RATING DRIVERS
+HBL
+HBL's senior unsecured debt ratings are aligned with its IDRs, in line with Fitch Bank Rating Criteria. Its subordinated debt is rated two notches below the anchor rating - the VR. The rating is notched twice from the anchor rating for loss severity and zero notches for non-performance risk, with the latter already adequately reflected in the VR. None of the reasons for alternative notching, as described in the criteria, are present.
+HAG
+HAG's guaranteed notes are rated one notch below parent HGL's Long-Term IDR, in line with Fitch's Non-Bank Financial Institutions Rating Criteria.
+Government Support Rating
+The Government Support Ratings (GSR) of HGL and HBL reflect our view that there is no reasonable assumption that support from the New Zealand sovereign would be forthcoming if required. We believe that the existence of an open bank resolution scheme lowers the propensity of the sovereign to support its banks. The scheme allows for the imposition of losses on depositors and senior debt holders to recapitalise a failed institution.
+OTHER DEBT AND ISSUER RATINGS: RATING SENSITIVITIES
+HBL's senior unsecured debt ratings will move in line with its IDRs, while the subordinated debt ratings will move in line with its VR or will be upgraded if any of the reasons for narrower than standard notching, as outlined in the criteria, apply.
+HAG's guaranteed note ratings will move in line with the IDRs of the guarantor, HGL. Ratings may also be upgraded if HGL builds up sufficient bank holding company senior and group junior debt buffers that would support the equalisation of its senior unsecured debt rating with its IDR. However, this appears unlikely in the short term.
+The GSRs are already at the lowest level on Fitch's rating scale and cannot be downgraded. An increased propensity of state support would be required for an upgrade of the GSRs, but this appears unlikely given the resolution framework in place.
+SUBSIDIARIES & AFFILIATES: KEY RATING DRIVERS
+Strategically Important Subsidiary: HAG's IDRs and Shareholder Support Rating (SSR) are driven by our assessment that HAG is a strategically important subsidiary of HGL, HAG's 100% owner. HGL has identified Australia as a growth market for the group, with aspirations to obtain a banking licence in the country. HAG plays an important role in this growth. HAG's Long-Term IDR is notched down once from the parent's VR to reflect our view that, while HAG is important to the group, it is not currently a key and integral part of the business.
+SUBSIDIARIES AND AFFILIATES: RATING SENSITIVITIES
+HAG's IDRs and SSR will move if HGL's IDRs move. HAG's SSR and IDRs may also be upgraded if it becomes a key and integral part of HGL. Conversely, a reduction in importance to the group could result in a downgrade of the SSR and IDRs.
+An upgrade of HAG's IDRs and SSR would follow an upgrade of HGL's IDRs so long as HGL's propensity to support remains unchanged. However, this appears unlikely in the near term.
+VR ADJUSTMENTS
+HGL
+The VR of 'bbb' has been assigned below the 'bbb+' implied score for the following adjustment reason: risk profile (negative).
+The operating environment score of 'a' has been assigned below the 'aa' category implied score for the following adjustment reason: level and growth of credit (negative).
+The business profile score of 'bbb' has been assigned above the 'bb' category implied score for the following adjustment reason: business model (positive).
+The asset quality score of 'bbb+' has been assigned below the 'a' category implied score for the following adjustment reason: underwriting standards and growth (negative).
+The funding and liquidity score of 'bbb-' has been assigned above the 'bb' category implied score for the following adjustment reason: liquidity coverage (positive).
+HBL
+The VR of 'bbb' has been assigned below the 'bbb+' implied score for the following adjustment reason: risk profile (negative).
+The operating environment score of 'a' has been assigned below the 'aa' category implied score for the following adjustment reason: level and growth of credit (negative).
+The business profile score of 'bbb' has been assigned above the 'bb' category implied score for the following adjustment reason: business model (positive).
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+SUMMARY OF FINANCIAL ADJUSTMENTS
+HGL, as a non-operating holding company, is not required to calculate risk-weighted assets. We have estimated these based on publicly available information to derive the earnings and capitalisation core metrics.
+Sources of Information
+The principal sources of information used in the analysis are described in the applicable criteria.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+HAG's IDR is linked to the IDR of HGL. Senior debt ratings of the guaranteed notes issued by HAG are linked to the IDR of HGL.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/topics/esg/products#esg-relevance-scores
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Heartland Group Holdings Limited
+LT IDRBBB Affirmed
+BBB 
+ST IDRF3 Affirmed
+F3 
+LC LT IDRBBB Affirmed
+BBB 
+LC ST IDRF3 Affirmed
+F3 
+Viabilitybbb Affirmed
+bbb 
+Government Supportns Affirmed
+ns 
+Heartland Australia Group Pty Ltd
+LT IDRBBB- Affirmed
+BBB- 
+ST IDRF3 Affirmed
+F3 
+Shareholder Supportbbb- Affirmed
+bbb- 
+guaranteed
+LTBBB- Affirmed
+BBB- 

@@ -1,0 +1,64 @@
+Fitch Upgrades Howmet Aerospace to 'BBB'; Outlook Stable
+
+Fitch Ratings - New York - 23 Aug 2023: Fitch Ratings has upgraded Howmet Aerospace's (HWM) Long-Term Issuer Default Rating (IDR) to 'BBB' from 'BBB-' and Short-Term IDR to 'F2' from 'F3'. Fitch has also upgraded HWM's unsecured notes and revolver to 'BBB' from 'BBB-', short-term CP ratings to 'F2' from 'F3', and preferred shares to 'BB+' from 'BB'. The Rating Outlook is Stable.
+HWM's upgrade is driven by its improving EBITDA leverage, which Fitch forecasts will decline below 3.0x by YE 2023 and improve toward the mid-2x range in 2024-2025 following nearly $400 million of planned and executed debt repayment together with growing revenue and EBITDA. Fitch forecasts HWM will generate post-dividend FCF between $500 million and $800 million annually over the next few years, with FCF margins approaching double digits.
+HWM's ratings are further supported by the company's leading and defensible market position and differentiated technology portfolio, which is performance-linked and largely spec'd into original equipment manufacturer (OEM) platforms. The company's ample liquidity position, FCF-linked capital allocation plan, and credit-conscious financial policy (1.5x-2x net leverage target) were also key considerations. Fitch views HWM as having minimal pricing and margin risk, as increased commodity costs and inflation would generally be passed on to customers.
+KEY RATING DRIVERS
+Double-Digit EBITDA, FCF Margins: HWM's profitability is strong for the 'BBB-' rating with EBITDA margins in the low-20% range and FCF margins of nearly 10%. Fitch views the company's cash flow profile as more commensurate with Aerospace & Defense issuers around the high-'BBB' or low-'A' rating level. Fitch forecasts EBITDA margins will remain relatively stable over the next few years, but recognizes annual FCF could fluctuate in the high-single digit to low-double digit range depending on the pace of internal capital investment and working capital fluctuations.
+Leverage Improving Towards Mid-2x: Fitch forecasts HWM's EBITDA leverage (gross debt/EBITDA) will decline below 3.0x, the company's previous positive sensitivity, by YE 2023 following nearly $400 million of debt reduction during 2023. Price and volume increases have also contributed to leverage improvement through double digit revenue and EBITDA growth, which Fitch anticipates will continue through at least YE 2024 or early 2025. Fitch projects HWM's leverage will remain strong in the mid-2x range over the next several years, more in line with peers in the mid-'BBB' category.
+Risks to deleveraging include deviation from stated financial policy to achieve and maintain net leverage between 1.5x and 2.0x. This could result from, albeit considered a lower probability event, either unexpected large, debt-funded acquisitions or shareholder friendly actions. Fitch also considered overall supply chain management and aircraft demand cyclicality in assessing HWM's credit profile and believe potential production disruption or delays in future rate increases could heighten credit risk, but views the company's capital allocation and financial policies as mitigants.
+Strong Financial Flexibility: HWM's strong financial flexibility is a heavily weighted factor driving the company's current 'BBB' rating. The company maintains a comfortable liquidity position, which typically comprises greater than $500 million in cash and full revolver availability of $1 billion. The company's liquidity should be adequate to sustain operations and internal investment, even in a distressed scenario, as demonstrated during the pandemic. Fitch expects HWM will continue to maintain a moderately higher cash balance in the near term, likely until aircraft production rates increase towards a more run-rate level.
+HWM's required cash outflows are manageable over the rating horizon. Capex spending is moderate; working capital fluctuations will likely be minimal; and pension contributions are manageable at around 5% of FFO. The company has a moderate dividend which Fitch expects will increase incrementally over the rating horizon. Over the long term, excess cash will likely be deployed in the form of share repurchases and bolt-on acquisitions, which Fitch anticipates would be less than $500 million in size. Fitch believes the company would avoid share repurchases and could pay down debt under a stress scenario in order to maintain an investment grade credit profile.
+Revenues Remain Commercial Aerospace-Weighted: HWM currently generates around half of its revenue from the Commercial Aerospace industry. As a result, the company could be affected by a fundamental market shift, disruption to aircraft demand or build rates, or a prolonged cyclical aviation downturn. However, Fitch believes HWM is somewhat insulated from the impact of a market shift to a particular aircraft or engine due to the variety of the platforms it services.
+Aircraft Backlogs, Production Support Growth: Fitch projects top aircraft manufacturers Airbus SE (A-/Stable) and The Boeing Company (BBB-/Stable) will steadily raise aircraft production rates over the next two to three years, which supports Fitch's view that HWM should grow at around a double-digit rate during the same period. HWM has significant content for both manufacturers, as well as the major engine OEMs, and approximately 70% of total aerospace sales under long-term agreements. Along with the variety of the company's portfolios this also provides some long-term revenue visibility, particularly given Airbus and Boeing's estimated combined commercial aircraft backlog of greater than $700 billion.
+Highly Engineered, Performance-Linked Product Portfolio: HWM's market position is strong and defensible due to its highly engineered, performance-linked products and strong technology. The company ranks either number one or two in each of its major products, and its largely spec'd in technology is vital to the aerospace and defense industry. It maintains a meaningful percentage of overall global market share for its commercial engine content, such as airfoils and seamless rolled rings, and has a high market share on the "hot-section" of the engine, for which there are few competitors. Airfoils make up a large portion of the company's spares sales.
+High Barriers to Entry: There are significant barriers to entry for a large majority of HWM's products, which enhances its technological advantage and defensibility. Obstacles for new entrants include significant capital investment to develop new technology, industry and product certifications, substantial time to implement manufacturing process and HWM's longstanding customer relationships. Although individual agreements are constantly being renegotiated, HWM has demonstrated an ability to maintain these agreements while also periodically passing through costs by raising prices.
+DERIVATION SUMMARY
+HWM generates margins in line with, or stronger than, similarly rated peers, including BAE Systems (BBB+/Stable), Rolls-Royce (BB-/Positive), Huntington Ingalls Industries (BBB-/Positive), MTU Aero Engines AG (BBB/Stable) and L3Harris Technologies (BBB+/Negative). Fitch believes Howmet provides a similarly vital product to the various end-markets that it services and maintains a strong technology portfolio. The company is slightly smaller in scale than most of the listed peers. MTU and Rolls-Royce experienced similarly negative revenue effects from end-market cyclicality during the coronavirus pandemic due to their majority aerospace exposures, while BAE, Huntington Ingalls and L3Harris were each more insulated with a greater mix of defense.
+Overall, Fitch views HWM as having relatively lower margin variability than peers due to the higher proportion of performance-linked products with pass-through features. These enhance the through-the-cycle cash flow risk profile, though its commercial aircraft-weight did make it susceptible to recent events.
+HWM's 'F2' short-term rating was derived by its financial structure, which is consistent with 'BBB' category issuers. HWM also has substantial financial flexibility, which would not require external funding beyond committed facilities for at least 12 months in a stress scenario.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer:
+--Demand for new aircraft remains steady over the next three to five years as OEMs work through current and growing backlogs;
+--Production volume projected to increase in the high-single digit to low-double digit range annually through 2025;
+--Price increases and pass-through costs mostly insulate HWM from margin pressures, resulting in EBITDA margins remaining in the low-20% range throughout the forecast;
+--Company primarily distributes excess cash to shareholders in the form of buybacks and a modest dividend; M&A is possible, but would likely be bolt-on in nature and funded predominantly with cash on hand;
+--HWM refinances the majority of maturities beyond the executed and planned $400 million in 2023 repayments.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--EBITDA leverage (total debt with equity credit-to-EBITDA) sustained below 2.5x, in conjunction with commitment to a financial policy and capital allocation policy consistent with a high-'BBB' rating level;
+--Long-term backlog aligns with expectation of long-term revenue visibility.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--EBITDA leverage (total debt with equity credit-to-EBITDA) sustained above 3.0x;
+--Sustained FCF margins below 5%;
+--Significant delays or disruption to global aerospace production, potentially as a result of the supply chain pressures among other considerations.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Fitch expects the company's liquidity to be adequate over the rating horizon. Fitch anticipates HWM will maintain liquidity of $1.5 billion on average over the next several years, comprised of at least $500 million of cash in addition to its $1.0 billion revolver maturing in 2028. Fitch expects HWM will maintain a higher cash balance in the near term, likely until aircraft production rates begin to increase and stabilize.
+Over the long term, excess cash will likely be deployed in the form of share repurchases, bolt-on acquisitions and a modest dividend. Increased pension contribution requirements are possible but unlikely in the near term.
+The company's capital structure is comprised of senior unsecured notes and revolving credit facility. HWM also maintains an Accounts Receivable factoring program primarily related to the company's aerospace business and has approximately $250 million outstanding, which Fitch considers to be debt. The company also has approximately $55 million of preferred shares outstanding, which Fitch applies 50% equity credit.
+ISSUER PROFILE
+Howmet Aerospace is a global provider of engineering products mainly catering to the Aerospace & Defense and commercial transportation end markets.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Howmet Aerospace Inc.
+LT IDRBBB Upgrade
+BBB- 
+ST IDRF2 Upgrade
+F3 
+senior unsecured
+LTBBB Upgrade
+BBB- 
+preferred
+LTBB+ Upgrade
+BB 
+senior unsecured
+STF2 Upgrade
+F3 

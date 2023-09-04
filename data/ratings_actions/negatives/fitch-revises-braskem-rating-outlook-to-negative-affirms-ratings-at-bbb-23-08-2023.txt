@@ -1,0 +1,82 @@
+Fitch Revises Braskem's Rating Outlook to Negative; Affirms Ratings at 'BBB-'
+
+Fitch Ratings - New York - 23 Aug 2023: Fitch Ratings has affirmed Braskem S.A.'s Long-Term Foreign and Local Currency Issuer Default Ratings (IDRs) at 'BBB-' and National Scale Rating at 'AAA(bra)'. The Rating Outlooks for the IDRs have been revised to Negative from Stable, while the Outlook for the National Scale Rating remains Stable.
+Braskem's ratings reflect the company's market position as one of the largest companies in the cyclical and volatile petrochemical industry. Geographical and feedstock diversification play an important role in sustaining Braskem's business profile. Due to macroeconomic factors such as high inflation and interest rates coupled with slower expected growth and consumption, the sector faces increasing challenges to preserve competitiveness.
+The Negative Outlook incorporates Braskem S.A.'s elevated vulnerability to prolonged downturn in the petrochemical sector, which could result in a material increase in net debt due to negative FCF after disbursements related to the geological event in Alagoas. Despite the pressure on capital structure, financial flexibility remains adequate with a well-distributed maturity profile and a substantial cash position to support the business during the downturn. Interest coverage has tightened and will be a point to watch in the short term.
+KEY RATING DRIVERS
+Sector Recovery Timeline Extended: Fitch expects pressure on petrochemical spreads to continue into 2024 following challenging market conditions in 1H23. The pent-up supply coming online, the excess production in Asia along with lower freight costs and concerns over demand due to a fragile global economy are more pronounced than anticipated and are now expected to spill over well into 2024.
+Fitch projects Polyethylene (PE)-naphtha spreads will be particularly tight at USD300/ton in 2023 and USD270/ton in 2024, compared with USD514/ton in 2022 and USD1,073/ton in 2021. Fitch estimates that a USD100/ton increase in PE price in 2023 would increase Braskem's consolidated EBITDA by USD260 million, or roughly 32%, highlighting Braskem's exposure to price changes as a price taker.
+High Near-Term Leverage: Fitch estimates net leverage excluding Braskem Idesa will be close to 8.0x in 2023, declining to 3.5x in 2025, as resin prices improve and feedstock costs moderate. Fitch expects Braskem to remain committed to preserving its liquidity by maintaining its conservative dividend policy, particularly while leverage is above 2.5x. The company has the ability to reduce capex and fixed costs, optimize working capital, and monetize tax credits if market conditions remain worse than what is anticipated in 2H23.
+Business Diversification: Braskem's ratings are underpinned by its strong geographic and feedstock diversification, and its leading market positions in polyethylene (PE) and polypropylene (PP). The company's operations in the U.S. and Germany represented 40% of its consolidated EBITDA in 2022 and is expected to average nearly half over the medium term. Braskem's feedstock is mainly balanced between propylene (38%), naphtha (36%), and ethane (21%) including its joint venture in Mexico with Braskem Idesa SAPI (B+/Rating Watch Negative).
+The company's strategy of diversifying its feedstock matrix has reduced its exposure to one feedstock while decreasing its production cost and improving its long-term competitiveness.
+Near-Term FCF Negative: Fitch forecasts EBITDA to be USD700 million, USD650 million and USD1.5 billion in the next three years. Capex is estimated at USD725 million, USD450 million and USD650, respectively, in the same period, with no dividends in the next two years. Consequently, Fitch expects FCF to be negative in 2023 and 2024, at BRL-4.5 billion (USD-860 million) and BRL-3.5 billion (USD-685 million), respectively, mostly due to disbursements related to the Alagoas settlements. FCF will turn slightly positive in 2025 at BRL1 billion (USD215 million) as resin prices recover and the disbursements reach an end.
+Alagoas Liability: As of June 30, 2023, Braskem had a provision of BRL6.5 billion (USD1.3 billion) on its balance sheet related to the geological event in the state of Alagoas, BRL3.8 billion (USD750 million) of this was considered current liabilities and BRL2.7 billion (USD525 million) of which was non-current. This represents a decrease from BRL9.16 billion (USD1.7 billion) at the beginning of 2021 following disbursements of BRL2.9 billion (USD583 million) in 2021 and BRL2.7 billion (USD531 million) in 2022. Fitch expects the remaining liability payments to be split roughly evenly between 2023 and 2025 and the base case does not incorporate any additional payments or claims from this liability.
+Contingencies related to the geological event in Alagoas and its associated cash outflows remain sizable but manageable, and Braskem has some flexibility to reduce capex and optimize working capital should difficult conditions persist. Material deviations from these amounts could be a rating concern.
+Potential Change of Control: A change of control could affect Braskem's rating depending on the acquirer's credit profile, strength of linkage with Braskem and the likely financial policy following an acquisition. Non-binding offers for Novonor's stake in Braskem have been received from Apollo/ADNOC, Unipar (AA+(bra)) and J&F Investimentos S.A. If a ratings downgrade results from a change of control, it may require Braskem to offer to repurchase its debt.
+Fitch believes Petroleo Brasileiro S.A. (Petrobras; BB/Stable) to be exempt from the change of control clause should it gain control. Braskem is owned by Novonor Group (formerly Odebrecht), which holds 38.3% of total capital and 50.1% of voting capital, and Petrobras, with 36.1% of total capital and 47.0% of voting capital.
+Rating Above Country Ceiling: Braskem's ratings are not constrained by Brazil's 'BB+' Country Ceiling in accordance with Fitch's Non-Financial Corporates Exceeding the Country Ceiling Rating Criteria. Braskem has strong operating cash flow generation from assets abroad in the U.S. and Germany. Other considerations include cash generated abroad by exports, cash held abroad and a track record of having undrawn standby credit lines.
+DERIVATION SUMMARY
+Braskem's leading position in the Americas in its core products, PE and PP, is a key credit strength, mitigating the commodity nature of its products, which are characterized by volatile raw material prices and price-driven competition. Braskem has medium scale compared with global chemical peers, such as Dow Chemical Company (BBB+/Stable), but it is well positioned relative to Latin American peers, such as Orbia Advance Corporation, S.A.B de C.V. (BBB/Stable) and Alpek, S.A.B. de C.V. (BBB-/Positive), in terms of scale, profitability and geographic diversification.
+Around 43% of Braskem's EBITDA is generated outside Brazil, moving to around 40% in the medium term. Its thermoplastic resin operations in Brazil are integrated, which reduces cash flow volatility. The company's strong 60%-65% market share in Brazil is also a competitive advantage, as it allows Braskem to better withstand higher raw material prices and pass-through strategies.
+Braskem's leverage, excluding Braskem Idesa, is expected to be around 8.0x in 2023. This is higher than its petrochemical peers, such as Orbia's at 2.3x, Alpek's at 1.4x and Dow's at 1.2x. All three Latin American players maintain strong cash positions, long-term debt-amortization profiles, and strong access to local and international debt markets.
+KEY ASSUMPTIONS
+--Brazil PE realized revenue/ton of USD1,350, USD1,230 and USD1,545 during 2023-2025;
+--Brazil PP realized revenue/ton of USD1,050, USD1,070 and USD1,040 during 2023-2025;
+--Brazil vinyls realized revenue/ton of USD1,510, USD1,450 and USD1,420 during 2023-2025;
+--Brazil ethylene/propylene realized revenue/ton of USD990, USD1,160 and USD1,600 during 2023-2025;
+--U.S. and Europe PP realized revenue/ton of USD1,805, USD1,840 and USD1,780 during 2023-2025;
+--Mexico PE realized revenue/ton of USD1,100, USD1,000 and USD1,250 during 2023-2025;
+--PE-Ethane reference spreads of USD750/ton in 2023, USD700/ton in 2024 and USD 850 in 2025;
+--PE-Naphtha reference spreads of USD300/ton in 2023, USD270/ton in 2024 and USD390/ton in 2025;
+--PP-Propylene reference spreads of USD350/ton in 2023, USD350/ton in 2024 and USD415/ton in 2025;
+--Capex according to management's guidance;
+--No dividends to shareholders in 2023 and 2024.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+--Net debt/EBITDA below 1.5x on average through the cycle, excluding Braskem Idesa;
+--Sustained consolidated net debt of less than USD5 billion.
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+--Net debt/EBITDA above 2.5x, on average through the cycle, excluding Braskem Idesa;
+--Sustained negative FCF at the bottom of the cycle that results in incurring additional debt;
+--Sustained EBITDA interest coverage below 1.0x;
+--Material additional contingent claims for the Alagoas incident;
+--Material financial support to Braskem Idesa.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Adequate Liquidity: Braskem adopts a conservative and proactive financial strategy to limit the risks associated with exposure to the cyclical and capital-intensive nature of its business. The company has a strong cash position, with USD2.9 billion of readily available cash and marketable securities as of June 30, 2023, excluding Braskem Idesa (USD307 million). Its gross debt excluding Braskem Idesa stands at USD7.7 billion, USD395 million of which was short-term debt as of last quarter.
+Braskem's strong cash position and its extended debt-amortization profile lead to manageable refinancing risks in the medium term. Between 2023 and 2024, the company faces debt amortization on average of BRL1.2 billion per year. As of June 30, 2023, about 90% of the company's total debt was denominated in U.S. dollars. Braskem has a track record of accessing both local and international debt markets. The company's financial flexibility is enhanced by a USD1 billion unused stand-by credit facility due in 2026.
+ISSUER PROFILE
+Braskem S.A. produces and sells chemicals, petrochemicals, fuels, steam, water, compressed air and industrial gases. The company has plants in Brazil, the U.S., Germany and Mexico that produce thermoplastic resins, such as polyethylene, polypropylene and polyvinyl chloride.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+Braskem has an ESG Relevance Score of '4' for Waste & Hazardous Materials Management; Ecological Impacts due to the geological event in Alagoas that affected its salt mining operations, which has a negative impact on the credit profile, and is relevant to the ratings in conjunction with other factors.
+Braskem S.A. has an ESG Relevance Score of '4' for Governance Structure due to a past history of corruption scandals and shareholders' financial stress, which has a negative impact on the credit profile, and is relevant to the ratings in conjunction with other factors.
+.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Braskem Netherlands Finance B.V.
+   senior unsecured
+LTBBB- Affirmed
+BBB- 
+subordinated
+LTBB Affirmed
+BB 
+Braskem America Finance Company
+   senior unsecured
+LTBBB- Affirmed
+BBB- 
+Braskem S.A.
+LT IDRBBB- Affirmed
+BBB- 
+LC LT IDRBBB- Affirmed
+BBB- 
+Natl LTAAA(bra) Affirmed
+AAA(bra) 
+senior unsecured
+Natl LTAAA(bra) Affirmed
+AAA(bra) 

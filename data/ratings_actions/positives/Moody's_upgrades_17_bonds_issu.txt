@@ -1,0 +1,38 @@
+Moody's upgrades 17 bonds issued by J.P. Morgan Mortgage Trust
+New York, August 29, 2023 -- Moody's Investors Service ("Moody's") has upgraded the ratings of 17 bonds from two US residential mortgage-backed transactions (RMBS), backed by prime jumbo and agency eligible mortgage loans.
+Please click on this link https://www.moodys.com/viewresearchdoc.aspx?docid=PBS_ARFTL479890 for the List of Affected Credit Ratings. This list is an integral part of this Press Release and identifies each affected issuer. This link also contains the associated underlying collateral losses.
+Complete rating actions are as follows:
+Issuer: J.P. Morgan Mortgage Trust 2021-7
+Cl. B-1, Upgraded to Aa2 (sf); previously on May 27, 2021 Definitive Rating Assigned Aa3 (sf)
+Cl. B-1-A, Upgraded to Aa2 (sf); previously on May 27, 2021 Definitive Rating Assigned Aa3 (sf)
+Cl. B-1-X*, Upgraded to Aa2 (sf); previously on May 27, 2021 Definitive Rating Assigned Aa3 (sf)
+Cl. B-2, Upgraded to A2 (sf); previously on May 27, 2021 Definitive Rating Assigned A3 (sf)
+Cl. B-2-A, Upgraded to A2 (sf); previously on May 27, 2021 Definitive Rating Assigned A3 (sf)
+Cl. B-2-X*, Upgraded to A2 (sf); previously on May 27, 2021 Definitive Rating Assigned A3 (sf)
+Cl. B-3, Upgraded to Baa2 (sf); previously on May 27, 2021 Definitive Rating Assigned Baa3 (sf)
+Issuer: J.P. Morgan Mortgage Trust 2021-8
+Cl. A-X-4*, Upgraded to Aaa (sf); previously on Jun 30, 2021 Definitive Rating Assigned Aa1 (sf)
+Cl. A-14, Upgraded to Aaa (sf); previously on Jun 30, 2021 Definitive Rating Assigned Aa1 (sf)
+Cl. A-15, Upgraded to Aaa (sf); previously on Jun 30, 2021 Definitive Rating Assigned Aa1 (sf)
+Cl. B-1, Upgraded to Aa2 (sf); previously on Jun 30, 2021 Definitive Rating Assigned Aa3 (sf)
+Cl. B-1-A, Upgraded to Aa2 (sf); previously on Jun 30, 2021 Definitive Rating Assigned Aa3 (sf)
+Cl. B-1-X*, Upgraded to Aa2 (sf); previously on Jun 30, 2021 Definitive Rating Assigned Aa3 (sf)
+Cl. B-2, Upgraded to A2 (sf); previously on Jun 30, 2021 Definitive Rating Assigned A3 (sf)
+Cl. B-2-A, Upgraded to A2 (sf); previously on Jun 30, 2021 Definitive Rating Assigned A3 (sf)
+Cl. B-2-X*, Upgraded to A2 (sf); previously on Jun 30, 2021 Definitive Rating Assigned A3 (sf)
+Cl. B-3, Upgraded to Baa2 (sf); previously on Jun 30, 2021 Definitive Rating Assigned Baa3 (sf)
+*Reflects Interest Only Classes
+RATINGS RATIONALE
+Today's rating upgrades reflect the increased levels of credit enhancement available to the bonds, the recent performance, and Moody's updated loss expectations on the underlying pool.
+In our analysis we considered the additional risk of default on modified loans. Generally, we apply a 7x multiple to the Probability of Default (PD) for private label modified mortgage loans and an 8x multiple to the PD for agency-eligible modified mortgage loans. However, we may apply a lower multiple to the PD for loans that were granted short-term payment relief as long as there were no other changes to the loan terms, such as a reduced interest rate or an extended loan term, which can be used to lower the monthly payment on the loan. For loans granted short-term payment relief, servicers will generally defer the missed payments, which could be added as a non-interest-bearing balloon payment due at the end of the loan term. Alternatively, servicers could extend the maturity on the loan to match the number of missed payments.
+Our updated loss expectations on the pools incorporate, amongst other factors, our assessment of the representations and warranties frameworks of the transactions, the due diligence findings of the third-party reviews received at the time of issuance, and the strength of the transaction's originators and servicer.
+Principal Methodologies
+The principal methodology used in rating all classes except interest-only classes was "Moody's Approach to Rating US RMBS Using the MILAN Framework" published in August 2023 and available at https://ratings.moodys.com/rmc-documents/401564. The methodologies used in rating interest-only classes were "Moody's Approach to Rating US RMBS Using the MILAN Framework" published in August 2023 and available at https://ratings.moodys.com/rmc-documents/401564 and "Moody's Approach to Rating Structured Finance Interest-Only (IO) Securities" published in February 2019 and available at https://ratings.moodys.com/rmc-documents/59126. Please see the list of ratings at the top of this announcement to identify which classes are interest-only (indicated by the *). Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of these methodologies.
+In addition, Moody's publishes a weekly summary of structured finance credit ratings and methodologies, available to all registered users of our website, www.moodys.com/SFQuickCheck.
+Factors that would lead to an upgrade or downgrade of the ratings:
+Up
+Levels of credit protection that are higher than necessary to protect investors against current expectations of loss could drive the ratings of the subordinate bonds up. Losses could decline from Moody's original expectations as a result of a lower number of obligor defaults or appreciation in the value of the mortgaged property securing an obligor's promise of payment. Transaction performance also depends greatly on the US macro economy and housing market.
+Down
+Levels of credit protection that are insufficient to protect investors against current expectations of loss could drive the ratings down. Losses could rise above Moody's expectations as a result of a higher number of obligor defaults or deterioration in the value of the mortgaged property securing an obligor's promise of payment. Transaction performance also depends greatly on the US macro economy and housing market. Other reasons for worse-than-expected performance include poor servicing, error on the part of transaction parties, inadequate transaction governance and fraud.
+An IO bond may be upgraded or downgraded, within the constraints and provisions of the IO methodology, based on lower or higher realized and expected loss due to an overall improvement or decline in the credit quality of the reference bonds and/or pools.
+Finally, performance of RMBS continues to remain highly dependent on servicer procedures. Any change resulting from servicing transfers or other policy or regulatory change can impact the performance of these transactions. In addition, improvements in reporting formats and data availability across deals and trustees may provide better insight into certain performance metrics such as the level of collateral modifications.

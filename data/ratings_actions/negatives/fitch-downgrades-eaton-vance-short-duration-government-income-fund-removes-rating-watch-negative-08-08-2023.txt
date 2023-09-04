@@ -1,0 +1,38 @@
+Fitch Downgrades Eaton Vance Short Duration Government Income Fund; Removes Rating Watch Negative
+
+Fitch Ratings - New York - 08 Aug 2023: Fitch Ratings has downgraded the International Fund Credit Quality Rating (FCQR) of Eaton Vance Short Duration Government Income Fund (the fund) to 'AAf' from 'AAAf'. Fitch has also affirmed the fund's Fund Market Risk Sensitivity Rating (MRSR) at 'S1'. The FCQR has been removed from Rating Watch Negative (RWN).
+The rating action is driven by Fitch's downgrade of the United States' Long-Term Foreign Currency Issuer Default Rating (IDR) to 'AA+' from 'AAA' on Aug. 1, 2023. The Rating Outlook is Stable. For more information on the sovereign rating action, refer to Fitch's press release, "Fitch Downgrades United States' Long-Term Ratings to 'AA+' from 'AAA'; Outlook Stable'' dated Aug. 1, 2023.
+KEY RATING DRIVERS
+The downgrade is primarily driven by the fund's exposure to long-dated securities tied to the U.S. government and its instruments. These securities were downgraded to 'AA+' by Fitch following a similar action on the U.S. sovereign rating on Aug. 1, 2023. The fund is indirectly linked to the U.S. government's rating because the fund's investment strategy calls for the fund to invest at least 90% of its net assets (plus any borrowings for investment purposes) in any securities issued, backed or otherwise guaranteed by the U.S. Government or its agencies or instruments.
+Factoring in the U.S. government downgrade, as of June 30, 2023, approximately 61% of the fund's assets under management (AUM) consisted of exposures rated in the 'AA' category, with greater than three years until maturity. The credit risk factor associated 'AA' category exposures with residual maturities greater than three years drove the fund's increase in weighted average rating factor (WARF). Previously, U.S. government and agency securities were mapped to the lower 'AAA' credit risk factor.
+Portfolio Credit Quality
+Per Fitch's Bond Fund Rating Criteria, the fund's WARF is the primary driver of the FCQR. A fund's WARF is a function of the credit ratings of the securities held in the fund's portfolio and their remaining term to maturity, weighted by market value. The fund's WARF of 0.64 as of end-June 2023 aligns with a WARF-implied FCQR of 'AAf'. There have been no changes to the fund's investment strategy since.
+MARKET RISK SENSITIVITY
+The fund's MRSR is primarily based on the portfolio's market risk factor (MRF). A portfolio's MRF is calculated by combining the portfolio interest rate duration and risk-adjusted spread duration of the securities in the portfolio, and adjusting for the effect of any leverage. The higher the portfolio's market risk factor, the higher the sensitivity to interest rate, spread and other market risk variables.
+Historically, the fund has used U.S. treasury futures to hedge interest rate risk. As of June 2023, approximately 71% of the portfolio's market value was hedged, shortening the fund's duration.
+As of end-June 2023, the MRF of the fund's portfolio was 1. 76, which aligns with a MRSR of 'S1' and indicates moderate sensitivity to market risk.
+PORTFOLIO COMPOSITION
+As of end-June 2023, 100% of the market value of the fund's portfolio was allocated to U.S. government and agency securities, with approximately 85% of the securities maturing in three years or more.
+SURVEILLANCE
+Fitch receives monthly fund portfolio holdings information including credit quality, market value and duration of the individual securities to conduct surveillance against the bond fund rating criteria. For additional information about Fitch's bond fund ratings criteria, please review the criteria referenced below, which can be found at 'www.fitchratings.com'.
+INVESTMENT MANAGER
+Boston Management and Research (BMR) is the investment advisor.
+Fitch views BMR's investment advisory capabilities, resource commitment, operational controls, corporate governance, and compliance procedures as consistent with the ratings assigned to the fund.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--A material increase in portfolio credit quality and/or a material decrease in portfolio duration could result in the fund's WARF falling below 0.30, which could result in the FCQR being upgraded to 'AAAf'. Fitch views this as unlikely since a change in portfolio credit quality/duration would only occur only if the investment strategy of the fund were to change or if the U.S. were upgraded to 'AAA'.
+--Upward rating momentum for the MRSR of the fund is not possible given the rating is already at the highest level on the MRSR scale.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--A material decrease in portfolio credit quality and/or a material increase in portfolio duration could result in the fund's WARF to exceed 0.90, which could result in the FCQR being downgraded to 'Af'. However, Fitch perceives this as unlikely in the near term absent significant credit migration or a change in the fund's investment strategy.
+--A material increase in duration, and/or a decrease in the fund's duration-hedges, beyond 2.0 years could result in the fund's MRSR being lowered to 'S2'. However, Fitch perceives this as unlikely in the near term absent a change in the fund's hedging or investment strategy.
+SOURCES OF INFORMATION
+The sources of information used to assess this rating were the public domain and the investment manager.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Eaton Vance Short Duration Government Income Fund
+Fund Cr Qual RtgAAf Downgrade
+AAAf 
+SensitivityS1 Affirmed
+S1 

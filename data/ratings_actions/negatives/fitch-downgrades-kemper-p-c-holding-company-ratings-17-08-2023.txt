@@ -1,0 +1,63 @@
+Fitch Downgrades Kemper's P/C and Holding Company Ratings
+
+Fitch Ratings - Chicago - 17 Aug 2023: Fitch Ratings has downgraded the Insurer Financial Strength (IFS) ratings for Kemper Corporation's (Kemper) property and casualty (P/C) lead operating subsidiary, Trinity Universal Insurance Company (Trinity) to 'A-' (Strong) from 'A'.
+Fitch has also downgraded the ratings for Kemper's holding company, including the Issuer Default Rating (IDR) to 'BBB' from 'BBB+' and the senior debt ratings to 'BBB-' from 'BBB'. The Rating Outlooks for Trinity and Kemper's IDRs are Stable. Fitch has also affirmed the ratings of Kemper's life insurance subsidiaries with a Stable Outlook.
+The downgrades for Trinity and Kemper's holding company ratings primarily reflect continued underwriting weakness through 1H23 and deterioration in P/C capitalization, compared with rating sensitivities.
+KEY RATING DRIVERS
+Underwriting Results: Kemper Corporation's underwriting results remained above rating sensitivities through 1H23, largely as the result of a continuation of heightened loss trends in both the Kemper Auto (nonstandard personal and commercial auto) and Personal Insurance (preferred auto and homeowners) segments, higher catastrophe losses and adverse prior-year reserve development. The Kemper Auto and Kemper Personal Insurance segments reported GAAP combined ratios remained elevated at 109% and 115%, respectively, for 1H23.
+The company has addressed underwriting performance with targeted rate increases as well as non-rate actions over the last several quarters. Fitch expects approved rate increases will serve to limit further deterioration in underwriting results and help the company's efforts to return to underwriting profitability over time.
+Company Profile: Kemper is a mid-tier P/C underwriter, ranked as the 12th-largest personal auto writer based on 2022 direct premiums written, with a strong market presence in nonstandard auto insurance. Kemper maintains competitive advantages in nonstandard auto business, but has faced profitability challenges in recent quarters. The company's strategic review of its personal insurance business led to a planned run-off of the segment, which could have a modest near-term impact on the company's scale and performance volatility related to property exposure.
+Capitalization: Fitch's Prism capital model for the P/C group scored at the high end of 'Somewhat Weak' in 2022. Statutory capital levels reflected net losses in 2022 and 1H23, offset by capital contributions from the parent. Overall enterprise capital benefits from capital diversity provided by the company's life operations, which scored at the Extremely Strong level. Fitch expects that Kemper will maintain strong overall capital levels and flexibility to contribute capital to operating subsidiaries from the holding company when prudent.
+Financial leverage remained elevated at 30.5% at June 30, 2023, in excess of the company's stated target range of 17%-22% and the rating sensitivity of 28%. Excluding the favorable impact to accumulated other comprehensive income of $194 million from the adoption of long-duration contracts accounting standards, financial leverage was 31.9%. Kemper has earmarked $150 million for debt paydown, which is expected to moderately improve pro forma leverage.
+Coverage and Financial Flexibility: GAAP fixed-charge coverage was negative 5.0x through 1H23, excluding the goodwill impairment on the personal segment, compared with negative 4.3x in 2022, primarily driven by underwriting losses in the period. Average coverage in the three years prior (2019-2021) was 5.6x. Kemper's ability to return to producing high-single-digit to low-double digit coverage will hinge on a return to favorable underwriting profitability. Financial flexibility and liquidity remain strong with holding company cash and invested assets of $220 million at June 30, 2023.
+Life/Health Segment: Ratings of Kemper's life/health segment, United Insurance Company of America and its subsidiaries, reflect stable underlying earnings and an effective niche in the slow-growth home service market. The group has been a steady source of earnings for Kemper, with dividend capacity to support parent objectives, with capital and earnings diversification provided to the enterprise. Fitch considers the life/health subsidiaries to be 'Important' in the group rating approach, with subsidiary ratings reflecting the life segment standalone assessment.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade for Trinity Universal Insurance Co. and Kemper's Holding Company
+--Returning to consistent underwriting profitability;
+--Capital adequacy viewed as 'Strong' or better;
+--Financial leverage returning to low-20% range;
+--Fixed-charge coverage returning to high single digits or better.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade for United Insurance Co. and Its Subsidiaries
+--Growth across the life/health operations with increased penetration in its market niche;
+--Sustained ROEs above 8%;
+--An improved asset/liability management (ALM) mismatch to within three years or less.
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade for Trinity Universal Insurance Co. and Kemper's Holding Company
+--Combined ratios consistently above 105%;
+--Financial leverage sustained above 32%;
+--Capital adequacy maintained below 'Adequate';
+--Fixed-charge coverage consistently below 5x.
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade for the United Insurance Co. and Its Subsidiaries
+--Deterioration in Kemper's life/health capitalization metrics, measured by a Prism capital model outcome below 'Extremely Strong';
+--Consistent degradation in financial performance caused by outsized investment losses or poor underwriting performance, measured by a return on total capital below 10% and an ROA below 1%;
+--Widening of the ALM mismatch, coupled with deterioration in cash flow testing results.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Union National Life Insurance Company
+LT IFSA- Affirmed
+A- 
+Kemper Corporation
+LT IDRBBB Downgrade
+BBB+ 
+senior unsecured
+LTBBB- Downgrade
+BBB 
+junior subordinated
+LTBB Downgrade
+BB+ 
+United Insurance Company of America
+LT IFSA- Affirmed
+A- 
+Trinity Universal Insurance Company
+LT IFSA- Downgrade
+A 
+The Reliable Life Insurance Company
+LT IFSA- Affirmed
+A- 

@@ -1,0 +1,99 @@
+Fitch Affirms CSN at 'BB'; Outlook Positive
+
+Fitch Ratings - New York - 01 Sep 2023: Fitch Ratings has affirmed Companhia Siderurgica Nacional's (CSN) Long-Term Foreign and Local Currency Issuer Default Ratings (IDRs) at 'BB', and National Long-Term ratings at 'AAA(bra)'. Fitch has also affirmed CSN Inova Ventures' and CSN Resources S.A.'s senior unsecured notes, which are guaranteed by CSN, at 'BB'/RR4', and CSN Mineracao S.A. National Long-Term ratings and senior unsecured notes at 'AAA(bra)'. The Rating Outlooks for the IDRs is Positive, and the Outlook for the National Scale Ratings is Stable.
+The Positive Outlook reflects Fitch's expectation of continued improvement in CSN's business risk profile with recent acquisitions supporting cash flow diversification, which along with alternative measures to enhance capital structure could boost CSN's ratings. The ratings reflect the scale and cost competitiveness of CSN's vertically integrated iron ore and flat steel operations in Brazil, and its growing presence in the Brazilian cement and energy sectors. CSN remains with the task of effectively reducing gross and net debt basis while optimizing shareholder returns.
+KEY RATING DRIVERS
+Diversifying Business Position: CSN's business position as a low-cost integrated steelmaker remains solid, underpinned by captive access to raw materials (iron ore/energy), high value-added portfolio of products and an important share in the flat steel industry in Brazil. The company has a diversified portfolio of assets with operations in the mining, steel, energy, cement and interests in railways and ports operations. Fitch forecasts that the mining and steel making businesses contribution to EBITDA generation will decrease to 77% in 2023 and 64% in 2024 from 86% in 2022 as the participation of the cement and energy divisions grows and diversifies CSN's cash flow generation.
+Capital Allocation to Drive FCF Trend: The weakening of iron ore and steel operating cash flows is expected to be partially mitigated by the increasing business diversification, and CSN`s decisions on investment plans and dividend distribution will be key for FCF trends. Fitch projects CSN will generate BRL11.7 billion of EBITDA and -BRL1.9 billion of FCF during 2023 after spending BRL4.4 billion on capex and BRL3.5 billion in dividends. CSN obtained BRL13.9 billion of EBITDA and FCF of -BRL5.1 billion in 2022. CSN's track record of opportunistic acquisitions may affect capital allocation in the short term.
+Manageable Leverage Burden: Fitch forecasts CSN will end 2023 with a gross and net debt/EBITDA ratio of 3.7x and 2.8x, which compares with 3.1x and 2.2x during 2022 and average of 2.7x and 1.9x during the last three years. These ratios are expected to improve slightly to about 3.3x for gross, and 2.7x for net leverage in the rating horizon as lower iron ore prices will meet new mining production coming from the Itabirito plant projects, and stronger results from CSN's steel, cement and energy divisions. Partial sales of CSN Cimentos or the energy business in an IPO or in a transaction with a strategic partner would be alternatives to further enhance capital structure.
+Higher Iron Ore Activity: The Chinese reopening caused iron prices to hover around USD118/ton in 1H23. However, lower than expected shipments and expected steel production cuts in China and fewer weather-related supply disruptions in Brazil and Australia reduced prices. Fitch expects prices to fall in 2023 for a yearly USD105/ton average, and follow a multiyear downtrend through 2026 to USD70/ton. Fitch forecasts 40 million tons of iron ore to be sold in 2023 as the Central Plant enters full operation. These volumes are 22% higher than 2022, when heavy rain affected output.
+Softening Steel Environment: Fitch forecasts CSN's steel volumes sold will decrease 2% and that domestic prices will fall by 13% in 2023. The Brazil Steel Institute registered an 0.5% decrease in apparent consumption in January 2023-July 2023 relative to the same period of a year ago. The fall in prices follows the temperance of raw material costs, the reconnection of global supply chains after the pandemic-related disruption and a higher steel imports penetration rate of 17% into Brazil until July from 12.8% a year prior. Fitch expects CSN's EBITDA/ton of nearly USD135 in 2023.
+Consolidated Approach: Fitch applies its Parent and Subsidiary Rating Linkage criteria to CSN Cimentos, CSN Mineracao and their parent, CSN. The parent is stronger than the subsidiary and legal incentives for support are assessed as medium, as the presence of cross acceleration clauses in CSN Cimentos and CSN Mineracao mitigate the absence of corporate guarantees from CSN.
+Fitch deems strategic incentives for support as high, as the integration into iron ore bolsters CSN's steel business cost advantage, and because Fitch expects the cement business contribution to CSN's EBITDA to increase to 13% from about 9% in the near term. CSN's LafargeHolcim's 10.3 million tons of cement capacity acquisition made CSN Cimentos the third largest cement producer in Brazil. The integration of these assets and any likely corporate restructuring of the cement operations are already incorporated in the analysis. Synergies exist between the iron ore, steel and cement businesses, and management and strategies are fully integrated, with both companies closely sharing reputational risks.
+DERIVATION SUMMARY
+CSN's more integrated business profile and diversified portfolio of assets compare well with Usinas Siderurgicas de Minas Gerais S.A.'s (BB/Stable). Both issuers are highly exposed to the local steel industry in Brazil. CSN and Usiminas show weaker business positions than Brazilian steel producer Gerdau S.A (BBB/Stable), which has a diversified footprint of operations with important operating cash flow generated from its assets abroad, mainly in the U.S., and flexible business model (mini-mills) that allow it to better withstand economic and commodities cycles.
+Among the three business steel producers, Gerdau has consistently maintained the strongest balance sheet, most manageable debt amortization schedule, and has consistently made efforts to improve its capital structure through assets sales or equity issuances. Gross debt levels at CSN remain high relative to Gerdau and Usiminas. CSN also has a more challenging debt amortization schedule than either Usiminas or Gerdau.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within The Rating Case for the Issuer:
+--Benchmark iron ore prices average USD105/ton in 2023, USD85/ton in 2024 and USD75/ton in 2025;
+--Iron ore volumes expand by 22% in 2023 to 40 million tons, remain flat in 2024 and grow 5% in 2025;
+--Iron ore EBITDA/ton at USD30 in 2023, USD22 in 2024, and USD17 in 2025;
+--Steel volumes decrease 2% to 4.3 million tons in 2023 and stay flat in 2024 and 2025;
+--Steel EBITDA/ton at USD135 in 2023, USD140 in 2024 and USD153 in 2025;
+--Cement volumes grow 60% to 11.5 million tons in 2023 and grow 22% in 2024 and 7% in 2025;
+--Cement EBITDA/ton at BRL95 in 2023, BRL112 in 2024 and BRL115 in 2025;
+--Capex reaches BRL4.4 billion in 2023, BRL5 billion in 2024 and BRL5.5 billion in 2025;
+--An exchange rate of BRL5.10/USD1.00 at YE 2023, BRL5.20 in 2024 and BRL5.25 in 2025.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Additional asset sales in order to support gross debt reduction;
+--Improved debt amortization schedule;
+--Sustained adjusted total debt/EBITDA ratio below 3.5x and/or adjusted net debt/EBITDA ratio below 2.5x.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Large debt funded acquisitions;
+--Increased pressure from main shareholder's on dividend payments;
+--Sustained adjusted total debt/EBITDA ratio above 4.5x and/or adjusted net debt/EBITDA ratio above 3.5x;
+--Adverse regulatory changes in Brazil's mining industry.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Continued Refinancing: CSN had BRL46.9 billion (USD9.7 billion) of Fitch adjusted total debt as of June 30, 2023. Fitch's debt figure includes BRL5.3 billion of advances received from Glencore for a 33 million tons iron ore supply contract and excludes lease related debt from its adjustments. Capital markets debt represents 52% of the Fitch adjusted debt total, while banks account for 29% of debt, the Glencore advance represents about 11% of debt and Export Credit Agencies agreements, about 7%.
+CSN holds a track record of keeping robust cash balances but remains challenged by optimizing exposure risks to local banks and capital markets. Fitch estimates that CSN has about BRL10 billion to be refinanced by 2025.
+Including the Glencore debt, approximately 60% of the company's debt is denominated in U.S. dollars or euros. CSN has about BRL2.7 billion of debt due during 2023 and an average of BRL5.2 billion in 2024-2026. About 70% of these maturities are comprised of bank debt.
+Readily available cash and marketable securities reached BRL11.9 billion (USD2.5 billion) as of June 30, 2023. CSN holds approximately 55 million Usiminas preferred shares and 107 million ordinary shares not included in the readily available cash measure because Fitch excludes equity holdings from marketable securities.
+ISSUER PROFILE
+CSN is an integrated high value-added steelmaker with a large market share in the Brazilian flat steels market and presence in Germany, the U.S. and Portugal. CSN is the second largest iron ore exporter of Brazil.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+Companhia Siderurgica Nacional (CSN) has an ESG Relevance Score of '4' for Governance Structure due to key person risk and limited board independence through a single powerful shareholder, which has a negative impact on the credit profile, and is relevant to the rating[s] in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Companhia Siderurgica Nacional (CSN)
+LT IDRBB Affirmed
+
+
+BB 
+LC LT IDRBB Affirmed
+
+
+BB 
+Natl LTAAA(bra) Affirmed
+
+
+AAA(bra) 
+senior unsecured
+Natl LTAAA(bra) Affirmed
+
+
+AAA(bra) 
+CSN Mineracao S.A.
+Natl LTAAA(bra) Affirmed
+
+
+AAA(bra) 
+senior unsecured
+Natl LTAAA(bra) Affirmed
+
+
+AAA(bra) 
+CSN Inova Ventures
+ 
+
+  senior unsecured
+LTBB Affirmed
+RR4
+
+BB 
+CSN Resources S.A.
+ 
+
+  senior unsecured
+LTBB Affirmed
+RR4
+
+BB 

@@ -48,7 +48,7 @@ evaluator = InformationRetrievalEvaluator(val_queries, val_corpus, val_relevant_
 loss = losses.MultipleNegativesRankingLoss(model)
 
 # Training settings
-EPOCHS = 16
+EPOCHS = 2
 warmup_steps = int(len(train_loader) * EPOCHS * 0.1)
 
 # Run training
@@ -56,7 +56,7 @@ model.fit(
     train_objectives=[(train_loader, loss)],
     epochs=EPOCHS,
     warmup_steps=warmup_steps,
-    output_path="exp_finetune",
+    output_path="exp_finetune_optimal",
     show_progress_bar=True,
     evaluator=evaluator,
     evaluation_steps=50,

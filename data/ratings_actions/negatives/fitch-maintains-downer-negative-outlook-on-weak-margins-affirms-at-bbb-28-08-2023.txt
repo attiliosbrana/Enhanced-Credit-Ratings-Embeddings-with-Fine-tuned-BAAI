@@ -1,0 +1,58 @@
+Fitch Maintains Downer's Negative Outlook on Weak Margins; Affirms at 'BBB'
+
+Fitch Ratings - Sydney - 28 Aug 2023: Fitch Ratings has affirmed Australia-based Downer EDI Limited's Long-Term Issuer Default Rating (IDR) at 'BBB'. The Outlook is Negative. Downer's senior unsecured rating of 'BBB' has also been affirmed. The affirmation applies to all senior unsecured debt issued or guaranteed by Downer, including debt issued by its subsidiary, Downer Group Finance Pty Limited.
+The Negative Outlook continues to reflect ongoing margin pressure. The company's EBITDA margin in the financial year ended June 2023 (FY23) remained well below 5%, the level at which we may consider negative rating action. However, a volume recovery following weather events in 1HFY23 and some stabilisation in labour costs led to margins improving in 2HFY23. Nevertheless, we do not expect margins to return to above the negative sensitivity until 2HFY24, as the company continues to address underperforming contracts and takes steps to deliver targeted cost savings in 1HFY24. Fitch may take negative rating action as early as the 1HFY24 results if there is no clear indication margins will improve towards 5% over 2HFY24.
+KEY RATING DRIVERS
+Underperforming Contracts Delay Margin Recovery: Underperforming contracts in Downer's utilities business, difficult weather conditions, staff shortages and supply-chain issues led to the drop in EBITDA margin to 3.4% in FY23 (FY22: 3.9%). It also recognised around AUD500 million in goodwill and other asset impairments in FY23, which partly reflected tightening market conditions in the defence sector, recent underperformance in the utilities business and resultant changes in risk appetite, which will reduce the utilities work pipeline over the short-to-medium term.
+Downer's new CEO announced a strategic reset to address the challenges and restore profitability, and has made good progress on delivering around AUD100 million in EBITDA benefits by FY25. We expect margins to improve in FY24 from initial cost-reduction measures, a volume recovery and labour stabilisation. However, we believe this will be skewed towards 2HFY24 as the underperforming contracts weigh on margins in 1HFY24. The Negative Outlook reflects the risks around delivering the turnaround, including further delays and the margin remaining below 5% beyond FY24.
+Governance Issues Declining: The Negative Outlook also reflects governance risks associated with accounting irregularities in 2022 and an investigation into some former employees as part of a larger inquiry by the New South Wales Independent Commission Against Corruption (ICAC). Independent reviews have concluded that these were isolated incidents and there were no widespread control or governance weaknesses. Still, risks remain as ICAC has yet to deliver its recommendations, which, if accepted and implemented by relevant government agencies, may affect Downer's business.
+The company intends to improve its risk management framework with the creation of a chief risk officer role and an external review of policies. Contagion risks associated with governance may have eased as Downer was recently awarded an AUD4.6 billion train manufacturing and maintenance contract with the Queensland government.
+Weak Free Cash Flow Generation: Fitch views Downer's free cash flow generation as weak compared with that of similarly rated peers. The company has reported negative free cash flow after capex and dividends for the last three out of four years, and we expect free cash flow generation to be neutral until FY27. An improvement in earnings together with the company's approach to balancing shareholder returns will be a key determinant for the rating.
+Resilient Core Urban-Services Business: We expect Downer to continue to benefit from government prioritisation of infrastructure development, which will remain a source of major opportunities in the medium term. Downer is the largest diversified-services group in Australia and New Zealand for transport, utility and facility-management services. Its strong revenue visibility is supported by work-in-hand of AUD36.3 billion at FYE23, with around 90% of customers being governments or government-related entities, most on long-term contracts (FYE22: AUD32.8 billion, excluding divested businesses).
+Commitment to Balance-Sheet Strength: Downer's EBITDA net leverage increased to 1.7x by FYE23 from 1.4x at FYE22. However, this was an improvement from 1HFY23, as the company restored its cash conversion in 2HFY23 to over 100%. Downer continues to prioritise the strength of its balance sheet as it delivers its strategic reset, evident from its use of the proceeds from the sale of the Australian Transport Projects business to reduce debt. The company also reduced the dividends declared in FY23 and is focusing on delivering strong cash-backed earnings.
+DERIVATION SUMMARY
+Fitch rates Downer using our business-service navigator framework. Downer's strong domestic market position and long-term recurring revenue contracts support the rating. However, the company's international diversification remains limited, with revenue largely generated in Australia and New Zealand. This constrains the rating to the 'BBB' category. The Negative Outlook relates to ongoing margin challenges due to underperforming contracts in its utilities business, labour shortages and weather-related events, together with ESG risks associated with management controls.
+Downer's leverage and interest coverage are comparable with that of Australian peer Lendlease Corporation Limited (BBB-/Stable). Lendlease benefits from greater geographical diversification, but Downer's lower exposure to cyclical cash flow and higher share of recurring maintenance-style projects result in a one-notch rating differential.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer:
+- Revenue falling by around 5% in FY24 following the sale of the Australian Transport Projects business before rising by 2% from FY25 to FY27.
+- EBITDA margin, adjusted for lease expenses, rising to 4.5% in FY24, with the improvement towards 5% accelerating in 2HFY24. EBITDA margin returning to between 5% and 6% from FY25 as the company delivers on cost cuts and exits underperforming contracts.
+- Capex of around 2.5% of revenue a year.
+- Dividend payout ratios of between 50% and 70% of consolidated underlying net profit after tax before acquired intangible amortisation.
+- Potential returns to shareholders through share buybacks of AUD200 million spread over FY24 to FY27.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+Fitch could revise the Outlook to Stable if Downer is on track to return its EBITDA margin to above 5% for a sustained period by FYE24. This would also require no findings of widespread issues with controls and governance.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+- EBITDA margin not improving to above 5% on a sustained basis by FYE24 (FY23: 3.4%).
+- Net debt/EBITDA rising to above 2.2x for a sustained period.
+- Any findings in current or future inquiries indicating more systemic issues within Downer's control structure that suggest governance is weaker than currently incorporated in the rating.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Strong Liquidity: Downer had AUD889 million in cash and AUD975 million in undrawn committed facilities in FY23, with a weighted-average debt duration of 3.0 years (FYE22: 3.9 years). The next bond maturity is in FY26. Downer has also protected itself from current interest rate rises by its recent refinancing activity and hedging, while also benefitting from existing fixed-rate debt. It is aiming to refinance some of its debt facilities in FY24 to further improve its debt maturity profile and reduce medium-term refinancing risk.
+Downer has demonstrated access to a wide range of funding sources, including syndicated loans, and local and international capital-market debt and equity.
+ISSUER PROFILE
+Downer is a leading provider of services in Australia, with operations across transport, utility services and facilities management.
+SUMMARY OF FINANCIAL ADJUSTMENTS
+Under Fitch's hybrid methodology, we have applied 100% equity credit to Downer's redeemable optionally adjustable distributing securities (ROADs) preference shares. This reflects their subordination, as they are only senior to equity, and permanent status as part of Downer's capital structure.
+In accordance with our methodology, we have included all coupons on the ROADs as interest in both the profit and loss and cash flow statements. This has resulted in Fitch's calculated net profit after tax being lower than Downer's reported figure by the amount of the ROADs coupon.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+Downer has an ESG Relevance Score of '4' for Governance Structure due to accounting irregularities and former employees' involvement in a corruption inquiry, which has a negative impact on the credit profile, and is relevant to the ratings in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Downer EDI Limited
+LT IDRBBB Affirmed
+BBB 
+senior unsecured
+LTBBB Affirmed
+BBB 
+Downer Group Finance Pty Limited
+   senior unsecured
+LTBBB Affirmed
+BBB 

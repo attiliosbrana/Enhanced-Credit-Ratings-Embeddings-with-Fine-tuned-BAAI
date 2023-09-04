@@ -1,0 +1,54 @@
+Fitch Affirms COFIDE's IDR at 'BBB'; Outlook Negative
+
+Fitch Ratings - Monterrey - 01 Sep 2023: Fitch Ratings has affirmed Corporacion Financiera de Desarrollo, S.A.'s (COFIDE) Long-Term (LT) and Short-Term (ST) Foreign Currency and Local Currency Issuer Default Ratings (IDRs) at 'BBB' and 'F2', respectively. Fitch has also affirmed COFIDE's Government Support Rating (GSR) at 'bbb'. The Rating Outlook for the LT IDRs is Negative.
+Given the government support-driven nature of COFIDE's ratings, the Negative Outlook mirrors the sovereign rating's negative outlook, as downside credit risks to Peru's ratings remain elevated amid the weakening of governance, political stability, and growth prospects.
+KEY RATING DRIVERS
+Government Support Drives Ratings: COFIDE's IDRs are driven by its 'bbb' GSR, which is equalized to Peru's LT IDR. The full alignment of the ratings reflects Fitch's assessment of the government's willingness and capacity to provide timely support if needed. In Fitch's view, Cofide is a key policy bank for the government, as it is critical in implementing economic and social development policies. Peru's ability to offer support is reflected in its sovereign rating (BBB/Negative).
+Although the government does not extend an explicit guarantee, the ratings are equalized given that the state is the majority shareholder and the bank has operational and financial synergies with the public administration. The GSR indicates the minimum level to which the entity's Long-Term IDRs could fall if Fitch does not change its view on potential sovereign support.
+Policy Bank Role: The ratings consider COFIDE's key policy bank role focused on the country's infrastructure, economic and social welfare. The bank plays a critical role in implementing policies directed at sectors with limited funding access or projects underserved by commercial banks. In the past, the bank has had a crucial role by managing key funds, such as Reactiva, FAE or Impulso MyPeru, created during the pandemic to support SMEs, which further supports Fitch's view of the entity's relevant policy role.
+Financial Profile Significance: Although COFIDE's ratings are based purely on Fitch's assessment of expected government support, the bank's financial profile is a significant factor in that assessment. COFIDE's financial performance reflects its development bank nature where profitability is not the main goal, but the operation is well supported by good capital metrics.
+Modest Performance: Typical to its development bank nature, profitability is not a focus, and is reflected in its frail operating profit to RWAs ratio of 0.05% as of June 2023 (four-year average: 0.55%). Increased funding costs and recurrent high provision charges pressured profits. Asset quality is marked by its high NPL ratio (four-year average: 7.4%), which reflects the risks of high individual loan exposure. Potential credit risk losses are partially mitigated by sound capital metrics and ample reserve coverage.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+--COFIDE's ratings will mirror any potential negative change in Peru's sovereign ratings;
+--Although not a baseline scenario, COFIDE's IDRs and GSR could change if Fitch perceives a decrease in the bank's strategic importance to the government's public policies.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+--An upgrade is highly unlikely in the near future as the IDRs are constrained by the sovereign rating;
+--Positive rating actions will mirror any potential positive change in Peru's sovereign rating.
+OTHER DEBT AND ISSUER RATINGS: KEY RATING DRIVERS
+Debt Ratings: Fitch affirmed the senior debt issuances at the same level as its LT IDR, as the notes' likelihood of default is the same as the bank's. COFIDE's plain vanilla subordinated bonds are rated two notches below the bank's IDR as, in Fitch's opinion, their probability of non-performance is equivalent to that of COFIDE's senior bonds, but they would incur a higher loss in case of default due to their subordinated nature. Fitch does not believe there is a meaningful source of loss severity mitigation for these subordinated securities upon default.
+OTHER DEBT AND ISSUER RATINGS: RATING SENSITIVITIES
+--The senior and subordinated notes' ratings are sensitive to any changes in COFIDE's IDRs.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+SUMMARY OF FINANCIAL ADJUSTMENTS
+All intangible assets were deducted from total equity to obtain the Fitch Core Capital since the agency believes the capacity for these to absorb losses is low.
+Sources of Information
+The main sources of information used in the analysis are described in the Applicable Criteria.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+COFIDE's ratings are support driven from the Peruvian government.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Corporacion Financiera de Desarrollo S.A. (COFIDE)
+LT IDRBBB Affirmed
+BBB 
+ST IDRF2 Affirmed
+F2 
+LC LT IDRBBB Affirmed
+BBB 
+LC ST IDRF2 Affirmed
+F2 
+Government Supportbbb Affirmed
+bbb 
+senior unsecured
+LTBBB Affirmed
+BBB 
+subordinated
+LTBB+ Affirmed
+BB+ 

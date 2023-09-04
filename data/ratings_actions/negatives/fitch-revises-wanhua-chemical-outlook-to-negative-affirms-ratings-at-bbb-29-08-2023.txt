@@ -1,0 +1,46 @@
+Fitch Revises Wanhua Chemical's Outlook to Negative; Affirms Ratings at 'BBB+'
+
+Fitch Ratings - Hong Kong - 29 Aug 2023: Fitch Ratings has revised the Rating Outlook of China-based specialty-chemical manufacturer Wanhua Chemical Group Co., Ltd to Negative from Stable. Fitch has also affirmed Wanhua's Long-Term Foreign-Currency Issuer Default Rating (IDR) and senior unsecured rating at 'BBB+'.
+The Outlook revision is mainly driven by Fitch's expectation that Wanhua's free cash flow generation will remain negative in 2023-2024 due to higher than expected capex, which will delay deleveraging. The Negative Outlook also reflects volatility in refinancing risks from Wanhua's short-term oriented funding structure.
+Wanhua's 'BBB+' IDR reflects its leading position in various specialty chemical products with high entry barriers and strong profit margins, especially methylene diphenyl diisocyanate (MDI). Wanhua is the largest producer of MDI globally.
+KEY RATING DRIVERS
+High Capex Delays Deleveraging: Wanhua's capex during the past 12 months exceeded Fitch's expectations due to accelerated investment in all three of its business segments: polyurethane (PU), petrochemicals and fine chemicals. As a result, we expect the company's capex for 2023 and 2024 to be CNY40 billion and CNY30 billion, respectively, up from our previous estimate of CNY24 billion per annum. We also expect the company's cash flow from operations to be below CNY30 billion in 2023 before recovering toward CNY34 billion in 2024 after expanding its production capacity. We now expect Wanhua's net leverage to reach 2.3x in 2023 rather than the previously anticipated deleveraging trend.
+Short-Term Focused Debt Structure: Wanhua's finding structure has been short-term focused in recent years with an average of around 20% of long-term to total debt. The company was able to keep capex below its average operating cash flow in the past, but this short-term focused financing structure represents higher financing risk during significant capex expansion cycle. Wanhua increased its long-term debt to total debt ratio to around 30% in 1H23 through project loans, and we expect this ratio to increase further in 2024.
+Stronger 1H23 Performance than Peers: Wanhua demonstrated average selling price and margin reduction in 1H23 on a year-on-year basis due to subdued demand sentiment in China and overseas. However, it has been outperforming compared to international MDI producers in terms of utilization and margins. We project Wanhua's 2023 EBITDA margin will be 20%, up from 17% in 1H23 and 15% in 2H22. We also project the company's utilization for full year 2023 will be around 85%, which is similar to 1H23 and higher than the global utilization of 70%.
+Low Cost Market Leader: Wanhua is the largest MDI and toluene diisocyanate (TDI) producer globally with 31% and 24% of the world-total capacity respectively. The top five producers account for 91% and 74% of MDI and TDI markets respectively in 2022, which translates into fairly stable margin levels for Wanhua despite significant volatilities in raw material costs.
+The company has low costs thanks to its large production scale, integrated facilities and advanced technology. The company's petrochemical segment produces raw materials for its PU segment, while by-products from PU segment can be used as inputs for fine chemical segment. This high integration provides significant cost advantages.
+DERIVATION SUMMARY
+Wanhua has larger scale, higher diversification and wider margins than Huntsman Corp. (BBB/Stable). Its EBITDA margin is much wider than Huntsman's due to its lower cost position, but leverage is higher due to much higher capex intensity.
+Wanhua has similar EBITDA margin compared with DuPont de Nemours, Inc. (BBB+/Stable), as both have strong market position in their core business. Wanhua is bigger than DuPont in size but has higher leverage due to larger capex spending.
+KEY ASSUMPTIONS
+--Revenue growth at around 6% in 2023, 14% in 2024, and 19% in 2025;
+--EBITDA margin of 20%-21% over 2023-2025;
+--Capex of CNY40 billion in 2023, CNY30 billion in 2024 and CNY28 billion in 2025;
+--Dividend payout of 30% over 2023-2025.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Free cash flow trending toward neutral by end-2024;
+--Long-term to total debt trending toward 50% by end-2024;
+--Net Debt to EBITDA leverage trending down award 2.0x by end-2024.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+The ratings will be downgraded if upward sensitivities are not met.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Adequate but Skewed to Short-term Debt: At June 2023, Wanhua had total readily available cash of CNY33 billion and unused banking facilities of over CNY110 billion at end-June 2023, against short-term debt of CNY71 billion. The company's long-term debt has increased to CNY32 billion at end-June 2023 from CNY19 billion at end-2022. Wanhua has historically been highly reliant on short-term debt. Its credit facilities are uncommitted; committed facilities are uncommon in the Chinese banking environment.
+ISSUER PROFILE
+Wanhua is the largest producer globally of MDI, a key feedstock for the production of PU, a widely used plastic material in various sectors. It is listed on the Shanghai Stock Exchange and also operates in petrochemicals and fine chemicals.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Wanhua Chemical Group Co., Ltd
+LT IDRBBB+ Affirmed
+BBB+ 
+senior unsecured
+LTBBB+ Affirmed
+BBB+ 

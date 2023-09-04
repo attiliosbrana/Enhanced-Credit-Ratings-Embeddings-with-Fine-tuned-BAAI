@@ -1,0 +1,22 @@
+Moody's upgrades rating on one class of notes issued by MJX Venture Management II LLC and collateralized by Venture XXVII CLO, Limited
+Approximately $1.5 million of notes affected
+New York, August 23, 2023 -- Moody's Investors Service ("Moody's") has upgraded the rating on the following notes issued by MJX Venture Management II LLC (the "Issuer" or "MJX VM II") and collateralized by notes issued by Venture XXVII CLO, Limited:
+U.S.$1,525,000 Series A/Class C Notes due 2030, Upgraded to Aa1 (sf); previously on July 5, 2022 Upgraded to Aa2 (sf)
+The Series A/Class C Notes, together with the other Moody's rated notes issued in May 2017 (the "Rated Notes"), are collateralized primarily by 5% of certain rated notes (the "Underlying CLO Notes") issued by Venture XXVII CLO, Limited (the "Underlying CLO").
+RATINGS RATIONALE
+The rating action is primarily a result of deleveraging of the Underlying CLO notes since July 2022. The Class A-R notes in the Underlying CLO have been paid down by approximately 6.6% or $25.3 million since that time.
+Moody's modeled the transaction using a cash flow model based on the Binomial Expansion Technique, as described in "Moody's Global Approach to Rating Collateralized Loan Obligations."
+The key model inputs Moody's used in its analysis, such as par, weighted average rating factor, diversity score, weighted average spread, and weighted average recovery rate, are based on its published methodology and could differ from the trustee's reported numbers. For modeling purposes, Moody's used the following base-case assumptions in analyzing the Underlying CLO:
+Performing par and principal proceeds balance: $550,068,883
+Defaulted par: $9,004,586
+Diversity Score: 101
+Weighted Average Rating Factor (WARF): 2592
+Weighted Average Spread (WAS) (before accounting for reference rate floors): 3.48%
+Weighted Average Coupon (WAC): 13.25%
+Weighted Average Recovery Rate (WARR): 46.98%
+Weighted Average Life (WAL): 3.56 years
+In addition to base case analysis, Moody's ran additional scenarios where outcomes could diverge from the base case. The additional scenarios consider one or more factors individually or in combination, and include: defaults by obligors whose low ratings or debt prices suggest distress, defaults by obligors with potential refinancing risk, deterioration in the credit quality of the underlying portfolio, decrease in overall WAS or net interest income, lower recoveries on defaulted assets.
+Methodology Used for the Rating Action
+The principal methodology used in this rating was "Moody's Global Approach to Rating Collateralized Loan Obligations" published in December 2021 and available at https://ratings.moodys.com/rmc-documents/74832.  Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+Factors that Would Lead to an Upgrade or Downgrade of the Rating:
+The performance of the rated notes is subject to uncertainty. The performance of the rated notes is sensitive to the performance of the underlying portfolio, which in turn depends on economic and credit conditions that may change.  The Manager's investment decisions and management of the transaction will also affect the performance of the rated notes.

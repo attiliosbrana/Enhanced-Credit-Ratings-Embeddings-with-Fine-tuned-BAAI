@@ -1,0 +1,74 @@
+Fitch Downgrades Anagram to 'C'; Removes Watch Evolving
+
+Fitch Ratings - Toronto - 22 Aug 2023: Fitch Ratings has downgraded ratings for Anagram Holdings, LLC and Anagram International Inc., including their Long-Term Issuer Default Ratings (IDRs), which have been downgraded to 'C' from 'CCC' following the company's announcement that it has skipped its August interest payment and entered a 30-day cure period. Fitch has also removed Anagram's ratings from Rating Watch Evolving.
+Anagram's ongoing credit profile reflects continued business pressure, high leverage and growing refinancing risk, with its ABL revolver maturing in May 2024 and its first and second lien notes maturing in August 2025 and August 2026, respectively. The credit profile also reflects ongoing uncertainty related to the timing (and the impact) of bankruptcy emergence of Anagram's parent, Party City Holdco Inc., as well as uncertainties around its capital structure given upcoming maturities.
+KEY RATING DRIVERS
+Election of Non-Payment: In an 8-K filing on Aug. 21, 2023, Anagram announced it had elected to skip its August 2023 interest payment due on its $125 million first lien secured notes maturing August 2025. The company has entered into a 30-day grace period and a forbearance agreement with a majority of its first and second lien noteholders to negotiate potential transactions.
+Anagram's credit profile has recently been pressured by continued weak results and the overhang of its parent company Party City's somewhat extended bankruptcy process. Consequently, the outcome of the 30-day period could be a default, which could include a distressed debt exchange (DDE).
+Small Scale, Concentrated Customer Base: Anagram's scale is relatively small, with a helium shortage and operating pressures at its main customer (Party City) leading to sales potentially declining to the mid $100 million range in 2023. This compares with a peak of over $200 million in 2021 when pandemic restrictions resulted in more stay-at-home gatherings. In addition to its small scale, Anagram has customer concentration, with its parent company (Party City) representing around 35%-40% of revenues.
+Operating Challenges in 2023: A global helium shortage has reduced demand for Anagram's products since 2022, leading to declining sales and profitability. Anagram's EBITDA margins could be in the low double-digit range in 2023 relative to the 20% range in 2020 and 2021, before improving to the mid to high teen range in 2024 and beyond, in line with improving helium supply, which could support increased demand. Fitch projects Anagram could generate negative FCF in 2023 driven primarily by the decline in EBITDA, and the company will likely need to rely on the limited capacity on its $15 million ABL revolver (which matures in May 2024) in order to finance the liquidity shortfall.
+High Leverage and Growing Refinancing Risk: Fitch expects Anagram's EBITDA leverage could be around 15x in 2023 due to a continued decline in EBITDA (from 2022 levels in the $30 million range) before improving modesty to the low teen range in 2024, on some EBITDA recovery. Anagram's ABL credit facility matures in May 2024, with maturities of its first and second lien notes following in 2025 and 2026.
+Given the ongoing bankruptcy proceeding at Anagram's parent, which Fitch believes complicates the company's ability to refinance its debts, and the rapidly approaching maturities at Anagram, there is uncertainty around the structure of Anagram's near-term and long-term capital structure. Fitch believes that unless there is a material recovery in operations in the near term, there is a high likelihood the company could engage in some form of distressed exchange to address its maturities.
+Parent Company in Bankruptcy: While a parent/subsidiary relationship exists between Anagram and Party City, Anagram's IDR is mainly based on its standalone credit profile. The analytical overlay section of Fitch's criteria allows for wider notching between parent and subsidiary during extreme situations such as when a parent is in bankruptcy and the subsidiary continues to operate outside of bankruptcy.
+Assuming Party City emerges from bankruptcy and Anagram avoids a near-term default, Fitch would re-evaluate the linkage considerations for Party City and Anagram to determine the relationship between the two entities. Party City's successful emergence from bankruptcy could result in increased cash flow due to reduced interest expense, enabling it to it to invest in growth. While this could have a positive impact on Anagram, Party City's operations have continued to face pressures in 2023.
+DERIVATION SUMMARY
+Anagram's 'C' ratings reflect the company's entry into a 30-day cure period following the non-payment of its August interest obligation for its first lien secured notes.
+Anagram's ongoing credit profile reflects continued business pressure, high leverage and growing refinancing risk, with its ABL revolver maturing in May 2024 and its first and second lien notes maturing in August 2025 and August 2026, respectively. The credit profile also reflects ongoing uncertainty related to the timing (and the impact) of bankruptcy emergence of Anagram's parent, Party City Holdco Inc., as well as uncertainties around its capital structure given upcoming maturities.
+Anagram compares with similarly rated peer Rite Aid Corporation (rated at Anagram's prior level of CCC), whose structure looks increasingly unsustainable given ongoing operational challenges as the company approaches its 2025 maturities. Unlike Anagram, Rite Aid's ample liquidity of well over $1 billion under its revolver, rich asset base of pharmaceutical inventory and prescription files, somewhat mitigates the heightening refinancing risk.
+KEY ASSUMPTIONS
+--Fitch expects revenue declines in the high-teen to mid-to-low 20% range in 2023 toward the mid-$100 million range, with inflationary pressures and high helium prices and shortages driving the decline in demand. Fitch expects Anagram's revenue could grow in the high single digit to low double-digit range in 2024 and thereafter driven by improving helium supply;
+--Fitch expects EBITDA margins decline to the low double-digit range in 2023 as a result of higher costs and declining demand, from around 16% in 2022. Margins could improve to the mid to high teen range in 2024 and thereafter driven by top line growth and improving input and supply chain costs;
+--Fitch expects FCF could be negative in 2023, driven primarily by the decline in EBITDA. In 2024, FCF could be break-even, driven by improving EBITDA.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to a positive rating action/upgrade:
+--An upgrade from the 'C' level would occur if Anagram satisfies its interest obligations prior to completion of the grace period.
+Factors that could, individually or collectively, lead to a negative rating action/downgrade:
+--The IDR will be downgraded to 'D' if a default or restructuring occurs.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Limited Liquidity: Anagram's liquidity is comprised of minimal cash on hand, and limited availability on its $15 million ABL facility that matures in May 2024. Fitch expects the company could generate negative FCF in 2023, driven primarily by the decline in EBITDA, which the company should be able to finance with liquidity on hand. Anagram's debt is composed of drawings on its revolver, around $125 million in first-lien secured notes due August 2025 and around $103 million in second-lien secured notes due August 2026.
+Fitch's recovery analysis for Anagram is based on a going concern value of approximately $150 million, versus approximately $60 million from an orderly liquidation of assets, which is comprised of receivables, inventory and manufacturing assets. Post default EBITDA is estimated at around $30 million, which compares with approximately $38 million in EBITDA on around $200 million of revenue through as of the LTM ending Sept. 30, 2022 (based on Party City's public filings).
+The $30 million going concern EBITDA represents the scenario of a loss of revenue from some of Anagram's largest retail and distributor customers, yielding around $150 million in revenue, offset by some expense management to generate 20% EBITDA margin (in line with historical levels). Fitch assumes Anagram could fetch a 5x multiple, at the low end of the 5x-7x exit multiples based on Fitch's consumer products bankruptcy studies, recognizing the business' strong market share and relatively stable category over the long term, offset by its small scale and recent operating challenges.
+After deducting 10% for administrative claims, the remaining $135 million would lead to outstanding recovery prospects (91%-100%) for the $15 million ABL (assumed $11 million drawn) and approximately $125 million first lien secured notes, the latter of which is rated 'CCC'/'RR1'. The second lien secured notes (around $103 million outstanding) would be expected to have poor recovery prospects (0%-10%), and are thus rated 'C'/'RR6'.
+ISSUER PROFILE
+Anagram is a leader in the design and manufacturing of balloons and party products. Anagram Holdings, LLC is a wholly owned subsidiary of Party City Holdco, Inc. (the leading party-supply retailer in the U.S), which generates around 35% to 40% of Anagram's revenues.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Anagram International Inc.
+LT IDRC Downgrade
+
+
+CCC 
+senior secured
+LTCCC Downgrade
+RR1
+
+B 
+Senior Secured 2nd Lien
+LTC Downgrade
+RR6
+
+CC 
+Anagram Holdings, LLC
+LT IDRC Downgrade
+
+
+CCC 
+senior secured
+LTCCC Downgrade
+RR1
+
+B 
+Senior Secured 2nd Lien
+LTC Downgrade
+RR6
+
+CC 

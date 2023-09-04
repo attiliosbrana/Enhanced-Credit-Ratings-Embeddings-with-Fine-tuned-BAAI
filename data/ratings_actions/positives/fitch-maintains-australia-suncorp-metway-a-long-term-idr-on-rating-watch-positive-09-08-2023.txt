@@ -1,0 +1,48 @@
+Fitch Maintains Australia's Suncorp-Metway's 'A' Long-Term IDR on Rating Watch Positive
+
+Fitch Ratings - Sydney - 09 Aug 2023: Fitch Ratings has maintained Suncorp-Metway Limited's (SML) 'A' Long-Term Issuer Default Rating (IDR) and 'a' Shareholder Support Rating (SSR) on Rating Watch Positive (RWP). Fitch has also affirmed SML's Short-Term IDR at 'F1'.
+The rating actions follow the Australian Consumer and Competition Commission's (ACCC) decision to not authorise the acquisition of SML by Australia and New Zealand Banking Group Limited (ANZ, A+/Stable/a+). In response to the ACCC's decision, SML and ANZ said they will appeal to the Australian Competition Tribunal. The tribunal has in the past had outcomes that differ to the ACCC's decisions.
+SML's Viability Rating of 'a-' was not considered by Fitch as part of this review; details of the drivers and sensitivities for the Viability Rating can be found in the rating action commentary published on 26 May 2023.
+KEY RATING DRIVERS
+Sale Subject to Regulatory Approvals: Fitch expects to resolve the RWP on SML when the bank's sale to ANZ is completed or if it is announced that the sale will not proceed. The appeal process following the ACCC's decision to not authorise the acquisition is unlikely to be finalised until early 2024. The transaction itself would then take several more months to close if ANZ and SML are successful in the appeal. This means completion is unlikely before mid-2024.
+The RWP reflects that we are likely to upgrade SML's SSR and Long-Term IDR to the same level as ANZ's Long-Term IDR should the acquisition proceed.
+Strong Support Prospects: SML's Long-Term IDR and SSR are notched down once from the Long-Term IDR of its ultimate parent, Suncorp Group Limited (SGL, A+/ Rating Watch Negative), reflecting a 'Very High' probability of shareholder support, if required, as default would result in high reputational damage for SGL. This is the case even though we no longer view SML as an integral part of the group following the announced sale to ANZ.
+High Reputational Risk: The SSR also reflects that SML remains a large issuer within the Suncorp group and a default would most likely result in high reputational damage for SGL, with the potential for a significant negative impact on other parts of the group. SML shares the same brand as the group and one of SGL's major insurance brands.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+We may remove the RWP and assign an Outlook or Watch similar to that on SGL if the sale to ANZ does not proceed.
+Any downgrade of SGL's ratings or further reduction in its propensity to support SML would be likely to drive a downgrade of SML's Long-Term IDR and SSR. The Short-Term IDR would be downgraded if the Long-Term IDR is downgraded to 'A-'. Any downgrade of the Long-Term IDR is likely to be limited to one notch unless SML's Viability Rating is also downgraded.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+SML's SSR and Long-Term IDR could be upgraded to the same level as ANZ's Long-Term IDR at the time of or shortly after the completion of the acquisition, if it proceeds. ANZ is likely to integrate SML's operations into its own over several years, after which SML will cease to exist as a separate entity and its banking licence will be handed back to the regulator.
+OTHER DEBT AND ISSUER RATINGS: KEY RATING DRIVERS
+Senior Debt: The senior debt ratings are aligned with SML's IDRs, consistent with Fitch's Bank Rating Criteria, as Australia does not have a sophisticated resolution framework or full depositor protection.
+Short-Term IDR: SML's Short-Term IDR is the lower of the two options available at the Long-Term IDR of 'A' and continues to be aligned with SGL's Short-Term IDR.
+OTHER DEBT AND ISSUER RATINGS: RATING SENSITIVITIES
+The senior unsecured debt ratings will move in line with SML's IDRs
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+Sources of Information
+The principal sources of information used in the analysis are described in the applicable criteria.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+SML's IDRs and SSR are linked to SGL's IDRs. The IDRs and SSR will be linked to ANZ's ratings if the sale proceeds
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Suncorp-Metway Limited
+LT IDRA Rating Watch Maintained
+A 
+ST IDRF1 Affirmed
+F1 
+Shareholder Supporta Rating Watch Maintained
+a 
+senior unsecured
+LTA Rating Watch Maintained
+A 
+senior unsecured
+STF1 Affirmed
+F1 

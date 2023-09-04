@@ -1,0 +1,35 @@
+Fitch Affirms DBJPM 2016-C1; Five Classes on Rating Outlook Negative; Resolves UCO
+
+Fitch Ratings - New York - 31 Aug 2023: Fitch Ratings has affirmed 14 classes of DBJPM 2016-C1 Mortgage Trust commercial pass-through certificates, series 2016-C1 (DBJPM 2016-C1). The Rating Outlooks on classes B, C and X-B have been revised to Negative from Stable in addition to maintaining the Negative Outlooks on classes D and X-C. The criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+DBJPM 2016-C1
+   A-3A 23312LAR9
+LTAAAsf Affirmed
+AAAsf 
+A-3B 23312LAA6
+LTAAAsf Affirmed
+AAAsf 
+A-4 23312LAS7
+LTAAAsf Affirmed
+AAAsf 
+A-M 23312LAT5
+LTAAAsf Affirmed
+AAAsf 
+A-SB 23312LAQ1
+LTAAAsf Affirmed
+AAAsf 
+B 23312LAU2
+LTAA-sf Affirmed
+AA-sf 
+C 23312LAV0
+LTA-sf Affirmed
+A-sf 
+D 23312LAG3
+LTBsf Affirmed
+Bsf 
+E 23312LAH1
+LTCCCsf Affirmed
+CCCsf 

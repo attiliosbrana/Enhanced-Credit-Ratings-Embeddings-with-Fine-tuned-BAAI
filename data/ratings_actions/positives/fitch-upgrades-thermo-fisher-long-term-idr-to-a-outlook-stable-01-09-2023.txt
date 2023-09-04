@@ -1,0 +1,69 @@
+Fitch Upgrades Thermo Fisher's Long-Term IDR to 'A-'; Outlook Stable
+
+Fitch Ratings - Toronto - 01 Sep 2023: Fitch Ratings has upgraded Thermo Fisher Scientific Inc.'s (Thermo Fisher) Long-Term Issuer Default Rating (IDR) to 'A-' from 'BBB+' and affirmed Thermo Fisher's Short-Term IDR at 'F2'. The Rating Outlook is Stable.
+The upgrade reflects the company's proven operating strength, resulting in a doubling of its revenue over the past five years and increasingly reinforcing the company's strong and consistent through-the-cycle cash generations. The 'A-' rating is further supported by Thermo Fisher's leading market position with unmatched breadth and depth of its product and service offerings across geographies and end-markets, providing a better diversification profile than peers' and reducing cyclicality impacts during volatile times.
+Fitch anticipates no change to the company's financial and capital deployment strategy and expect the company to continue to employ an aggressive approach to strategic M&A. The company's strong historical track record of integration and debt repayment in the wake of acquisitions lends confidence that the strategy is consistent with maintaining financial flexibility supportive of the 'A-' rating.
+Fitch historically assigned Thermo Fisher's Euro Commercial Paper program to Thermo Fisher Scientific Inc., the guarantor, and has now reassigned the program to Thermo Fisher Scientific (Finance I) B.V. and Thermo Fisher Scientific (IVGN) B.V., the issuers. There is no impact to the rating.
+KEY RATING DRIVERS
+Well-positioned to Navigate Dynamic Times: Thermo Fisher's execution over the recent years and through the pandemic illustrated its robust operating strengths both through pandemic response and resilience in its core businesses. Fitch believes that Thermo Fisher is well-positioned to mitigate the effects of cyclical downturns or secular headwinds to sales or profitability, supported by its considerably strengthened end market positions and revenue mixes relative to the Great Recession.
+As of LTM 1Q23, 59% of revenues are derived from Pharma & Biotech and 13% from Industrial & Applied, compared to 24% and 31%, respectively, in 2008. Total revenue and revenue contribution from recurring services and consumables increased from $10.5 billion and 65% in 2008 to $44.9 billion and 82% in 2022. Fitch views the significant increase in revenue scale and favorable shift in product mix as an enhancement to resilience, which underpins Thermo Fisher's operational stability during economic downturns. Fitch is aware of the ongoing conservative capital spending approach adopted by customers in the Life Sciences industry, but expects the underlying market to remain healthy in the medium to longer term driven by favorable demographics and demand for increasingly advanced and complex therapeutics.
+Pattern of Aggressive Capital Deployment: Fitch views Thermo Fisher's aggressive capital deployment, particularly with respect to strategic M&A, as an important driver of Thermo Fisher's credit profile, but notes that increased absolute EBITDA and cash flow has reduced the risk that this represents to the balance sheet over time. Capital deployment for acquisitions and shareholder payments historically contributed to higher debt levels and deterioration of credit metrics, reducing financial flexibility in the aftermath of leveraging transactions. However, Thermo Fisher consistently demonstrates a commitment and ability to repair the balance sheet by paying down large amounts of debt following transactions.
+Fitch forecasts EBITDA leverage will sustain around 2.5x-3.0x and expects the company to have sufficient flexibility to invest while maintaining leverage around this level. Continued annual robust cash generation has supported an increasing capacity for investments and shareholder returns over the last several years.
+M&A Risk: Strategic M&A is an integral part of Thermo Fischer's growth strategy, and Fitch expects it to continue over the rating horizon. Per management's guidance at the Investor Day, 60%-75% of Thermo Fisher's capital deployment will be allocated to strategic M&A. Fitch assumes acquisitions could total $25 billion through 2026 and has assumed they occur evenly throughout the period with leverage sustaining within sensitivities. Fitch recognizes the possibilities of sizable debt-funded transactions which could elevate leverage to well above 3.0x, but expects the company to be able to deleverage to under 3.0x within 18 months to 24 months of closing.
+Strong FCF Generation: Fitch expects Thermo Fisher to generate at least $6 billion in annual FCF over the forecast period which will be sufficient to fund annual dividend, share repurchases, and some bolt-on acquisitions. FCF margins above 14% and steady EBITDA margins in the mid- to high-20% range are supported by a strong proportion of consumables and services revenue at 82% of total revenue, stable end-market demand and leading positions in markets.
+DERIVATION SUMMARY
+Thermo Fisher is well-positioned operationally, compared with other healthcare issuers in the life sciences and diagnostics sub-sectors, which are generally rated in the mid-to-high 'BBB' category. The operating profile is favorably differentiated compared with peer companies such as PerkinElmer, Inc. (BBB/Stable) and Agilent Technologies, Inc. (BBB+/Stable). The company is closer in scale to Becton, Dickinson & Company (BBB/Stable). Commonly, these issuers experience strong operating fundamentals, supported by the consistent demand in end markets.
+The breadth and depth of its portfolio of product and service offerings, and diversification of end-market customers, sets it apart from peers. The company typically exhibits operating margins and coverage metrics that are better than peers. Thermo Fisher's leverage tends to be higher than peers due to a relatively more aggressive stance toward capital deployment for M&A and shareholder returns. The company is higher rated, since the strength of the operating profile reduces cyclicality of results, due to sensitivity of demand in any one geographic or customer end market. The company demonstrates a willingness to reduce debt in the aftermath of leveraging transactions and an ability to efficiently integrate large acquisitions.
+The 'F2' Short-Term IDR is supported by the company's strong financial flexibility, financial structure and operating environment. Thermo Fisher's financial structure subfactor of 'a-', financial flexibility subfactor of 'a-' with very comfortable liquidity offset by its aggressive financial policy, and good operating environment of 'aa' given the locales in which it operates, all support the 'F2' Short-Term rating.
+KEY ASSUMPTIONS
+--Low-single digit revenue decline in 2023 driven by continued decline in COVID-related demand, partially offset by low-single-digit core revenue growth;
+--High-single digit revenue growth in outer years driven by improvement in end market strength and incremental M&A contributions;
+--EBITDA margin to compress by 130bps from 27.2% in 2022 to 25.9% in 2023 due largely to lower COVID-related revenue; gradual margin expansion assumed thereafter driven by operational efficiency improvements;
+--Capex ranges between $1.7 billion to $2.0 billion per year over the forecast period;
+--Effective interest rate ranges between 2.4% to 3.1% over the forecast period;
+--$4.5 billion to $7 billion per year in acquisitions, $3 billion to $3.5 billion per year in share repurchases, and $500 million to $650 million per year in common dividends assumed over the forecast period.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--An upgrade would be supported by Fitch's confidence in or a commitment from the company to operate with EBITDA leverage around or below 2.5x;
+--Thermo Fisher exhibits strong operating performance and durable FCF, resulting in (cash from operations-capex)/debt at or above 22%.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--A leveraging transaction or structural deterioration in operating fundamentals that cast doubt on Thermo Fisher's ability to return EBITDA leverage to roughly 3.0x within 18 months-24 months;
+--Thermo Fisher fails to generate stable operating performance and FCF materially and durably deteriorates resulting in (cash from operations-capex)/debt sustained below 17%.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Ample Liquidity: Thermo Fisher's solid financial flexibility and strong liquidity is an important factor supporting the investment-grade credit profile. The company's sources of liquidity, as of July 1, 2023, included $3.1 billion of readily available cash on hand and no borrowings under its $5 billion revolving credit facility (RCF) maturing in January 2027. The RCF would be used for the CP programs and if the revolver is drawn then Fitch expects the company would leave an available balance at least equal to the amount of CP outstanding. Fitch also forecasts Thermo Fisher could generate $6 billion or more in FCF before acquisitions and divestitures annually for the next several years.
+Laddered Maturities: The debt maturity schedule of the company's senior notes is laddered and Fitch expects the company to refinance most of the notes at maturity. Thermo Fisher will maintain steady access to capital markets, as it remains an active issuer. Excess debt repayment will likely only follow sizable acquisitions.
+ISSUER PROFILE
+Thermo Fisher Scientific Inc. is a world leader in the life sciences industry. The company serves more than 400,000 customers within the pharmaceutical and biotech companies, hospitals and clinical diagnostics labs, universities, research institutions and government agencies, as well as environmental, industrial quality and process control settings.
+SUMMARY OF FINANCIAL ADJUSTMENTS
+Adjustments were made for stock-based compensation, restructuring and acquisition costs.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Thermo Fisher Scientific (IVGN) B.V.
+   senior unsecured
+STF2 New Rating
+ Thermo Fisher Scientific (Finance I) B.V.
+   senior unsecured
+LTA- Upgrade
+BBB+ 
+senior unsecured
+STF2 Affirmed
+F2 
+Thermo Fisher Scientific Inc.
+LT IDRA- Upgrade
+BBB+ 
+ST IDRF2 Affirmed
+F2 
+senior unsecured
+LTA- Upgrade
+BBB+ 
+senior unsecured
+STF2 Affirmed
+F2 

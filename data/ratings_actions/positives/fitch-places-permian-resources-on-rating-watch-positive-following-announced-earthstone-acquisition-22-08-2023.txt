@@ -1,0 +1,61 @@
+Fitch Places Permian Resources on Rating Watch Positive Following Announced Earthstone Acquisition
+
+Fitch Ratings - Chicago - 22 Aug 2023: Fitch Ratings has placed the Long-Term Issuer Default Ratings (BB-) and all Issue-level ratings of Permian Resources Corporation and Permian Resources Operating, LLC (collectively Permian Resources or PR) on Rating Watch Positive (RWP).
+The Positive Rating Watch follows the announcement that PR has entered into a definitive agreement to acquire Earthstone Energy, Inc. (ESTE; 'B+'/RWP) and all related subsidiaries in an all-stock transaction valued at approximately $4.5 billion, including the assumption of all ESTE debt. The combined company will be one of the largest producers in the Permian with 400,000 total net acres split between the Delaware and Midland basins and total production of approximately 300 Mboepd (46% oil). The transaction is also expected to materially enhance FCF generation, improve overall returns via drilling and completion efficiencies and create approximately $175 million of identified synergies.
+Fitch expects to resolve the Rating Watch upon closing of the transaction, which is currently expected by YE 2023. Although unlikely, Fitch recognizes that the closing of the transaction and resolution of the RWP could take longer than six months.
+KEY RATING DRIVERS
+Credit-Friendly Acquisition: Fitch views the proposed $4.5 billion transaction favorably given the stock-for-stock exchange between PR and ESTE at a fixed exchange ratio of 1.446 shares, representing an 8% premium based on the 20-day volume weighted average share prices. Both companies currently exhibit fairly conservative balance sheets which leads to Fitch forecasted pro forma 2024 leverage of 1.1x, consistent with similar-sized peers. The improved pro forma FCF profile will also allow for continued debt reduction and accelerated shareholder returns.
+Enhanced Permian Footprint: The proposed acquisition will materially enhance PR's size and scale with pro forma Permian net acres of approximately 400,000, primarily in the Delaware, total production of approximately 300 Mboepd (46% oil) and adds significant core inventory in the Delaware basin which immediately competes for capital. PR will retain its status as a pure-play Permian producer which should drive operational improvements, including improved drilling and completion efficiencies, lower operating costs and G&A benefits, which should improve overall returns.
+Synergy Potential; Strong FCF: Fitch believes synergies associated with the deal are achievable by YE 2024. Management has identified approximately $175 million of estimated annual synergies, including $115 million stemming from operational efficiencies and cost savings, $30 million in G&A synergies and $30 million in cost of capital savings via refinancing opportunities for ESTE's notes once callable. Fitch believes the reduced cost structure should improve post-base dividend FCF generation, which Fitch currently estimates at over $500 million in 2024 at our $70/bbl WTI price assumption.
+Adequate Hedge Profile: Fitch believes PR's hedge book supports further reductions of the RBL and provides adequate downside protection for the company's dividend. PR is currently hedging approximately 30% of its 2H23 oil production at a weighted average floor price of $82 WTI in addition to approximately 30% of its natural gas production. The company's 2024 hedge coverage is currently minimal, but Fitch expect management to increase 2024 hedge coverage to approximately 30% by transaction close.
+Balanced Shareholder Returns: Management remains committed to returning at least 50% of its post-base dividend FCF to shareholders via variable dividends and share repurchases. Post-close, PR plans to increase its quarterly base dividend by 20% to $0.06/share and Fitch expects sustainable dividend growth over the medium to long term. Fitch believes the dividend program is supported by the company's asset, hedging and FCF profiles and also provides flexibility to further strengthen the balance sheet over time.
+DERIVATION SUMMARY
+PR's pro forma production profile of approximately 300 Mboepd (46% oil) compares similarly to Civitas Resources, Inc. (BB/Positive; 270-290 pro forma the Hibernia and Tap Rock transactions) and Endeavor Energy Resources, L.P. (BBB-/Stable; 258 Mboepd in 2Q22), is larger than Murphy Oil Corporation (BB+/Stable; 191 Mboepd as of 2Q23), but trails APA Corporation (BBB-/Stable; 399 Mboepd as of 2Q23). The company has historically maintained Fitch-calculated unhedged cash netbacks around the Permian peer average, which should improve following operational enhancements and execution on synergies.
+Fitch forecasts 2024 pro forma leverage of approximately 1.1x, which is consistent with Fitch's E&P peer group and could further improve following debt reduction.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Fitch expects to resolve the RWP upon completion of the contemplated transactions under the proposed terms;
+--Average daily production approaching 175Mboepd while maintaining economic inventory and reserve life;
+--Realization of operational savings that improves unit costs, netbacks and enhances FCF generation;
+--Mid-cycle EBITDA leverage sustained below 2.0x.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Inability to generate FCF and failure to reduce RBL borrowings that materially erodes the liquidity profile;
+--Loss of operational momentum leading to average daily production approaching 125Mboepd;
+--Deviation from stated conservative financial and capital allocation policy;
+--Mid-cycle EBITDA leverage sustained above 2.5x.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Adequate Liquidity: Fitch expects PR's pro forma liquidity profile will remain adequate and is supported by strong FCF. At 2Q23, PR had $18 million of cash on hand and $1.2 billion in available borrowing capacity on its $1.5 billion reserve-based lending credit facility (RBL). Management has secured an additional $500 million of commitments from lenders which will increase the pro forma aggregate commitment amount from $1.5 billion to $2.0 billion post-close.
+Fitch expects the company's credit facility will be less than 50% drawn at close, with the expectation that FCF will be allocated to further reduce borrowings. Fitch's forecast of over $500 million of post-base dividend FCF in 2024 supports the liquidity profile and reduction of the RBL balance going forward.
+ISSUER PROFILE
+Pro forma the announced Earthstone acquisition, PR will remain a pure-play Permian basin operator with approximately 400,000 total net acres and 300 Mboepd of oil-weighted production.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Permian Resources Operating, LLC
+LT IDRBB- Rating Watch On
+
+
+BB- 
+senior unsecured
+LTBB- Rating Watch On
+RR4
+
+BB- 
+senior secured
+LTBB+ Rating Watch On
+RR1
+
+BB+ 
+Permian Resources Corporation
+LT IDRBB- Rating Watch On
+
+
+BB- 

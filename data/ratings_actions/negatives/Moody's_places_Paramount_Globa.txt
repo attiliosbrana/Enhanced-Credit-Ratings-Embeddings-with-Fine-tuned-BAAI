@@ -1,0 +1,31 @@
+Moody's places Paramount Global's Baa2 senior unsecured ratings and its P-2 Commercial Paper rating on review for downgrade
+New York, August 24, 2023 -- Moody's Investors Service (Moody's) placed Paramount Global's (Paramount) ratings, including its Baa2 senior unsecured debt ratings, Baa3 junior subordinate debt ratings and Prime-2 short-term commercial paper rating, on review for downgrade.        
+The review is prompted by Paramount's high financial leverage and the risk that it will not be able to improve credit metrics to a level that is consistent with the Baa2 ratings by the end of 2025 given the combined effect of streaming losses and secular pressure on the company's linear television operations. A downgrade would likely be limited to one notch in each class of debt. Both social and governance are key considerations for the ratings review. Paramount's exposure to Social risks, particularly secular societal trends in most of its businesses and its ongoing transition to direct-to-consumer television are impacting results, and its exposure to Governance risks, such as management's risk strategies regarding mitigation of the medium-term effects of the transition are material.
+On Review for Downgrade:
+..Issuer: Paramount Global
+....Junior Subordinated Regular Bond/Debenture, Placed on Review for Downgrade, currently Baa3
+....Senior Unsecured Shelf, Placed on Review for Downgrade, currently (P)Baa2
+....Senior Unsecured Commercial Paper, Placed on Review for Downgrade, currently P-2
+....Backed Senior Unsecured Regular Bond/Debenture, Placed on Review for Downgrade, currently Baa2
+....Senior Unsecured Regular Bond/Debenture, Placed on Review for Downgrade, currently Baa2
+..Issuer: CBS Broadcasting Inc.
+....Backed Senior Unsecured Regular Bond/Debenture, Placed on Review for Downgrade, currently Baa2
+..Issuer: CBS Corporation (Old)
+....Backed Senior Unsecured Regular Bond/Debenture, Placed on Review for Downgrade, currently Baa2
+..Issuer: Viacom Inc.
+....Junior Subordinated Regular Bond/Debenture, Placed on Review for Downgrade, currently Baa3
+....Senior Unsecured Regular Bond/Debenture, Placed on Review for Downgrade, currently Baa2 (Assumed by Paramount Global)
+Outlook Actions:
+..Issuer: Paramount Global
+....Outlook, Changed To Rating Under Review From Stable
+..Issuer: CBS Broadcasting Inc.
+....Outlook, Changed To Rating Under Review From Stable
+..Issuer: CBS Corporation (Old)
+....Outlook, Changed To Rating Under Review From Stable
+..Issuer: Viacom Inc.
+....Outlook, Changed To Rating Under Review From No Outlook
+RATINGS RATIONALE / FACTORS THAT COULD LEAD TO AN UPGRADE OR DOWNGRADE OF THE RATINGS
+Paramount has been experiencing the effects of the transition from linear television distribution to direct-to-consumer (DTC) steaming distribution. This has put the company in a heavy multi-year investment period that has also occurred among the company's sector peers. While Moody's views such investment as appropriate and the pivot existential, the result has clearly increased risk due to declining linear revenues as growth in DTC streaming have yet to reach sufficient scale and maturity to generate margins similar to the linear business. Strategies remain fluid , particularly in international markets. There may be opportunities to significantly improve DTC economics in international markets through continued evolution of the distribution strategy. The company has thus far partially mitigated some of the effects on credit metrics with significant debt reduction from equity raises (common and hybrid), non-core asset sales and a substantial dividend cut. The review will focus on the potential, if any, for further options by management to improve credit metrics to a level more consistent with the Baa2 ratings and the probability that they will execute any of these options. This will be against the backdrop of Moody's expectation that company has passed peak losses in DTC and will start to show sequential improvement in profitability despite continuing erosion for the company's linear operations.
+Paramount Global, with its headquarters in New York, is among the world's leading media and entertainment companies which operates through three business segments: TV Media (includes CBS Television Network, ViacomCBS Networks International, Showtime, Nickelodeon, MTV Entertainment Group, BET, and Paramount Television Studios), Direct-To-Consumer (includes Paramount+, Pluto TV, Showtime OTT, noggin, and BET+) and Filmed Entertainment (Paramount Pictures, Nickelodeon Studio). Revenue for the last twelve-month period ending June 30th, 2023, was $30 billion.        
+The principal methodology used in these ratings was Media published in June 2021 and available at https://ratings.moodys.com/rmc-documents/72920. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+Additionally, the (hyb) indicator was removed from the rating of Paramount Global's junior subordinate notes.  Due to an internal administrative error, the (hyb) indicator was used incorrectly in connection with this rating in a previous rating action.

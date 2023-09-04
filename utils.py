@@ -30,3 +30,22 @@ def estimate_api_usage(corpus, prompt_template, num_questions_per_chunk=2):
     )
 
     return total_input_tokens, total_output_tokens, api_calls
+
+
+import os
+
+
+def read_content_from_directory(directory):
+    articles = []
+    for filename in os.listdir(directory):
+        if filename.endswith(".txt"):
+            with open(os.path.join(directory, filename), "r", encoding="utf-8") as f:
+                content = f.read()
+                articles.append(content)
+    return articles
+
+
+def extract_categories_from_directory_paths(dir1, dir2):
+    category1 = os.path.basename(dir1)
+    category2 = os.path.basename(dir2)
+    return category1, category2

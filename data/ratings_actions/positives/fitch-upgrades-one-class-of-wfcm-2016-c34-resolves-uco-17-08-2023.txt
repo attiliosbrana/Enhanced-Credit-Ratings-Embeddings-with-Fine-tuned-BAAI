@@ -1,0 +1,35 @@
+Fitch Upgrades One Class of WFCM 2016-C34; Resolves UCO
+
+Fitch Ratings - New York - 17 Aug 2023: Fitch Ratings has upgraded one and affirmed 14 classes of Wells Fargo Commercial Mortgage Trust 2016-C34 (WFCM 2016-C34) commercial mortgage pass-through certificates issued by Wells Fargo Bank N.A. A Stable Outlook was assigned to class D following the upgrade. The under criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+WFCM 2016-C34
+   A-2 95000DBB6
+LTAAAsf Affirmed
+AAAsf 
+A-3 95000DBC4
+LTAAAsf Affirmed
+AAAsf 
+A-3FL 95000DAG6
+LTAAAsf Affirmed
+AAAsf 
+A-3FX 95000DAJ0
+LTAAAsf Affirmed
+AAAsf 
+A-4 95000DBD2
+LTAAAsf Affirmed
+AAAsf 
+A-S 95000DBF7
+LTAAAsf Affirmed
+AAAsf 
+A-SB 95000DBE0
+LTAAAsf Affirmed
+AAAsf 
+B 95000DBJ9
+LTAsf Affirmed
+Asf 
+C 95000DBK6
+LTBBB-sf Affirmed
+BBB-sf 

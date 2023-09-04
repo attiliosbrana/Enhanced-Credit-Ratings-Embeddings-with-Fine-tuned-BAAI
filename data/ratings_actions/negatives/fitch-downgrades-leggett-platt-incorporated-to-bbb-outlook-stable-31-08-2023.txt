@@ -1,0 +1,60 @@
+Fitch Downgrades Leggett & Platt, Incorporated to 'BBB-'; Outlook Stable
+
+Fitch Ratings - Chicago - 31 Aug 2023: Fitch Ratings has downgraded Leggett & Platt, Incorporated's (Leggett) Long-Term Issuer Default Rating (IDR) and senior unsecured debt ratings to 'BBB-' from 'BBB'. The Rating Outlook is Stable. Fitch has downgraded Leggett's Short-Term IDR and CP ratings to 'F3' from 'F2'.
+The downgrade reflects Leggett's EBITDA leverage that has been sustained near 3x or higher since Leggett's debt-funded acquisition of Elite Comfort Solutions in 2019, above Fitch's previous negative sensitivity of 2.5x. Management's post-acquisition prioritization of shareholder returns, instead of gross debt repayment, has heightened the credit profile's susceptibility to the current weaker demand in Leggett's consumer-durables markets that are contributing to lower sales volumes and EBITDA margins, as well as reduced post-dividend FCF and availability under the company's revolving credit facility.
+These metrics, during a prolonged challenging market environment, limit Leggett's capacity to fully fund cash deployment priorities around business investment and returns to shareholders, while the impact of lower EBITDA on leverage metrics is partly offset by gross debt reduction. Fitch views Leggett's financial profile as aligned with the 'BBB-' rating.
+KEY RATING DRIVERS
+Stable Outlook: Fitch estimates EBITDA leverage will be in the high 3x range during the remainder of 2023 compared to 3.1x at the end of 2022. Fitch's rating case assumes a return to higher sales and margins after 2023 that would support a decline in leverage below Fitch's 'BBB-' negative rating sensitivity of 3x by the end of 2025. The ratings incorporate Leggett's well-established competitive position within its core bedding products market, effective product development, a focus on managing costs including vertical integration within the bedding business, and diversification across products, end-markets and geographic regions.
+Long-term risk factors include competitive pressure from low-cost producers and exposure to cyclical demand that is reducing financial results in Leggett's bedding business. If residential end markets remain weak for an extended period or the company is unable to align its cost structure, liquidity may be slow to return to higher levels and leverage and post-dividend FCF could be pressured further, potentially leading to a negative rating action. Fitch recognizes that management will have meaningful pre-dividend FCF to support its current investment-grade rating and preserve financial flexibility in a prolonged stress scenario.
+Weaker Financial Performance: Fitch expects sales and earnings will continue to be lower through 2023 compared with 2022 as the shift in consumer spending away from durables reduces demand in Leggett's bedding products and the furniture, flooring & textile segment. The impact is partly offset by diversification provided by the company's automotive, aerospace and hydraulic cylinders businesses which are seeing solid volume growth and higher margins.
+Low sales volumes are contributing to a reduction in EBIT margins which declined approximately 300 bps in the first half of 2023 compared with the year-earlier period. The decline was most pronounced in bedding products, including weaker metal margins in its steel rod & wire business and the impact of operating inefficiencies in specialty foam despite volume growth. Fitch expects margins will stabilize and begin to recover next year as Leggett's bedding business benefits from new product introductions and the company's actions to manage costs, although Fitch's rating case assumes a full margin recovery will be gradual.
+Positive FCF: Fitch expects Leggett to generate FCF near $100 million after dividends in 2023, or around 2% of sales, including the effect of lower sales and improved supply chain constraints. This level would be slightly lower than 2022 but above negative FCF in 2021. Fitch's rating case includes FCF margins below Fitch's previous expectation of 3% or higher, largely due to lower EBITDA margins. FCF margins sustained near 2% or higher would support the company's financial flexibility to fund strategic investments or other discretionary spending. Leggett intends to direct excess cash in the near term toward debt reduction which would reduce the impact on leverage from the expected decline in earnings.
+Lower Liquidity: Liquidity was somewhat more constrained as of June 30, 2023 compared to recent periods, reflecting reduced availability of $360 million under a $1.2 billion revolving credit facility that matures in 2026 and is used to back commercial paper that totaled $224 million. Liquidity also included $272 million of cash and is further supported by FCF after dividends. Debt maturities include $300 million of notes due in late 2024, with other maturities not scheduled before late 2027.
+Other Rating Concerns: While not expected, a deterioration in the effectiveness of Leggett's product development and cost controls, or a weakening of import regulations, could expose the company to increased competition and potentially impair its market share and profitability. Also, while Fitch expects minimal cash deployment for acquisitions or share repurchases while Leggett focuses on debt reduction in the near term, such transactions over the medium-to-longer could potentially boost leverage and introduce integration risk. This concern is mitigated by Leggett's focus on maintaining an investment-grade credit profile.
+Business Mix Mitigates Cyclicality: Leggett's presence in a mix of end markets helps to modify the impact of cyclical demand and the risk of reliance on a concentrated customer base. The company's large scale and vertical integration in the bedding business enable it to compete across a wide range of bedding components and distribution channels including manufacturers, retailers and e-commerce.
+Outside of its core bedding market, Leggett has a meaningful automotive business that broadens company's end-market exposure and focuses on value-added content. The furniture, hydraulics and aerospace businesses provide added diversity. Leggett continues to adjust its portfolio of businesses to focus on product differentiation, customer engagement and flexible manufacturing.
+DERIVATION SUMMARY
+Leggett serves a broader range of end markets than other companies in its peer set, offsetting but not removing the effect of cyclical demand. Fitch considers the closest comparable peers to be in the building materials and diversified manufacturing spaces. Leggett's revenue base is somewhat smaller than Masco Corporation (BBB/Stable) and has exposure to more diverse but less stable end markets than Masco and carries higher leverage.
+Leggett also has higher leverage than Allegion plc (BBB-/Positive) and generates lower margins; however, Leggett is larger and features a higher level of diversification. Vontier Corporation (BBB-/Negative) is smaller than Leggett and has less end-market diversity while leverage is similar. Mohawk Industries, Inc. (BBB+/Stable) is rated higher than Leggett, reflecting its substantially larger size, lower leverage and slightly higher margins, offset by less end-market diversity. IDEX Corporation (BBB+/Stable) is smaller than Leggett but maintains lower leverage and generates greater margins.
+KEY ASSUMPTIONS
+--Revenue declines by mid-single digits in 2023 due to lower demand in Leggett's residential end-markets, followed by a return to modest sales growth in 2024;
+--EBITDA margins in 2023 decline by approximately 200 bps largely as a result of lower sales volumes. Margins begin to recover in 2024;
+--Capex increases and stabilizes near 2.5% of sales following several years of lower spending levels when Leggett was focused on controlling costs;
+--Dividends of about $240 million in 2023 with low/mid-single-digit annual growth forecast;
+--Post-dividend FCF margin stabilizes at a level approaching 2% over time;
+--Cash deployment for acquisitions and share repurchases is limited while Leggett invests in the business and directs cash deployment toward debt reduction;
+--EBITDA leverage increases to the high 3x range in 2023, declining to 3x or below by the end of 2025.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--A more conservative financial policy leads to a sustained decrease in EBITDA leverage below 2.5x;
+--Post-dividend FCF margins are maintained above 3.5%;
+--An improvement in FCF and liquidity that support Leggett's ability to fund cash deployment priorities while enhancing financial flexibility.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Debt levels are not reduced, or a loss of competitiveness leads to consistently weaker financial performance, resulting in EBITDA leverage consistently above 3.0x;
+--Weak financial results or cash requirements for capex or working capital lead to post-dividend FCF margins materially below the 1.5%-2.0% range for a sustained period;
+--Financial flexibility is insufficient to support a reduction in debt and leverage.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Lower Liquidity: Leggett's liquidity at June 30, 2023 included cash of $272 million and $360 million available under a $1.2 billion revolver due in 2026 which backstops CP. The company generally keeps cash balances of at least $200 million-$300 million. In addition to CP and $1.8 billion of long-term debt, Fitch's debt calculation included $65 million of factored receivables as of June 30, 2023 and approximately $19 million related to supply chain financing.
+ISSUER PROFILE
+Leggett & Platt, Incorporated is a manufacturer of finished products and critical components for the bedding, automotive, furniture, and flooring end markets. It generated more than $5 billion of revenue in 2022 and focuses primarily on comfort components which are critical to end products. More than two-thirds of revenue is generated in the U.S. and Canada.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Leggett & Platt, Incorporated
+LT IDRBBB- Downgrade
+BBB 
+ST IDRF3 Downgrade
+F2 
+senior unsecured
+LTBBB- Downgrade
+BBB 
+senior unsecured
+STF3 Downgrade
+F2 

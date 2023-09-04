@@ -1,0 +1,78 @@
+Fitch Affirms Fresenius Medical Care at 'BBB-'; off RWN; Outlook Negative
+
+Fitch Ratings - Frankfurt am Main - 25 Aug 2023: Fitch Ratings has affirmed Fresenius Medical Care AG & Co. KGaA's (FMC) Long-term Issuer Default Rating (IDR) at 'BBB-' and removed it from Rating Watch Negative (RWN). A Negative Outlook has been assigned. A full list of ratings is provided below.
+Our affirmation and the RWN removal follow FMC's firmer-than-expected 1H23 performance. We are now assessing FMC on a standalone basis, after its deconsolidation from parent Fresenius SE &Co. KGaA's (FSE), which was the basis of the RWN, has been approved by shareholders. The better interim performance and progress on its restructuring programme has staved off an immediate downgrade but uncertainties around FMC's near-term deleveraging path inform the Negative Outlook.
+We see continued execution risks around FMC's deleveraging strategy, which remains dependent on further operational restructuring and repositioning leading to a consistent improvement of the underlying performance for the next 18 to 24 months, in addition to a timely divestment of non-core assets. The rating is likely to be downgraded in the next 18 to 24 months if FMC fails to reduce its leverage below its negative sensitivity.
+The 'BBB-' IDR affirmation reflects FMC's leading global position in the non-cyclical dialysis market and a consistent capital allocation policy conducive to safeguarding FMC's medium-term leverage profile.
+KEY RATING DRIVERS
+Better-than-Expected 1H23 Result: The RWN was removed following the shareholder approval for deconsolidation from FSE, while the IDR affirmation was driven by a better-than-expected performance in 1H23 as a result of improved payor mix, higher productivity in its care delivery division, and cost-efficiency measures partially offsetting inflationary pressures. We are revising our EBITDA margin forecast in 2023 to 12.5%, from 11% previously, broadly stabilising at 2022 levels.
+Substantial Execution Risks: The Negative Outlook is driven by continued execution risks in the company's deleveraging strategy, which is predicated on the implementation of cost efficiency initiatives. Additionally, we expect proceeds from FMC's planned disposal of non-core assets will be used for debt repayment, and provide small profitability improvement, but the execution timeline on them is not yet defined.
+This results in considerable uncertainty to the deleveraging path. We therefore forecast EBITDAR net leverage at above the 3.5x negative sensitivity for the next 24 months, particularly in the event of an operational or a regulatory setback.
+Financial Policy Remains Key: The 'BBB-' IDR assumes FMC's adherence to its existing financial policy after its deconsolidation, with a clearly defined target net leverage of 3.0x-3.5x, including IFRS16 leases, which is broadly equivalent to Fitch-calculated EBITDAR net leverage of 3.5x-3.8x, and disciplined capital allocation. We anticipate FMC to sharply reduce M&A spending and shareholder distribution, which will further support deleveraging efforts in addition to non-core asset disposals streamlining the business. We expect capital allocation to normalise as FMC's operating performance returns to profitable growth. Deviation from the committed financial policy could result in a negative rating action.
+Ratings on a Standalone Basis: We now assess FMC based on its Standalone Credit Profile (SCP), as opposed to the previously consolidated approach under our Parent-Subsidiary Linkage Criteria. The deconsolidation means weaker strategic and operational incentives for FSE to support FMC.
+Global Leadership, Somewhat Limited Diversification: FMC's rating reflects its global leadership in the non-cyclical and structurally growing dialysis market, despite temporary disruption by high pandemic-related patient mortality and inflationary cost pressures. At the same time, FMC has high exposure to the US regulatory framework and a limited product and service offering despite its large business scale.
+DERIVATION SUMMARY
+The 'BBB-' IDR of FMC balances a defensive and cash-generative business profile with a stretched financial structure.
+FMC stands out among its investment-grade peers, with its large size and strong market position than other Fitch-rated companies in the healthcare and consumer sector, such as Quest Diagnostics Inc. (BBB/Positive) and Baxter International SA (BBB/RWN). We also compare FMC with healthcare providers such as Universal Health Services (BB+/Stable).
+FMC has a strong global presence and is one of the largest providers of kidney dialysis services and products worldwide. In addition, it offers a comprehensive range of renal products and services, leveraging its clinical expertise and vertical integration capabilities. These factors translate into a one-notch higher rating than that of healthcare services providers.
+Nevertheless, FMC's more aggressive net leverage and current softness in its EBITDA margin explain the one-notch lower rating than that of investment-grade peers in the broader healthcare sector. However, we believe its market leadership in the global dialysis sector and resilient earnings through the cycle lead to a satisfactory organic deleveraging ability.
+In applying Fitch's Parent and Rating Subsidiary Linkage Criteria, we no longer equalise FMC's rating with that of FSE as the recent shareholder approval of the deconsolidation leads to weak strategic and legal ties between FSE and FMC.
+KEY ASSUMPTIONS
+Key Assumptions Within Our Rating Case for the Issuer:
+- Organic revenue growth of 4.5% in 2023, offset by negative foreign-exchange (FX) effects. This is followed by organic growth of 3.8% in 2024, 2.5% in 2025, and 3.3% in 2026
+- EBITDAR margin to decline to 16.2% in 2023 (2022: 16.5%), due to increased inflationary pressures. We forecast a recovery to above 18% by 2026
+- Capex at 4% of sales for the next four years
+- Non-core asset divestments over our rating horizon to support deleveraging
+- Bolt-on acquisitions of EUR50 million in 2023-2024, increasing to EUR100 million in 2025 and EUR150 million in 2026
+- Dividend payments of EUR330 million in 2023, and remaining within EUR300 million-EUR400 million in 2024-2026
+- Dividends paid to non-controlling interests of around EUR240 million-EUR300 million a year to 2026
+- No share buybacks to 2026
+RATING SENSITIVITIES
+Factors That Could, Individually or Collectively, Lead to an Upgrade:
+An upgrade for FMC is unlikely in the near term, given its publicly stated financial policy, with near-term leverage projected to remain outside Fitch's sensitivities. Over time, we would consider the following factors for an upgrade:
+- Successful completion of operational restructuring, together with robust organic growth and broader diversification leading to an improved business risk profile and cash generation, with EBITDA margin trending above 16% and free cash flow (FCF) margin at or above 2.5% on a sustained basis
+- EBITDAR net leverage below 2.5x on a sustained basis
+- EBITDAR fixed-charge coverage trending towards 4.0x
+Factors That Could, Individually or Collectively, Lead to a Revision of the Outlook to Stable:
+- Evidence of effective turnaround measures leading to EBITDA margin improving to 14%
+- EBITDAR net leverage at or below 3.5x on a sustained basis
+Factors That Could, Individually or Collectively, Lead to a Downgrade:
+- Regulatory action, weakening organic business performance, or unsuccessful restructuring leading to high revenue volatility and negative effects on profitability, with EBITDA margin at or below 12% on a sustained basis
+- EBITDAR net leverage remaining above 3.5x by end-2025
+- EBITDAR fixed-charge coverage below 3.0x on a sustained basis
+- Neutral-to-negative FCF margin
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Adequate Liquidity: Fitch views FMC's liquidity as adequate. At end-2022, FMC had freely available cash of EUR1.3 billion (we restrict EUR125million for working-capital requirements) and an EUR2 billion undrawn revolving credit facility, which could cover EUR1.3 billion debt maturing in 2023, consisting of both short-term borrowings and long-term debt.
+We also considered FMC's access to EUR1.3 billion of bilateral facilities as of end-June, of which EUR400 million was committed, as well as EUR700 million available under its commercial paper programme and up to USD900 million under its accounts receivable programme, the latter which we, however, do not include in our liquidity calculation.
+ISSUER PROFILE
+FMC is the only vertically integrated global dialysis company, offering a broad range of dialysis products and operating dialysis clinics worldwide.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+FMC has an ESG Relevance Score of '4' due to its exposure to social impact as it operates in a regulated healthcare market, which is subject to pricing and reimbursement pressures as governments seek to control national healthcare spending and contain rising healthcare costs. This may have a negative impact on the credit profile and is relevant to the rating in conjunction with other factors.
+Unless otherwise disclosed in this section, the highest level of ESG credit relevance is a score of '3'. This means ESG issues are credit neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation of the materiality and relevance of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/esg
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Fresenius Medical Care US Finance III, Inc.
+   senior unsecured
+LTBBB- Affirmed
+BBB- 
+Fresenius Medical Care AG & Co. KGaA
+LT IDRBBB- Affirmed
+BBB- 
+ST IDRF3 Affirmed
+F3 
+senior unsecured
+LTBBB- Affirmed
+BBB- 
+senior unsecured
+STF3 Affirmed
+F3 
+Fresenius Medical Care US Finance II, Inc.
+   senior unsecured
+LTBBB- Affirmed
+BBB- 

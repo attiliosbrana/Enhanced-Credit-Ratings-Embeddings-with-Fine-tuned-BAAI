@@ -1,0 +1,20 @@
+Moody's downgrades Catholic Medical Center (NH) to Ba1; outlook negative
+New York, August 22, 2023 -- Moody's Investors Service has downgraded Catholic Medical Center's (CMC) (NH) revenue bond rating to Ba1 from Baa3. The outlook is negative. The system had $165.5 million of debt outstanding at fiscal year-end 2022.
+RATINGS RATIONALE
+The downgrade to Ba1 reflects Catholic Medical Center's weakened financial position as persistent operating cash flow losses have resulted in a reduction of liquidity  and narrowed headroom to the cash to debt covenant on its bank debt. Operating losses are largely driven by the heavy reliance of contract labor, elevated wages and inflationary cost pressures; reflected in higher exposure to the social risks of human capital management and societal and demographic trends in our ESG framework. While management has identified strategies to systematically cut costs and restore operating performance, the pace of progress remains uncertain due to  these ongoing challenges as well as sluggish clinical demand trends. Though management expects CMC to meet their financial covenants at fiscal year-end 2023 (9/30), if cash flow losses continue unabated liquidity will decline and headroom to the covenant, which is measured quarterly, will narrow further.
+The Ba1 rating favorably incorporates CMC's high cardiology acuity services in a competitive market, and a number of strategic and operational improvement initiatives, already underway, to address operating challenges. Management's strategic initiatives will focus on revenue cycle management, as well as strategic growth focused on service contract renegotiations, physician enterprises and expense reduction.
+RATING OUTLOOK
+The negative outlook reflects the likelihood that CMC's liquidity will remain narrow to the covenant given ongoing cashflow losses and could further weaken before performance initiatives gain traction. Failure to sustain liquidity at current levels, demonstrate financial improvement quarter to quarter in fiscal 2024 or an inability to effectively manage financial covenants will pressure the rating further.
+FACTORS THAT COULD LEAD TO AN UPGRADE OF THE RATINGS
+- Material enterprise and market share growth
+- Improved and durable cashflow rebuild resulting in substantial strengthening of margins and debt measures
+FACTORS THAT COULD LEAD TO A DOWNGRADE OF THE RATINGS
+- Further narrowing of the cash to debt covenant
+- Inability to show quarter to quarter traction to durable margin recovery
+- Inability to establish a competitive path forward
+LEGAL SECURITY
+Bonds are secured by a pledge of gross revenues of the obligated group, consisting of the hospital only, as well as a mortgage on certain real property including the hospital. Covenants include a debt service ratio of 1.2 times measured annually. Failure to meet this covenant will result in a consultant call-in. If the debt service ratio falls below 1.0 in any subsequent to the consultant call, it would be considered an event of default. Bank covenants include cash to debt covenant of 0.60:1 measured quarterly.
+PROFILE
+Catholic Medical Center is a 330-bed acute care hospital in Manchester, NH offering tertiary services and specializing in cardiac care. In addition to CMC, the system includes an employed physician group and part ownership of an ambulatory surgical center.
+METHODOLOGY
+The principal methodology used in these ratings was Not-For-Profit Healthcare published in Decemeber 2018 and available at https://ratings.moodys.com/rmc-documents/70886. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.

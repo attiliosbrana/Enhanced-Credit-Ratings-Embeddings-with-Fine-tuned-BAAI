@@ -1,0 +1,59 @@
+Fitch Maintains EQM Midstream's IDR on Rating Watch Positive
+
+Fitch Ratings - New York - 29 Aug 2023: Fitch Ratings has maintained EQM Midstream Partners, LP's (EQM) Issuer Default Rating (IDR) on Rating Watch Positive (RWP). Fitch has also affirmed EQM's senior unsecured revolving credit facility and senior unsecured notes at 'BB'/'RR4'.
+The RWP reflects the passing into law of the Fiscal Responsibility Act and the resumption of construction on the company's Mountain Valley Pipeline (MVP) project. EQM's ratings reflect its leverage and execution risk related to MVP starting commercial operation and obtaining permanent financing. EQM's credit strengths mainly flow from the high percentage of reservation payments from a long-term contract with EQT Corporation (EQT; BBB-/Stable).
+Fitch expects to resolve the RWP once MVP begins providing commercial service to customers, which should occur around Jan. 1, 2024.
+KEY RATING DRIVERS
+Counterparty Credit Profile: EQT is EQM's primary counterparty and contributed 61% of EQM's 2022 revenues. Fitch expects EQT to remain EQM's largest customer over the next one to two years while EQM continues to provide strategically important midstream infrastructure to the producer. EQT's operational and financial strength influence EQM's credit profile due to strong operational alignment between the two companies. EQT's rating and Outlook also have credit implications for EQM. Fitch upgraded EQT's ratings to investment-grade in 2022, but EQM's ratings remained constrained by the MVP overhang.
+Long-Term Capacity Reservation Payments: EQM's operations are supported by long-term contracts with firm reservations in both the gathering and transmission segments. As of Dec. 31, 2022, the company's firm gathering contracts and firm transmission and storage contracts have a weighted remaining life of approximately 14 years and 12 years, respectively. Approximately 71% of 2022 revenue was from firm reservation fees, increased from 64% in 2021. This contract structure adds stability to cash flows and protection from volumetric risk.
+Visibility into MVP Completion: A large part of EQM's growth and balance sheet improvement is dependent upon MVP, which has encountered construction delays and significant cost overruns due to permitting and environmental challenges. The approval of the pipeline as part of the debt ceiling deal has re-started construction and is expected to aid in EQM's deleveraging plan. With lowered execution risks, MVP is anticipated to be in service on or around Jan. 1, 2024. Fitch expects leverage to remain elevated at YE 2023 until MVP is placed in-service but to decline to between 4.5x-4.9x by year-end 2024.
+Limited Geographic and Counterparty Diversification: EQM's business lines and geographic diversities are limited due to its strong ties with EQT's production in the Appalachian region. In Fitch's view, single-basin operators with large customer concentration are typically exposed to outsized event risk, which could be triggered by an operating issue at the large customer or any production volatilities in the single basin.
+Despite its location in one of the most prolific gas basins in the U.S., EQM's growth is constrained by the flat to moderate production growth of its E&P customers over Fitch's forecast period. Producers in the region continue to maintain capital discipline and prioritize FCF in the backdrop of natural gas price volatility, basin takeaway constraints, and macro-economic uncertainties.
+DERIVATION SUMMARY
+EnLink Midstream LLC (BBB-/Stable) is a comparable peer for EQM. Both companies generate over $1.0 billion in annual EBITDA. EnLink operates in multiple basins, and EQM has predominantly only lower business risk gas-transportation assets in its portfolio.
+EQM exhibits higher leverage than EnLink. Fitch expects EnLink's leverage for YE 2023 to be approximately 4.0x. Due to the execution challenges of the multi-year MVP project, EnLink is better positioned than EQM, where Fitch expects leverage to remain elevated until MVP is in service. Fitch expects EQM leverage of 5.8x at year-end 2023 and between (approximately) 4.5x-4.9x by year-end 2024.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within the Rating Case for the Issuer
+--Fitch price deck for Henry Hub prices of $3.00/mcf in 2023, $3.5/mcf in 2024, $3.00/mcf in 2025 and $2.75/mcf thereafter;
+--MVP is in service starting Jan. 1, 2024 and non-recourse MVP project financing occurs after Dec. 31, 2023;
+--No dividend growth expected in forecast period;
+--Base interest rates per the Global Economic Outlook;
+--No acquisitions, asset sales or equity issuance assumed.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--The ratings are sensitive to the timing of the MVP in-service date. The smooth execution of MVP's construction plan in the near term could result in the removal of the RWP and a positive rating action.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--Significant delay or cost overrun in MVP's construction;
+--Leverage of over 5.5x for a sustained period; the leverage is calculated by referencing Equitrans Midstream Corporation's (ETRN) consolidated leverage, e.g. adding the deemed debt portion of the ETRN preferred shares to EQM debt);
+--Dividend coverage ratio below 1.0x on a sustained basis;
+--A change in operating profile such that EQM introduces a material amount of non-fee-based contracts for its gathering business;
+--A change in the financial policies set by ETRN that is materially adverse to EQM's credit quality.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Adequate Liquidity: As of June 30, 2023, EQM had approximately $690 million in liquidity. Cash on the balance sheet was about $90 million, and there was approximately $600 million available under the $2.16 billion senior unsecured credit facility (availability at June 30, 2023 is governed by a leverage covenant). As of June 30, 2023, EQM was in compliance with its covenants. Fitch expects EQM to maintain compliance with its covenants in the near term.
+The April 2025 maturity date reflects an extension executed in April 2022 for the above-mentioned senior unsecured credit facility. At the time of the extension, the leverage covenant was amended such that leverage cannot exceed 5.5x with a maximum leverage of 5.85x for four quarters beginning with mobilization for MVP forward construction. Fitch believes these adjustments provide EQM with headroom during a high MVP-related capex period and delays to MVP in-service date slow deleveraging.
+ISSUER PROFILE
+EQM is a wholly owned subsidiary of Equitrans Midstream Corp. EQM owns and operates gathering, transmission, and water assets in the Appalachian basin, providing services to producers, local distribution companies and marketers.
+SUMMARY OF FINANCIAL ADJUSTMENTS
+EQM forecast metrics referred to herein are calculated by referencing ETRN financial statements, with an adjustment for the preferred shares to reflect a 50% debt treatment and 50% equity treatment. EBITDA in the forecast metrics reflects cash received from EQT that is booked as deferred revenue rather than revenue; when EQT payments eventually transition to where the deferred revenue is being amortized into revenue, this amortization will be removed from revenue to arrive at EBITDA. Regarding unconsolidated affiliates, Fitch calculates midstream energy companies' EBITDA by use of cash distributions from those affiliates, rather than, for example, ratable EBITDA from those affiliates.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+EQM Midstream Partners, LP has an ESG Relevance Score of '4' for Exposure to Social Impacts due to continued environmental permitting challenges for MVP, which has a negative impact on the credit profile, and is relevant to the ratings in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+EQM Midstream Partners, LP
+LT IDRBB Rating Watch Maintained
+
+
+BB 
+senior unsecured
+LTBB Affirmed
+RR4
+
+BB 

@@ -1,0 +1,25 @@
+Moody's revises OMERS Relief Acquisition, LLC's (dba Gastro Health) outlook to negative; affirms B3 CFR
+New York, August 17, 2023 -- Moody's Investors Service ("Moody's") revised the rating outlook for OMERS Relief Acquisition, LLC ("Gastro Health") to negative from stable. At the same time, Moody's affirmed the company's B3 Corporate Family Rating ("CFR") and B3-PD Probability of Default Rating ("PDR"). Moody's also affirmed the B2 ratings on the senior secured first lien credit facilities and the Caa2 rating on the second lien credit facility.
+The revision of the outlook to negative reflects very high leverage at close to 8x in the twelve months ended March 31, 2023, and a deterioration in financial flexibility due to negative free cash flow and lower cash balances. Moody's expect the company's earnings will improve in 2023 reflecting on-going expansion and management's focus on execution following a period of acquisitions. However, a material amount of add-backs to adjusted EBITDA persists, which poses heightened uncertainty around the true underlying cash generating ability of the company. Failure to improve cash EBITDA in 2023 will result in negative rating pressure.
+Affirmations:
+..Issuer: OMERS Relief Acquisition, LLC
+.... Corporate Family Rating, Affirmed B3
+.... Probability of Default Rating, Affirmed B3-PD
+....Backed Senior Secured 1st Lien Revolving Credit Facility, Affirmed B2
+....Backed Senior Secured 1st Lien Delayed Draw Term Loan, Affirmed B2
+....Backed Senior Secured 1st Lien Term Loan, Affirmed B2
+....Backed Senior Secured 2nd Lien Term Loan, Affirmed Caa2
+Outlook Actions:
+..Issuer: OMERS Relief Acquisition, LLC
+....Outlook, Changed To Negative From Stable
+RATINGS RATIONALE
+The B3 credit profile reflects Gastro Health's very high financial leverage and an aggressive acquisition strategy, which has kept leverage close to 8x in the last twelve months ended March 31, 2023. We expect Gastro Health's debt to EBITDA to decline to below 7x over the next 12-18 months. Meanwhile, the aggressive acquisition strategy has eroded liquidity. The credit profile is also constrained by the company's high geographic concentration as roughly 80% of its revenue is derived from three states - Florida, Virginia, and Ohio. The credit is supported by the company's good scale relative to other providers of gastroenterology procedures and services. It also benefits from the lower costs associated with patients having these procedures done in ASCs or clinics as opposed to hospital outpatient departments.
+The B2 ratings for the company's senior secured credit facilities are one notch higher than the B3 CFR. This reflects the level of junior capital provided by the second lien term loan in the company's capital structure. The Caa2 rating on the company's second lien term loan is two notches below the B3 CFR, reflecting its substantial subordination to the meaningful amount of secured debt in the company's capital structure.
+The negative outlook reflects the risks related to reducing its high leverage and generating positive free cash flow. Failure to improve cash EBITDA will result in negative rating pressure.
+OMERS' CIS-4 indicates the rating is lower than it would have been if ESG exposures did not exist. This reflects significant exposure to social risk considerations together with an aggressive financial policy which results in some governance risk.
+Moody's expects that Gastro Health will have adequate liquidity over the next 12-18 months, reflecting minimal free cash flow and cash balances of $16 million as of March 31, 2023. Moody's expects capex to be modest at roughly $10 million in 2023. Liquidity is further supported by a $60 million revolving credit facility expiring 2026 that is currently $10 million drawn.
+FACTORS THAT COULD LEAD TO AN UPGRADE OR DOWNGRADE OF THE RATINGS
+The ratings could be downgraded if revenue or profitability weakens, or the company fails to generate positive free cash flow by end of 2023. A downgrade could also occur if the company's liquidity weakens or if the company's financial policies become more aggressive, or if adjusted debt/EBITDA remains above 7.0 times.
+The ratings could be upgraded if the company demonstrates stable organic growth while effectively executing its expansion strategy. An upgrade would be supported by sustained, positive free cash flow and debt to EBITDA that is expected to be maintained below 6.0 times.
+Gastro Health is a leading clinical platform comprised of physicians and advanced practitioners specializing in the treatment of gastrointestinal disorders, nutrition, and digestive health. The company's platform spans 7 states and includes over 300 physicians. LTM revenue as of March 31, 2023 was $649 million. Gastro Health is owned by Canadian public pension fund OMERS.
+The principal methodology used in these ratings was Business and Consumer Services published in November 2021 and available at https://ratings.moodys.com/rmc-documents/356424. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.

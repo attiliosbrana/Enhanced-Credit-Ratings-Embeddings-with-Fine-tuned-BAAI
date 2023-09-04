@@ -1,0 +1,35 @@
+Fitch Downgrades Eight Classes of DBJPM 2016-C3; Assigns Negative Outlooks; Resolves UCO
+
+Fitch Ratings - New York - 07 Aug 2023: Fitch Ratings has downgraded eight classes and affirmed the remaining three classes of DBJPM Mortgage Trust commercial mortgage pass-through certificates, series 2016-C3. Fitch has also assigned Negative Rating Outlooks to classes A-M, B, C, D, E, and the associated IO classes X-A, X-B, and X-C. The under criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+DBJPM 2016-C3
+   A-4 23312VAE6
+LTAAAsf Affirmed
+AAAsf 
+A-5 23312VAF3
+LTAAAsf Affirmed
+AAAsf 
+A-M 23312VAH9
+LTAA+sf Downgrade
+AAAsf 
+A-SB 23312VAD8
+LTAAAsf Affirmed
+AAAsf 
+B 23312VAJ5
+LTA+sf Downgrade
+AA-sf 
+C 23312VAK2
+LTBBBsf Downgrade
+A-sf 
+D 23312VAS5
+LTBB-sf Downgrade
+BBB-sf 
+E 23312VAU0
+LTB-sf Downgrade
+BBsf 
+X-A 23312VAG1
+LTAA+sf Downgrade
+AAAsf 

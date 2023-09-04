@@ -1,0 +1,76 @@
+Fitch Assigns Continuum Green Energy First-Time 'B+'/Positive; Rates Proposed USD Notes 'B+'/'RR4'
+
+Related Content:
+Continuum Green Energy Limited
+Fitch Ratings - Singapore - 13 Aug 2023: Fitch Ratings has assigned Indian renewable power producer Continuum Green Energy Limited (CGEL) a Long-Term Issuer Default Rating (IDR) of 'B+' with a Positive Outlook.
+Fitch has also assigned a 'B+' rating with a Recovery Rating of 'RR4' to the proposed USD450 million senior notes to be issued by Continuum Energy Aura Pte. Ltd. (CEAPL), a Singapore-based fully owned subsidiary of CGEL, which will unconditionally and irrevocably guarantee the proposed notes. CEAPL will use the proceeds for refinancing, interest servicing, development expenditure, transaction expenses and for general corporate purposes. Noteholders will benefit from covenants limiting consolidated debt and distributions, along with a charge over CEAPL's bank accounts and shares as well as a negative lien on 75% of the shares of Continuum Green Energy (India) Pvt. Ltd., the onshore holding company.
+CGEL's renewable-energy generation portfolio comprises of 1.3 gigawatts (GW) of operational capacity in India. It also has a near-commissioning project portfolio of around 1.0 GW. Around 64% of the portfolio consists of wind assets, with the balance being solar. A majority of offtake is tied to commercial and industrial (C&I) customers.
+CGEL's rating is constrained by high EBITDA net leverage, which stems from the large capex required for project construction. The Positive Outlook reflects our expectation that EBITDA net leverage will come down to below 6x, a key upgrade sensitivity, by the financial year ending March 2025 (FY25), assisted by reduced capex intensity and rising cash generation from larger operating assets.
+KEY RATING DRIVERS
+Expanding Portfolio, Manageable Execution Risk: CGEL aims to lift its operating capacity to 2.3 GW by end-2023, from 1.3 GW as at June 2023. The expansion will see the proportion of more-stable solar assets increase to 36% of the operating portfolio, from around 17%, with the balance comprising wind assets. There is some risk of commissioning delays on the large-scale construction pipeline, but CGEL says that it has made sound progress at most of its projects, including in the installation of equipment and the readiness of evacuation infrastructure. We believe this should limit any major delays.
+Diversified, Strong Counterparty Profile: Around 72% of the offtake from CGEL's 2.3 GW of projects is tied to C&I customers, while another 6% is with the state-owned Solar Energy Corporation of India Limited (SECI). A further 5% is sold directly on the exchange and the remainder is tied to weaker state-owned power-distribution utilities; a proportion much lower than that of peers. CGEL's C&I customers tend to make timely payments and mitigate concentration risk, as no single customer accounts for more than 3.5% of a project's capacity.
+CGEL's strong counterparty profile is evidenced by its low receivable days, which are 50-100 days below those of peers. We expect CGEL's receivable days to improve to 63 in FY24 (FY23: 79, FY22: 169), as all its new capacity additions are tied with C&I customers .
+Capex and Leverage to Ease Post FY24: We expect EBITDA net leverage to come down to 5.9x by FY25 (FY24: 14.2x, FY23:16.5x) with lower capex intensity. EBITDA net interest coverage should also improve to around 1.6x (FY24: 0.8x, FY23: 0.5x), with capex peaking at INR40 billion in FY24 (FY23: INR23 billion). We deconsolidate the EBITDA and debt of CGEL's restricted group - Continuum RG1, for which Continuum Energy Levanter Pte. Ltd. is a lender (secured debt: BB+/Stable with maturity in 2027) - to calculate CGEL's credit metrics and include cash to be upstreamed from Continuum RG1 in EBITDA.
+Long-Term Cash Flow Visibility: CGEL's long-term power-purchase agreements (PPAs) boost its cash flow visibility. PPAs with C&I customers have a shorter tenor of five to 20 years, against 20 to 25 years for state utilities and SECI, but CGEL's average balance C&I tenor exceeds nine years. We expect CGEL to renew its maturing C&I PPAs at tariffs that are similar to current levels in view of strong demand, as direct PPAs with renewable generation companies offer C&I customers a cheaper alternate to grid tariffs and help them meet renewable energy purchase targets.
+Hybrid Projects Lower Generation Volatility: The long-term PPAs provide protection from price risk, but production volume varies on resource availability, which is affected by seasonal and climatic patterns. Resource uncertainty is higher for wind assets than for solar, but the majority of CGEL's assets are wind-solar hybrid projects. This lowers intra-day generation volatility and adds to operational efficiency.
+Adequate Holding-Company Liquidity: We monitor the cash flow from operation-based debt service coverage ratio (cash flow from operation + interest expense/scheduled project debt amortisation + interest expense) at the holding company and unrestricted projects to analyse liquidity at the unrestricted portfolio and holding company. We expect this ratio to improve to above 1.0x from FY25 (FY23: 0.5x). Offtake diversity should limit volatility in cash generation and upstreaming from operating subsidiaries, as we expect the holding-company level interest coverage ratio to remain above 1.0x.
+Average Recovery on Proposed Notes: The ratings on the proposed notes reflect our expectation of at least average recovery for noteholders. The proposed notes' obligations are subordinated to the project-level secured loans, but recovery prospects benefit from expected cash upstreaming from CGEL's expanding operating projects. We expect cash upstreaming to be supported by the larger operational capacity and lower pressure on working capital due to CGEL's lower receivable days as compared with peers.
+The proposed note ratings also reflect the limitation on debt incurrence, such that consolidated net leverage remains below 6.5x and the holding company cash flow coverage ratio is maintained above 1.1x - both ratios as defined in the note indenture.
+Currency Hedging, Some Refinancing Risk: CGEL's earnings are in rupees, but the proposed notes are denominated in US dollars, resulting in exposure to foreign-exchange risk. However, the company plans to largely hedge this risk. The proposed US-dollar notes face refinancing risk, as we estimate that CGEL's cash balance will be insufficient to repay the notes at maturity. However, this risk is mitigated by CGEL's access to the domestic bank market.
+Shareholder Exit - Event Risk: We understand that CGEL's majority shareholder, one of the fund entities managed by Morgan Stanley Infrastructure Partners, plans to sell its stake in CGEL. Any change in shareholding could alter CGEL's growth plans and risk appetitive, and therefore impact its credit profile. However, we treat this as an event risk in the absence of sufficient details relating to the transaction.
+DERIVATION SUMMARY
+CGEL's closest peers include ReNew Power Private Limited (BB-/Stable), Greenko Energy Holdings (BB/Negative) and Concord New Energy Group Limited (CNE, BB-/Stable).
+CGEL's portfolio has a higher proportion of wind assets than ReNew and Greenko, at around 64%. Wind assets have more volatile generation than solar assets, but many of these are wind-solar hybrid. This lowers operating costs and intra-day generation volatility.
+CGEL has lower counterparty risk, with more than 80% of capacity contracted with timely paying customers. In comparison, more than 40% of offtake at ReNew and Greenko is tied-up with weaker state distribution companies, which have a record of delayed payments.
+However, CGEL's better counterparty profile is counteracted by high net leverage in the near term, which, at above 10x, exceeds ReNew's 6.4x and Greenko's 8.2x. This, along with ReNew's larger scale of diversified operating assets of 8.0 GW and higher proportion of solar assets, results in CGEL's one-notch lower rating. The Positive Outlook on CGEL's rating reflects our expectation of an improvement in net leverage to around 6.0x by FY25, which would be comparable to ReNew's net leverage.
+Greenko's credit assessment is supported by its stronger financial access, which enables the company to rely on fresh equity for investments and acquisitions, while utilising cash generated from operations to deleverage. This, along with our lower expectations for Greenko's leverage, results in a two-notch higher ratings than for CGEL, despite Greenko's higher counterparty risk. The Negative Outlook reflects Greenko's low EBITDA/net interest cover headroom against the 1.8x downgrade sensitivity due to its rising capex for pumped storage projects and higher trade receivables.
+CNE has an attributable wind capacity of 2.9 GW across multiple projects in China. Its feed-in tariffs are stable and its counterparty risk is lower than that of CGEL, as CNE's revenue stream is mostly reliant on State Grid Corporation of China (A+/Stable) and China's Renewable Energy Subsidy Fund. While CGEL is smaller in scale, we expect it to expand at a faster pace. Yet CGEL is rated one notch lower due to its higher leverage, compared with around 5.0x at CNE.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer:
+- Plant-load factors in line with average historical performance or resource assessment studies
+- Plant-wise tariff in accordance with PPAs with SECI and state distribution companies
+- Tariffs under C&I PPAs as per management guidance. These vary with changes in state distribution company tariffs and applicable open access charges
+- Average receivable days to reduce to 63 in FY24 (FY23: 79), assisted by greater exposure to SECI and C&I customers
+- EBITDA margin to average at around 75%, above historical levels of around 70%, due to a larger operating base of wind-solar hybrid assets
+- Capex to peak at around INR40 billion in FY24 (FY23: INR23 billion)
+- No dividend payout in the medium term
+Key Recovery Rating Assumptions
+- Recovery analysis for CGEL is on a going-concern basis in the case of a bankruptcy and assumes that the company would be reorganised and not liquidated. We have assumed a 10% administrative claim.
+- A two-step recovery approach has been used, considering the recovery value from the Continuum RG1 assets would be first used to satisfy Continuum RG1's US dollar notes and working-capital borrowings. Only the remaining value, if any, would be used to satisfy the borrowings outside of Continuum RG1.
+- An enterprise value (EV)/EBITDA multiple of 6.5x is used to calculate the post-reorganisation valuation, which takes into account the stable nature of these assets and the average multiple of around 7x-8x used in recent M&A transactions in the sector.
+- CGEL's FY24 EBITDA, excluding Continuum RG1's EBITDA, has been used as the base and debt at FYE24 includes borrowings for the significant capacity of more than 1GW that is in various stages of construction, but not the full-year of EBITDA for these projects. To factor in the EBITDA, we have added 90% of the incremental EBITDA in the FY25 rating-case projection over FY24, and 20% of the incremental EBITDA in the FY26 rating-case projection over FY25, to arrive at the going-concern EBITDA.
+- The liquidation value estimate reflects Fitch's view of the value of receivables under a liquidation scenario with an 85% advance rate and a 50% advance rate for the fixed assets.
+The assumptions result in a recovery rate corresponding to a Recovery Rating of 'RR2'. However, CGEL's assets are in India, which Fitch classifies as under Group D of jurisdictions, which means the Recovery Rating for the proposed US dollar notes is capped at 'RR4'.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+-EBITDA net leverage at below 6.0x in the next 12-18 months, provided that there is no significant increase in CGEL's overall business risk profile
+-Smooth holding company funding access at costs comparable to that of similar rated peers
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+The Outlook will be revised to Stable if positive sensitivities are not met
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Adequate Liquidity: CGEL had a readily available cash balance of INR27.5 billion at end-March 2023, against current debt maturities of INR4.2 billion. We expect CGEL to generate negative free cash flow in FY24 due to high capex, which will be funded by a mix of additional debt and internal cash accruals. However, CGEL benefits from some capex flexibility, adequate access to the domestic bank-loan market and no large bullet maturities before January 2026, when a USD400 million holding company bond is due. CGEL aims to refinance this bond with its proposed notes.
+ISSUER PROFILE
+CGEL is an India-focused renewable energy group, incorporated in Singapore in 2012. CGEL has an operational capacity of 1.3GW with a focus on utility-scale wind and wind-solar hybrid projects. It has an additional 1GW of projects nearing commissioning.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/topics/esg/products#esg-relevance-scores
+DATE OF RELEVANT COMMITTEE
+07 August 2023
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+Continuum Green Energy Limited
+LT IDRB+ New Rating
+
+
+Continuum Energy Aura Pte. Ltd.
+ 
+
+senior secured
+LTB+ New Rating
+RR4
+

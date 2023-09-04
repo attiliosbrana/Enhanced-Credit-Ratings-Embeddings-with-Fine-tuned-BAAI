@@ -1,0 +1,54 @@
+Moody's upgrades RELX's senior unsecured ratings to A3; outlook stable
+London, August 24, 2023 -- Moody's Investors Service (Moody's) has today upgraded RELX PLC's (RELX or the company) long-term issuer ratings to A3 from Baa1. Moody's has also upgraded to A3 from Baa1 the long-term backed senior unsecured debt ratings of RELX Finance B.V., RELX Capital Inc and RELX Inc. Moody's has also affirmed the Prime-2 (P-2) short-term backed Commercial Paper rating of RELX Finance B.V., RELX Inc. and RELX (Investments) plc. The outlook of all entities remains stable.
+Today's rating action reflects:
+• The company's scale, leading market positions in all four of the business segments and track record in integrating sophisticated technology in the shift to electronic format
+• A stable earnings base underpinned by recurring subscription and transactional revenues, some of which occur over multi-periods and earnings growth supported by a tilt in the business mix to analytics
+• Moody's expectation that the company will maintain a prudent financial policy, balancing the company's commitment to credit metrics in line with a solid investment grade rating and a strong liquidity position with shareholder returns  
+A full list of affected ratings can be found at the end of this press release.
+RATINGS RATIONALE
+RELX has demonstrated successful strategy execution to achieve year-on-year organic growth in revenue and margins. The company confirmed its strategic focus remains unchanged. The company's focus is on achieving solid organic revenue growth with the development of increasingly sophisticated information-based analytics and decision tools for its customers, delivered across electronic platforms and deeply integrated into customer workflows. Moody's expects RELX's combined proprietary content and data acquired over decades will continue to assure market leadership, strong pricing power and barriers to entry.
+RELX also has a long track record of embracing a multitude of technologies. The company uses artificial intelligence and machine learning and integrates these technologies into their own work practices to achieve cost efficiencies and into product development and enhancement to drive growth and maintain pricing power. Moody's expects organic growth will continue to be supplemented with a number of small bolt-on acquisitions, with a focus on long-term growth markets and expansion in its geographical and customer reach.
+The company continued to report strong credit metrics in the first half of 2023. RELX's strong profitability margins compare favourably with peers and are commensurate with the A3 rating. Moody's expects the company will maintain Moody's EBITA margins of between 35% and 36% in the next 12 to 18 months. Also, Moody's expects RELX's leverage, as reflected in Moody's-adjusted gross debt/EBITDA, to remain stable at 2.2x in 2023 and Moody's-adjusted RCF/net debt to remain around 20%. Moody's acknowledges RELX does not have a stated leverage target beyond the commitment to maintaining credit metrics in line with a solid investment grade rating. Nevertheless, RELX's long-term dividend policy remains unchanged and that is to grow dividends broadly in line with earnings per share (EPS) while targeting a cover of at least two times, where cover is the number of times the dividend is covered by adjusted EPS (1.9x in 2022).
+RELX has a strong track record of Moody's adjusted free cash flow (FCF) (after interest payments, working capital, capital spending and dividends) which has generally been consumed by acquisitions and share repurchases. Moody's expects RELX will continue to maintain a degree of flexibility with share repurchases, taking into consideration the annual acquisition spend.
+LIQUIDITY
+RELX's liquidity is strong, underpinned by cash on hand (£99 million as of 30 June 2023), solid predictable internally generated cash flow, within a range of £750 million to £950 million annually and availability under the company's revolving bank facilities ($3 billion, maturing April 2026, with the option for a 12 month extension). Moody's expects the company to continue to manage its upcoming debt maturities in a timely manner, as it has done in the past. RELX's operational short-term debt requirements typically peak in the third quarter, while cash generation is weighted towards the fourth quarter. The company generally avoids maintaining large cash balances, supporting liquidity needs with access to a number of CP programmes facilities which together are material in size and access to a $3 billion undrawn revolving credit facility without financial covenants.
+OUTLOOK
+The stable outlook reflects Moody's expectation that RELX will be able to sustain positive operating momentum in 2023-2024 while managing discretionary cashflows so that it maintains a strong business profile and credit metrics in line with the A3 rating.
+FACTORS THAT COULD LEAD TO AN UPGRADE OR DOWNGRADE OF THE RATINGS
+Upward pressure on the rating may arise if (1) there is a material growth in scale, measured by annual revenue, or a visible increase in RELX's organic revenue growth rate whilst maintaining operating profit margins in at least the mid-thirties, (2) Moody's-adjusted gross debt/EBITDA below 1.75x on a sustained basis, (3) Moody's-adjusted RCF/net debt towards 30% on a sustained basis and (4) the company publicly commits to a more  conservative financial policy.
+An upgrade would also require the company to meet Moody's expectations for a P-1 short-term rating, including, but not limited to alternative liquidity provision through committed bank facilities at least as large as total short term debt (generally based on Moody's estimate of maximum anticipated commercial paper issuance), access to same-day-available funds in the market of commercial paper issuance, and no restrictions related to material adverse changes in the borrower's financial condition.
+Downward pressure on the rating could occur if (1) there is evidence of a material change in financial policy to favour shareholder returns that leads to a sustained deterioration in credit metrics or (2) failure to keep Moody's-adjusted gross debt/EBITDA below 2.75x on a sustained basis or (3) inability to maintain Moody's-adjusted RCF/net debt at around 20%.
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE CONSIDERATIONS
+Governance was taken into consideration within the rating assessment outcome. Positively, governance assessment reflects the highly experienced management with a long track record of successfully implementing the company's strategic focus to deliver sustained earnings growth and strong operational cash flow. The company has demonstrated a balanced financial policy. Whilst, Moody's expects M&A to be largely limited to bolt-on acquisitions, there is a moderate risk larger transactions could stretch credit metrics, at which point in time Moody's expects the company will adopt a flexible approach to share repurchases.
+LIST OF AFFECTED RATINGS
+Upgrades:
+..Issuer: RELX Capital Inc
+....BACKED Senior Unsecured Regular Bond/Debenture, Upgraded to A3 from Baa1
+..Issuer: RELX Finance B.V.
+....BACKED Senior Unsecured Regular Bond/Debenture, Upgraded to A3 from Baa1
+..Issuer: RELX Inc.
+....BACKED Senior Unsecured Regular Bond/Debenture, Upgraded to A3 from Baa1
+..Issuer: RELX PLC
+....LT Issuer Rating, Upgraded to A3 from Baa1
+Affirmations:
+..Issuer: RELX (Investments) plc
+....BACKED Commercial Paper, Affirmed P-2
+..Issuer: RELX Finance B.V.
+....BACKED Commercial Paper, Affirmed P-2
+..Issuer: RELX Inc.
+....BACKED Commercial Paper, Affirmed P-2
+Outlook Actions:
+..Issuer: RELX (Investments) plc
+....Outlook, Remains Stable
+..Issuer: RELX Capital Inc
+....Outlook, Remains Stable
+..Issuer: RELX Finance B.V.
+....Outlook, Remains Stable
+..Issuer: RELX Inc.
+....Outlook, Remains Stable
+..Issuer: RELX PLC
+....Outlook, Remains Stable
+PRINCIPAL METHODOLOGY
+The principal methodology used in these ratings was Business and Consumer Services published in November 2021 and available at https://ratings.moodys.com/rmc-documents/356424. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+COMPANY PROFILE
+RELX is a leading provider of information services solutions and analytics to professionals and businesses in various industries, falling under four business divisions, Risk, Science Technical and Medical, Legal and Exhibitions. The company has listings in London, Amsterdam and New York and as 16th August 2023 had a market capitalization of £48 billion.

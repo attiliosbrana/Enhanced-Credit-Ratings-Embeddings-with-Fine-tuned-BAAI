@@ -3,6 +3,8 @@
 
 #ignore folder exp_finetune
 exp_finetune/
+exp_finetune_entire_dataset/
+exp_finetune_optimal/
 
 #ignore __pycache__ folder
 __pycache__/

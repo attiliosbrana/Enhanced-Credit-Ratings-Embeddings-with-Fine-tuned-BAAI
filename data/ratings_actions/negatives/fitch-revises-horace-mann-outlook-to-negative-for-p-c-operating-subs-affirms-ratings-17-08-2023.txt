@@ -1,0 +1,57 @@
+Fitch Revises Horace Mann's Outlook to Negative for P/C Operating Subs; Affirms Ratings
+
+Fitch Ratings - Chicago - 17 Aug 2023: Fitch Ratings has affirmed Horace Mann's (HMN) property and casualty (P/C) operating subsidiaries at 'A' (Strong) and revised the Rating Outlooks to Negative from Stable. Fitch has affirmed the ratings for Horace Mann Life Insurance Company at 'A', and its holding company ratings, including the Issuer Default Rating (IDR) at 'BBB+' and senior debt ratings at 'BBB' with a Stable Outlook.
+The Negative Rating Outlook for the P/C subsidiaries reflects continued weakness in the personal auto and property lines of business which Fitch believes will persist over its ratings horizon. The affirmation of HMN's holding company ratings reflects HMN's strong capitalization; moderate business profile driven by the company's niche position in the K-12 educator market; and the growing organizational focus on the relatively stable earnings in the life, retirement and supplemental segments which somewhat offset the volatile results in the P/C segment.
+KEY RATING DRIVERS
+Property Casualty Earning Pressured: Horace Mann's financial performance continued to be pressured through the first six months of 2023 as the P/C business continues to be affected by weather-related losses and macro pressures in personal auto and property. In 1H23, the auto segment combined ratio deteriorated relative to the prior-year period as a result of persistently high claims severity, while the property business reported above-average catastrophe losses, leading to a total P/C combined ratio of 118.4%, compared with 115.3% for full-year 2022.
+Very Strong Capitalization and Leverage: Fitch expects near-term capital and leverage targets to remain in line with rating expectations. Based on YE 2022 results, Horace Mann's P/C operations declined to the 'Adequate' category of Fitch's Prism model while the non-P/C operations scored at the 'Extremely Strong' level. As of Dec. 31, 2022, Fitch calculated Horace Mann Educators Corporation's financial leverage ratio (FLR) to be 25.5%, which sits at the high end of Fitch's expectations. Going forward, Fitch expects that financial leverage will move below 25%.
+Moderate but Effective Niche: Horace Mann's business profile is moderate and in line with the broader industry, driven by the company's effective niche in the education market through multiple distribution channels and high barriers to entry through its payroll deduction capabilities. While HMN competes with larger insurers with broader distribution, the company's advantages within its niche offset its size. Over the long term, Fitch expects both HMN's diversification and risk profile to improve as the proportion of earnings from non-P/C operations grows.
+Diversifying Liability Profile: Horace Mann continued to diversify its liability profile through the acquisition of Madison National in 2022, and at YE 2022, non-P/C segment revenues represented 57% of the group total. Positively, financial performance continues to be strong outside of the P/C segment, with Fitch calculating a GAAP-based ROA of approximately 1.3% which aligns with 'aa' category guidelines. While Fitch expects that near-term benefits will be somewhat limited by headwinds in the P/C segment, over time Fitch expects growing earnings diversification to continue to improve and help balance volatility in the P/C segment.
+Conservative Investment Portfolio: Investments and liquidity are viewed being relatively conservative on a consolidated basis, and have a moderate impact on the Insurer Financial Strength (IFS) ratings of the non-P/C subsidiaries and a lower influence relative to the IFS rating of Horace Mann's P/C subsidiaries. Horace Mann's portfolio consists primarily of high-quality, fixed-maturity investments with manageable levels of risky assets and favorable liquidity. The large majority of assets which Fitch considers to have elevated levels of risk are held at the non-P/C segment level, and Fitch calculates a risky asset ratio of 107% for those companies which is above industry averages for life companies but in-line with annuity peers.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade for Horace Mann's P/C Subsidiaries
+--Continued underwriting weakness in the P/C segment, with combined ratio maintained consistently above 102%;
+--A decline in Fitch's overall assessment of capital and leverage could lead to a downgrade of all ratings;
+--A consolidated FLR sustained at 25% or greater;
+--A sustained decline in consolidated non-P/C segment earnings could lead to a negative action on those ratings and the holding company;
+--A downgrade of the P/C operations to below A- could lead to a downgrade of the holding company ratings.
+Factors that Could, Individually or Collectively, Lead to a Revision of the Outlook to Stable for Horace Mann's P/C Subsidiaries
+--P/C segment underwriting results returning to break-even levels or better over the next 12 months;
+-Fitch's assessment of P/C capital returning to 'Strong'.
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade for Horace Mann Life Insurance Company
+--A decline in the non-P/C Prism score to below 'Very Strong' could lead to a downgrade of the non-P/C operations;
+--A consolidated FLR sustained at 25% or greater;
+--A sustained decline in consolidated non-P/C segment earnings could lead to a negative action on those ratings and the holding company;
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade for Horace Mann Life Insurance Company
+--HMN's upgrade potential hinges on a material positive change in Fitch's assessment of the company profiles of both the P/C and non-P/C segments.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Horace Mann Educators Corporation
+LT IDRBBB+ Affirmed
+BBB+ 
+senior unsecured
+LTBBB Affirmed
+BBB 
+Horace Mann Life Insurance Company
+LT IFSA Affirmed
+A 
+Horace Mann Property & Casualty Insurance Company
+LT IFSA Affirmed
+A 
+Teachers Insurance Company
+LT IFSA Affirmed
+A 
+Horace Mann LLoyds
+LT IFSA Affirmed
+A 
+Horace Mann Insurance Company
+LT IFSA Affirmed
+A 

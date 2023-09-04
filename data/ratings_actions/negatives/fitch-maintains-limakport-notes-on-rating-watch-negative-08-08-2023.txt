@@ -1,0 +1,55 @@
+Fitch Maintains LimakPort's Notes on Rating Watch Negative
+
+Fitch Ratings - Dubai - 08 Aug 2023: Fitch Ratings is maintaining Limak Iskenderun Uluslararasi Liman Isletmeciligi A.S.'s USD370 million senior secured notes, which are rated 'B', on Rating Watch Negative (RWN). A full list of rating actions is detailed below.
+RATING RATIONALE
+The RWN reflects persisting limited visibility over the amount and timing of receipt of insurance proceeds for the earthquake in February 2023. While we acknowledge the progress in its operations and the reopening of some berths earlier than expected following the disaster, uncertainty over insurance receipts may lead to cash depletion beyond management assumptions and subsequent drawdown under the debt service reserve account (DSRA) to service debt.
+LimakPort's currently available liquidity, excluding DSRA, is USD23 million. However, these will be used to also fund the remaining reconstruction costs of USD48 million, pending receipt of remaining insurance proceeds.
+LimakPort has still not withdrawn its notification in February to the concession grantor of a force majeure event. We believe the grantor has the right to terminate the concession if the force majeure event lasts longer than eight months. However, this is not Fitch's base case.
+For an overview of LimakPort's credit profile, including key rating drivers, see the rating action commentary 'Fitch Affirms LimakPort's Notes at 'B', Outlook Negative' published on 30 November 2022 on www.fitchratings.com.
+KEY RATING DRIVERS
+Infrastructure - Partially Reopening, Earlier Than Expected
+Berth 2 was opened on 8 April, one month ahead than expected, with capacity up to 20,000 TEU per month. Berth 3 and 4 (180-meter length only) were opened on 29 May, with a capacity of around 15,000 - 20,000 TEU per month.
+The remaining length of Berth 3 and 4 is expected to gradually resume operations by October 2023. Once Berth 3 and 4 are fully operational, the monthly capacity will reach 70,000 TEU. Twelve out of LimakPort's 14 RTG cranes and all its four STS cranes are now repaired and either in operations or on standby until Berth 3 and 4 are fully operational.
+Operations - Partial Resumption
+The operations were partially resumed in the port with available capacity of 35,000-40,000 TEU per month, less than half the amount in normal circumstances, although the port is now working at close to its existing capacity. In June and July, the port served around 35,000 TEU, compared with 44,500 TEU in January this year.
+Management expects to return to January's traffic level by October this year as the region recovers strongly from the earthquake. However, this is subject to the completion of reconstruction works and reopening of the remaining berths in the port.
+Construction Costs - Prerequisite for Full Operations
+Management has recently confirmed an increase in reconstruction costs to USD60 million, from USD25 million initially assessed in March, due to unexpected costs related to the restoration of breakwater, storage yard and pile caps. However, the insurance group has yet to confirm the compensation amount and associated payment schedule.
+The targeted full operations of the port by December 2023 is dependent on of the reconstruction work on Berth 1, 3 and 4 being completed on time and on budget. Delays to the schedule or an unexpected increase in the estimated costs and related funding requirement would hit the planned operations of the port and its projected cashflows.
+Insurance - Lack of Clarity on Total Refunds and Timing
+LimakPort has more than adequate insurance coverages for property damages (up to USD260 million) and business interruption (up to USD65 million). Based on meetings held with the insurance group, management expects insurance payments to substantially back their estimate on the property damage as well as receiving USD24 million for business interruptions, with expectation to be paid over 2023 and 2024. Management has confirmed to Fitch that LimakPort has received an approval from the insurance for USD20 million as an advance payment, of which USD18 million was cashed-in in June and July.
+However, given the size of the capex and lack of evidence from insurance companies fully backing management expectations, we still lack full visibility on LimakPort's cash flow projections over this year and the next. Higher-than-expected capex, a shortfall in insurance receipts or a timing mismatch with expectations may severely affect liquidity and cash balances, thus jeopardising debt service capabilities. The local government also has not announced a support package, as the focus is still on humanitarian and rescue efforts.
+Scenario Analysis
+Management assumes full indemnification under its insurance agreements of USD55 million for property damage plus USD24 million for business interruption. Expectations is to receive USD47 million this year (including USD18 million already received) and USD32 million by August 2024. Under such a scenario LimakPort's cash balance, which includes cash generation from resumed operations but excludes reserves, remains strong at around USD30 million for 2023-2027.
+In Fitch's view, the amount and timing of the insurance payments to be received is critical. As a consequence, we have identified two break-even scenarios to assess how long LimakPort can afford a delay to insurance receipts and the minimum insurance payment to avoid tapping the DSRA.
+Under the first scenario LimakPort can delay insurance receipts until November 2023 before depleting its cash and using the DSRA for the January 2024 notes payment.
+Under the second scenario, LimakPort requires a minimum of USD10 million additional insurance payment before depleting its cash and using the DSRA for the January 2024 payment. However, under this scenario, liquidity would remain tight.
+The above scenarios assume that the port will be performing operationally as projected by management and any further increase in the construction costs will be added to the insurance payments to be received from the insurance group.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+- A downgrade of Turkiye's sovereign rating
+- Non-receipt or delays in receipt of insurance claims or other factors leading to a significant depletion of cash reserves could lead to a multiple-notch downgrade
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+- Clear visibility on the financing of restoration works underpinning a solid liquidity position, assuming the port returns to normal operations by then
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Sovereigns, Public Finance and Infrastructure issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of three notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+TRANSACTION SUMMARY
+The port of Iskenderun is a state-of-the-art container and general cargo port located in east-Mediterranean Turkiye. The port is operated by LimakPort since its privatisation in 2011 under a 36-year concession agreement. LimakPort has issued USD370 million of long-term 144A/Reg S fully amortising project bonds. Proceeds were mainly used to completely repay its existing debt, acquire operational equipment, upstream cash to shareholders and fund liquidity accounts.
+Key Rating Drivers - Risk Assessments
+Revenue Risk (Volume): 'Midrange'
+Revenue Risk (Price): 'Midrange'
+Infrastructure Development & Renewal: 'Midrange'
+Debt Structure: 'Midrange'
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+LimakPort has an ESG Relevance Score of '3' for GHG Emissions & Air Quality versus the sector default score of '2' due to LimakPort's sustainability-linked bond features. These will result in a step-up in interest rate if targets regarding electrification of port vehicles are not met by set milestones. This exposes the port to risk relating to reduction in GHG Emissions although the impact of this is deemed minimal with a very low impact on the overall rating.
+Unless otherwise stated in this section the highest level of ESG credit relevance is a score of '3'. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Limak Iskenderun Uluslararasi Liman Isletmeciligi A.S.
+   Limak Iskenderun Uluslararasi Liman Isletmeciligi A.S./secured/1 LT
+LTB Rating Watch Maintained
+B 

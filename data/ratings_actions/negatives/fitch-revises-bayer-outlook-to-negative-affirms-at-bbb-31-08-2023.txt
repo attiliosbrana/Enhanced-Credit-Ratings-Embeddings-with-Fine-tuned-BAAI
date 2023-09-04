@@ -1,0 +1,95 @@
+Fitch Revises Bayer's Outlook to Negative; Affirms at 'BBB+'
+
+Fitch Ratings - Madrid - 31 Aug 2023: Fitch Ratings has revised Bayer AG's Outlook to Negative from Stable, while affirming its Long-Term Issuer Default Rating (IDR) and senior unsecured rating at 'BBB+'. A full list of ratings is detailed below.
+Fitch has also revised subsidiary Monsanto Company's (Monsanto) Outlook to Negative from Stable, and affirmed its Long-Term IDR at 'BBB+', in line with the rating of its parent Bayer under Fitch's Parent/Subsidiary Linkage Methodology.
+The Negative Outlook reflects greater operational and business risks in Bayer's core operations - pharma and crop science - and event risks associated with multiple pending litigation settlements. We expect crop science to see a decline in revenues after a positive 2022, which coupled with increasing competition and pricing pressures in the pharma business, will result in limited free-cash-flow (FCF) generation and EBITDA net leverage at or close to the rating's negative sensitivity through 2026.
+The IDR reflects Bayer's strong market position and diversification across life-science sectors with underlying growth and a solid performance in its consumer business.
+KEY RATING DRIVERS
+Leverage to Remain High: The Negative Outlook reflects limited rating headroom as lower-than-expected profitability in both the crop science and pharmaceuticals divisions leads to persistently high leverage, with little prospect for organic deleveraging. We are now anticipating Fitch-defined EBITDA margins to fall to 21.5% in 2023, leading to negative FCF and EBITDA net leverage at the 3.0x negative sensitivity. We expect Bayer's leverage to remain close to or at the negative sensitivity through 2026, which leaves no headroom for operational setback, or negative events regarding its litigation issues, which could lead to structurally higher leverage in the medium term.
+Temporary Pressures in Crop Science: After an extraordinarily positive performance in the crop science division due to production shortages in China in 2022, we now expect volumes and prices of herbicides to decline across multiple regions due to channel de-stocking. We anticipate these setbacks to result in a high-single digit revenue drop in 2023 which, together with inflationary pressures, will lead to a sharp decrease in profitability to around 22% (2022: 27.3%). We expect these pressures to be temporary, and the market for glyphosate-based herbicides to stabilise from 2024, albeit with some uncertainty on the trajectory of this recovery.
+Pharma Investment to Reduce Margins: Our rating case assumes neutral to negative sales growth in Bayer's pharma division in the next four years, due to the increased competition and pricing pressures in China on Bayer's legacy portfolio. Bayer expects two of its latest launches, Kerendia and Nubeqa, to offset some of the decline in the short term. It continues to invest in other specialty treatments, like its Factor XIa inhibitor asundexian in the medium term, and its R&D in cell and gene therapy in the medium-to-long term, which we do not expect to generate revenue before 2026.
+We expect the profitability of the division to remain below its historical levels, as the portfolio transitions from its legacy products and as Bayer increases its R&D investments, which will further reduce FCF generation.
+Event Risks from Litigation: Fitch sees moderating risks from the ongoing US glyphosate litigation, after courts have decided in Bayer's favour in the latest resolutions. However, we continue to expect future payouts of EUR5.1 billion, for which Bayer has provisioned, for this and other pending cases, which will further exhaust FCF generation. Adverse legal rulings, which could increase Bayer's payouts over currently provisioned for levels and/or an increase in near-term cash payouts, could result in a rating downgrade.
+Strong, Diversified Business Profile: Bayer's ratings remain underpinned by the group's large scale, wide geographical and business diversification, and leading market positions in its three core divisions spanning pharmaceuticals, crop science and consumer health. It benefits from sound organic growth opportunities that are supported by its science-led business model. The latter capitalises on favourable long-term socio-economic trends, such as a growing and ageing population, which increase food consumption and welfare needs.
+More Cyclical than Pharma Peers: We apply slightly tighter leverage thresholds to Bayer's rating than other innovative pharma peers', due to the contribution of its crop science division, which straddles specialty chemicals and the strongly R&D-driven pharma, but with more cyclical sales. However, Bayer's crop science division enjoys a strong position in R&D-intensive genetically modified seeds, resulting in a business profile with similar risk characteristics to those of innovative pharma and biotech firms.
+Monsanto's IDR Aligned with Bayer's: The alignment of wholly-owned Monsanto's IDR with that of Bayer reflects our view of Monsanto as a strategic, operationally and financially integrated subsidiary, despite our assessment of weak legal links between both entities (full ownership, but no explicit guarantees and limited cross-default provisions across parent and subsidiary debt). In line with our updated PSL methodology Monsanto's rating remains equalised with Bayer's IDR.
+DERIVATION SUMMARY
+We continue to apply our Pharmaceutical Ratings Navigator framework to Bayer, as about 53% of the group's EBITDA is generated by its pharma and consumer healthcare divisions. Moreover, the business model of its seeds business within its crop science division is R&D-driven and more comparable with that of the pharma industry than with that of specialty chemicals.
+However, while the consumer healthcare and crop science operations add diversification and scale, the crop science business also introduces higher cyclicality and exposure to the supply-demand imbalances of agriculture. Bayer's leverage sensitivities are aligned with the levels of the Navigator framework for the rating. However, given the higher volatility of the crop science operations, they are around 0.5x tighter than the leverage sensitivities of major Europe-based pharma peers rated between 'BBB+' and 'A'.
+Bayer has a similar or larger scale than most of its higher-rated pharma peers. It is similar in size to Novartis AG (AA-/Stable), Roche Holding Ltd (AA/Stable) and Pfizer Inc. (A/Stable), Sanofi SA (AA-/Stable) and slightly larger than AstraZeneca PLC (A-/Stable).
+Bayer has a structurally lower profitability than its pharma peers, given its more diversified business model that includes the lower-margin consumer healthcare and crop protection businesses, which is balanced by its higher-margin pharma operations. This makes its EBITDA margins in line with that of peers like Sanofi and Novartis, but lower than that of pure specialty pharma ones like Astra Zeneca, Novartis, Roche, and US peers such as Pfizer, and Viatris Inc. (BBB/Stable). We expect Bayer's profitability to further decline as it increases its pharma R&D investments in the short-to-medium term, which would make it compare unfavourably with similarly rated pharma peers'.
+We expect Bayer's EBITDA net leverage to remain at or below 3.0x, with little headroom due to expected lower profitability and litigation payments that reduce cash flow generation. This level is lower than that of Amgen Inc. (BBB+/RWN) after its Horizon acquisition, and of Viatris, but above that of higher-rated Novartis, Roche, AstraZeneca, and Pfizer.
+Compared with its agrochemical peer Corteva, Inc. (A/Stable), Bayer's crop science division is 50% larger and has higher margins of above 23% versus Corteva's 18% for the past two years. However, Bayer's rating is constrained by materially higher leverage compared with our projected leverage for Corteva.
+KEY ASSUMPTIONS
+Key Assumptions Within Our Rating Case for the Issuer:
+- Organic sales to decline about 4% in 2023, mainly due to a high single-digit decline in crop science revenue. Organic growth of 2% in 2024, 1.5% in 2025, and flat in 2026
+- EBITDA margin down at 21.5% for 2023, from 25.9% in 2022, due to the lower margins at the pharma and crop science divisions. We expect a steady recovery to 23% in 2026
+- Restructuring and integration costs of EUR900 million in 2023, EUR650 million in 2024, and EUR250 million in 2025-2026
+- Capex at about 5.8%-6.2%% of sales 2023-2026
+- Litigation settlement payments of about EUR2.5 billion in 2023, and EUR0.9 billion in 2024-2026
+- Net annual acquisitions of EUR0.9 billion during 2023 and EUR0.7 billion in 2024-2026
+- Dividends of about EUR2.4 billion in 2023, and remaining within the issuer's stated financial policy of 30%-40% of previous years' earnings per share through 2026
+- No share buybacks or equity issue to 2026
+RATING SENSITIVITIES
+Bayer
+Factors that Could, Individually or Collectively, Lead to Upgrade:
+Fitch does not anticipate an upgrade in the near term, given its current stated operational guidance. Over time, we would consider the following factors for an upgrade:
+- EBITDA net leverage below 2.5x on a sustained basis
+- Funds from operations (FFO) margin consistently above 15% and EBITDA margin above 24%
+Factors that Could, Individually or Collectively, Lead to a Revision of Outlook to Stable:
+- EBITDA net leverage consistently below 3.0x
+- FCF margin consistently above 2%
+- Successful R&D execution leading to increased revenue from upcoming products, and EBITDA margin consistently above 22%
+Factors that Could, Individually or Collectively, Lead to Downgrade
+- Constantly neutral-to-negative FCF generation, leading to EBITDA net leverage above 3.0x
+- Failure to deliver on strategic objectives on sales growth
+- FFO margin consistently below 12% and EBITDA margin below 21%
+Monsanto
+Factors that Could, Individually or Collectively, Lead to Upgrade
+- An upgrade of Bayer's Long-Term IDR
+Factors that Could Lead to a Revision of Outlook to Stable:
+- Bayer's Outlook being revised to Stable
+Factors that Could, Individually or Collectively, Lead to Downgrade
+- A downgrade of Bayer's Long-Term IDR
+- Weakening operational and strategic ties between Monsanto and Bayer, leading us to assess Monsanto's credit profile as being lower than Bayer's, based on Fitch's PSL Criteria
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Satisfactory Liquidity: As of end-2022, Bayer had EUR9.8 billion in readily available cash (of which EUR850 million Fitch treats as restricted) and EUR4.5 billion in undrawn committed bank facilities maturing in 2025. These resources should cover its EUR7.4 billion short-term debt maturities plus any litigation payments in 2023.
+Hybrid Debt: Bayer has around EUR4.5 billion in hybrid debt (BBB-). All hybrid debt issues attract 50% equity credit, limited by the cumulative nature of coupon deferrals, which are debt-like features, in line with Fitch's methodology.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+Bayer has an ESG Relevance Score of '4' for customer welfare due to the significant pay-outs related to the glyphosate litigation in the US, which has a negative impact on the credit profile and is highly relevant to the ratings.
+Bayer has an ESG Relevance Score of '4' for exposure to social impacts, due to social pressure to contain healthcare costs, which has a negative impact on the credit profile and, although mitigated by Bayer's diversification into crop science and consumer healthcare, is relevant to the ratings in conjunction with other factors.
+The US Inflation Reduction Act recently introduced by the Biden administration included mechanisms to manage prices for select innovative drugs for public payers. Xarelto, marketed in the US by Johnson & Johnson through a licensing agreement with Bayer, has been selected as one of the initial drugs for this programme. Fitch deems the effect of the designation neutral in the near term (12-18 months). Over the longer term, the pricing dynamics might lead to lower revenues from the licensing agreement.
+Unless otherwise disclosed in this section, the highest level of ESG credit relevance is a score of '3'. This means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation of the materiality and relevance of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visitwww.fitchratings.com/esg
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Bayer US Finance LLC
+   senior unsecured
+LTBBB+ Affirmed
+BBB+ 
+Monsanto Company
+LT IDRBBB+ Affirmed
+BBB+ 
+senior unsecured
+LTBBB+ Affirmed
+BBB+ 
+Bayer Capital Corporation B.V.
+   senior unsecured
+LTBBB+ Affirmed
+BBB+ 
+Bayer AG
+LT IDRBBB+ Affirmed
+BBB+ 
+ST IDRF2 Affirmed
+F2 
+senior unsecured
+LTBBB+ Affirmed
+BBB+ 
+subordinated
+LTBBB- Affirmed
+BBB- 

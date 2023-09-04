@@ -1,0 +1,81 @@
+Fitch Affirms 888 at 'BB-'; Outlook Negative
+
+Fitch Ratings - Stockholm - 22 Aug 2023: Fitch Ratings has affirmed 888 Holdings PLC's (888) Long-Term Issuer Default Rating (IDR) at 'BB-'. The Outlook on the IDR remains Negative. Fitch has also affirmed senior secured ratings of debt issued by companies of 888 Group at 'BB+' with a Recovery Rating at RR2'. A full list of rating actions is detailed below.
+The Negative Outlook reflects continuing uncertainty over the potential impact on its credit profile from the regulation overhaul in 888's core market. A delay in the UK Gambling Act review reduces visibility on online gaming revenues in the UK. Worse-than-expected regulatory challenges could put pressure on the ratings. Delivery of identified synergies and strict budget discipline remain critical for the rating trajectory.
+The 'BB-' IDR continues to reflect the strong combined business profile of 888 and William Hill International (WHI) after the WHI acquisition in 2022, with a widely recognised online and retail brand portfolio, as well as a weak, albeit improving, combined financial profile.
+KEY RATING DRIVERS
+Profitability Improvement Contingent on Synergies: 888 has realised GBP66 million synergies at an accelerated pace in 1H23, materially exceeding Fitch's forecasts. We now expect an EBITDAR margin of 19.2% in 2023, 350bp higher than in our rating case in August 2022, as higher profitability offsets lower-than-previously forecast revenues. Nevertheless we do not yet have full visibility of the annualised impact on 888's reported results, and see some execution risk regarding the remaining synergies.
+Smoother Deleveraging Pace: Higher profitability and a focus on deleveraging have resulted in a smoother deleveraging pace compared with our previous rating case. We now expect 888's EBITDAR net leverage at only slightly above its negative rating sensitivity of 6.0x in 2023, compared with our previous forecast of 6.7x. By end-2026, ahead of large maturities in 2027-2028 we expect 888 to deleverage to 4.4x, a comfortable level for the 'BB' category.
+Regulatory Impact Anticipated: Similar to its peers, 888 has been rolling out responsible gaming and customer safety measures since 2021 in anticipation of regulation change in the UK. This continues to affect revenues generated in UK online markets, with 2Q23 online revenues down 10% YoY, and 33% compared with 1Q21. However, it also led to an increase of recreational players to over 80% in 2Q23 versus less than 60% in 1Q21. Some implemented measures such as online stake limits at GBP5-GBP10 are quite low and comparable to retail spin limit of GBP2-GBP5.
+We do not exclude more strict restrictions and forecast low single-digit revenue decline in UK online for 888 in 2024 and 2025, in contrast to management's expectations of no incremental financial impact from the UK Gambling Act review.
+Low Fixed Charge Cover: Despite an increase in forecast EBITDA, 888's fixed charge cover will likely remain around the negative sensitivity of 1.8x, at least until 2025. High debt quantum and high interest cost will continue to erode EBITDA cash conversion. However, interest on 70% of its debt remains hedged, which reduces the downside for further fixed charge cover deterioration.
+Corporate Governance Record: Know Your Client procedure failures that led to a VIP accounts freeze in January 2023, unanticipated top management changes and minority shareholder suitability concerns from the UK regulator, underline 888's weak recent record of corporate governance. High regulatory scrutiny on the gaming business means corporate governance issues could lead to higher regulatory risks. At the same time, we acknowledge 888's cooperation with regulators and the self-reported nature of some of incidents in its international markets, and view license-suspension risks as very limited.
+Share of Less Regulated Markets: Despite receiving 95% of revenue from locally regulated or taxed markets as of 2Q23, 888 continues to actively develop its growth and pipeline markets, some of which are not fully regulated. Their higher profitability may provide a boost to margins and improve brand perception in case these markets become regulated. However, they also have higher volatility of revenues and profits over the medium term, including extreme cases of part or full market closures or legal challenges and claims.
+Strong Brand Portfolio: Both WHI and 888 enjoy strong brand recognition in the UK market. We view established brands as less vulnerable to possible regulatory restrictions on advertising in gaming. Our forecast assumes that 888 and WHI will maintain their strong market positions, supported by marketing synergies and combined technological and business expertise.
+DERIVATION SUMMARY
+888's post-acquisition business profile can be compared with Flutter Entertainment Plc's (Flutter, BBB-/Stable) and Entain Plc's (Entain, BB/Stable), given their similar portfolio of strong brands, but smaller scale and slightly weaker geographical and product diversification. However, we expect 888 to have higher leverage and lower profitability over the first two to three years post the WHI acquisition, which translate into its rating differential with Flutter and Entain.
+All three entities have high exposure to the UK market and are vulnerable to regulatory risk, which is factored into their current ratings. Of these three, 888 has the highest exposure to the UK and highest share of gaming revenues, making it more vulnerable to potential adverse regulations.
+Post-acquisition, 888 has a similar scale to but is more leveraged than Allwyn International a.s. (BB-/Stable). Its organic growth potential of online gaming and betting is offset by higher regulatory risk than Allwyn's lottery business. Allwyn's strong free cash flow (FCF) generation is mitigated by high acquisitive growth (including using cash flows to increase stakes in existing businesses), shareholder-friendly financial policy and a more complex group structure. The resulting credit profiles are broadly comparable, resulting in the same rating.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within Our Rating Case for the Issuer:
+- Annual revenue growth of around 1% in 2024-2025
+- Synergies of around GBP85 million in 2023, growing to GBP120 million in 2024 and by GBP5 million p.a. in the following two years
+- EBITDAR margin of 19% in 2023 and around 21% in 2024, driven by synergies
+- Non-recurring expenses averaging around GBP60 million p.a. in 2023-2025
+- Capex at around 4% of revenues to 2026
+- No dividends in 2023-2026
+RATING SENSITIVITIES
+Factors That Could, Individually or Collectively, Lead to Upgrade:
+- Evidence of EBITDAR margin being maintained above 15% following successful integration of the WHI business
+- Sustained low single-digit FCF margins after dividends
+- Evidence of adjusted net debt/EBITDAR trending lower towards 5.0x
+- EBITDAR fixed charge cover above 2.5x on a sustained basis
+Factors That Could Individually or Collectively, Lead to the Outlook Being Revised to Stable:
+- Increased visibility over regulation in the UK
+- Successful integration of the WHI business with delivery of identified synergies
+- Neutral to positive FCF after dividends
+- Visibility that management is adhering to a more conservative financial policy, with adjusted net debt/EBITDAR trending below 6.0x on a sustained basis
+Factors That Could, Individually or Collectively, Lead to Downgrade:
+- EBITDAR margin below 12% due to increased regulatory pressure or failure to effectively integrate the WHI business
+- Negative FCF after dividends
+- Adjusted net debt/EBITDAR above 6.0x on a sustained basis
+- EBITDAR fixed charge cover maintained below 1.8x
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Solid Liquidity, Concentrated Maturities: As of 30 June 2023, 888 had solid liquidity with Fitch-calculated readily available cash of GBP88 million (excluding GBP130.3 million customer balances and GBP100 million adjustment for working-capital swings) and a fully undrawn GBP150 million revolving credit facility (RCF). At the same time, virtually all debt except for GBP11 million of legacy WHI bonds, matures in 2027-2028.
+We expect FCF margin to turn positive from 2024, but not sufficiently for full debt repayment at maturity. We therefore expect 888 will aim to refinance a majority of its outstanding debt well ahead of maturities.
+ISSUER PROFILE
+Gibraltar-based gaming operator 888 is a global online gaming and sports betting operator focused on casino and poker, with retail operations in the UK.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+888 has an ESG Relevance Score of '4' for Customer Welfare - Fair Messaging, Privacy & Data Security due to increasing regulatory scrutiny of the sector, particularly in the UK, greater awareness around social implications of gaming addiction and an increasing focus on responsible gaming. Although we have factored into our rating case of our conservative assumptions on UK online sales and profitability, ahead of the UK Online Gambling Review, more punitive legislation than envisaged could put the ratings under pressure, given 888's high leverage profile.
+888 has an ESG Relevance Score of '4' for Corporate Governance - Board Independence and Effectiveness, Ownership Concentration due to recent unanticipated top management rotations, and regulator's concerns over suitability of one of its minority shareholders.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+888 Acquisitions Limited
+ 
+
+  senior secured
+LTBB+ Affirmed
+RR2
+
+BB+ 
+888 Holdings PLC
+LT IDRBB- Affirmed
+
+
+BB- 
+888 Acquisitions LLC
+ 
+
+  senior secured
+LTBB+ Affirmed
+RR2
+
+BB+ 

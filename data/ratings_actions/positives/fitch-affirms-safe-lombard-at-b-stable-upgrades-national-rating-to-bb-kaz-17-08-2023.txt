@@ -1,0 +1,77 @@
+Fitch Affirms Safe-Lombard at 'B-'/Stable; Upgrades National Rating to 'BB-(kaz)'
+
+Fitch Ratings - Frankfurt am Main - 17 Aug 2023: Fitch Ratings has affirmed Kazakhstan-based Safe-Lombard LLP's (SL) Long-Term Issuer Default Rating (IDR) at 'B-' with Stable Outlook. Fitch has also upgraded SL's National Long-Term Rating to 'BB-(kaz)' from 'B+(kaz)' and assigned a Stable Outlook. A full list of ratings is below.
+KEY RATING DRIVERS
+Modest Franchise, Granular Portfolio: SL's ratings reflect its small franchise in the domestic finance sector, concentrated business model, with a focus on micro-loans secured by gold (48% of the total loan portfolio at end-1Q23) and with used cars (41%), basic underwriting standards and risk controls as well as a developing funding profile with assets mostly funded by equity (70% of total assets at end-1H23), as well as other sources including related-party loans, local bank loans and bonds.
+The ratings also factor in SL's low leverage and solid capital buffers, the benefits of a granular, mostly short-term secured loan portfolio, backed by high-quality liquid collateral and fairly small credit losses.
+National Rating Upgraded: The upgrade of SL's National Long-Term Rating reflects its more diversified funding base, improving profitability and stabilised asset quality. However, in our view, this could come under pressure in the medium term due to the volatile macroeconomic environment.
+Growing Scale and Business Diversification: SL operates as a pawn shop issuing secured loans to under-banked borrowers with limited credit history, backed mostly by gold and used cars. The net loan portfolio increased by 18% in 1H23 (69% in 2022) to KZT23 billion (USD50 million), driven by the company's expansion in the existing lending segments and new acquisitions. SL is one of the largest companies in the pawnbroker market, but its franchise is modest relative to local micro-finance companies. In our view, key person risk has a significant effect on company's governance practices due to a high reliance on the sole shareholder in decision-making.
+Improving Profitability: SL's profitability was stable in 2022 and 1H23, with a pre-tax income/average assets ratio of 23% (2022: 23%), despite a loss in 1H22 driven by a net foreign-exchange (FX) loss. SL maintains a sizable unhedged FX position (short in Russian rouble), which could lead to performance volatility. At the same time, we note that SL's core profitability is strong with a four-year average net interest margin of 50% between 2019 and 2022.
+Regulatory Risk: Operating in a single jurisdiction means SL's business model relies on the stability of high-cost lending regulation in Kazakhstan. A sharp tightening of loan affordability regulation could compromise the viability of this business.
+Low Leverage: So far SL has retained its high profits and has very low leverage (gross debt to tangible equity was 0.4x at end-1H23; 0.5x at end-2022). It has comfortable headroom to regulatory limits. We expect the company to increase leverage, provided it secures better funding access to support business expansion.
+Stabilising Asset Quality: SL's impaired loans ratio improved to 4.3% at end-1H23 from 6.6% at end-2021, as the company tightened underwriting standards and risk policy, and substantially expanded its portfolio. Loan loss provision coverage of impaired loans was a low 23% at end-1H23 (21% at end-2022) partly offset by a record of good recoveries. In Fitch's view, SL's risk profile is largely determined by its business model to service higher-risk, under-banked customers and by its significant unhedged FX exposure, with 59% of total non-equity funding foreign-currency-denominated at end-1H23.
+Improved Funding Profile: SL has slightly diversified its funding. It currently includes secured local bank funding (22% of total non-equity funding at end-1H23), local- and foreign-currency bonds (59%), related-party loans (11%), and loans from international financial institutions (IFIs), mostly specialised microfinance funds. SL remains largely equity funded, but management aims to increase borrowings. SL's liquidity profile benefits from solid cash buffers of 45% of the company's short-term borrowings (which could be volatile) at end-1H23 and its cash-generative business model with high portfolio turn-over, allowing to quickly deleverage if ever required.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+-FX-induced losses or material asset-quality deterioration, coupled with a weaker revenue generation ability, weighing on both profitability and capital buffers.
+-A regulatory event or loss event potentially affecting business model stability and ultimately viability.
+-Signs of funding and refinancing problems, leading to inability to grow and loss of market share.
+-A material governance event threatening SL's access to funding markets.
+-Significant deterioration of the company's capital position or gross debt/tangible equity exceeding 4x.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+-Upside is limited in the short to medium term by the company's modest franchise and scale. Over the medium to long term, sustained growth of SL's franchise and scale and gradual diversification into products less sensitive to regulatory lending caps could lead to an upgrade.
+-Further sustained funding diversification through the addition of new funding sources from third parties and stable and proven access to bank and IFI funding could also support positive rating action in the long term.
+DEBT AND OTHER INSTRUMENT RATINGS: KEY RATING DRIVERS
+SL's local bond's rating is equalised with its Long-Term Local-Currency IDR, reflecting our view that the likelihood of default on the senior unsecured obligation is the same as that of the company. Its KZT3 billion senior unsecured local bonds have a fixed coupon of 14% paid quarterly and mature in November 2024.
+DEBT AND OTHER INSTRUMENT RATINGS: RATING SENSITIVITIES
+Factors That Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+-Negative rating action on SL's Long-Term IDR.
+-Weaker recovery expectations, for instance, due to materially weaker capitalisation or higher asset encumbrance.
+Factors That Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+-Positive rating action on SL's Long-Term IDR.
+ADJUSTMENTS
+SL's 'b-' assessed Standalone Credit Profile (SCP) is below its 'b' implied SCP due to the following adjustment reason: business profile
+The sector risk operating environment score has been assigned below the implied score due to the following reason: regulatory and legal framework, business model
+The earnings and profitability score has been assigned below the implied score due to the following reason: portfolio risk
+The capitalisation and leverage score has been assigned below the implied score due to the following reason: size of capital base, risk profile and business model
+The funding and liquidity score has been assigned above the implied score due to the following reason: cash-flow generative business model
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+SL has an ESG Relevance Score of '4' for customer welfare given its exposure to higher-risk underbanked borrowers with limited credit history and variable incomes. This highlights social risks arising from increased regulatory scrutiny and policies to protect more vulnerable borrowers (such as lending caps) regarding its lending practices, pricing transparency and consumer data protection. This has a moderately negative impact on SL's credit profile and is relevant to the ratings in conjunction with other factors.
+SL has as ESG Relevance Score of '4' for exposure to social impacts. This reflects risks arising from a business model focused on extending credit at high rates, which could give rise to potential consumer and market disapproval, as well as to potential regulatory changes and conduct-related risks that could impact the company's franchise and performance metrics. This has a moderately negative impact on SL's credit profile and is relevant to the ratings in conjunction with other factors.
+SL has an ESG Relevance Score of '4' for governance structure. This reflects high key-person risk due to significant dependence in decision-making on the sole shareholder, which has a negative impact on the credit profile, and is relevant to the rating in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Safe-Lombard LLP
+LT IDRB- Affirmed
+
+
+B- 
+ST IDRB Affirmed
+
+
+B 
+LC LT IDRB- Affirmed
+
+
+B- 
+LC ST IDRB Affirmed
+
+
+B 
+Natl LTBB-(kaz) Upgrade
+
+
+B+(kaz) 
+senior unsecured
+LTB- Affirmed
+RR4
+
+B- 

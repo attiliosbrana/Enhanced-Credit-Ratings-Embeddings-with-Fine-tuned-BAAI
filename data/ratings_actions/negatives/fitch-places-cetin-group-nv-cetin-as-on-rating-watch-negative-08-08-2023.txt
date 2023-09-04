@@ -1,0 +1,59 @@
+Fitch Places CETIN Group N.V. and CETIN a.s. on Rating Watch Negative
+
+Fitch Ratings - Warsaw - 08 Aug 2023: Fitch Ratings has placed Czech Republic-based CETIN Group N.V.'s (CETIN Group) and CETIN a.s.'s (CETIN) Long-Term Issuer Default Ratings (IDR) and senior unsecured ratings of 'BBB' on Rating Watch Negative (RWN). A full list of rating actions is detailed below.
+The RWN follows the announcement by CETIN Group's ultimate parent, PPF Group, of its agreement to sell a controlling stake in CETIN Group's parent, PPF Telecom Group B.V. (PPF TG, BBB-/Stable), to Emirates Telecommunication Group Company (e&). The transaction excludes PPF TG's existing Czech assets, including the Czech operator O2 Czech Republic a.s. (O2 CZ) and CETIN. The Czech assets will be transferred out of PPF TG and continue to be an indirect subsidiary of PPF Group. The transaction is expected to close in or before 1Q24 and is subject to regulatory approvals.
+The RWN reflects current low visibility on the final transaction and capital structure of CETIN Group and whether it would be consistent with its existing rating. The RWN would be resolved on completion of the transaction or confirmation of the company's transaction structure and financial policy. Resolving the RWN could result in an affirmation of the rating at 'BBB' or a one-notch downgrade. PPF Group have indicated that they aim to maintain the capital structures for CETIN Group and CETIN commensurate with existing ratings.
+KEY RATING DRIVERS
+Transaction With e&: e& will acquire 50% plus one share in PPF TG's assets in Bulgaria, Hungary, Serbia and Slovakia for EUR2.15 billion. It stands to receive additional earn-out payments of up to EUR350 million within three years after the closing if PPF TG exceeds certain financial targets and a claw-back of up to EUR75 million if such financial targets are not achieved. PPF TG's existing Czech assets, which include CETIN and O2 CZ, are not included in the transaction and will be transferred out of PPF TG.
+Change in Operating Profile: Following the transaction, CETIN Group's operating profile will be based on CETIN's Czech telecoms infrastructure operations. The operating profile will exclude the mobile telecoms tower and network infrastructure assets of PPF TG in other central and eastern European (CEE) operations. The reduced asset diversification will weaken the operating profile of CETIN Group and reduce leverage capacity per rating band.
+Uncertainty on Final Transaction Structure: The transaction will lead to a new immediate parent for CETIN Group and, potentially, a new consolidated rating scope depending on the structure of the transaction that is yet to be finalised. CETIN Group currently benefits from being rated on a standalone basis subject to a maximum one-notch difference to the consolidated rating profile of its parent PPF TG. The rating reflects sufficient ringfencing from its parent based on Fitch' Parent Subsidiary Linkage (PSL) Rating Criteria.
+The full rating drivers of CETIN Group's and CETIN's existing rating are detailed in "Fitch Affirms CETIN Group and CETIN at 'BBB'; Outlook Stable", dated 7 November 2022 (https://www.fitchratings.com/research/corporate-finance/fitch-affirms-cetin-group-cetin-at-bbb-outlook-stable-07-11-2022).
+Resolving RWN: Confirmation that a new transaction structure will continue to allow a standalone rating in conjunction with an appropriate capital structure and financial policy would result in the RWN being resolved with an affirmation of CETIN Group's and CETIN's existing ratings. A lack of sufficient ringfencing may lead to a new consolidated rating scope, with a different operating profile in conjunction with a more conservative capital structure and financial policy to maintain its current rating.
+DERIVATION SUMMARY
+CETIN's rating is equalised with CETIN Group's. This reflects our assessment of 'open' access and control and no legal ringfencing based on our PSL Rating Criteria. As a result, both their IDRs are at the level of the consolidated profile of CETIN and CETIN Group. Our assessment is that CETIN's Standalone Credit Profile (SCP) of 'bbb+' is stronger than CETIN Group's 'BBB' rating. Both subsidiary and parent have similarly strong operating profiles, but the subsidiary has much lower leverage.
+CETIN Group's rating (prior to the transaction with e&) reflects the business mix of its network infrastructure (such as mobile towers, local access fixed line network and backhaul networks), leverage profile, financial policy and the structure of the markets in which its infrastructure operates.
+Pure mobile tower operators such as Infrastrutture Wireless Italiane S.p.A. and Cellnex Telecom S.A. (both BBB-/Stable) have looser leverage thresholds than CETIN Group. This reflects their greater stability in and visibility over FCF, higher visibility over investment risks for growth projects, a higher share of mobile towers in each geographic market, lower exposure to technological obsolescence risks or greater geographic or cash flow scale.
+Integrated telecoms operators such as BT Group plc and Royal KPN N.V. (both BBB/Stable) have tighter leverage thresholds per rating band than CETIN Group, primarily due to the inclusion of their retail units that carry higher risk in relation to areas such as sales volume and pricing, technological obsolescence, mobile spectrum costs and market competition. For CETIN Group, these commercial risks are partially shifted to other PPF TG customer-facing operations as a result of its long-term contracts with a high share of fixed fees on a take-or-pay basis.
+KEY ASSUMPTIONS
+Fitch's Key Assumptions Within its Rating Case for CETIN Group (prior to the transaction with e&)
+- Revenue of around EUR1.1 billion in 2023, gradually increasing to EUR1.2 billion by 2025
+- Fitch-defined EBITDA margin of 51.5% in 2023, gradually increasing to 55.6% by 2025
+- Capex about 34%-37% of revenue in 2023-2025
+- Dividend payments of 100% of Fitch-defined pre-dividend FCF
+RATING SENSITIVITIES
+CETIN Group and CETIN
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/ Upgrade
+-The ratings are on RWN therefore a positive rating action is unlikely. However, visibility of a final transaction and capital structure and a financial policy, which are consistent with the existing ratings based on a new operating profile, or if the transaction does not take place would result in the removal of the RWN and rating affirmation.
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+- A final transaction and capital structure, and a financial policy, which are not commensurate with a 'BBB' rating for the new operating profile could result in the RWN being resolved with a one-notch downgrade
+For previous rating sensitivities, see "Fitch Affirms CETIN Group and CETIN at 'BBB'; Outlook Stable" dated 7 November 2022.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Comfortable Liquidity: At end-2022 CETIN Group had cash and cash equivalents of EUR82 million. Further liquidity is provided by a committed EUR200 million revolving credit facility due 2026. Its next maturities are in 2023 (CZK4.9 billion bond at CETIN) and 2026 (EUR955 million bank loan at CETIN Group). CETIN Group generates strong cash flow, supported by good revenue visibility.
+ISSUER PROFILE
+Pre-transaction CETIN Group is a telecoms network infrastructure provider with operations in the Czech Republic and three other CEE markets. CETIN operates fixed and mobile telecom network infrastructure in the Czech Republic and provides services on a wholesale basis.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+Unless otherwise disclosed in this section, the highest level of ESG credit relevance is a score of '3'. This means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation of the materiality and relevance of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/esg.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+CETIN Finance B.V.
+   senior unsecured
+LTBBB Rating Watch On
+BBB 
+CETIN Group N.V.
+LT IDRBBB Rating Watch On
+BBB 
+senior unsecured
+LTBBB Rating Watch On
+BBB 
+CETIN a.s.
+LT IDRBBB Rating Watch On
+BBB 
+senior unsecured
+LTBBB Rating Watch On
+BBB 

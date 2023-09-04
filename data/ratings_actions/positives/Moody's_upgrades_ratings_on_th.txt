@@ -1,0 +1,22 @@
+Moody's upgrades ratings on three classes of CDO notes issued by One Eleven Funding III, Ltd.
+$120.5 million of notes affected
+New York, August 25, 2023 -- Moody's Investors Service ("Moody's") has upgraded  the ratings on the following notes issued by One Eleven Funding III, Ltd.:
+U.S.$71,500,000 Class A-2-R Fixed Rate Senior Notes due 2037 (the "Class A-2-R Notes"), Upgraded to Aa1 (sf); previously on July 19, 2021 Assigned Aa3 (sf)
+U.S.$25,000,000 Class B-R Deferrable Fixed Rate Mezzanine Notes due 2037 (the "Class B-R Notes"), Upgraded to A1 (sf); previously on July 19, 2021 Assigned A3 (sf)
+U.S.$24,000,000 Class C-R Deferrable Fixed Rate Mezzanine Notes due 2037 (the "Class C-R Notes"), Upgraded to Baa1 (sf); previously on July 19, 2021 Assigned Baa3 (sf)
+One Eleven Funding III, Ltd. (the "Issuer"), originally issued in July 2019 and partially refinanced in July 2021, is a managed cashflow collateralized debt obligation (CDO). The notes are collateralized primarily by a portfolio of corporate loans and bonds. At least 30% of the portfolio must consist of senior secured loans, senior secured notes and eligible investments, up to 70% of the portfolio may consist of second-lien loans, unsecured loans and bonds, and up to 2% of the portfolio may consist of letters of credit. The transaction's reinvestment period will end in July 2024.
+RATINGS RATIONALE
+These rating actions reflect the benefit of sustained par coverage of the notes and shortening of the weighted average life (WAL) covenant. Based on Moody's calculation the deal currently has excess par of approximately $2.9 million over initial target par of $550.0 million. Furthermore, the deal benefited from shortening of the WAL covenant. In particular, Moody's modeled a portfolio WAL of 6 years compared to 11 years at the time of deal's ramp-up.
+Moody's modeled the transaction using a cash flow model based on the Binomial Expansion Technique, as described in "Moody's Global Approach to Rating Collateralized Loan Obligations."
+The key model inputs Moody's used in its analysis, such as par, weighted average rating factor, diversity score, weighted average spread, and weighted average recovery rate, are based on its published methodology and could differ from the trustee's reported numbers. For modeling purposes, Moody's used the following base-case assumptions:
+Performing par and principal proceeds balance: $550,000,000
+Diversity Score: 71
+Weighted Average Rating Factor (WARF): 4059
+Weighted Average Coupon (WAC): 4.94%
+Weighted Average Recovery Rate (WARR): 38.5%
+Weighted Average Life (WAL): 6.0 years
+In addition to base case analysis, Moody's ran additional scenarios where outcomes could diverge from the base case. The additional scenarios consider one or more factors individually or in combination, and include: defaults by obligors whose low ratings or debt prices suggest distress, defaults by obligors with potential refinancing risk, deterioration in the credit quality of the underlying portfolio, lower recoveries on defaulted assets.
+Methodology Used for the Rating Action:
+The principal methodology used in these ratings was "Moody's Global Approach to Rating Collateralized Loan Obligations" published in December 2021 and available at https://ratings.moodys.com/rmc-documents/74832. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.
+Factors that Would Lead to an Upgrade or Downgrade of the Ratings:
+The performance of the rated notes is subject to uncertainty. The performance of the rated notes is sensitive to the performance of the underlying portfolio, which in turn depends on economic and credit conditions that may change.  The Manager's investment decisions and management of the transaction will also affect the performance of the rated notes.

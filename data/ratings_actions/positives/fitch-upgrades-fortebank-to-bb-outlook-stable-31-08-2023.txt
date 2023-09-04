@@ -1,0 +1,58 @@
+Fitch Upgrades ForteBank to 'BB'; Outlook Stable
+
+Fitch Ratings - Dubai - 31 Aug 2023: Fitch Ratings has upgraded ForteBank JSC's (Forte) Long-Term Issuer Default Ratings (IDRs) to 'BB' from 'BB-', and Viability Rating (VR) to 'bb' from 'bb-'. The Outlook is Stable. Fitch has also upgraded the bank's National Long-Term Rating to 'A'(kaz) from 'A-'(kaz).
+The upgrade reflects a significant reduction of net high-risk assets, including legacy exposures, which no longer materially weigh on the bank's company profile, asset quality and capitalisation. The upgrade also captures a record of strong profitability metrics in the past four years and solid liquidity profile.
+A full list of rating actions is provided below.
+KEY RATING DRIVERS
+Forte's IDRs are driven by the bank's intrinsic credit strength. Our assessment factors in solid capital and liquidity buffers, and robust operating profitability. The ratings are constrained by a somewhat narrow franchise in a highly concentrated Kazakh banking sector, and a still fairly high, albeit recently decreased, impaired loans ratio.
+Net Problems Materially Reduced: Forte's asset quality is supported by an only moderate share of loans in total assets (42% at end-1H23), while non-loan assets are mostly of investment-grade credit quality. Impaired loans ratio notably declined to, albeit a still significant, 9% at end-1H23 from 13% at end-2021, although this was partially due to rapid loan growth in 2022. Net high-risk exposures (including foreclosed assets) were materially reduced to 11% of Fitch core capital (FCC) at end-1H23 from 41% at end-2021, helped by additional provisioning and capital build-up.
+Robust Performance: Forte has demonstrated strong performance in the past four years, with operating profit averaging 4.7% of risk-weighted assets (RWAs). Wide margins, due to its high-margin consumer finance segment, and adequate operating efficiency result in robust pre-impairment profit at 13% of average loans in 1H23. This is comfortably above the cost of risk and translates into a strong loss absorption capacity and a high return on average equity (annualised 32% in 1H23).
+High Capital Ratios: Forte's FCC was backed by strong profitability and made up a high 20% of RWAs at end-1H23. Fitch forecasts the FCC ratio to remain stable on high profit generation, net of sizeable dividend payouts, and on moderate growth plans.
+Ample Liquidity: Customer accounts made up a high 80% of total liabilities at end-1H23. Forte's liquid assets were equal to a large 49% of total assets at end-1H23. Net of wholesale debt repayments scheduled until end-2024, liquidity covered around 60% of customer accounts, which provides an ample liquidity cushion.
+Medium-Sized Franchise: Forte is the fifth-largest bank in Kazakhstan, with a moderate 6% of sector assets at end-1H23. The bank has a universal franchise. Forte has good access to the largest Kazakh corporates, including export-oriented companies, in addition to its focus on consumer finance and SME lending.
+Higher Risk Appetite in Retail: Compared with other banks in Kazakhstan Forte has a fairly conservative risk appetite in corporate and SME lending, which is underlined by its low cost of risk and moderate growth (2022 excepted) in these segments. By contrast, total impairment charges (equal to a high 3.5% of average loans in 2022-1H23) are driven by rapidly growing high-risk/high-return retail cash loans and residual legacy exposures. Forte's dollarisation - 14% of loans at end-1H23 - is manageable and in line with the sector's.
+Possible State Support: Forte's Government Support Rating (GSR) of 'b-' reflects our view of possible state support without senior unsecured creditors' participation in loss-sharing, given the bank's moderate systemic importance. The significant gap between the 'BBB' sovereign rating and the GSR is due to a patchy record of state support for banks in Kazakhstan, which in some cases of bank resolution involved the bail-in of state-owned senior unsecured debt, which is reference obligations for our IDRs.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+Forte's ratings could be downgraded on a material weakening of asset quality or capitalisation. In particular, the ratings could be downgraded, if higher loan impairment charges consume most of the profits for several consecutive quarterly reporting periods.
+In addition, downward rating pressure may result from a combination of weaker profitability, faster loan growth and large dividend distributions reducing the FCC ratio to below 15% on a sustained basis.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+A further upgrade would require a stronger business profile, as underscored by higher market shares and extended business-model stability. A stronger risk profile and continued asset-quality improvement could also be credit-positive.
+OTHER DEBT AND ISSUER RATINGS: KEY RATING DRIVERS
+Forte's senior unsecured debt ratings are in line with the bank's Long-Term IDRs, reflecting average recovery prospects in a default.
+OTHER DEBT AND ISSUER RATINGS: RATING SENSITIVITIES
+The bank's senior debt ratings are likely to move in tandem with the IDR.
+Forte's GSR is sensitive to changes in our assessment of sovereign support for Kazakhstan's banking sector. Evidence of weaker support and/or significant delays in support provision, resulting in medium-sized private banks' insolvency or failure and imposition of losses on senior unsecured creditors, could result in a downgrade of the GSR.
+An extended record of timely and sufficient capital support to privately-owned banks, including Forte, may result in an upgrade of the GSR.
+VR ADJUSTMENTS
+The asset quality score of 'bb-' is above the 'b & below' category implied score because of the following adjustment reason: non-loan exposures (positive).
+The capitalisation & leverage score of 'bb' is below the 'bbb' category implied score because of the following adjustment reason: risk profile and business model (negative).
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Financial Institutions and Covered Bond issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+Unless otherwise disclosed in this section, the highest level of ESG credit relevance is a score of '3'. This means ESG issues are credit neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation of the materiality and relevance of ESG factors For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/esg.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+ForteBank JSC
+LT IDRBB Upgrade
+BB- 
+ST IDRB Affirmed
+B 
+LC LT IDRBB Upgrade
+BB- 
+Natl LTA(kaz) Upgrade
+A-(kaz) 
+Viabilitybb Upgrade
+bb- 
+Government Supportb- Affirmed
+b- 
+senior unsecured
+LTBB Upgrade
+BB- 
+senior unsecured
+Natl LTA(kaz) Upgrade
+A-(kaz) 

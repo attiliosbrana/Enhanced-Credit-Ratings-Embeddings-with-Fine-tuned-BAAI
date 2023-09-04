@@ -1,0 +1,35 @@
+Fitch Downgrades Seven Classes of COMM 2016-COR1; Assigns Negative Outlooks; Resolves UCO
+
+Fitch Ratings - Chicago - 07 Aug 2023: Fitch Ratings has downgraded seven classes and affirmed seven classes of COMM 2016-COR1 Mortgage Trust. A Negative Outlook was assigned to classes C, D and X-C following their downgrades. In addition, the Rating Outlooks for class B and X-B were revised to Negative from Stable. The criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+COMM 2016-COR1
+   A-3 12594MBB3
+LTAAAsf Affirmed
+AAAsf 
+A-4 12594MBC1
+LTAAAsf Affirmed
+AAAsf 
+A-M 12594MBG2
+LTAAAsf Affirmed
+AAAsf 
+A-SB 12594MBA5
+LTAAAsf Affirmed
+AAAsf 
+B 12594MBE7
+LTAA-sf Affirmed
+AA-sf 
+C 12594MBF4
+LTBBB+sf Downgrade
+A-sf 
+D 12594MAL2
+LTBB-sf Downgrade
+BBB-sf 
+E 12594MAN8
+LTCCCsf Downgrade
+BB-sf 
+F 12594MAQ1
+LTCCsf Downgrade
+B-sf 

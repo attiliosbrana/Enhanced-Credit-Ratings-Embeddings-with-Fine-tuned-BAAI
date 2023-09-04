@@ -1,0 +1,35 @@
+Fitch Affirms Benchmark 2018-B4; Revises Outlooks to Negative; Resolves UCO
+
+Fitch Ratings - Chicago - 31 Aug 2023: Fitch Ratings has affirmed the ratings for Benchmark 2018-B4 Mortgage Trust. The Rating Outlooks for classes E-RR and F-RR have been revised to Negative from Stable. The Rating Outlook for class G-RR remains Negative. The criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Benchmark 2018-B4
+   A-2 08161HAB6
+LTAAAsf Affirmed
+AAAsf 
+A-3 08161HAC4
+LTAAAsf Affirmed
+AAAsf 
+A-4 08161HAE0
+LTAAAsf Affirmed
+AAAsf 
+A-5 08161HAF7
+LTAAAsf Affirmed
+AAAsf 
+A-M 08161HAH3
+LTAAAsf Affirmed
+AAAsf 
+A-SB 08161HAD2
+LTAAAsf Affirmed
+AAAsf 
+B 08161HAJ9
+LTAA-sf Affirmed
+AA-sf 
+C 08161HAK6
+LTA-sf Affirmed
+A-sf 
+D 08161HAQ3
+LTBBBsf Affirmed
+BBBsf 

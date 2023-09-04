@@ -1,0 +1,46 @@
+Fitch Downgrades China Great Wall to 'BBB+'; Maintains RWN
+
+Fitch Ratings - Hong Kong/Shanghai - 01 Sep 2023: Fitch Ratings has downgraded China Great Wall Asset Management Co., Ltd.'s Long-Term Foreign- and Local-Currency Issuer Default Ratings (IDRs) to 'BBB+', from 'A-', and has maintained the ratings on Rating Watch Negative (RWN).
+The downgrade is driven by the lack of transparency over the company's delay in publishing its 2022 financial report. This has led us to apply a criteria variation, as the issue is not fully reflected under our Government-Related Entity (GRE) Rating Criteria. We have also lowered the status, ownership and control assessment to 'Strong', from 'Very Strong', which results in a government support score of 27.5, from 32.5. The criteria variation and lower support score lead to a 'top down minus 3' rating.
+We have maintained the RWN due to the potential funding volatility arising from the delay. This may hamper the company's policy role execution and leads to a lack of clarity over the available solutions that the government has to address the company's issues.
+KEY RATING DRIVERS
+Status, Ownership and Control: 'Strong'
+We have reassessed this factor to 'Strong', from 'Very Strong', as state control in China Great Wall's financing activities has been weaker than we expected. The company has again failed to publish its financial report by its target of late August 2023, after it missed the first deadline of 30 April. The delay could raise repayment pressure under an event of default clause in its USD6.5 billion medium-term note (MTN) programme, which has an outstanding amount of USD500 million, as noteholders that control at least 25% of the notes can agree to accelerate note maturity.
+The amount of the offshore note that is subject to possible acceleration is small in relation to the company's balance sheet, but a failure to avoid potential disruption to the company's offshore funding access suggests that state control of the company is less effective and timely than we expected. However, the Ministry of Finance's 73% direct ownership leads us to believe that the company's financial and operational activities remain strongly influenced by the government.
+Support Track Record: 'Moderate'
+We believe China Great Wall's development has been aided by supportive government policies. These allow the issuer, as one of China's four largest asset management companies (AMCs), to operate across the country. The strong market position contributes to the company's stable funding access to Chinese banks compared with that of local and private AMCs. However, China Great Wall had been financially self-sufficient and has not required ongoing financial support from the government. The government made its first capital injection at the company's inception and most recently in 2018-2019 via state-owned shareholders.
+Socio-Political Implications of Default: 'Strong'
+We believe a default by China Great Wall would have serious political repercussions for the government, due to its important policy role in distressed asset management to safeguard China's financial stability. China Great Wall, along with the other national AMCs, dominates the banking sector's non-performing asset (NPA) market. The company's significant market presence means that its policy role could not be easily substituted. It would also be difficult for local and private AMCs to replace a national AMC, due to their regional focus and limited capacity to absorb large NPAs.
+Financial Implications of Default: 'Strong'
+Our assessment is underpinned by the company's strategic importance in supporting China's financial sector and the potential contagion effect should it default. However, the company's heightened asset-quality risk could make it difficult for it to sustain a stable financial structure amid China's challenging operating environment. This could, in turn, affect its ability to carry out its policy role. As such, we no longer regard the company as a proxy funding vehicle and have constrained the factor assessment at 'Strong'.
+Derivation Summary
+Fitch classifies China Great Wall as a GRE under our Government-Related Entities Rating Criteria, with an overall support score of 27.5. Fitch also applied a variation under the GRE criteria, factoring in the limited transparency with regards to the delay in the company's financial publication. Hence, Fitch applied additional notching that results in a 'top down minus 3' from China's sovereign rating.
+Criteria Variation
+We've applied a criteria variation to factor in lack of transparency over the company's prolonged delay in publishing its 2022 financial report, which is not fully reflected in the other attributes under our Government-Related Entity criteria.
+Issuer Profile
+China Great Wall is one of China's four largest AMCs, which were set up by the Ministry of Finance to safeguard the country's financial system. China Great Wall is mainly engaged in NPA management, while offering a range of financial services through subsidiaries, including banking and insurance.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+- Should the government fail to provide sufficient support or the government response remains muted if the company faces operational challenges in carrying out its policy role
+- Significant weakening of government linkage and incentive to provide support, with a GRE score of below 20, could lead to a multiple-notch downgrade
+- A downgrade of the China sovereign
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+- We could remove the RWN if the uncertainty associated with the delay in publishing China Great Wall's financial results and its ability to carry out its policy role is eased
+- An upgrade of the China sovereign
+ESG Considerations
+Fitch is no longer providing ESG relevance scores for China Great Wall, as the ratings and ESG profile are derived from the ultimate parent, the Chinese sovereign. ESG relevance scores and commentary for the Chinese sovereign can be found at www.fitchratings.com/entity/china-80442243
+PUBLIC RATINGS WITH CREDIT LINKAGE TO OTHER RATINGS
+China Great Wall's ratings are credit-linked to that of the China sovereign.
+Best/Worst Case Rating Scenario
+International scale credit ratings of Sovereigns, Public Finance and Infrastructure issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of three notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+References for Substantially Material Source Cited as Key Driver Rating
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+China Great Wall Asset Management Co., Ltd.
+LT IDRBBB+ Downgrade
+A- 
+LC LT IDRBBB+ Downgrade
+A- 

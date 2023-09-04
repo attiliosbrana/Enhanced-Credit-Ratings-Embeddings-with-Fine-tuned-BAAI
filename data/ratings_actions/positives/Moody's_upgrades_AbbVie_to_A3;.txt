@@ -1,0 +1,24 @@
+Moody's upgrades AbbVie to A3; outlook stable
+New York, August 28, 2023 -- Moody's Investors Service (Moody's) upgraded the senior unsecured long-term ratings of AbbVie Inc. (AbbVie) to A3 from Baa1. At the same time, Moody's affirmed AbbVie's Prime-2 short-term commercial paper rating. Following these actions, the outlook is stable.
+"The rating upgrade results from ongoing debt reduction and strong operating performance in core products like Skyrizi, Rinvoq and the aesthetics and neuroscience franchises," stated Michael Levesque, Sr. Vice President.
+"These positive credit drivers position AbbVie to absorb the impact of declining sales of Humira while maintaining solid credit ratios," continued Levesque.
+Governance considerations are a key driver of the rating action, reflecting factors related to management credibility and track record. These include a combination of strong operating performance, successful integration of the Allergan acquisition, and a consistent focus on debt reduction in excess of original targets.
+Upgrades:
+..Issuer: AbbVie Inc.
+.... Issuer Rating, Upgraded to A3 from Baa1
+....Senior Unsecured Regular Bond/Debenture, Upgraded to A3 from Baa1
+Affirmations:
+..Issuer: AbbVie Inc.
+.... Commercial Paper, Affirmed P-2
+Outlook Actions:
+..Issuer: AbbVie Inc.
+....Outlook, Changed To Stable From Positive
+RATINGS RATIONALE
+AbbVie's A3 rating reflects its large global scale and strong competitive positions in immunology, oncology, neuroscience and aesthetics. Following a variety of successful clinical trials across multiple immunological disorders, Skyrizi and Rinvoq will continue solid growth. Strong product offerings in aesthetics, neuroscience and oncology will continue to supplement the business profile. AbbVie will generate good free cash flow stemming from its high operating margins and modest capital expenditures.
+These strengths are tempered by steadily eroding sales of Humira due to biosimilar competition that will suppress overall growth for at least the next 12 to 18 months. With the majority of revenue in the US, AbbVie has greater exposure to US drug pricing policies such as those included in the Inflation Reduction Act compared to some peers. In addition, there is substantial industry-wide risk to debt financed acquisitions to enhance pipeline quality and growth prospects.
+AbbVie's CIS-3 indicates that ESG considerations have a limited impact on the current credit rating with potential for greater negative impact over time. This will primarily depend on the specific impact of drug pricing policy changes and the extent to which such measures negatively affect AbbVie's earnings or its response to such impact. The financial impact of key provisions of the US Inflation Reduction Act will take several years to emerge, with the more consequential provisions set to first take effect in 2026. These social risk exposures are incorporated in the S-4 issuer profile score. AbbVie's G-2 issuer profile score incorporates positive considerations to management track record in deleveraging, but also incorporates a degree of event risk from debt-funded acquisitions.
+The outlook is stable. Moody's anticipates earnings erosion through 2024, but strong cash flow provides flexibility for business development while maintaining solid credit metrics.
+FACTORS THAT COULD LEAD TO AN UPGRADE OR DOWNGRADE OF THE RATINGS
+Factors that could lead to an upgrade include very strong growth in core products, strengthening of the late-stage pipeline, and debt/EBITDA sustained below 2.75 times. Factors that could lead to a downgrade include weak growth in core products, major pipeline setbacks, large debt-financed acquisitions, or debt/EBITDA sustained above 3.25 times.
+Headquartered in North Chicago, Illinois, AbbVie Inc. is a global pharmaceutical company with focus areas that include immunology, oncology, aesthetics, neuroscience, eye care, virology, gastroenterology, and women's health. Revenue for the 12 months ended June 30, 2023 totaled approximately $56 billion.
+The principal methodology used in these ratings was Pharmaceuticals published in November 2021 and available at https://ratings.moodys.com/rmc-documents/356413. Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of this methodology.

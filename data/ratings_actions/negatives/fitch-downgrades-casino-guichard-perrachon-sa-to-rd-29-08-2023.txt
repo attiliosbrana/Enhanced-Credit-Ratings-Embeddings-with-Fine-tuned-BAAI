@@ -1,0 +1,71 @@
+Fitch Downgrades Casino, Guichard-Perrachon S.A. to 'RD'
+
+Fitch Ratings - Stockholm - 29 Aug 2023: Fitch Ratings has downgraded Casino, Guichard-Perrachon S.A.'s (Casino) Long-Term Foreign Currency Issuer Default Ratings (IDR) to 'RD' (Restricted Default) from 'CC' following the uncured expiry of a 30-day grace period, on the coupon due on 15 July for its EUR400 million 2026 notes.
+The company is undergoing a Conciliation procedure under French Bankruptcy proceedings. Fitch understands that the competent court has temporarily halted payments under a number of financial obligations including the above coupon. There will also be a hearing in September 2023 to rule on the granting of grace periods during the conciliation procedure. Fitch treats all missed coupon payments as a Restricted Default at the expiry of any applicable original grace period.
+Fitch also downgraded the rating of Casino's senior secured Quatrim bonds to 'CCC' and of its term loan B (TLB) to 'C' from CCC+. A full list of rating actions is below.
+KEY RATING DRIVERS
+Uncured Expiry of Grace Period: Casino has not paid the coupon due on 15 July 2023 on its January 2026 notes. The 30-day grace period, according to the original debt documentation has also expired. Fitch treats the uncured expiry of any applicable original grace period as a 'Restricted Default'.
+Court-induced Payment Suspension: Casino has been undergoing a conciliation procedure since 25 May 2023. The conciliator, in line with its powers under this procedure, requested a standstill for payment of interest, principal and fees on all of Casino's debt for the duration of conciliation proceedings. This has not yet been granted for some of the debt instruments.
+Casino has indicated in its public communication on 25 August that the President of the Paris Commercial Court will rule in September on requests for grace periods relating to Casino's unsecured and subordinated notes. For the time being, the court has suspended all related payment obligations.
+Partial Agreement on Debt Restructuring: Casino has been in discussions with prospective investors, during June and July, to raise new financial resources. At end-July the company, under the auspices of the conciliator, announced the preliminary terms of an equity injection. Fitch understands from management that this has been agreed between certain new equity providers and by two-thirds of the TLB and revolving credit facility creditors. It is also subject to the completion of a debt restructuring.
+We understand that, as per Casino's public communication, the proposed debt restructuring has not yet been agreed by the entirety of creditors. Therefore, in order for it to be enacted, the company intends to move in October 2023 to the court-led procedure of the Accelerated Safeguard.
+Unsecured Debt Conversion into Equity: The proposed debt restructuring terms include a partial conversion of the senior secured debt and RCF into equity. They also propose a full equity conversion for the notes issued under the EMTN programme, Casino's senior unsecured notes due in 2026 and in 2027, as well as its hybrid notes. Under Fitch's current waterfall-generated recovery calculation, senior unsecured and hybrid debt receive no recoveries.
+Weak 2023 Operational Performance: Casino's underperforming supermarket and hypermarket segments faced additional trading challenges in H123, with accelerated sales contraction fully offsetting benefits resulting from efficiency measures, marketing initiatives and growth at its convenience formats.
+Challenges in passing on cost inflation to customers and competitive pressure led to a sharper than anticipated decline in EBITDA in 1H23. Casino expects EBITDA to contract by about EUR500 million to end 2023 at EUR200 million. It also expects considerable working-capital outflows to result in deeply negative free cash flow (FCF) of EUR1.8 billion at end-2023.
+Post-restructuring Turnaround Challenges: Casino's turnaround plan, as projected by new prospect investors, targets an EBITDA margin improvement of 90bp in 2024 and another 140bp in 2025. It also forecasts 3.2% CAGR in sales for 2024-2028. Fitch views the plan as ambitious and being subject to high execution risk since more than one third of Casino's sales come from the challenging hypermarket/supermarket formats. In addition, its strategy of maintaining market share through low prices and involving higher personnel and marketing expenses may compress EBITDA. At the same time, liquidity and resources for capex, including anticipated investments in stores, should have some support by the proposed equity injection of up to EUR1.2 billion.
+DERIVATION SUMMARY
+Fitch applies its Food-Retail Navigator framework to assess Casino's rating and position relative to its peers'. Casino has a smaller business scale and more limited geographic diversification than international retail chains, such as Tesco PLC (BBB-/Stable).
+Casino's IDR before commencement of the conciliation procedure was positioned weakly relative to retailers in the 'B' category such as Market Holdco 3 Limited (Morrisons, B+/Stable), WD FF Limited (Iceland, B/Stable) and Picard Bondco S.A. (B/Negative), due to weaker FCF generation and higher execution risks in the business transformation that is key to a successful refinancing.
+KEY ASSUMPTIONS
+Fitch's recovery analysis assumes that Casino would be considered a going concern (GC) in bankruptcy and that it would be reorganised rather than liquidated in a default. We have assumed a 10% administrative claim in the recovery analysis.
+We have assumed that Casino's debtholders would get, post disposal of Assai, about EUR440 million of additional value from the sale of the remaining Latin American assets.
+We have applied a distressed enterprise value (EV)/EBITDA of 4.5x, reflecting the maturity and weak trading profile of Casino's businesses within the restricted group (ie. excluding Latin American operations).
+In our bespoke GC recovery analysis we consider an estimated post-restructuring EBITDA available to creditors of EUR400 million. This calculation is based on the average profitability in 2024-2025 expected by Casino in its revised business plan, and the 2024 sales forecast taking into account the high execution risk.
+Our GC assumptions result in an outstanding recovery rate for Casino's Quatrim bonds, which is consistent with a Recovery Rating of 'RR1', indicating a 'CCC' instrument rating. The waterfall analysis output percentage on current assumptions is 100% for this debt class. Our assumptions also result in average recoveries of 42% for the remaining senior secured debt, which includes the TLB and the RCF. This results in a Recovery Rating of 'RR4' and a 'C' rating for the TLB. Both its senior unsecured notes issued by Casino and the perpetual bonds (hybrids), which we treat as debt, are rated 'C'/'RR6' with an output percentage of 0% for both types of instruments.
+RATING SENSITIVITIES
+Factors That Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade:
+- Completion of debt restructuring would likely lead Fitch to affirm the IDR at 'RD' and subsequently re-rate based on its new capital structure
+Factors That Could, Individually or Collectively, Lead to Downgrade:
+- Inability to complete the restructuring and entering into bankruptcy filing, administration, receivership, liquidation or other formal winding-up procedure, which would lead to a downgrade to 'D'
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Liquidity Under Severe Pressure: During 1H23, Casino has been able to offset working capital-related pressure on its FCF with disposal proceeds and by drawing down the RCF beyond the covenant-allowed limit. However, reduced profitability, coupled with working-capital outflows, including reduction of suppliers' length of payment and more restrictive factoring conditions, will challenge liquidity in 2H23. Casino's capacity to maintain a sufficient cash balance to run operations will depend on negotiations with creditors and postponing or restructuring payment under its financial liabilities.
+Inconsistent Capital Structure: Casino's current capital structure puts severe pressure on its operations, which we view as inconsistent with the company as a GC. We expect to reassess Casino's capital structure and its impact on its ratings when the debt restructuring terms of the Accelerated Safeguard procedure are finalised and approved by the relevant court.
+ISSUER PROFILE
+Casino is a major French food retailer with core operations in France and Latin America. Assets in Latin America are being divested since 2022.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+Casino has an ESG relevance Score of '4' for Governance Structure due to recent debt restructuring at its parent Rallye and related remaining uncertainties around debt-servicing sources, as well as due to key person risk. This has a negative impact on the credit profile and is relevant to the ratings in conjunction with other factors.
+Unless otherwise disclosed in this section, the highest level of ESG credit relevance is a score of '3'. This means ESG issues are credit neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation of the materiality and relevance of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/esg.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Casino, Guichard-Perrachon S.A.
+LT IDRRD Downgrade
+
+
+CC 
+senior unsecured
+LTC Affirmed
+RR6
+
+C 
+subordinated
+LTC Affirmed
+RR6
+
+C 
+senior secured
+LTCCC Downgrade
+RR1
+
+CCC+ 
+senior secured
+LTC Downgrade
+RR4
+
+CCC+ 

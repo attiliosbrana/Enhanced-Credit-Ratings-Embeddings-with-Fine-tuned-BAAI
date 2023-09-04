@@ -1,0 +1,68 @@
+Fitch Places Earthstone's Ratings on Positive Watch Following Proposed Permian Resources Acquisition
+
+Fitch Ratings - Chicago - 22 Aug 2023: Fitch Ratings has placed the Long-Term Issuer Default Ratings (IDRs) and all issue-level ratings of Earthstone Energy, Inc. and Earthstone Energy Holdings, LLC (collectively ESTE) on Rating Watch Positive (RWP).
+The placement on RWP follows the announcement that Permian Resources Corporation (PR, 'BB-'/RWP) has entered into a definitive agreement to acquire Earthstone Energy, Inc. in an all-stock transaction valued at approximately $4.5 billion, including the assumption of ESTE's debt. The combined company will be one of the largest producers in the Permian with 400,000 total net acres split between the Delaware and Midland basins and total production of approximately 300 Mboepd (46% oil). The transaction is also expected to materially enhance FCF generation, overall returns and generate approximately $175 million of identified synergies.
+Fitch expects to resolve the Rating Watch upon closing of the transaction, which is currently expected by year-end 2023. Although unlikely, Fitch the closing of the transaction and resolution of the RWP could take longer than six months.
+KEY RATING DRIVERS
+Credit-Friendly Acquisition: Fitch views the proposed $4.5 billion transaction favorably given the stock-for-stock exchange between PR and ESTE at a fixed exchange ratio of 1.446 shares, representing an 8% premium based on the 20-day weighted average share prices. Both companies' balance sheets are fairly conservative, resulting in Fitch forecasted pro forma 2024 leverage of 1.1x, which is consistent with similar-sized peers. The improved pro forma FCF profile will also allow for continued debt reduction and accelerated shareholder returns.
+Enhanced Permian Footprint: The proposed acquisition will materially enhance PR's size and scale with pro forma Permian net acres of approximately 400,000, primarily in the Delaware, total production of approximately 300 Mboepd (46% oil) and adds significant core acreage in the Delaware basin which immediately competes for capital. PR will retain its status as a pure-play Permian producer which should drive operational improvements, including improved drilling and completion efficiencies, lower operating costs and G&A benefits, which should improve overall returns.
+Synergy Potential; Strong FCF: Fitch believes synergies associated with the deal are modest but achievable by year-end 2024. Management has identified approximately $175 million of estimated annual synergies, including $115 million stemming from operational efficiencies and cost savings, $30 million in G&A synergies and $30 million in cost of capital savings via refinancing opportunities for ESTE's notes once callable. Fitch estimates that the reduced cost structure should improve post-base dividend FCF generation to over $500 million in 2024 at our $70/bbl WTI price assumption.
+Standalone Sub-1.5x Leverage; FCF Generation: Fitch's base case forecasts standalone ESTE 2023 leverage of 1.3x and 2026 leverage (using our mid-cycle $50/bbl WTI price and $2.75/mcf natural gas price) also at 1.3x. This allows the company to maintain ample headroom under Fitch's positive EBITDA leverage sensitivity of 2.0x. Fitch projects approximately $400 million-$450 million of annual standalone FCF generation in 2023 and 2024, which supports the reduction of RBL borrowings and total gross debt below $1.5 billion over the next 12 to 18 months. ESTE's FCF benefits from it not paying a dividend and its nearly zero organic growth capital spending, which is expected to continue post-close. An inability to repay RBL borrowings in a timely manner and/or a reduction in the forecast FCF profile could result in the assignment of a Stable Outlook.
+Adequate Standalone Hedging Profile: Additional FCF visibility is provided by ESTE's standalone hedging program. Pro forma the Novo transaction, the program includes approximately 40%-45% of oil volumes hedged through the remainder of 2023 at an average price of $78 WTI. The company is also hedging roughly 35% of natural gas production at an average price of approximately $3.50. Fitch expects ESTE to layer in additional hedges for 2024 to protect cash flows, thereby supporting gross debt reduction and the liquidity profile.
+DERIVATION SUMMARY
+Standalone ESTE: Pro forma the Novo transaction, ESTE is expected to produce approximately 130 Mboepd on a standalone basis. This is slightly larger than Permian peer Callon Petroleum (B+/Stable; pro forma production of approximately 120 Mboepd) but smaller than Matador Resources Company (BB-/Stable; 140-145 Mboepd pro forma the Advanced Energy Partners transaction) and SM Energy Company (BB-/Stable; 154 Mboepd in 2Q23).
+ESTE's 2Q23 Fitch-calculated unhedged cash netback of $22.6/boe compares favorably across Fitch's aggregate E&P portfolio, which is consistent with its position in the highly economic Permian Basin. Compared to similarly sized Permian peers Callon ($27.8/boe), Matador ($34.3/boe), and SM ($25.7/boe), ESTE's netback are towards the lower end of the group primarily given its lower oil mix. Mid-cycle EBITDA leverage profiles among each of these peers are relatively consistent at around 1.5x.
+KEY ASSUMPTIONS
+--WTI (USD/bbl) of $75 in 2023, $70 in 2024, $65 in 2025 and $60 in 2026 and $57 thereafter;
+--Henry Hub (USD/mcf) of $3.00 in 2023, $3.50 in 2024, $3.00 in 2025 and $2.75 thereafter;
+--Base interest rates applicable to the company's outstanding variable rate debt obligations reflects current SOFR forward curve;
+--Proposed acquisition closes as contemplated at the start of 2024;
+--Single-digit production growth throughout the forecast;
+--Growth-linked capital expenditures throughout the rating case.
+RATING SENSITIVITIES
+Factors that could, individually or collectively, lead to positive rating action/upgrade:
+--Fitch expects to resolve the RWP upon completion of the contemplated transactions under proposed terms and favorable treatment of ESTE debt;
+--FCF generation that results in a reduction of RBL borrowings, improved liquidity and total gross debt at or below $1.5 billion;
+--Continued de-risking and operational momentum in the Permian basin that results in material increase of PDP reserves, inventory and oil weighting;
+--Organic and/or M&A growth increasing production approaching 125Mboped while maintaining unit costs;
+--Mid-cycle EBITDA Leverage sustained below 2.0x.
+Factors that could, individually or collectively, lead to negative rating action/downgrade:
+--A shift to negative FCF contributing to diminished liquidity or utilization of revolver commitment sustained above 65%;
+--Failure to maintain a clear, conservative financial and operational policy;
+--Mid-cycle EBITDA Leverage sustained above 2.5x.
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Reduced Standalone Post-Close Liquidity: At 2Q23, ESTE had full availability under its credit facility and $50 million of cash on hand. Fitch expects post-close liquidity will decrease as the $1.0 billion purchase price of Novo is expected to be funded with the company's recently issued 2031 notes and RBL borrowings. Fitch believes the liquidity profile will improve thereafter due to reduction of RBL borrowings via FCF generation. The company has secured $250 million of incremental commitments from its lenders, which will bring the total elected commitments from $1.45 billion to $1.75 billion.
+ESTE's liquidity profile is further supported by positive annual FCF through Fitch's forecast period, the company's financial policy, which does not include dividends; and a lack of maturities until 2027.
+ISSUER PROFILE
+Earthstone Energy, Inc. is an independent oil and gas energy exploration and production company with operations primarily in the Midland Basin of west Texas and Delaware Basin in New Mexico.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Earthstone Energy, Inc.
+LT IDRB+ Rating Watch On
+
+
+B+ 
+Earthstone Energy Holdings, LLC
+LT IDRB+ Rating Watch On
+
+
+B+ 
+senior unsecured
+LTB+ Rating Watch On
+RR4
+
+B+ 
+senior secured
+LTBB+ Rating Watch On
+RR1
+
+BB+ 

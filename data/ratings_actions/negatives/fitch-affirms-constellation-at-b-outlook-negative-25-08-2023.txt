@@ -1,0 +1,92 @@
+Fitch Affirms Constellation at 'B-'; Outlook Negative
+
+Fitch Ratings - London - 25 Aug 2023: Fitch Ratings has affirmed Constellation Automotive Group Limited's (CAG) Long-Term Issuer Default Rating (IDR) at 'B-' with Negative Outlook. Its senior secured debt has been affirmed at 'B-' with a Recovery Rating of 'RR4' and second-lien debt at 'CCC' with 'RR6'.
+The 'B-' rating continues to reflect CAG's aggressive financial profile, which is balanced by a sustainable business model with a UK market-leading position as an integrated auto-service provider. The 'B-' rating also considers the absence of near-term refinancing risks with long-dated debt maturities in 2027-2029.
+We believe that CAG's business model strength will allow it to recover its EBITDA as car supply rebounds over the next two years. However, the Negative Outlook reflects execution risks associated with driving EBITDA growth above historical levels, which is a prerequisite for deleveraging towards levels that are consistent with a 'B-' rating. Further, the Negative Outlook factors in weakened liquidity and pressure on interest coverage ratios from increased interest rates as a majority of its debt is floating rate, and not hedged.
+KEY RATING DRIVERS
+Car Production at Historical Lows: In the UK and other European countries, the used vehicles market has been significantly disrupted by constrained new car supply, due to semiconductor supply issues and other car component shortages. UK used car transactions fell to about 7 million in fiscal year to 2 April 2023 (FY23) from around 8 million before the pandemic, leading to significant under-utilisation of CAG's auction capacity and automotive services capabilities. UK used car transactions were up 4.1% in 1QFY24 as new vehicle supply began to increase and we project further gradual market recovery over FY24-FY25.
+EBITDA Plunged in FY23: CAG's Fitch-adjusted EBITDA fell to GBP127 million in FY23, after a record high at GBP266 million in FY22. This resulted from low auction volumes, losses at new Retail Ready operations and normalising EBITDA from its vehicle-buying division. Visibility of EBITDA improving towards GBP230 million (equivalent to management-calculated pre-IFRS 16 EBITDA of GBP250 million) would be a prerequisite for a revision of the Outlook to Stable. We estimate that at this level CAG is able to generate positive free cash flow (FCF) and be consistent with leverage sensitivities for the 'B-' rating. However, it is also materially above EBITDA over the past six years, except in FY22 when CAG benefitted from strong demand and high car prices.
+Volume Growth Key for EBITDA: CAG's EBITDA growth is reliant on recovery in volumes from third-party vendors for its auctions and continued growth in volumes of vehicles it buys from consumers through its WeBuyAnyCar service in the UK. Greater volumes would drive EBITDA growth due to operating leverage, despite likely growth in marketing expenses to support WeBuyAnyCar market-share gains. In addition, EBITDA growth will come from elimination of losses at Retail Ready after its restructuring in FY23 and profitability improvements at its automotive services division, which depends on car supply recovery.
+No Weakness in Demand Assumed: In addition to challenges with supply, it is uncertain how car demand will evolve given the cost-of-living crisis and increased fuel prices in the UK. Our rating case, however, does not incorporate significant pressures from this factor. The business has demonstrated counter-cyclical capabilities, as volumes grew through the last financial crisis to 799,000 from 766,000 over 2007-2009. Further, we see potential pent-up demand as more than 2 million new car transactions were lost in the UK between 2020 and 2022 from the pandemic and supply constraints and as the proportion of cars under three years old fell below normal levels.
+Excessive Leverage: CAG's EBITDA gross leverage was 15.1x at FYE23, which is high for the rating and makes it an outlier among peers. High leverage is driven by a large debt burden that resulted from an aggressive financial policy, in particular a dividend recapitalisation completed in 2021, and by weakened profit generation due to the challenging operating environment and the timing of its Retail Ready rollout. We project some deleveraging as EBITDA grows but leverage is likely to remain above our negative rating sensitivity of 8.5x in FY24-FY25. Slower-than-expected deleveraging, if combined with increasing liquidity risks, could drive a rating downgrade.
+Negative FCF: Fitch-adjusted FCF remained negative in FY23 at GBP17 million and we forecast it to weaken in FY24 due to investments in working capital. This is despite a significant reduction in capex and projected EBITDA recovery. We expect the high interest-rate environment to also weigh on cash generation as we assume interest expenses will increase to around GBP150 million in FY24 from GBP114 million in FY23. Around 60% of CAG's debt is floating rate and not hedged, exposing the company to recent base-rate increases. Under our rating case, positive FCF generation from FY25 is also dependent on base-rate decreases.
+Limited Diversification: CAG's diversification is limited by product and geography as the company is focused on vehicle buying and remarketing predominantly in the UK. International vehicle remarketing (mostly Europe) accounted for less than 20% of EBITDA on average for the past five years. CAG has made some acquisitions to diversify its offer in preparation, logistics, buying and financing of vehicles, but its performance remains tightly correlated with new car production and sales, as demonstrated by weak trading in FY23.
+Complex Group Structure: CAG has operational links to few other businesses within the broader Constellation Automotive group. Such businesses are material but excluded from the restricted group, which is non-standard compared with peers. In FY22, CAG provided a GBP80.1 million related-party loan, of which GBP24.1 million was repaid in FY23. We estimate that liquidity position and leverage would have been better if the loan was not provided.
+Strong Market Position: CAG's market-leading positions (around 4x larger by volume than its nearest competitor), density of auction networks across the UK, large land requirements and in-house logistics capabilities are strong competitive advantages. An integrated business model means CAG benefits from fees across the automotive value chain, generating diversified revenue streams from preparation, logistics, buying and financing of vehicles on top of the core fees from operating car auctions. This positions CAG at the centre of the used-car market, providing a large pool of vehicle data that informs its valuation models.
+DERIVATION SUMMARY
+CAG benefits from a well-integrated business model with a market-leading position in the UK and growing presence in Europe, having transitioned to fully online auctions post-pandemic. CAG is larger and better-integrated across the value chain than peers in the automotive service industry, which allows for diversified sources of income and a more resilient financial profile. Its integration of vehicle-buying, partner-finance and logistics services is unique among direct peers and allows for some downside protection.
+CAG is rated lower than Speedster Bidco GmbH (B/ Stable), one of the largest European digital automotive classifieds platforms that offers listing platforms for used and new cards, motorcycles and commercial vehicles to dealers and private sellers. The rating difference results from CAG's weaker financial structure and higher-risk business profile.
+CAG's rating is lower than that of US-based peers operating in the new and used auto dealership industry. AutoNation, Inc. (BBB-/ Stable), Asbury Automotive Group, Inc. (BB/ Stable) and Sonic Automotive, Inc (BB/ Stable) have larger business scale, lower leverage and greater financial flexibility than CAG.
+KEY ASSUMPTIONS
+Key Assumptions Within our Rating Case for the Issuer:
+- New car registrations in the UK increasing to 1.8 million in FY24 and to 2 million in FY25, followed by stable volumes in the following two years
+- CAG's UK remarketing volumes increasing to 1.1 million in FY24, around 1.2 million in FY25 and gradually growing to 1.3 million in FY27
+- Fitch-adjusted EBITDA to increase to around GBP180 million in FY24 and above GBP210 million in FY25, followed by gradual improvement to FY27
+- Interest payments on debt of around GBP150 million in FY24, before declining by GBP10 million a year over FY25-FY26
+- Around GBP30 million outflow under working capital in FY24 and no working-capital outflows over FY25-FY27
+- Capex of around GBP40 million in FY24, followed by GBP50 million a year to FY27
+- Potential receipt of GBP56 million (plus accrued interest) from an intercompany loan repayment in addition to GBP24 million received in FY23
+- No dividends or acquisitions to FY27
+RECOVERY RATING ASSUMPTIONS
+Our recovery analysis assumes CAG would be restructured as a going concern rather than be liquidated in a default. We have assumed a 10% administrative claim in the recovery analysis.
+CAG's post-reorganisation, going-concern EBITDA reflects Fitch's view of a sustainable EBITDA of GBP145 million. It incorporated some recovery from FY23 EBITDA of GBP127 million, which was affected by challenging market conditions with new car registrations in UK at the lowest since 1982.
+A distressed enterprise value (EV)/EBITDA multiple of 5.5x has been applied to calculate a going-concern EV; this multiple reflects CAG's leading market positions and logistics capabilities, strong cash generation, and trusted brand.
+We assume CAG's revolving credit facility (RCF) and ancillary facilities (GBP250 million in total) are fully drawn in a restructuring.
+Our recovery analysis no longer includes CAG's GBP300 million asset-backed finance facility that is used to fund the Partner Finance business (ring-fenced). This is because we treated this business as financial services operations and deconsolidated it, in line with our methodology.
+Our waterfall analysis generates a ranked recovery for senior secured first-lien debt creditors in the 'RR4' band, indicating a 'B-' instrument rating for the secured debt, in line with the IDR. The waterfall analysis output percentage on current metrics and assumptions is 42%. Conversely, our analysis generates for the second-lien debt a ranked recovery in the 'RR6' band, indicating a 'CCC' rating, with 0% recovery expectations based on current metrics and assumptions.
+RATING SENSITIVITIES
+Factors That Could, Individually or Collectively, Lead to Upgrade:
+- EBITDA gross leverage below 7.0x on a sustained basis
+- Successful execution of volumes growth strategy, driving consistent EBITDA growth within core business divisions and positive FCF generation
+- EBITDA interest coverage above 2.2x on a sustained basis
+Factors That Could, Individually or Collectively, Lead to a Revision of Outlook to Stable:
+- Visibility of Fitch-adjusted EBITDA increasing above GBP230 million by FY27 and FCF turning positive from FY25
+- Visibility of EBITDA gross leverage falling below 8.5x and EBITDA interest coverage increasing towards 1.7x, both on a sustained basis
+Factors That Could, Individually or Collectively, Lead to Downgrade:
+- No deleveraging with EBITDA gross leverage remaining above 8.5x on a sustained basis, resulting from an inability to increase Fitch-adjusted EBITDA above GBP230 million over FY24-FY27
+- Sustained negative FCF
+- Increasing liquidity and refinancing risks
+- EBITDA interest coverage below 1.7x on a sustained basis
+BEST/WORST CASE RATING SCENARIO
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+LIQUIDITY AND DEBT STRUCTURE
+Weak Liquidity: At FYE23, CAG had GBP96 million of cash and cash equivalents, GBP140 million available under its GBP210 million revolving credit facility and GBP35 million available under a net overdraft facility. We expect FCF to remain negative in FY24 but liquidity will be supported by asset divestments. Positive FCF generation is dependent on EBITDA growth and reduction of interest rates as the majority of debt has floating rates.
+We also assume that CAG may request a repayment of GBP56 million (plus accrued interest) outstanding under its loan to a related party if liquidity weakens. Nevertheless, a slower-than-expected market recovery will increase liquidity risk, which will have a greater weight in our analysis and put more significant pressure on the rating.
+ISSUER PROFILE
+CAG operates the UK's and Europe's largest digital used-vehicle exchanges (both business-to-business and consumer-to-business) and is a leading provider of automotive solutions in the UK, including vehicle movement, logistics, storage, pre-delivery inspections, fleet management, de-fleeting services and refurbishment.
+REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+ESG CONSIDERATIONS
+CAG has an ESG Relevance Score of '4' for Group Structure due to the complexity of the group structure and related-party loan provided to an entity outside of restricted group and consolidation scope, which has a negative impact on the credit profile, and is relevant to the ratings in conjunction with other factors.
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+RECOVERY  
+PRIOR  
+Constellation Automotive Financing plc
+ 
+
+  senior secured
+LTB- Affirmed
+RR4
+
+B- 
+Constellation Automotive Limited
+ 
+
+  senior secured
+LTB- Affirmed
+RR4
+
+B- 
+Senior Secured 2nd Lien
+LTCCC Affirmed
+RR6
+
+CCC 
+Constellation Automotive Group Limited
+LT IDRB- Affirmed
+
+
+B- 

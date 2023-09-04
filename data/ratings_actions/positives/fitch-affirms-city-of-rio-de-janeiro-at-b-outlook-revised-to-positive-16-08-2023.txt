@@ -1,0 +1,96 @@
+Fitch Affirms City of Rio de Janeiro at 'B+'; Outlook Revised to Positive
+
+Fitch Ratings - São Paulo - 16 Aug 2023: Fitch Ratings has affirmed the City of Rio de Janeiro's (Rio) Long-Term Foreign and Local Currency Issuer Default Ratings (IDRs) at 'B+'. The Rating Outlook has been revised to Positive from Stable. In addition, Fitch has affirmed Rio's Short-Term Foreign and Local Currency IDRs at 'B', National Long-Term Rating at 'A(bra)'/Positive Outlook and National Short-Term Rating at 'F1(bra)'. Rio's Standalone Credit Profile (SCP) has been assessed at 'b+' and no other factors affect the municipality's ratings.
+The City of Rio de Janeiro's Positive Outlook reflects the city's improved fiscal management and liquidity metrics in the last couple of years, with unrestricted cash larger than short-term liabilities, as per the liquidity indicator under the Capacidade de Pagamento (CAPAG), the National Treasury´s metric for measuring financial health of subnational governments. Fitch could raise the risk profile to low midrange, from weaker, assuming sustained healthy liquidity metrics.
+KEY RATING DRIVERS
+Risk Profile: 'Weaker'
+The assessment reflects Fitch's view that there is a high risk of the issuer's ability to cover debt service with the operating balance weakening unexpectedly over the scenario horizon (2023-2027) due to lower revenue, higher expenditure, or an unexpected rise in liabilities or debt-service requirements.
+Revenue Robustness: 'Midrange'
+The Brazilian tax collection framework transfers to states and municipalities a large share of tax collection responsibilities. Constitutional transfers exist as a mechanism to compensate poorer entities. For this reason, high dependence on transfers is considered a weak feature for Brazilian LRGs.
+The primary metric for revenue robustness is the transfers ratio, which measures transfers to operating revenue. LRGs that report a transfer ratio above or equal to 40% are classified as 'Weaker', while those with a ratio below 40% are classified as 'Midrange'. Rio reports relative fiscal autonomy, driving this factor to 'Midrange'. Transfers represented 33.2% of operating revenue on average in 2018-2022. Municipalities receive transfers from both the federal ('BB'/Stable) and state governments ('BB'/Stable).
+Rio's main operating revenue sources are based on tax revenues, which represent 41% of operating revenues in 2022. The most important taxes are the ISS (tax on services) and the IPTU (real estate property tax). While the ISS is strongly correlated with the performance of economic activity, the IPTU is a more stable source of revenues, considering it is leaved on the ownership of real estate and is paid annually. Rio has a low exposure to volatile oil royalties, which amounted to 3% of operating revenues in 2022.
+Revenue Adjustability: 'Weaker'
+Fitch believes Brazilian states and municipalities have a low capacity level for revenue increases in response to downturns. There is low affordability of additional taxation given that tax tariffs are close to the constitutional national ceiling, making this factor 'Weaker'. When faced with a negative shock over revenue collection, Brazilian LRGs are less likely to raise tax rates. Instead, they usually apply measures to curb tax evasion and introduce tax refinancing programs.
+The most important municipal tax is the Imposto Sobre Servicos (ISS), a tax on services, which represented 49% of tax collection in 2022. Another important tax for municipalities is the Imposto Predial e Territorial Urbano, a tax on urban properties, which corresponded to 29% of the City of Rio's tax collection in 2021.
+Expenditure Sustainability: 'Midrange'
+Municipalities provide healthcare and elementary education services. They are also responsible for urban infrastructure and social housing, but those mandates consume less of the municipal budget compared with health and education.
+Expenditure tends to grow with revenue as a result of earmarked revenue. States and municipalities are required to allocate a share of revenue to health and education. This results in procyclical behavior in good times, as periods of high revenue growth results in similar trends for expenditure. However, due to the weight of personal expenditure and salary rigidity, downturns that result in lower revenue are not followed by similar drops in expenditure.
+The City of Rio de Janeiro reports moderate control over expenditure growth, with sound margins. Operating margins averaged 10.3% in the 2018-2022 period, improving significantly over the last couple of years on the back of sound fiscal management and improved economic prospects. The city is current on its payroll bill and has no significant delays for the payment of suppliers. Operating expenditure increased 7.5% annually on average between 2018 and 2022, below operating revenues growth of 8.5%.
+Expenditure Adjustability: 'Weaker'
+Brazilian local governments suffer from a fairly rigid cost structure, driving this factor to 'Weaker'. As per the Brazilian constitution, there is low affordability of expenditure reduction, especially for the payroll bill and pensions. As a result, whenever there is an unpredictable reduction in revenues, operating expenditure does not follow automatically.
+For Rio, personal expenditures corresponded to 56% of total expenditure in 2022. This item has very limited flexibility for adjustments given salary rigidity and limited ability to manage human resources. Other operating expenditures amounted to close to 34.6% of total expenditures in 2022 and has some flexibility for adjustments, but still limited by constitutional mandates on health and education. Lastly, capex represented 7.2% of total expenditures in 2022 and 3.3%, on average, between 2018 and 2022. Historically, Brazilian LRGs have often relied on investments cuts when facing a more challenging economic scenario.
+Liabilities & Liquidity Robustness: 'Midrange'
+The Brazilian credit market for subnational governments is limited and highly controlled by the federal government. Often, LRGs opt for new loans with federal guarantees, which are only granted to subnationals rated 'A' or 'B' under the National Treasury CAPAG, a criteria that assesses indebtedness, current savings and liquidity. The City of Rio has an agreement with the federal government that allows it to get new loans with federal guarantees amounting to up to 3% of net current revenue, even if the municipality is not complying with CAPAG. In any case, it currently has a score of 'B' under CAPAG criteria.
+Brazil has a moderate national framework for debt and liquidity management, featuring prudential borrowing limits and restrictions on loan types. Under the Fiscal Responsibility Law of 2000, Brazilian LRGs must comply with indebtedness limits. Consolidated net debt for municipalities cannot exceed 120% of net current revenue. Rio complies with the Fiscal Responsibility Law, reporting a debt ratio of 40.43% as of YE 2022. The Fiscal Responsibility Law also sets limits for guarantees, at 22% of net current revenue. Rio reported no guarantees as of YE 2022.
+As of YE 2022, external debt totalled BRL5.1 billion, corresponding to 31.6% of direct debt. Foreign debt amortization is expected to average BRL332 million annually until 2027, and there is no significant maturity concentration throughout the amortization period. External debt is largely owed to multilateral organizations and counts with federal government guarantee. Debt directly owed to the federal government represented only 3.6% of total debt at YE 2022. Rio restructured its debt with the federal government years ago in exchange for an external loan with a multilateral organization.
+There is some off-balance sheet risk stemming from the pension system for the City of Rio, which is low when compared to Brazilian states, given that municipalities do not carry the burden of pensions related to public security. The municipality transfers additional resources annually to cover for the pension deficit.
+Liabilities & Liquidity Flexibility: 'Weaker'
+A framework exists for providing emergency liquidity support from the federal government via the granting of extended maturity over the prevalent federal debt portion. Fitch assesses the entity's available liquidity to differentiate between 'Weaker' and 'Midrange' for Liabilities and Liquidity Flexibility.
+One of the metrics analyzed by the Brazilian National Treasury to LRGs borrows with Federal Government with guarantees (Capacidade de Pagamento or CAPAG) is the liquidity rate, measured by the LRGs' short-term financial obligation to net cash.
+The threshold for the Federal Government to rate this ratio as 'A' is 100%. Fitch has set a threshold of 100% for the average of the last three years (2020-2022 year-end) and for the last year-end results available (December 2022) below 100%, which would result in a 'Midrange' assessment for this factor.
+The City of Rio reported a three-year average liquidity ratio -16.4%, especially due to weak metrics in 2020. As of December 2022, the metric improved to 74.6%. The history of poor liquidity still weighs on the assessment of the entity´s Liabilities and Liquidity Flexibility, corroborating with the 'Weaker' assessment.
+The City of Rio de Janeiro reported improved liquidity over the last two years. If Rio is able to sustain healthy liquidity metrics going forward, Fitch would reassess the evaluation of Liabilities and Liquidity Flexibility.
+Debt Sustainability: 'a category'
+Fitch's forward looking rating scenario indicates the payback ratio, measured as net direct risk/operating balance, the primary metric of the debt sustainability assessment, will reach an average of 6.4x for 2025-2027, which is aligned with the 'aa' category. Fitch applies an override due to the actual debt service coverage ratio, the secondary metric, at 1.1x for the average of 2025-2027, which is aligned with the 'bb' category. Fiscal debt burden is projected at 33.3% for the period.
+For its rating case, Fitch considers the municipality's historical performance and projections for main macro variables, such as GDP growth and inflation. The rating case is inherently a stressed scenario. Operating revenues are expected to grow 5.3% on average between 2022 and 2026, largely driven by tax collection. Operating spending growth reflects government projections for 2023. Going forward, Fitch applies a growth rate related to inflation plus spread.
+DERIVATION SUMMARY
+The City of Rio's ratings reflect the combination of a 'Weaker' risk profile and 'a' debt sustainability assessment under Fitch's rating case. The Standalone Credit Profile (SCP) is assessed at 'b+' and factors in a comparison with national and international peers. The City of Rio's 'B+' IDRs are not affected by any other rating factors. Its national scale rating of 'A(bra)' is based on a national peer comparison.
+KEY ASSUMPTIONS
+Risk Profile: 'Weaker'
+Revenue Robustness: 'Midrange'
+Revenue Adjustability: 'Weaker'
+Expenditure Sustainability: 'Midrange'
+Expenditure Adjustability: 'Weaker'
+Liabilities and Liquidity Robustness: 'Midrange'
+Liabilities and Liquidity Flexibility: 'Weaker'
+Debt sustainability: 'a'
+Support (Budget Loans): 'N/A'
+Support (Ad Hoc): 'N/A'
+Asymmetric Risk: 'N/A'
+Rating Cap (LT IDR): 'N/A'
+Rating Cap (LT LC IDR) 'N/A'
+Rating Floor: 'N/A'
+Quantitative assumptions - Issuer Specific
+Fitch's rating case is a "through-the-cycle" scenario, which incorporates a combination of revenue, cost and financial risk stresses. It is based on 2016-2020 figures and 2021-2025 projected ratios. The key assumptions for the scenario include:
+--Yoy 5.3% increase in operating revenue on average in 2023-2027;
+--Yoy 6.0% increase in tax revenue on average in 2023-2027;
+--Yoy 6.4% increase in operating expenditure on average in 2023-2027;
+--Net capital balance of - BRL 1,727 million on average in 2023-2027;
+--Cost of debt: 5.6% on average 2023-2027.
+Quantitative assumptions - Sovereign Related
+Figures as per Fitch's sovereign actual for [2022] and forecast for [2023-2025], respectively (no weights and changes since the last review are included as none of these assumptions was material to the rating action):
+Liquidity and Debt Structure
+Net adjusted debt considers BRL16.1 billion of direct debt and unrestricted cash of BRL3.8 billion as of YE 2022. Fitch estimates that close to 31.6% of debt is external and guaranteed by the federal government, while 3.6% is debt owed directly to the federal government. The City of Rio's largest creditors are the World Bank, Banco Nacional de Desenvolvimento Economico e Socialand Caixa Economica Federal. All foreign currency debt is guaranteed by the federal government.
+Issuer Profile
+The City of Rio de Janeiro has the second-highest municipal GDP in Brazil, accounting for 4.4% of national GDP. The city is headquarters to various Brazilian oil, mining and telecommunications companies and is one of the most visited cities in the Southern Hemisphere. The City of Rio's economy correlates highly with the performance of the oil and tourism sectors.
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+--The Outlook on The City of Rio's IDRs would be revised to Stable from Positive on liquidity deterioration.
+--The City of Rio's IDRs would be downgraded if its operating balance deteriorates significantly, leading to a payback ratio above 13.0x and an actual debt service coverage ratio below 1.0x.
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+--The City of Rio's IDRs would be upgraded if it could sustain healthy liquidity metrics going forward, as measured by the National Treasury CAPAG liquidity Indicator. Assuming no other changes, Fitch would reassess the entity's Risk Profile, with an impact on its SCP and IDRs.
+--The City of Rio's IDRs would be upgraded if its actual debt service coverage ratio improves to above 1.5x over the scenario horizon, provided that its payback ratio remains below 9.0x.
+--The City of Rio's IDRs would be upgraded if its payback ratio improves and is projected below 5x in Fitch's rating case.
+ESG CONSIDERATIONS
+The highest level of ESG credit relevance is a score of '3', unless otherwise disclosed in this section. A score of '3' means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. Fitch's ESG Relevance Scores are not inputs in the rating process; they are an observation on the relevance and materiality of ESG factors in the rating decision. For more information on Fitch's ESG Relevance Scores, visit https://www.fitchratings.com/topics/esg/products#esg-relevance-scores.
+Best/Worst Case Rating Scenario
+International scale credit ratings of Sovereigns, Public Finance and Infrastructure issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of three notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579.
+References for Substantially Material Source Cited as Key Driver Rating
+The principal sources of information used in the analysis are described in the Applicable Criteria.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+Rio de Janeiro, City of
+LT IDRB+ Affirmed
+B+ 
+ST IDRB Affirmed
+B 
+LC LT IDRB+ Affirmed
+B+ 
+LC ST IDRB Affirmed
+B 
+Natl LTA(bra) Affirmed
+A(bra) 
+Natl STF1(bra) Affirmed
+F1(bra) 

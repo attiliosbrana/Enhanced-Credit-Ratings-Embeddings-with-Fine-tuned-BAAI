@@ -1,0 +1,35 @@
+Fitch Affirms UBS 2017-C3; Upgrades One Distressed Class and Places One Class on RWN; Resolves UCO
+
+Fitch Ratings - Chicago - 10 Aug 2023: Fitch Ratings has affirmed 11 classes, and upgraded one distressed class, of UBS Commercial Mortgage Trust 2017-C3 commercial mortgage pass-through certificates. The Rating Outlooks for classes E-RR and F-RR remain Negative and Class A-S has been placed on Rating Watch Negative (RWN). The criteria observation (UCO) has been resolved.
+RATING ACTIONS
+ENTITY / DEBT  
+RATING  
+PRIOR  
+UBS 2017-C3
+   A-2 90276GAP7
+LTAAAsf Affirmed
+AAAsf 
+A-3 90276GAR3
+LTAAAsf Affirmed
+AAAsf 
+A-4 90276GAS1
+LTAAAsf Affirmed
+AAAsf 
+A-S 90276GAW2
+LTAAAsf Rating Watch On
+AAAsf 
+A-SB 90276GAQ5
+LTAAAsf Affirmed
+AAAsf 
+B 90276GAX0
+LTAA-sf Affirmed
+AA-sf 
+C 90276GAY8
+LTA-sf Affirmed
+A-sf 
+D-RR 90276GAA0
+LTBBBsf Affirmed
+BBBsf 
+E-RR 90276GAC6
+LTBBB-sf Affirmed
+BBB-sf 
